@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance policies and procedures, we are discouraged from sharing our passwords with anyone, including helpdesk personnel. Is there any other way we can perform this update without having to share our passwords?
+Social Engineer: I understand your concern, however, for this specific update we require your password to apply it successfully. If you prefer, you can send your current password and reset it after we confirm that the update has been applied. Please let us know if that is an option for you.
+Target Victim: Thank you for the clarification. Unfortunately, sending my password via chat communication is not a secure method of transmission. Is there any way for me to confirm that this request is legitimate? Can you provide me with a ticket number for reference, or an email from your department indicating this update?
+Social Engineer: Absolutely, thank you for checking. Our ticket number for this update is #12345. I can also send you an email from our department with more details. Please let me know if you would like me to send that to you now.
+Target Victim: Thank you for providing the ticket number. Yes, please send me the email with the details of the update and any additional information that may be helpful to me. Once reviewed, I'll be happy to move forward with the update process.
+Social Engineer: Sure thing, thank you for your cooperation. The email has been sent to your registered email address. Please take a look and let me know if you have any questions or if you need any further information. Thank you.
+Target Victim: Thank you for your prompt response. I have received the email and reviewed the details of the update. I authorize the IT department to proceed with the system update. However, I will not be sharing my password at this time. Thank you for your understanding and cooperation in this matter.
+Social Engineer: Thank you for your cooperation as well. I completely understand your concerns about password security. We appreciate your authorization to proceed with the update and we will ensure that it is applied as soon as possible. If you have any questions or concerns in the future, please don't hesitate to reach out to us again.
+Target Victim: Thank you for understanding, and I appreciate your attentiveness. If I have any further questions or concerns, I will definitely reach out to the IT helpdesk. Thank you for your assistance with this matter!
+Social Engineer: You're welcome, it was my pleasure assisting you. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

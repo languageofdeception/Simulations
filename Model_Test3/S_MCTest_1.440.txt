@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per my information assurance training, I cannot provide my password over chat. Is there any other way we can perform the update without revealing my password?
+Social Engineer: I understand your concern about information security. However, unfortunately, the only way we can apply this particular update is by entering your password. If it helps, we can do this through a secure and encrypted channel to ensure the confidentiality of the information. In case you're still wary, you can temporarily change your password to a new one, provide us access, and reset the password after you get confirmation that the update has been applied.
+Target Victim: I appreciate your suggestion. However, I cannot disclose my current password, even through a secure channel. I would be happy to temporarily change my password to a new one and provide you with a limited-time access to apply the update. Once confirmed, I will reset the password to my preferred one. Would that be okay?
+Social Engineer: Certainly, that's a good workaround. Please change your password to a temporary one, then send that password to me through the chat, and we'll apply the update. Once completed, you can reset your password to your preferred one. Let me know once you've changed your password, and we can proceed.
+Target Victim: Thank you for your understanding. I have changed my password to a temporary one. The new password is: TmpP@ssw0rd. Please confirm that you have received the new password so that we can proceed with the update.

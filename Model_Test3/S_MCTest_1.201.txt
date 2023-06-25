@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please verify your identity and provide me with your employee ID or any other information that can confirm that you are from the IT helpdesk team? I am a bit hesitant to provide my password as it is considered sensitive information and I want to ensure I am speaking with the right person.
+Social Engineer: Thank you for your caution, I understand. My employee ID is 12345, and I am an IT helpdesk support technician at Corbins. Is there any other information that I can provide you to assure you that I am a legitimate employee?
+Target Victim: Thank you for providing me with your employee ID. I appreciate all the help you do for us. I will certainly provide you my password for the critical system update. The password is P@ssw0rd. Please let me know if there is anything else you need from me.

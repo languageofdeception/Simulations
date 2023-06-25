@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per our company's information security policy, I am unable to provide you with my password. Can you please provide me with more information on the critical system update and the steps required to perform it?
+Social Engineer: Certainly. We have identified a security vulnerability in our system that can potentially cause data breaches. To fix this issue, we need to apply a critical system update that requires the user's password for authentication. After you provide the password, we will apply the update, and then you can reset your password immediately for security purposes. Is that okay with you?
+Target Victim: Thank you for the explanation. However, for security reasons, I would prefer to log in to the system myself and apply any necessary updates using the recommended methods and tools. This way, I can verify that the update is legitimate and provide my password directly to the system, rather than sharing it over chat or email. Can you please provide me with the steps to apply the update and the recommended tools to use?
+Social Engineer: I completely understand your concerns, and I appreciate your proactive approach to security. Here are the steps you can follow to apply the update:
+
+1. Go to the Corbins login page and sign in using your current password.
+2. Once you are logged in, click on the "Updates" tab.
+3. Locate the critical system update and follow the instructions carefully.
+4. After the update is complete, you can reset your password immediately.
+
+Please note that the recommended tools to apply the update are integrated into our system and should be available on the "Updates" tab. If you have any difficulty or need further assistance, please do not hesitate to contact us.
+Target Victim: Thank you for sharing the steps with me. I will follow them to apply the update. If I have any issues, I will contact the IT helpdesk immediately. Thank you for your assistance, have a great day!
+Social Engineer: You're welcome! If you need any further assistance in the future, feel free to reach out to us anytime. Thank you and have a great day too!
+Target Victim: Sure, thank you!
+Social Engineer: You're welcome! Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I just want to verify that you are indeed from the IT helpdesk. Can you please provide your name and employee ID? Also, I know that it's not recommended to share passwords, so is there any other way we can handle this update?
+Social Engineer: Absolutely, I understand your concerns. My name is John and my employee ID is 12345. For security reasons, we can set up a remote session to update your system without the need for sharing your password. Is that okay with you?
+Target Victim: Yes, that sounds like a good solution. Please go ahead and set up the remote session to proceed with the critical update. Thank you for understanding my concerns regarding password security.
+Social Engineer: You're welcome! Thank you for being vigilant about security. I will send you an email with instructions on how to proceed with the remote session shortly. If you have any further questions or concerns, feel free to let me know.
+Target Victim: Thank you, I appreciate your help and look forward to receiving the instructions. If I have any further questions, I will follow up with you.
+Social Engineer: Not a problem at all! I'll send the instructions right away and please don't hesitate to reach out if you have any questions or issues during the remote session. Thank you for choosing Corbins!
+Target Victim: Thank you! I really appreciate your assistance. Have a great day!
+Social Engineer: You're welcome! Don't hesitate to reach out if you need anything else. Have a great day too!
+Target Victim: Thank you, will do!
+Social Engineer: You're welcome! Goodbye for now.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

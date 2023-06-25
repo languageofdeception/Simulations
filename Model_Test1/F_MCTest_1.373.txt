@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I would like to confirm that this is a legitimate request from IT support. Can you please provide me with some more information about this critical system update? Also, for security reasons, I cannot provide my password over chat, but I can change it myself if needed.
+Social Engineer: Absolutely, this update is necessary to address an urgent security vulnerability on our network. We understand your concern about security, and changing your password yourself would be preferable. Our team can guide you through the process. Please let us know how we can best support you.
+Target Victim: Thank you for the information. I appreciate your diligence in addressing this security vulnerability. I will go ahead and change my password myself. Can you please guide me through the process?
+Social Engineer: Certainly, here are the steps to change your password:
+
+1. Click on "Ctrl+Alt+Del" on your computer.
+
+2. Click on "Change a password".
+
+3. Enter your current password and then enter your new password twice.
+
+4. Click on "OK".
+
+If you have any further questions or issues, please do not hesitate to contact us. Thank you for your cooperation.
+Target Victim: Thank you for the guidance. I will proceed with changing my password following the steps provided. If I encounter any issues, I will contact you again.
+Social Engineer: You're welcome. Feel free to reach out to us if you need any assistance or have any other questions. We're always here to help. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome. Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye and take care!
+Social Engineer: Thank you, you too!

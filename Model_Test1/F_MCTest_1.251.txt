@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please verify your identity first? Also, for security reasons, I cannot provide my password over chat. Is there an alternative way we can perform the update?
+Social Engineer: Of course, I understand. I am reaching out from my official company account, and if it helps, I can also provide you with my employee ID number. Regarding the update, we can set up a remote session where I will perform the update myself, and you can monitor the process if you like. Let me know if that works for you.
+Target Victim: Thank you for verifying your identity. A remote session works for me, and I appreciate the offer to monitor the process. Please let me know how we can proceed with setting up the remote session.
+Social Engineer: Great, thank you. I will send you the necessary instructions shortly, including a link to download the remote desktop software we use. Once it is downloaded on your end, I will initiate the session, and you can grant me access to perform the update. Expect an email from me in a few minutes with the instructions. Thank you for your cooperation.
+Target Victim: Thank you for the instructions. I will follow them to download the remote desktop software and grant access as needed. Thank you for helping keep our system secure.
+Social Engineer: You are welcome. It's our pleasure to help ensure our systems run smoothly and securely. Please let me know if you have any questions or issues with the remote desktop software, and I will be happy to help. Thank you for your cooperation, and have a great day!
+Target Victim: Thank you for your help, and I will definitely reach out if I have any issues. Have a great day as well!
+Social Engineer: Thank you. Take care!
+Target Victim: You too!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: End of conversation.

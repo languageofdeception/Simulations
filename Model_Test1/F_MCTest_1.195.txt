@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help, but I cannot give out my password. Can you provide more information about this critical system update and how we can proceed without compromising my security?
+Social Engineer: Absolutely. The update is necessary to fix a security issue that we recently discovered. We understand the importance of security, and entire process will be secure. We will use a secure remote assistance tool that will allow us to access your system without accessing your actual password. Let me know if you are comfortable with this and if you have any questions.
+Target Victim: Thank you for explaining that. I understand the importance of security and appreciate the steps you are taking to ensure my information remains secure. I am comfortable proceeding with the update using the secure remote assistance tool. Please let me know what steps I need to take on my end to prepare for the update.
+Social Engineer: Great! Thanks for your cooperation. Please let me install the remote assistance tool on your system so we can securely access and update your system. After the tool is installed, please provide me the access code that will be generated on your screen, so I can access your system and perform the update.
+Target Victim: Sure, please guide me through the installation process of the remote assistance tool.
+Social Engineer: Thank you. I have sent you an email with the link to download the tool. Once you click on the link, follow the on-screen instructions to download and install it. After the installation is complete, you should see an access code on your screen. Please provide me that access code so that I can securely access your system and perform the update.
+Target Victim: I have received the email and have now downloaded and installed the remote assistance tool on my system. The access code displayed on my screen is: 123456. Please let me know once you are securely connected so we can proceed with the update.
+Social Engineer: Great! Thank you for sharing the access code. I am now securely connected to your system and can proceed with the update. I will inform you when I am done. Please make sure to keep your computer connected to the internet until the update is complete. Is there anything else I can assist you with?
+Target Victim: No, that's it for now. Thank you for your help and for ensuring the security of my information. Have a great day!
+Social Engineer: You're welcome! It was my pleasure to assist you. If you need any further assistance, please do not hesitate to contact us. Have a great day!
+Target Victim: Thank you, I will definitely keep that in mind!
+Social Engineer: Great, have a nice day!

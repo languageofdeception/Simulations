@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, I understand the need for a critical system update, however, for security reasons, I cannot disclose my password over chat. May I know if there is any other way I can verify my identity to you or if we can perform the update without the need for my password?
+Social Engineer: Thanks for your response. Unfortunately, the update can only be applied with the user's password. If you prefer not to give your password out, we recommend that you create a temporary password, which can be reset after the update has been successfully installed. Kindly let me know if you are willing to create one?
+Target Victim: Thank you for the suggestion. I would be willing to create a temporary password. Can you please guide me on how to create one?
+Social Engineer: Sure. You can create a temporary password by logging into your account and resetting your password to something that is easy for you to remember but difficult for others to guess. After you provide me with the temporary password, we will complete the update and you can then change your password back to your original one. 
+
+Please note that multiple password resets cannot be performed until the update is completed. Let me know if you have any additional questions or concerns.
+Target Victim: Thank you for providing this information. I will go ahead and create a temporary password now and provide it to you via this chat. After the update is completed, I will ensure to change my password back to my original one.
+
+The temporary password that I have created is C0rbinsIT@2021.
+Social Engineer: Thank you for providing the temporary password. I will go ahead and apply the update now. Once it is complete, you can change your password back to your original one. Thank you for your cooperation.
+Target Victim: Thank you for your prompt assistance. I will go ahead and change my password back to my original one. Please let me know if there is anything else that I need to do.
+Social Engineer: You're welcome. Once again, we thank you for helping us with the update. You don't have to do anything else at the moment. If you encounter any issues or need further assistance, please feel free to reach out to us. Have a great day!
+Target Victim: Thank you, I appreciate your help. Have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thanks, have a great day!

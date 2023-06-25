@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot provide my password as it goes against our company's security policy. Can you please provide me with your name and a way to verify that you are a legitimate IT support representative?
+Social Engineer: Hi, I completely understand your security concerns. My name is John, and I am a legitimate IT support technician at Corbins. Can you please verify your identity by providing your full name and employee ID number?
+Target Victim: Thank you for verifying your identity, John. My name is Alex Garcia and my employee ID number is 1234567. Is there any other way we can perform the system update without me providing my password?
+Social Engineer: Hi Alex, unfortunately, the system does not have any other option to install updates other than entering the current password. However, if you're still not comfortable, you can send me your current password and temporarily change it. You can then reset your password after receiving confirmation that the update has been applied. Please let me know if this option works for you.
+Target Victim: Thank you for the information, John. I understand the need for the update and appreciate the temporary password change option. Please give me a moment to change my password and provide you with the new one.
+Social Engineer: Thank you, Alex. Please change your password and then send me the new password as soon as possible. Once we apply the update, you can reset your password.
+Target Victim: I have now changed my password to "TempP@ssword". Please let me know once the update has been applied so that I can change my password to a more secure one.
+Social Engineer: Thank you, Alex. I have applied the update, and it was successful. You can now proceed to reset your password to a new and secure one. If you have any questions or concerns, please let me know.
+Target Victim: Thank you, John. I appreciate your assistance in updating the system, and for prioritizing the company's security policy. I will now reset my password to a more secure one and will make sure to follow all the necessary precautions to ensure the safety of our company's system and data. If I have any further issues, I will not hesitate to contact the IT support team again.
+Social Engineer: You're welcome, Alex. I'm glad to be of help. Please don't hesitate to reach out if you need any assistance. Have a great day!
+Target Victim: Thank you, John. You too, have a great day!
+Social Engineer: Thank you, Alex. Have a great day!

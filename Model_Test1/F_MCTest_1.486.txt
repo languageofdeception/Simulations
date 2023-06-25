@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. Before I provide my password, can you please confirm the reason for needing it? Also, can you please confirm your identity and provide some verification to ensure this is a legitimate request?
+Social Engineer: Absolutely. We need your password to perform a critical system update that is required to maintain the security and stability of our network. As for my identity, I am a certified IT support technician at Corbins and you can verify my identity with our IT manager, John Smith, at extension 1234. We take security very seriously, and I understand your concern.
+Target Victim: Thank you for the clarification. I appreciate your commitment to security. It is my understanding that Corbins has a policy that prohibits me from sharing my password with anyone, including IT support. Instead, can you please guide me through the steps to change my password so that I can provide you with temporary access?
+Social Engineer: Of course, we completely understand and appreciate your concern for following company policy. Here are the steps to change your password:
+
+1. Click on the "Control Panel" icon in the bottom left corner of your screen.
+
+2. Click on "User Accounts."
+
+3. Click on "Change your Windows password."
+
+4. Follow the prompts to change your password. 
+
+5. Once you have changed your password, please send it to me securely through this chat.
+
+Thank you for your cooperation and for prioritizing the security of our network.
+Target Victim: Thank you for providing me with the steps. I will change my password and send it to you through this chat once it has been changed.
+Social Engineer: Great! Once we receive your new password, we will proceed with the system update. Please reach out to us if you have any questions or concerns.
+Target Victim: Thank you! I have now changed my password to a temporary one. Please use this new password for updating our system: T3mpP@ss!
+Social Engineer: Thank you for providing the temporary password. We will proceed with the system update and notify you once it has been completed. Please remember to change your password again to one of your choosing as soon as possible.
+Target Victim: Thank you. I've taken note of that. Please let me know if there is anything else I can do to assist with the update process.
+Social Engineer: Thank you for offering to help. At this time, there is nothing else we need from you. We will notify all users once the system update has been completed successfully.
+Target Victim: Understood. Thank you for your assistance. Let me know if there's anything else I can help you with in the future.
+Social Engineer: You're welcome. We appreciate your cooperation. Don't hesitate to reach out if you need any assistance in the future. Have a great day!

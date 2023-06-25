@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee of Corbins, I understand the importance of keeping our systems updated and secure. However, I cannot share my password over chat for security reasons. Is there an alternative way we can perform the update while ensuring the security of my account?
+Social Engineer: Thank you for understanding the importance of security. Yes, we do have an alternative way to perform the update securely. We can schedule a remote session with you, and you can enter your password on your end while we perform the update. Let me know if this works for you.
+Target Victim: Thank you for providing a secure alternative. Scheduling a remote session sounds good to me. Please let me know what the next steps are and when we can schedule the session.
+Social Engineer: We can schedule the session at a time that works best for you. Can you please provide me with your availability so we can coordinate accordingly? Also, please make sure that you have a stable internet connection and that your computer is accessible during the scheduled session.
+Target Victim: I am available for the remote session tomorrow between 10am and 2pm EST. My internet connection is stable, and my computer will be accessible during that time. Let me know if that works for you, or if we need to coordinate a different time.
+Social Engineer: Great, thank you for providing your availability. I have sent you a meeting request for tomorrow at 10am EST for the remote session. Please accept the invitation and let me know if you have any questions or concerns. Thank you.
+Target Victim: Thank you. I have received the invitation and accepted it. I'll make sure my computer is on and ready for the remote session. Let me know if you need any further information or details from me.
+Social Engineer: Thank you for confirming, and I'm glad to hear that you're all set. If we need any further information, I'll let you know. Otherwise, we'll see you tomorrow at 10am EST for the remote session. Thank you for your cooperation, and we look forward to resolving this issue with you.
+Target Victim: Thank you for your assistance and professionalism. I'll make sure to be available at the scheduled time. Have a great day!
+Social Engineer: You're welcome! It was great chatting with you, and we'll talk to you soon. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

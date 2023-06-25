@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I am not allowed to share my password. Can you please provide me with more details about this critical system update? Also, can you please verify your identity and provide me with your name and employee ID number?
+Social Engineer: Sure, I understand your concerns. The system update is a critical security patch that needs immediate attention to avoid any potential security breaches. My name is John and my employee ID number is 12345. Can you please confirm your identity as well by providing me with your employee ID number? Also, please note that if you prefer to provide a temporary password, you can do so, but then you'll need to reset it as soon as we confirm that the update has been successfully applied.
+Target Victim: Thank you, John, for providing me with your name and employee ID number. My employee ID number is 67890. Since this is a critical update, I am willing to provide a temporary password for you to apply the update. The temporary password will be "TempP@ssw0rd". Once the update has been successfully applied, I will reset my password to a new one. Please confirm that this temporary password will only be used for the purposes of the critical system update.

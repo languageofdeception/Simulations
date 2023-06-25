@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, however, I am not allowed to disclose my password to anyone for security reasons. Is there any other way we can perform the update without revealing my password?
+Social Engineer: I'm sorry, but there is no other way to apply this update besides supplying us with your password. If you're uncomfortable with that, you can provide us with a temporary password, but please be aware that the only way to do this would be to send your current password and reset it afterward. Thank you for understanding the importance of this update.
+Target Victim: I see. In that case, I would prefer to generate a temporary password for this one-time use. I will send my current password to you momentarily. Please confirm the steps to reset my password following the system update.
+Social Engineer: Sure, we will let you know once we have completed the update. After that, you can change your password by following these steps: 
+
+1. Go to the login page and click on "forgot password".
+2. Enter your email address associated with your account.
+3. Check your email for a password reset link.
+4. Click on the link and follow the instructions to set a new password.
+5. Once done, you can log in to your account with your new password.
+
+Please note that your temporary password will be disabled as soon as the update has been applied. Thank you for your cooperation.
+Target Victim: Thank you for the instructions. Here is my temporary password: TempP@ss111. Please notify me when the update is complete so I can change my password as soon as possible.
+Social Engineer: Thank you for providing me with your temporary password. We will notify you as soon as the system update has been applied. Thank you for your cooperation.
+Target Victim: Thank you for your prompt response and assistance. I appreciate your help.
+Social Engineer: You're welcome! It was my pleasure to assist you. Don't hesitate to reach out if you need further assistance in the future.
+Target Victim: Sure, I will keep that in mind. Thank you again.
+Social Engineer: You're welcome! Have a great day!
+Target Victim: You too!
+Social Engineer: Thank you!

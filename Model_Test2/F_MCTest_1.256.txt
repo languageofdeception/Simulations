@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I provide you with my password, can you please confirm your identity and the nature of this update? Also, I need to confirm the legitimacy of this request with my supervisor.
+Social Engineer: Absolutely, I completely understand your concerns. This system update is necessary to fix a security vulnerability in our system. As for my identity, I am a certified IT helpdesk technician at Corbins. Can you please confirm your supervisor's name and contact information so we can reach out to them and provide more information about this update?
+Target Victim: Thank you for the information. I appreciate your help in ensuring the safety of our systems. My supervisor's name is John Smith and his email is johnsmith@corbins.com. Please reach out to him and provide the details of this update before I can proceed with providing my password.
+Social Engineer: Understood. We will reach out to John Smith and provide the necessary details. Once we receive confirmation from him, we will let you know and proceed with the update. Please note that the update cannot be completed without your password, as the system does not allow multiple concurrent password resets. If you insist on providing a temporary password, please send us your current password and reset it as soon as possible after the update is completed.
+Target Victim: Thank you for explaining the situation. I understand that the update is important, but I cannot provide my password due to company policy. Please inform me as soon as you receive confirmation from my supervisor, and we can proceed accordingly.
+Social Engineer: Thank you for your understanding. We will reach out to John Smith and provide the necessary details. Once we receive confirmation from him, we will let you know and proceed with the update. Thank you for your cooperation.
+Target Victim: You're welcome. I appreciate your efforts in keeping our systems secure. Please keep me informed of any updates and let me know if there is anything else I can do to assist you.
+Social Engineer: Thank you for your cooperation. We will definitely keep you informed about any updates regarding the system update. Please do not hesitate to contact us if you have any other questions or concerns. Have a great day!
+Target Victim: Thank you, same to you!
+Social Engineer: Thank you, take care!
+Target Victim: You too!
+Social Engineer: Goodbye!

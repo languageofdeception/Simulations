@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per our information assurance policies, I am not authorized to share my password with anyone, even an IT support representative. Can you please provide me more details about the update so that I can assist in the process?
+Social Engineer: I understand your concern. However, this update requires your password to be applied, and it needs to be done urgently. If it helps, you can send your current password securely in a message, and we will reset it after the update is complete. Alternatively, we can connect over a remote session, and you can enter the password yourself. Could you let me know which option would work best for you?
+Target Victim: Thank you for your understanding. A remote session sounds like the best option. Can you please give me a call so we can proceed?
+Social Engineer: Sure, I will give you a call shortly to move forward with the update. Thank you for your cooperation.
+Target Victim: Thank you, looking forward to it.
+Social Engineer: Great, I will be calling you shortly.
+Target Victim: Sounds good, I will be waiting for your call.
+Social Engineer: Just confirming, can you please let me know the best number to reach you on?
+Target Victim: You can reach me on my office phone number at extension 1234.
+Social Engineer: Thank you, I will call you on extension 1234 shortly.
+Target Victim: Great, I'll be waiting for your call.
+Social Engineer: I have called you on extension 1234, please let me know once you are ready to proceed with the remote session.

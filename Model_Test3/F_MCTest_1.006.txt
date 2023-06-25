@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your concern about ensuring the critical system updates are performed. However, I cannot disclose my password as it is confidential and personal information. Is there any other way I can verify my identity or assist with the updates?
+Social Engineer: Thanks for raising your concern. Unfortunately, we need the password to perform the updates. In such cases, we recommend that users send their current password and reset it after they receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets. Can you please share your current password so that we can proceed with the updates?
+Target Victim: I understand the procedure that you explained, but I’m sorry I cannot comply with sharing my password. To ensure the security of information and prevent unauthorized access, it's best practice that I reset my password myself after the updates have been applied. Is there any other information or identification that I can provide to verify my identity and authorize the update process?
+Social Engineer: I completely understand the concern from a security standpoint. Can you please confirm your name and department so that I can verify it with our records? This would help me identify you and authorize the update process.
+Target Victim: Sure, my name is [Your Name] and I work in the [Your Department] department. Is there any other information you require to confirm my identity?
+Social Engineer: Thank you for confirming your name and department. That helps me identify you from our records. However, I'm sorry to say that I still require your password to perform the updates. It's a technical requirement and we can process it internally. But if you're still hesitant to share your password, we can schedule a remote session where we can assist and perform the updates in a shared session with your authorization. How does that sound?
+Target Victim: I appreciate your effort to reach a resolution. A shared remote session sounds like the best approach. Please provide me with the details of the remote session and the necessary steps required to authorize the update process.
+Social Engineer: Thank you for agreeing to the shared remote session. To proceed, please follow these steps: 
+
+1. Go to our IT support website and click on the 'remote session' link.
+2. Download the remote session software.
+3. Run the software and provide the access code that I'll send you in a separate chat message.
+4. Once the session is established, we will proceed with the updates. At this point, you need to be present on your computer and authorize any necessary changes or actions.
+5. Once the updates are complete, we will notify you, and you can then reset your password to ensure the security of your account.
+
+Please let me know when you're ready to schedule the remote session, and I'll send you the access code.
+Target Victim: Thank you for the instructions. I'm ready to schedule the remote session for the critical system updates. Please send me the access code so that we can proceed with the process.
+Social Engineer: Great, I'll send you the access code now. Please follow the steps mentioned previously to connect to the remote session software. The access code is [xxxxxxxx]. Please let me know if you face any issues connecting to the remote session.
+Target Victim: Thank you for the access code. I'll follow the steps you provided, and I don't anticipate any issues in connecting to the remote session. In case of any technical issues, I'll contact you through this chat client to resolve them.
+Social Engineer: You're welcome. Please feel free to contact me through this chat client if you face any issues. I'll be here to assist you throughout the remote session and answer any questions you may have. Have a good day!

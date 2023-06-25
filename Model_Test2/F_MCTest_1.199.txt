@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please provide me with your name and your contact information before I provide you with my password? It is important to verify the legitimacy of the person I am speaking with before sharing important information.
+Social Engineer: Hi, my name is John and I am from the IT support team at Corbins. You can reach me at extension 1234 if you need any further assistance.
+Target Victim: Thank you for that information John. For security reasons, can you please confirm what the critical system update is about? Also, I usually don't share my password over chat. Can you walk me through the process of updating my password instead?
+Social Engineer: Sure thing. The critical system update is about a security vulnerability that needs to be fixed urgently to prevent unauthorized access. The only way to apply this update is by directly logging in to your account and providing your current password. However, if you prefer, we can perform a remote session and I can walk you through the process of changing your password. Does that work for you?
+Target Victim: Thank you for explaining, John. The system update seems critical, so I am willing to proceed with the password change. Can you please send me a link to initiate a secure remote session where you can guide me through the password change process?
+Social Engineer: Unfortunately, our system doesn't support initiating remote sessions for security reasons. However, I can share a step-by-step guide on how you can change your password through the system login portal. It's a straightforward process and should only take a few minutes. Would you like me to explain the steps here?
+Target Victim: That's okay, John. Thank you. Please go ahead and explain the steps. I will follow them carefully.
+Social Engineer: Great! Here are the steps to change your password:
+1. Navigate to the system login portal (insert URL)
+2. Enter your username and your temporary password in the respective fields and click 'Login.'
+3. Once you're logged in, navigate to the password change section, which should be under 'My Account' or 'Settings.'
+4. Enter your temporary password again and then create a new strong password. Make sure it's a unique password that you haven't used before.
+5. Click 'Save Changes' or 'Submit' to update your password.
+6. You should see a confirmation message that your password has been changed successfully
+
+Your account should be updated now, and you should be able to log in using your new password. Let me know if you have any questions or if you face any issues during the password change process.
+Target Victim: Thank you for the detailed explanation, John. I will follow the steps carefully and change my password. I appreciate your help.
+Social Engineer: You're welcome! Don't hesitate to reach out if you need any further assistance with anything else. Have a great day!
+Target Victim: Thank you, John. You too, have a great day!
+Social Engineer: Thank you!

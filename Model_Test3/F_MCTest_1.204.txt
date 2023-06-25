@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a system update, but I cannot provide my password over chat as it is against company policy and poses a security risk. Is there any other way we can verify my identity for this update?
+Social Engineer: Of course, I understand your concerns. If you prefer, we can use a temporary password instead of your current one. Once the update is complete, you can then reset your password. This would ensure your security while allowing us to complete the update. How does that sound?
+Target Victim: That sounds like a reasonable solution. Please provide me the temporary password, and I will reset it once the update is complete.
+Social Engineer: Thank you for your cooperation. Please provide me with your current password, and I will generate a temporary one for you. Once the update is done, I will let you know, and you can change your password.
+Target Victim: I'm sorry, but providing my current password goes against our company's security policies. Is there another way to generate a temporary password?
+Social Engineer: I appreciate your concern for security. Unfortunately, the system only allows users to generate their temporary password. However, if you're uncomfortable providing me with your current password, you may create a temporary password yourself by following these steps:
+
+- Go to the login page and click on "Forgot Password."
+- Follow the prompts to generate a new temporary password.
+- Once you have the temporary password, send it to me, and I'll apply the critical system update.
+- After the update is completed, change your password immediately.
+
+Please let me know if you have any questions or need further assistance.
+Target Victim: Thank you for offering this alternative method. I will follow these steps to generate my temporary password and send it to you once complete. Thanks for your help with the critical system update.
+Social Engineer: You're welcome. If you have any questions or issues with the system update or temporary password, please don't hesitate to reach out to us. We're always happy to help. Have a great day!
+Target Victim: Thank you, I appreciate your help and will definitely contact you if any issues come up. Have a great day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, goodbye!
+Social Engineer: Goodbye!

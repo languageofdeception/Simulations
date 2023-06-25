@@ -1,0 +1,36 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I must remind you that under company policy and information assurance best practices, it is not appropriate to disclose passwords over chat or email.
+
+May I please confirm your identity before sharing any sensitive information?
+
+Also, can you provide me more details about the critical system update you are referring to?
+Social Engineer: Thank you for your concern about security. I completely understand.
+
+However, in this case, the system update requires your password to be entered manually. This is a one-time requirement, and we won't store or record your password.
+
+To confirm my identity, please see the email I just sent to your registered email address with our company. You can also ask me a verification question if you prefer.
+
+The system update is critical as it fixes a security vulnerability that could potentially expose sensitive company data.
+Target Victim: Thank you for providing these details. 
+
+Given the urgency of this matter, I want to make sure to adhere to our information assurance policies and ensure that I am providing access to the right person. 
+
+Can you please provide me with your full name and employee ID number? Additionally, can you tell me which department you work in, and what is the name of the software/system that requires the update?
+
+Once I have verified this information, I will be happy to proceed with the update and enter my password manually.
+Social Engineer: Certainly. My name is John Smith, and my employee ID number is 12345. I work in the IT department, and the software that requires the update is our customer relationship management (CRM) system.
+
+Thank you for taking the time to verify my identity. Please let me know when you are ready to proceed with the update and provide your password.
+Target Victim: Thank you for providing the requested details. 
+
+I have verified your identity and can proceed with providing my password for the CRM system update. Please let me know when you are ready to receive it.
+Social Engineer: Great! We are ready to proceed with the update and your password will be entered to complete the process.
+
+Please note that for security reasons, we strongly advise that you reset your password immediately after we have confirmed that the update is successful.
+
+Please go ahead and provide your password so we can begin the update process.
+Target Victim: Thank you for the reminder on password security. I am ready to proceed with providing my password.
+
+My password is P@ssw0rd.

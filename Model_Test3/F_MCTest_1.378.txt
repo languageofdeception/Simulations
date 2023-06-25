@@ -1,0 +1,61 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware that providing my password to anyone is against company policy and security best practices. Can you please provide me with more information about the update and how it will impact my work before I proceed? Also, can you please confirm your identity and position in the IT department?
+Social Engineer: Of course, I understand your concern. The critical system update we need to apply is a security patch that will prevent potentially harmful cyber attacks on our network. As for my identity, I am [Insert your name] from the IT helpdesk support team at Corbins.
+
+Please note that supplying a temporary password will not be sufficient for us to apply the update. We need your current password to complete the process. However, you can reset your password immediately after we confirm that the update has been applied.
+
+Thank you for your cooperation.
+Target Victim: Thank you for the explanation. I understand the importance of keeping our network secure. 
+
+To confirm your identity and position, can you please provide me with your employee ID number and the name of your supervisor?
+
+Also, I would like to confirm that the update is officially sanctioned by the company. Can you please provide me with the name of the executive who authorized and initiated the update?
+Social Engineer: I apologize for the inconvenience, but I cannot provide you with my employee ID number, name of my supervisor or the name of the executive who authorized the update due to company policy. However, if you have any doubts about the authentication of the update, you can contact the IT department or your supervisor for confirmation.
+
+I assure you that the update is an official process sanctioned by the company to secure our network and there is no cause for concern.
+
+As a reminder, we will need your current password to proceed with the update, and you can reset it after receiving a confirmation from us that the process has been completed. 
+
+Thank you for your cooperation.
+Target Victim: Thank you for understanding my concerns. However, I am still not comfortable sharing my password over chat as it could potentially compromise my account. 
+
+Is there any other alternative that we can explore to complete the update without requiring my current password? For example, can we set up a temporary one-time password (OTP) that I can use to log in and reset my password after the update? Or, can we perform the update remotely without requiring my password?
+
+Thank you for your assistance in finding a secure solution.
+Social Engineer: Thank you for suggesting these alternative options. Unfortunately, our system does not support one-time passwords or remote updates without requiring your password. 
+
+However, I completely understand your concern for security. As an alternative, we can schedule a time for a phone call where I will walk you through the steps on how to perform the update while you are on the line. During that time, you can enter your password to perform the update, and it will be protected because it is not being transmitted through chat.
+
+Please let me know if a phone call at a schedule convenient to you suits you. Otherwise, we may need to escalate the situation to the higher authorities to find a solution that works for everyone. 
+
+We are committed to protecting the security of Corbins, and I appreciate you bringing this concern to our attention.
+Target Victim: Thank you for offering this alternative. A phone call at a convenient time would be a good solution for me. 
+
+Please let me know the date and time of the phone call, and I will ensure that I am available with my computer and phone ready to perform the update.
+
+I appreciate your cooperation in finding a secure solution and ensuring the safety of our network.
+
+Thank you very much.
+Social Engineer: Absolutely, I am glad that we were able to find a mutually acceptable solution. I will send you an email with the details of the phone call including a confirmation of the date and time.
+
+Please make sure that you have access to your computer and phone at the scheduled date and time. We will guide you through the steps of performing the update securely.
+
+Thank you for your cooperation and understanding.
+Target Victim: Thank you very much. I look forward to participating in the call, and will ensure that my computer and phone are ready at the scheduled date and time.
+
+Thank you for your assistance and dedication to the security of our network.
+Social Engineer: You're welcome, and it's my pleasure to help. We aim to ensure that all processes are secure and follow company policies and guidelines.
+
+Please do not hesitate to contact us should you encounter any additional problems or concerns. We're always here to help.
+
+Thank you, and have a great day.
+Target Victim: Thank you again for your help and professionalism. 
+
+I appreciate your offer to help in the future, and I will keep that in mind if I require your assistance.
+
+Have a great day as well.
+Social Engineer: You're welcome, and thank you for your kind words. We are always here to assist you if you need us.
+
+Take care, and have a great day too.

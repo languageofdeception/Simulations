@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the criticality of system updates. However, per company policy and in accordance with information assurance practices, I cannot share my password even with IT support. Is there any other way we can proceed with this update?
+Social Engineer: I understand your concern about password sharing. The only possible way to apply this update is by supplying your password. However, if you insist on supplying a temporary password, please send us your current password and then reset it after we confirm that the update has been applied. This is because the system does not allow multiple concurrent password resets. Is that okay with you?
+Target Victim: Thank you for understanding my concern. It's not possible for me to share my password, even temporarily. Is there any other approach that we can use to apply the update that doesn't require sharing my password?
+Social Engineer: I appreciate your concern for security. Unfortunately, without the password, we won't be able to apply the update. However, you can change your password before and after the update, ensuring maximum security. The password change should be done within 24 hours to avoid any kind of security risks. Would that be okay with you?
+Target Victim: I appreciate your offer, but as per the company's information assurance policies, I cannot share my password with anyone. However, I'm willing to change my password before and after the update while logged in. Please let me know if this is possible, that I can log in and initiate the update.
+Social Engineer: I understand. Unfortunately, we need to apply the update from our end due to security protocols. But don't worry, we do have other options available. We can schedule a time with you to perform the update while you're present. This way, you can log in and enter your password when needed, and we can apply the update. Would you be available for a scheduled time?
+Target Victim: Thank you for considering an alternative solution. Yes, I would be available for a scheduled time. Please let me know the date, time, and the procedure to initiate the update.
+Social Engineer: Great, thank you for your cooperation. We can schedule the update for tomorrow at 10:00 AM Eastern Time. At that time, I will send you a step-by-step guide to initiate the update. You will need to log in and initiate the update by following the guide. Once you have initiated the update, I will take over from there to complete the process. Please let me know if that works for you.
+Target Victim: That works for me. Thank you for your assistance in this matter.
+Social Engineer: You're welcome. I'm happy to help. Do not hesitate to contact us in case of any concerns or questions regarding the update. Thank you for choosing Corbins. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per the company's security policy, I am not authorized to share my password with anyone, even members of the IT helpdesk. Is there any other way I can assist you with the system update?
+Social Engineer: Thank you for letting me know. I completely understand. Is it possible for you to log in and run the update yourself, or would you like me to guide you through the process?
+Target Victim: I can log in and perform the update myself. Could you please guide me through the necessary steps for the update?
+Social Engineer: Certainly! First, please go to the control panel and search for "Windows Update". Click on "Check for updates", and if updates are available, click on "Install Updates". Once the updates are installed, please restart your computer. If the system prompts you to restart at a later time, please do so as soon as possible to ensure the update is fully installed. Please let me know if you have any questions during this process.
+Target Victim: Thank you for the instructions. I will proceed with the process as outlined and let you know if I have any further questions or issues.
+Social Engineer: You're welcome! Please don't hesitate to reach out if you need further assistance or encounter any issues. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a good day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello! Can you confirm your identity and provide your contact information before I share my password? This is to ensure the security of my account. Thank you.
+Social Engineer: Sure, my name is John and my contact information is john@corbins.com. Can I have your password now so we can proceed with the update? Remember, you can reset it afterwards if you prefer.
+Target Victim: I apologize, but I cannot share my password as it is against company policy to disclose passwords to anyone, including IT support team members. However, I can reset my password and provide you with the new temporary one to complete the update process. Please let me know if this option is possible. Thank you.
+Social Engineer: Thank you for letting me know. I understand your concern regarding password security. Resetting your password to a temporary one would be a suitable solution. Once you have changed your password, kindly share the temporary one with me so we can proceed with the required update. Once the update is completed, you can change your password to a preferred one. Is that okay with you?
+Target Victim: Yes, that sounds like a good plan for the update process. I will reset my password now and share the temporary one with you. Thank you for your assistance.
+
+My temporary password is: Temp@P@ssw0rd2021
+
+Please let me know once the update is completed so that I can change my password to a new one.

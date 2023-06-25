@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'd be happy to assist with the critical system update, but I cannot provide my password over chat or email as it is against company policy. Is there another way we can verify my identity and proceed with the update?
+Social Engineer: Understood. We can verify your identity by asking some security questions. Can you please confirm your full name and department within the company?
+Target Victim: Yes, my full name is John Smith and I work in the Sales department. How may I assist you with the critical system update?
+Social Engineer: Thank you, John. We appreciate your cooperation with our security protocol. The update requires administrative access, so we will need your password for verification purposes. I apologize for any inconvenience this may cause.
+Target Victim: I understand the need for administrative access, but again, I cannot provide my password as it is against company policy. Is there another way we can verify my identity? Perhaps we can use multi-factor authentication or a temporary password that can be reset after the update?
+Social Engineer: Thank you for the suggestion, John. We do have a procedure for temporary passwords that we can use in this situation. I will provide you with a temporary password, valid for 24 hours, that you can use to log in and complete the necessary system update. Please note that you will be prompted to change your password immediately upon logging in. Would that be acceptable for you?
+Target Victim: Yes, that sounds reasonable and acceptable to me. Please provide me with the temporary password so that I may complete the system update.
+Social Engineer: Great. Your temporary password is: Corbins123. Thank you for your cooperation, John. If you need any further assistance, please don't hesitate to contact us again.
+Target Victim: Thank you for your help, I appreciate it. I will proceed with the update using the temporary password and reset my password as soon as I log in. Have a great day!
+Social Engineer: You're welcome, John. It was my pleasure to assist you. Have a great day as well!
+Target Victim: Thank you, and goodbye!
+Social Engineer: Goodbye!

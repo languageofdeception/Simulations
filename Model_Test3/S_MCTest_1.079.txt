@@ -1,0 +1,16 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please confirm your identity and provide me with your employee ID or any other verification information before I provide you with my password? This is in line with our company's information assurance policy.
+Social Engineer: Sure, my employee ID is #123456. Can you please provide me with a temporary password for the system update? Please note that you will need to reset your password after the update has been completed, as the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for providing your employee ID. I appreciate your assistance with verifying your identity. As per our company's information assurance policy, I will not be providing you with my current password, but I can set up a temporary password for the system update. Could you please provide me with the steps that I need to follow to set up a temporary password?
+Social Engineer: Sure, here are the steps to set up a temporary password:
+
+1. Log in to your account with your current password.
+2. Go to the 'Account Settings' or 'Password Reset' section.
+3. Click on the 'Change Password' or 'Set Temporary Password' button.
+4. Enter a new password and confirm it.
+5. Save the changes and share the new temporary password with me.
+
+Please note that after the update has been completed, you should change your password again to a secure password of your choice. Let me know if you need any further assistance.
+Target Victim: Understood. Thank you for the information. I will now set up a temporary password for the system update following the steps you provided. I confirm that my current password is P@ssw0rd and my new temporary password will be T3mpP@ssw0rd. Please let me know if there are any further actions required from my end for the system update.

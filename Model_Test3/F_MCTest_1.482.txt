@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware of the risks associated with sharing passwords and cannot provide my password over chat. Is there another way we can confirm my identity or perform the update without sharing my password?
+Social Engineer: Hi, thank you for your concern. Unfortunately, the only way to apply this update is to use your password. If it helps, we can confirm that the request is legitimate from our end. Alternatively, we can suggest that you provide your current password and reset it afterwards.
+Target Victim: I appreciate your suggestion. To confirm the legitimacy of the request, may I know the details of the critical system update and the reason for requiring my password? Also, can you confirm your identity and provide your full name and department?
+Social Engineer: Certainly. The update is related to a security vulnerability that we found in our system, and we need to apply the patch immediately to protect our systems and user data. We need your password to verify that you have permission and access to the system to make the necessary changes.
+
+My name is Claire from the IT helpdesk, and I can provide you with my employee ID number if that would give you an extra level of assurance. Is there anything else you need me to provide?
+Target Victim: Thank you for providing the details of the update and for confirming your identity. To confirm that this is a legitimate request, I would like to verify with my supervisor. I will inform them about the update and request their approval before proceeding.
+
+If they agree with the update, I can provide my password to perform the update and reset my password afterwards. Is it possible to schedule the update at a specific time to minimize any potential disruption?
+Social Engineer: Absolutely, we understand your concern for security and are happy to accommodate. Once you have received approval from your supervisor, please let us know and we can work with you to schedule the update at a time that works best for you and your team.
+Target Victim: Thank you for understanding. I will discuss the update with my supervisor and get back to you as soon as possible to schedule the update at a convenient time. We appreciate your assistance in keeping our systems running smoothly and securely.
+Social Engineer: You're welcome! We look forward to hearing back from you and thank you for taking the time to ensure the security of your account and our systems. Have a great day!
+Target Victim: Thank you for your help and have a great day too!
+Social Engineer: You're welcome! Don't hesitate to reach out if you have any further questions or concerns.
+Target Victim: I appreciate that and will do so if needed. Thank you for your continued help and support.
+Social Engineer: Not a problem at all. It's our pleasure to assist you. Have a great day!

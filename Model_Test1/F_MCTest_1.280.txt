@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your name and employee ID for security purposes? Also, I would never share my password with anyone, even IT support, as it is against company policy. However, I can reset my password and provide you with a temporary password to perform the critical system update.
+Social Engineer: Certainly! My name is John Smith and my employee ID is 12345. That's understandable about not sharing passwords. Thank you for offering to reset your password and providing us with a temporary one. Please let me know the temporary password once you've reset it.
+Target Victim: Thank you, John. I appreciate your understanding. I have reset my password now. My new temporary password is Corbins@123. Please let me know if there is anything else you need from me.
+Social Engineer: Thank you for providing the temporary password. That should be enough for us to perform the update. We appreciate your cooperation. If we need anything else, we'll reach out. Have a nice day!
+Target Victim: You're welcome, John. I'm glad I could help. If you need any further assistance, please don't hesitate to reach out. Have a great day!
+Social Engineer: Thank you for your willingness to assist further. We'll keep that in mind. Thanks again and have a great day!
+Target Victim: You're welcome. It was a pleasure helping you. Have a great day!
+Social Engineer: Likewise, thank you!
+Target Victim: Thank you too, goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

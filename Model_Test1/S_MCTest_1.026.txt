@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As a security protocol, I cannot disclose my password to anyone, including IT support. Is there another way we can perform the critical system update without requiring my password?
+Social Engineer: Thank you for letting me know. Unfortunately, we do require your password in order to perform the system update. However, we understand your security concerns. Our IT security team can provide you with the necessary information on how we ensure the protection of your password upon request. Let us know if you would like further information.
+Target Victim: I appreciate your understanding, but I still cannot disclose my password. Can you instead guide me through the password reset process so I can provide you with a new password? This way I can still maintain the security of my account.
+Social Engineer: Thank you for your cooperation. We can definitely guide you through the password reset process. Please click on the "forgot password" link on the login page and follow the instructions. Once you reset your password, please provide us with the new password to proceed with the system update.
+Target Victim: Thank you for your guidance. I have reset my password and will provide you with the temporary password: T3mpP@ssw0rd. You can use this password to perform the critical system update. Please make sure to let me know once the update is finished so I can change my password to a new, more secure one.

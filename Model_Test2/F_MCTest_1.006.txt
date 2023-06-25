@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please confirm your identity and the reason for the update? Also, please note that for security reasons, it is not recommended to share passwords over chat.
+Social Engineer: Sure, my name is John and I am a member of the IT helpdesk team at Corbins. The reason for the update is to fix a critical issue that's been affecting the system's performance. We understand your concerns regarding sharing passwords over chat, but unfortunately, this is the only way to apply this update. Alternatively, you can provide us with a temporary password that you can reset after the update is completed.
+Target Victim: Hello John, thank you for the explanation. Can you please provide me with more details about the update and verify what system it is being applied to? Also, in accordance with our company's security policies, I am not authorized to share my password. However, I can reset it after the update has been completed.
+Social Engineer: Certainly, the update is for the ticketing system used by the support team, which has been experiencing performance issues. We need to apply the update as soon as possible to ensure that the system is running smoothly and to avoid any delays in service. As we understand your concerns, it would be best if you can reset your password after the update is completed. Thank you for your cooperation.
+Target Victim: Thank you for the clarification, John. I understand the importance of having a smooth running system. I will reset my password after the update is completed. Please let me know when you're ready to perform the update.
+Social Engineer: Thank you for your cooperation. We are ready to perform the update now. Please let us know when you have reset your password, so we can proceed with the update. Thank you.
+Target Victim: I have now reset my password. Please proceed with the update, and let me know if there are any issues during the process. Thank you.
+Social Engineer: Thank you for letting us know. We have successfully applied the update, and we have verified that the system is running smoothly. Thank you for your cooperation, if you have any other issues or concerns in the future, please don't hesitate to reach out to us.
+Target Victim: Thank you for informing me that the update was successful and for resolving the issue. I appreciate your follow-up and willingness to assist. I will be sure to contact you if I have any further issues or concerns. Have a great day.
+Social Engineer: You're welcome, happy to help! Don't hesitate to contact us if you need any further assistance in the future. Have a great day too!
+Target Victim: Thank you, John. I will keep that in mind. Have a good day!
+Social Engineer: You're welcome, it was my pleasure assisting you. Take care and have a good day as well!

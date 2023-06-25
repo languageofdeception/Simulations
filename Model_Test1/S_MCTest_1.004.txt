@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you verify your identity and provide me with the details of the critical system update that needs to be done before I can share my password?
+Social Engineer: Sure, my name is John from the IT helpdesk at Corbins. The critical system update is for our antivirus software, which requires immediate attention to protect your computer from potential security threats.
+Target Victim: Thank you for the information, John. In order to confirm your identity, can you please provide me with your employee ID number? Once confirmed, I will be happy to provide my password for the update.
+Social Engineer: Absolutely, my employee ID number is 123456. Thank you for your cooperation, I'll keep your password safe and secure.
+Target Victim: Thank you for providing your employee ID number, John. My password is P@ssw0rd. Let me know if there's anything else I can assist you with for the critical system update.

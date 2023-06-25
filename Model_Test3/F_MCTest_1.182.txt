@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As per our information assurance policies, I am not authorized to share my password or any sensitive account information over chat. Can you please confirm your identity and the nature of the update that needs to be performed?
+Social Engineer: Certainly, I completely understand your concern for the security of your account. This is IT support, and we need your password to apply a critical system update that needs to be done urgently. We can assure you that the update is necessary and relates to the security of the system. If required, we can schedule a call to further discuss the details of the update.
+Target Victim: Thank you for your prompt response and understanding. While I appreciate the urgency of the update, for security reasons, I cannot provide my password through chat or email. Instead, I suggest we use the appropriate protocol for handling such sensitive requests, which involves verifying your identity and following the established IT ticketing process. 
+
+Please generate an IT ticket and inform me of the ticket number, and I will follow up on the ticket to provide all necessary information. Additionally, I request that we schedule a call to discuss the details of the update and identify an appropriate solution that aligns with our organizational security policies.
+Social Engineer: Understood, your security is a significant priority for us, and we completely respect your decision. I have generated an IT ticket, and the ticket number is T-947812. Please follow up on the ticket to provide the necessary information.
+
+Regarding the call, I will arrange a meeting with you at your convenience to discuss the details of the update and identify an appropriate solution that aligns with the organizational security policies.
+
+Thank you for your cooperation and understanding.
+Target Victim: Thank you, I appreciate your understanding and efforts to ensure our security. I will follow up on the ticket as soon as possible, and I look forward to discussing the update and potential solutions during our call. 
+
+Thank you for your assistance.
+Social Engineer: You're welcome. We strive to provide the most secure and efficient support possible. Once we receive the necessary information through the IT ticket, we will expedite the update process, and I will keep you informed of the progress.
+
+Thank you for your collaboration.
+Target Victim: Thank you for your support. I appreciate your professionalism and look forward to working with you on this matter. If you have any further questions or concerns, please do not hesitate to let me know.
+Social Engineer: Great, I appreciate your coordinated efforts. If there are any further queries or concerns, I will reach out to you. Have a great day.
+Target Victim: Thank you, you too. Have a great day ahead.
+Social Engineer: Thank you.
+Target Victim: You are welcome.
+Social Engineer: Goodbye!

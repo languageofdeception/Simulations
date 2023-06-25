@@ -1,0 +1,49 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before providing my password, can you please confirm your identity and provide me with more details about the critical system update?
+Social Engineer: I apologize for not providing enough details in my initial message. My name is John and I work for the IT helpdesk at Corbins. We are performing a necessary security update across our systems to prevent any potential threats. In order to apply the update, we need your password. We assure you that your password will be kept safe and secure. 
+
+If you are uncomfortable providing your current password, we recommend you to create a temporary password and then reset it after applying the update. The system does not allow multiple concurrent password resets. Can you please clarify which option you prefer?
+Target Victim: Thank you for providing me with more details, John. I appreciate it. However, I cannot provide you with my current password. As per my information assurance training, providing my password to anyone, even a member of the IT helpdesk, is not allowed. 
+
+However, I am comfortable with creating a temporary password and resetting it after the update has been applied. Please guide me through the process of creating a temporary password.
+Social Engineer: Thank you for bringing this to my attention. I completely understand your concern regarding password security. Here are the steps you can follow to create a temporary password:
+
+1. Go to the login page of the system that needs to be updated.
+2. Click on the "Forgot Password" link and follow the prompts.
+3. Create a temporary password that is easy to remember but also strong enough to ensure security.
+4. Let me know what the temporary password is so that we can apply the system update.
+5. After the update is complete, reset your password following the instructions on the login page.
+
+Please let me know if you need any further assistance or have any questions.
+Target Victim: Thank you, John. That makes sense. I will follow these steps and create a temporary password, which I will provide to you shortly. 
+
+I appreciate your understanding and assistance.
+Social Engineer: You're welcome! I am glad I could help. Do not hesitate to reach out to us if you need any further assistance.
+Target Victim: Thank you for your help, John. Here is my temporary password: T3mpor@ry1!
+
+Please let me know when the system update is complete, so I can reset my password.
+
+Thank you again for your assistance.
+Social Engineer: Thank you for providing me with the temporary password. I will apply the system update promptly and will let you know when it is complete. 
+
+Please note that it may take some time to apply the update. As soon as it is complete, we will notify you, and you can reset your password. 
+
+Thank you for your patience, and please let us know if you need any further assistance.
+Target Victim: Thank you, John. I appreciate the update, and I will wait for further notification regarding the completion of the system update. Please let me know if there are any passwords or security measures that I need to take after resetting my password. 
+
+Thank you again for your help in ensuring the security of our systems.
+Social Engineer: You're welcome! After resetting your password, you should ensure that it is unique and strong enough to prevent unauthorized access. We also recommend that you continue to practice good password hygiene; using unique passwords for every account, never sharing passwords, creating long and complex passwords, and changing your password frequently. 
+
+Please let us know if you need any further assistance. Thank you for your understanding and cooperation in keeping our systems secure.
+Target Victim: Thank you for the advice, John. I will take these measures to secure my password and will keep the IT department's recommendations in mind to ensure password hygiene and future security.
+ 
+I appreciate your time and promptness, and I am satisfied with the level of support that I have received today.
+
+Thank you again for your help and have a great day further.
+Social Engineer: You're welcome! It was my pleasure to assist you. I am glad to hear that you are satisfied with the level of support you received.
+
+Please do not hesitate to reach out to us if you need further support or assistance in the future.
+
+Thank you for your cooperation, and have a great day ahead!

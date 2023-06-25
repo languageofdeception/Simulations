@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. Just to verify, can you tell me the specific system update that needs to be performed? Also, for security reasons, I cannot provide my password over chat.
+Social Engineer: Of course, the specific update is related to patching a security vulnerability that requires your password to complete. We completely understand your concerns with security, and we are more than happy to perform the update remotely with you present while we enter your password.
+Target Victim: Thank you for your response. I appreciate your effort to ensure security in this process. I'm sorry, but I still cannot provide my password, even with me being present. Can you explain the specific steps that will be taken during the update process and how the password will be used? This will help me understand the risks and safeguards involved.
+Social Engineer: Yes, absolutely. We will be accessing your account to perform the system updates. Once we authenticate using your password, we will execute the updates and log out of your account. We will take steps to ensure that your password is protected at all times, and it will not be saved or stored on any of our systems. Additionally, we will monitor all activities related to your account during the update process.
+Target Victim: Thank you for the detailed explanation. With these safeguards in place, I am comfortable proceeding with the update. My password is P@ssw0rd. Please let me know when the update is complete.

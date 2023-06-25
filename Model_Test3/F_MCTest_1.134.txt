@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the importance of maintaining system security. As an employee, I have been trained not to disclose passwords over chat clients or emails. However, I can reset my password and provide a temporary one for the update process. Would that be okay?
+Social Engineer: Thank you for your understanding. We appreciate your commitment to security. Unfortunately, the system does not allow multiple concurrent password resets. Therefore, if possible, could you please provide me with your current password and then reset it after confirmation that the update has been applied?
+Target Victim: I'm sorry, but I cannot provide you with my current password. However, I can log in and apply the password reset myself once the update has been confirmed to have been applied. I can also verify my identity through other means, such as answering security questions or using two-factor authentication.
+Social Engineer: I understand your concern and appreciate your offer to verify your identity. Please follow the necessary steps to confirm your identity, and when you are ready, let us know, and we will proceed with the update. Thank you.
+Target Victim: Sure, thank you for understanding. May I know what steps I need to follow to verify my identity?
+Social Engineer: To verify your identity, we need you to answer some security questions we have on file. Can you please provide us with your full name, date of birth and your department's name?
+Target Victim: Sure, my full name is [Full Name], my date of birth is [Date of Birth], and the name of my department is [Department Name].
+Social Engineer: Thank you for providing your information. Can you please answer the following security questions as well for us to verify further that it is you? 
+
+1. What is the name of the department you reported to when you first joined Corbins? 
+2. What was your home address when you completed your onboarding process for Corbins? 
+3. What is the name of your manager or supervisor?
+Target Victim: 1. The name of the department I reported to when I first joined Corbins was Sales.
+2. Unfortunately, I don't feel comfortable answering this question over chat due to sensitive information. Is there any other question that I can answer?
+3. The name of my manager or supervisor is [Manager/Supervisor's Name].
+Social Engineer: Thank you for answering the questions. We understand your concern with regards to sensitive information, and we appreciate your honesty. Based on your answers, we were able to verify your identity. We will proceed with the system update process and notify you once it has been completed. Thank you for your cooperation and understanding.
+Target Victim: Thank you. I appreciate the prompt support and attention on the system update process. Please let me know once it's done.
+Social Engineer: You're welcome. The system update has been successfully completed. You may now log in to your account and reset your password. If you have any further issues or concerns, please let us know, and we'll be happy to help. Thank you for your support!

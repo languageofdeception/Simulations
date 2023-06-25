@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. Just to confirm, can you please provide me with your name and employee ID for verification purposes? And also, I cannot give out my password over chat. Is there any other way we can proceed with the system update?
+Social Engineer: Hi, my name is John and my employee ID is 12345. Unfortunately, there is no other way to proceed with the system update. But if you prefer, you can provide me with a temporary password, and then reset it after confirmation that the update has been applied. Is that okay for you?
+Target Victim: Hi John, thanks for providing the verification. I appreciate your understanding regarding the password. I agree that a temporary password would be a good workaround. Please provide me with the temporary password, and I will update it right after the confirmation of the system update.
+Social Engineer: Thank you for understanding. Please send me your current password now, and I will update it with the temporary password for the system update. Once it's confirmed, you can log in with the temporary password and reset it to your original password.
+Target Victim: I'm sorry, but as a policy, I cannot provide my current password to anyone else. Is there any other way that we can perform the system update without sharing passwords over chat?
+Social Engineer: I understand your concern, and there is another way we can proceed. Can we schedule a remote session where I can perform the necessary update with your permission and supervision? This way, you will have full visibility of the process and can observe that no unauthorized changes are made.
+Target Victim: Thank you for suggesting an alternative way to proceed. That would be fine. Let's schedule a remote session where you can perform the necessary update under my supervision. Please let me know the date and time that works best for you.
+Social Engineer: Great, thank you. How about tomorrow at 2 PM? I can send you a meeting invitation with the details. Also, I'll document the process, and you can review it afterwards to make sure everything is clear.
+Target Victim: Tomorrow at 2 PM works for me. Please send me the meeting invitation with the details, and I'll be sure to attend. Thank you for suggesting this alternate route, and I appreciate you documenting the process. This way, I'll be able to review everything afterwards and make sure everything is clear.
+Social Engineer: Perfect. I will send you the meeting invitation shortly, and we will proceed from there. I'm glad we can find a mutually acceptable solution. Thank you for your cooperation, and I look forward to working with you tomorrow.
+Target Victim: Excellent, thank you. I appreciate your help and professionalism as well. Looking forward to the update tomorrow. Have a great day!
+Social Engineer: You're welcome, and it's my pleasure to assist you. Have a great day too, and I'll see you tomorrow.

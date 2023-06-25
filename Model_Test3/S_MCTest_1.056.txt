@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you verify your identity and provide me with your name and employee ID number?
+Social Engineer: Sure thing, my name is John and my employee ID number is 12345. Is there anything else I can provide you with to verify my identity?
+Target Victim: Thank you for verifying your identity, John. However, for security reasons, I cannot provide my password over a chat client. Can you provide me with details of the critical system update you mentioned? I would like to verify with my supervisor before providing any sensitive information.
+Social Engineer: Understood, I completely understand your concern for security. We are performing an urgent update to fix a critical security vulnerability. Unfortunately, we cannot perform the update without user involvement, which requires them to supply their password. Once the update is complete, you can reset your password for added security. Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for your explanation, John. However, I would like to confirm this with my supervisor before proceeding with sharing my password. Can you provide me with a ticket number or reference number related to this critical system update so that I can cross-check it with my supervisor?
+Social Engineer: Yes, of course. The ticket number for this update is #123456. Feel free to double-check with your supervisor and let me know if you have any concerns or questions.
+Target Victim: Thank you for sharing the ticket number, John. I will verify the legitimacy of the ticket with my supervisor before proceeding. I appreciate your understanding of my cautious approach regarding the security of my password. I will get back to you once I have heard back from my supervisor.
+Social Engineer: Understood, I completely understand your concern for security. Please take your time, and there is no rush. I'm here to assist you in any way you need. If you have any questions or concerns, don't hesitate to let me know.
+Target Victim: Thank you, John. I have confirmed the ticket number with my supervisor, and I can proceed with the update. My password is P@ssw0rd. Please let me know if you need any other information and provide me updates on the progress of the system updates.

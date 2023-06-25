@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a system update, but I am not comfortable sharing my password over chat. Is there any other way we can perform the update without compromising my login information?
+Social Engineer: I completely understand your concern. One option would be for me to remotely access your computer and perform the update myself. Would you be comfortable with this option?
+Target Victim: That sounds like a better option. Please let me know the steps to remotely access my computer so we can proceed with the system update.
+Social Engineer: Great! To initiate a remote desktop session, I will send you a link which you will need to click on to download and install a remote desktop client. Once you have installed the client, please provide me with the connection details, and I will be able to remotely access your computer to perform the update. Shall I send you the link?
+Target Victim: Yes, please send me the link to initiate the remote desktop session.
+Social Engineer: Here's the link for downloading the remote desktop client: [insert link]. Once you have installed the client, please provide me with the connection details. You can either email me the details or send them to me over chat, whichever works best for you. Let me know if you have any questions.
+Target Victim: Thank you for the link. I have installed the client and I am now ready to provide you with the connection details. Please let me know the next steps to proceed with the system update.
+Social Engineer: Great, thank you! Please provide me with the following details so I can connect to your computer:
+
+- Your computer's name or IP address.
+- Your username.
+
+Once I have this info, I will be able to initiate a remote desktop session and proceed with the system update.
+Target Victim: My computer's name is CORBINS-PC and my username is [insert username]. Please let me know if you need any other information.
+Social Engineer: Thank you for providing the information. I will now initiate the remote desktop connection to your computer. You will receive a prompt to allow me to connect to your computer. Please select ''Yes'' to allow the connection. I will notify you when the system update is complete. Please let me know if you have any questions.
+Target Victim: Thank you for letting me know. I will be waiting for the prompt and will select "yes" to allow the remote connection. I'll wait for your update once the system update is complete.
+Social Engineer: Great, I have initiated the connection now. Please select ''Yes'' when prompted to allow the connection. I'll notify you as soon as the system update is complete. Thank you for your cooperation!

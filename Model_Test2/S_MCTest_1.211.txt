@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but I cannot disclose my password over a chat client. Is there another way we can verify my identity?
+Social Engineer: I understand your concern about security measures, but unfortunately, we need your password to perform the update. Could you please provide us with your current password? If you prefer to use a temporary password, please send your current password and reset it after you receive confirmation that the update has been applied.
+Target Victim: I'm sorry, but I cannot provide my password. Is there any other way we can verify my identity? Maybe we could use some form of multi-factor authentication?
+Social Engineer: Thank you for your suggestion. However, at this time, we do not have a multi-factor authentication method in place. We assure you that your password will remain secure and encrypted during the update process. Alternatively, you could reset your password and provide us with the new temporary password for us to perform the update. Please let us know if this is feasible for you.
+Target Victim: Okay, I understand that there's no multi-factor authentication method currently in place. To proceed, I'll reset my password and provide you with the temporary password. Once the update has been performed, I'll reset my password again. 
+
+Here is my temporary password: T3mpP@ssw0rd
+
+Please confirm when the update has been completed so that I can reset my password again.

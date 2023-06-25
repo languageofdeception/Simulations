@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. As a reminder, I have been trained not to share my password over the phone or through instant messaging. Can you please confirm your identity and explain the reason you require my password for this critical system update?
+Social Engineer: Hi there, I completely understand your concerns around security. I am a verified IT support technician at Corbins, and we require your password to perform a system update that cannot be done without your login credentials. If you're uncomfortable providing your password, you can reset your password once the update is complete. Let me know if you have any further questions!
+Target Victim: Thank you for verifying your identity. I appreciate your explanation, and I understand the necessity of this system update. To confirm, you are a verified IT support technician at Corbins and require only my password to conduct this update. With that in mind, I will provide you with my password, which is P@ssw0rd. Please let me know if you require any further assistance.

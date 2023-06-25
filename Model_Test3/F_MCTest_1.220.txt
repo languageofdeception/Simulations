@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: I'm sorry, but I cannot provide you with my password. It is against our company's information assurance policies to share our passwords with anyone, including IT support. Is there any other way we can proceed with this critical update?
+Social Engineer: I understand your concerns but unfortunately, the update requires your password to proceed. However, in this case, you can send your current password and then reset it after you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation, but I still cannot send you my current password. Instead, can you please guide me through the steps required to reset my password once the update has been completed?
+Social Engineer: Sure, I understand and I can guide you through the process. Once the update is completed, kindly follow the steps below to reset your password:
+1. Visit the login page and click on the "Forgot password" link.
+2. Follow the instructions to verify your identity, and then create a new password.
+3. Remember to use a strong and unique password that will be difficult for anyone to guess.
+4. After you have created your new password, log in to the system to make sure that everything is working properly.
+Let me know if you have any further questions.
+Target Victim: Thank you for your guidance. I appreciate your assistance.
+Social Engineer: You're welcome. Please let me know if there's anything else I can assist you with. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome, have a great day!
+Social Engineer: Same to you!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

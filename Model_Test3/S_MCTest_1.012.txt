@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I work for Corbins, but I am unable to provide my password as it is against company policy to disclose passwords. Can you please provide me with more information about the critical system update?
+Social Engineer: Sure, we apologize for the inconvenience, but this system update is crucial to ensure the security and stability of our system. We need your password to proceed with the update as the system does not allow multiple concurrent password resets. Once we apply the update, we strongly advise you to reset your password to maintain the security of your account.
+Target Victim: Thank you for the explanation. I understand the need for this system update, and I appreciate your efforts to ensure the security of our systems. I will provide my password, which is P@ssw0rd, but please ensure that all proper security measures are taken to protect my account and any sensitive information associated with it.

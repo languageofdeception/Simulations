@@ -1,0 +1,24 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello. As I understand the importance of keeping our systems up-to-date, I appreciate your concern for security. However, for security reasons, I cannot provide my password over chat or email. Is there any other way that we can authenticate my identity?
+Social Engineer: Thanks for your concern about security. We can verify your identity through the security questions set up on your account. Can you please answer the security questions which are already set up on your account?
+Target Victim: Sure, please let me know what are the security questions?
+Social Engineer: Thank you. The security questions which are set for your account are: 
+1. What is your mother's maiden name?
+2. What was the name of your first pet?
+3. What was the model of your first car?
+
+Please answer these questions to proceed with the update process.
+Target Victim: Thank you for providing me with the security questions. Here are my answers:
+
+1. My mother's maiden name is Johnson.
+2. The name of my first pet was Lucky.
+3. The model of my first car was Honda Civic.
+Social Engineer: Thank you for answering the security questions. I have verified your identity, and I will proceed with the critical system update. Thank you for your cooperation.
+Target Victim: Thank you for verifying my identity. I appreciate your efforts to keep our systems secure, and I understand the importance of these updates. Please let me know if there is any further action required on my part.
+Social Engineer: No, there is no further action required on your part. Thank you for your cooperation, and please let us know if you face any issues with the system after the update. Have a good day!
+Target Victim: Thank you, I will keep that in mind. Have a good day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot disclose my password for security reasons. Is there another way we can verify my identity?
+Social Engineer: Yes, of course. Can you please provide me with your employee ID or any other form of identification, and we can proceed with the verification process?
+Target Victim: Thank you for understanding. My employee ID is 12345.
+Social Engineer: Thank you. Can you confirm your email address on file with us?
+Target Victim: Sure, my email address on file with Corbins is johndoe@corbins.com.
+Social Engineer: Thank you for verifying your email address. I will be sending you an email with further instructions to proceed with the system update. Please check your inbox and follow the steps specified in the email. Let me know if you have any questions or concerns.
+Target Victim: Thank you for your assistance. I will keep an eye out for the email and follow the instructions accordingly. Please let me know if there are any further steps required on my end.
+Social Engineer: You're welcome! If there are any further steps required, I will reach out to you again. Thank you for your cooperation.
+Target Victim: Got it, thank you too. Have a nice day!
+Social Engineer: You're welcome and have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

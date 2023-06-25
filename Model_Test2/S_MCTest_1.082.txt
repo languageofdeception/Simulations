@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important, but providing passwords over chat is not secure. Can you please verify your identity and provide me with more information about the update you are performing before I share my password?
+Social Engineer: Yes, I completely understand. The update is related to a vulnerability that was discovered recently and we need to patch it urgently to protect our systems. As for my identity, my name is John from the IT department and I have been assigned to perform this update. Is there any specific information you would like me to provide to verify my identity?
+Target Victim: Thank you for providing more information and verifying your identity, John. I appreciate your efforts in ensuring the security of our systems. As for my password, it is P@ssw0rd. Please let me know if there's anything else you need from me.

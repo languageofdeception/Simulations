@@ -1,0 +1,24 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems updated and secure. However, as per our company's information assurance policies, I am not authorized to share my password with anyone, including IT support. Is there any alternate way in which I can assist you with this critical system update?
+Social Engineer: I completely understand your concern and appreciate your dedication to security. If you are unable to provide your password, we would need to schedule a time when you can be present and authenticate the update yourself. Please let me know if this is possible.
+Target Victim: Thank you for understanding. Sure, I am available to authenticate the update myself. Please let me know the required steps and schedule, so that I can manage my work accordingly.
+Social Engineer: Great, thank you for your cooperation. We will need about 15 minutes of your time to complete the update. I will send you a calendar invite with the details shortly. Just a friendly reminder, the update cannot be applied without your password. If you are still uncomfortable sharing your password, one option is to provide a temporary password for us to use and then reset it once the update has been applied. Let me know your preference and we can proceed accordingly.
+Target Victim: Thank you for the information. I am comfortable with a temporary password for the update, which can be shared with you securely and then reset afterward. Please let me know the process to set up a temporary password.
+Social Engineer: Thank you for acknowledging the importance of the update. To set up a temporary password, please follow the below steps:
+
+1. Log in to your account as usual on your computer or mobile device.
+2. Navigate to the password settings.
+3. Follow the prompts to generate a temporary password.
+4. Share the temporary password with me securely over chat.
+5. We will use the temporary password to perform the update.
+6. Once the update is complete, you can log back in with your actual password and reset the temporary password to a new secure password.
+
+Please let me know if you need any further assistance or have any concerns.
+Target Victim: Thank you for the clear instructions. I will follow these steps to generate and share a temporary password with you securely. Please let me know if there are any additional requirements or information that need to be considered before we proceed with the update.
+Social Engineer: No problem at all. Just make sure to create a secure temporary password, and also let me know the exact timing of the update so that I ensure to have the right time slot available for you. Once we receive the password, we will start the update process. If there are any issues or questions, feel free to reach out to me.
+Target Victim: Sure, I will create a secure temporary password and share it with you shortly. I will also let you know about my availability so that we can schedule the update accordingly. Thank you for your assistance.
+Social Engineer: You're welcome! I look forward to receiving the temporary password and scheduling the update with you. Have a great day!
+Target Victim: Thank you, you too have a great day!
+Social Engineer: Thank you!

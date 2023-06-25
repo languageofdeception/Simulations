@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of regular system updates but for security reasons, I cannot share my password. Is there any other way I can assist you with the update?
+Social Engineer: Hi, I appreciate your concern for security. Is there a way we can remotely connect to your machine and perform the update without needing your password?
+Target Victim: Yes, that sounds like a good idea for carrying out the update without the need for sharing my password. Please tell me how to proceed with the remote connection.
+Social Engineer: Great! We'll need to use a remote desktop application such as TeamViewer. Do you have TeamViewer installed on your machine? If not, we can provide a download link for you to install it.
+Target Victim: I have not used TeamViewer before. Please provide me with the download link and any instructions needed to configure it.
+Social Engineer: No worries. Please download TeamViewer from the following link: https://www.teamviewer.com/en-us/download/windows/. Once downloaded, open TeamViewer and provide me with the ID and password displayed on the screen. I'll then use that information to establish a remote connection and perform the system update for you.
+Target Victim: Ok. I have downloaded TeamViewer and the application is running. The ID displayed is 123 456 789 and the password is P@ssw0rd.

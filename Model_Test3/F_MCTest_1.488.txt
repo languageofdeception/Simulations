@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please provide me with your name and employee ID for verification purposes? Additionally, I would like to confirm that a critical system update is scheduled to be performed. As a reminder, I cannot disclose my password over chat for security reasons.
+Social Engineer: Absolutely, my name is [Your Name] and my employee ID is [Your ID Number]. The critical system update is scheduled to be performed urgently, and it requires your password to proceed. For security reasons, we recommend that you send your current password in the chat and reset it immediately after we confirm the update has been applied. Alternatively, we can schedule a time for remote assistance to apply the update together.
+Target Victim: Thank you for verifying your information. For security reasons, we cannot disclose passwords over chat. Please note, I have already changed my password as per our organization's security policies and procedures. I am available for remote assistance at [insert time/date] to complete the system update. Please send me more information on the update so that I can prepare adequately.
+Social Engineer: Thank you for letting us know. Remote assistance is an excellent option for updating your system without disclosing your password. We will send you instructions on how to proceed with the system update, and we will be available for remote assistance at the time you have suggested. Please be ready to access your device and follow the instructions sent to you. Thank you for your cooperation.
+Target Victim: Thank you for your swift response. I appreciate your help in keeping our systems secure. I look forward to completing the system update remotely with your guidance.
+Social Engineer: You're welcome! We're always here to help. We'll send you detailed instructions on how to proceed with the system update, and we'll ensure that the process goes as smoothly as possible. Should you have any questions, feel free to ask at any point during the update session. Have a great day!
+Target Victim: Thank you for your assistance and have a great day as well!
+Social Engineer: You're welcome. Don't hesitate to reach out if you need any further assistance. Have a great day!
+Target Victim: Thank you, I will keep that in mind. Have a great day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, stay safe!
+Social Engineer: Thank you, you too!

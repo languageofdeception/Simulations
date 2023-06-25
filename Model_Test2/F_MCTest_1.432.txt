@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, as a best practice, I am not supposed to share my password with anyone else. However, I can reset my password and provide you with the temporary password. Please let me know if that is okay with you.
+Social Engineer: Thank you for getting back to me. Unfortunately, we are unable to reset the password as our system does not allow multiple concurrent password resets. May I suggest that you provide me with your current password, and immediately after the update, you can reset your password to something more secure?
+Target Victim: I'm sorry, but it is company policy not to share passwords, even with IT support. May I suggest we use another method for validating my identity or perform the update when I'm available to change my password immediately afterward? We can use a company-provided authentication method or a verification code to verify my identity.
+Social Engineer: I understand your concern and appreciate your commitment to following company policy. We can utilize an alternate method for authentication, such as a one-time verification code. Could you please provide me with your mobile number or alternate email address? We will send a verification code to verify your identity and apply the update.
+Target Victim: Sure, my mobile number is (555) 555-5555 and my alternate email address is [youralternateemail@domain.com]. Please send the code to either of these contact methods. Thank you for understanding company policy and assisting me in maintaining the security of my account.
+Social Engineer: Thank you for providing your contact information. The verification code has been sent to your mobile number and alternate email address. Please provide me with the verification code so that we can proceed with the critical system update.
+Target Victim: Thank you for the verification code. I appreciate that you are taking security seriously. I have received the code and it is [verification code]. Let me know if there is any other information you need from me to complete the update.
+Social Engineer: Thank you for verifying the code. We will now proceed with the critical system update. Once the update is complete, we will inform you to reset your password at your earliest convenience. Thank you for your cooperation and for helping us maintain the security of your account.
+Target Victim: Thank you, I appreciate your help with this update and for prioritizing security. I look forward to resetting my password as soon as the update is complete.
+Social Engineer: You're welcome! We are happy to assist with any IT-related issues. Please do not hesitate to reach out if you have any further questions or concerns.
+Target Victim: Thank you, I will keep that in mind and let you know if I need any further assistance. Have a great day!
+Social Engineer: You too! Thank you for your cooperation.

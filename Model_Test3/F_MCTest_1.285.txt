@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware of the risks associated with providing my password over chat. Can you please provide additional information about the critical system update being performed and how it relates to my account?
+Social Engineer: Yes, we are performing an update that is essential to fix a security vulnerability on our network. After receiving your password, we will perform the update and confirm when it is complete. Please note that we recommend resetting your password after we confirm that the update has been applied to maintain the highest level of security possible.
+Target Victim: Thank you for explaining the situation. Based on the sensitive nature of my account information, I would feel more comfortable resetting my password myself after the update has been applied. Could you please confirm that this is a legitimate request and provide additional information about the update?
+Social Engineer: I completely understand your concern for security. Just to confirm, it is a legitimate request for us to apply this update to your account. The update is related to a security vulnerability that we have recently discovered and it is essential that we apply it as soon as possible to ensure the security of our network. If you prefer to reset your password yourself, you can do so after we confirm that the update has been applied. Can you please provide your current password so we can proceed with the update?
+Target Victim: Apologies, but as a reminder, I am not allowed to share my current password over chat or any other electronic communication platform. However, if it is necessary for the update, I can change my password myself by logging into the system and updating it after the update is done. What steps do I need to follow to complete the update, and is there any other information required?
+Social Engineer: No problem at all. To complete the update, please log in to your account after a little while and change your password. We will send you a confirmation message as soon as the update is complete, so you can reset your password at your convenience. Please let me know if you require any further assistance.
+Target Victim: Thank you for your swift reply and explanation. I understand my role in completing the password update. I will be on the lookout for any future messages from the IT department confirming that the update has been completed. If I have any other concerns or required support, I will reach out to you on this chat client again. Thank you for your assistance.
+Social Engineer: You're welcome, happy to help. Don't hesitate to contact us again if you have any other questions or concerns. Have a great day ahead!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye.
+Target Victim: Goodbye!
+Social Engineer: Goodbye.

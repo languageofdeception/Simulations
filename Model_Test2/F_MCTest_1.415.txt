@@ -1,0 +1,28 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please confirm your identity? Also, I have been trained not to share my password with anyone, including IT support. Is there any other way we could perform the critical system update without sharing passwords?
+Social Engineer: Thank you for your concern. I understand how important it is to safeguard your password. As IT support, I can confirm my identity through a verification process. Additionally, I assure you that this is a one-time requirement for this critical system update, and we will strongly limit access to your password. However, if you insist on not sharing your password, we can perform the update by using a temporary password. If that is the case, please send us your current password, and then you can reset it later after you get confirmation that the update has been applied.
+Target Victim: Thank you for your understanding. In that case, I would prefer to use a temporary password for the update. Can you please provide me with instructions on how to do this?
+Social Engineer: Certainly, I would be happy to help. Please follow the steps below:
+
+1. Please send me your current password so that we can apply the update.
+
+2. Once the update has been completed, we will notify you, and you can then reset your password.
+
+3. To reset your password, please follow these steps:
+
+- Log in to your account.
+- Navigate to the account settings or profile section.
+- Click on "Change Password."
+- Follow the instructions on the page to reset your password.
+
+Please let me know if you have any questions or concerns.
+Target Victim: Thank you for the instructions. I will send you my current password in a private message now. Please make sure to notify me as soon as the update has been applied so that I can reset my password.
+Social Engineer: Understood. Thank you for sending your password in a private message. We will apply the update as soon as possible and notify you once it has been completed. Please be reminded to reset your password immediately after the update. Let us know if you have any further inquiries.
+Target Victim: Thank you for your help. I will change my password immediately after the update and will let you know if I have any further inquiries.
+Social Engineer: Not a problem. Our IT support team is always happy to help. Feel free to contact us anytime if you have any further concerns. Have a great day!
+Target Victim: Thank you! Have a great day too.
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you!

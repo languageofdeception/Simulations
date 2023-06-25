@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to confirm that you are truly a member of the IT department, could you please provide me with your name and employee ID? Thank you. 
+
+Also, I'm sorry but I cannot disclose my password to anyone, including IT support. Is there any other way we can perform the necessary update?
+Social Engineer: My name is Bob and my employee ID is 12345. I understand your concern regarding password security. Would you be comfortable resetting your password temporarily and providing me with the new one so we can perform the update? Once the update is complete, we will have you reset your password again to ensure security.
+Target Victim: Thank you, Bob, I appreciate it. I can reset my password temporarily, that would be okay. Here is my new temporary password: T3mpP@ssw0rd.
+
+Please let me know once the update is complete so I can reset my password to a more secure one. Thank you.

@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons I cannot disclose my password. Can you please provide me with more information about the critical system update and how it relates to my account?
+Social Engineer: This is a system-wide update that requires all users to provide their passwords. It is necessary to ensure the security and stability of the system. We recommend you provide your current password so we can apply the update. If you prefer to use a temporary password, please send us your current password and then reset it immediately after we confirm the update has been applied. Thank you.
+Target Victim: I appreciate your efforts to maintain the security of the system and would like to comply with the update. However, I have concerns about sharing my current password since it is a sensitive piece of information. Can you please provide an alternative solution, such as resetting the password through an online portal or verifying my identity through other means?
+Social Engineer: We understand your concern. Unfortunately, the current system does not allow multiple concurrent password resets, and we are unable to offer alternative methods in this situation. We assure you that we will handle your password confidentially and take all necessary precautions to ensure its security. In the meanwhile, we recommend you change your password as soon as possible after the update has been applied. Thank you for your cooperation.
+Target Victim: I appreciate the explanation. In that case, I will share my current password with you. My current password is P@ssw0rd.

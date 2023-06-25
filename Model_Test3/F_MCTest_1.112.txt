@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please verify your identity and provide me with your employee ID or email address before I can provide you with my password? It's important to ensure that I am sharing my password with an authorized person.
+Social Engineer: Of course, my email address is it_support@corbins.com. Can you please provide your password so we can proceed with the system update? If you prefer to provide a temporary password, please send your current password and reset it after you receive confirmation that the update has been applied.
+Target Victim: Thank you for the verification. However, I cannot provide you with my password, as it is against company policy to share passwords for any reason. Instead, please provide me with detailed instructions on how to perform the critical system update without the need for sharing passwords.
+Social Engineer: Thank you for bringing this up. You are correct, it is against company policy to share passwords. We apologize for the inconvenience. To perform the critical system update without the need for sharing passwords, please follow these steps:
+
+1. Log in to your account and navigate to the system update page.
+2. Click on the "Update" button to start the update process.
+3. The system will ask for your authorization to proceed with the update.
+4. Enter your account credentials when prompted.
+5. The update process will start automatically.
+
+Once the update has been successfully applied, you should receive a confirmation message. If you have any further questions or concerns, please do not hesitate to reach out to us. Thank you for your cooperation.
+Target Victim: Thank you for the instructions. I will follow those steps to perform the critical system update. If I encounter any issues during the process, I will reach out to you for further assistance. Thank you for your help and for ensuring the security of our company's information.
+Social Engineer: You're welcome, it's our duty to ensure the security of our company's data. If you encounter any issues during the process, please do not hesitate to reach out to us for assistance. Thank you for your cooperation and understanding.
+Target Victim: I appreciate your help and prompt response. I will be sure to keep that in mind if I encounter any problems during the update process. Thank you again for your assistance.
+Social Engineer: You're welcome. If you have any further questions or concerns, please feel free to contact us anytime. We are here to help you. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome. Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

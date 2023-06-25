@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot simply provide you with my password. Can you please tell me more about the critical system update you are performing and how it is related to my account?
+Social Engineer: Sure, we are running a system update that involves resetting network settings which will require user login credentials. It's related to your account as we need to update the credentials associated with it to ensure proper functionality.
+Target Victim: Thank you for the explanation. To confirm, this update is legitimate and authorized by the company, correct? Also, is it possible to perform the update without resetting my password? I am uncomfortable giving out my password over chat.
+Social Engineer: Yes, the update is legitimate and authorized by the company. Unfortunately, we need to reset the password as part of the update to ensure proper security measures. I understand your concerns and we take security very seriously. If you prefer, we can arrange a call and perform the update during the call so you can provide me the password verbally.
+Target Victim: Thank you for understanding my concerns. I appreciate that you take security seriously. A call would work great. Could you please provide me with a reference number or ticket number for this update so that I can verify it is legitimate before providing my password during the call?
+Social Engineer: Absolutely, I completely understand your request. I will provide you with a reference number and a call can be scheduled at your convenience. The reference number for this update is #5478. Please let me know what time works for you.
+Target Victim: Thank you for the reference number. I will keep note of it. I am available for a call between 10am and 3pm tomorrow. Are there specific time availability slots on your end that work best for scheduling the call?
+Social Engineer: Yes, we have availability slots from 10am to 12pm or 1pm to 3pm tomorrow. Please let me know which slot works best for you and we will schedule the call accordingly.
+Target Victim: Thank you for letting me know. The morning slot would work best for me. Please schedule the call for tomorrow at 10am and assign the reference number #5478 to it. I will make sure to have my password ready for the call.
+Social Engineer: Sounds good, the call is scheduled for tomorrow at 10am and the reference number will be assigned to it. Thank you for your cooperation and have a great day!
+Target Victim: Thank you and have a great day too!
+Social Engineer: You're welcome and take care!

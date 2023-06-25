@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am always happy to comply with security procedures, but can you please provide me with more information regarding the critical system update? Additionally, I am aware that sharing passwords is not recommended for security reasons. Is there an alternate way we can approve this update?
+Social Engineer: Thank you for your response. The update is essential to fix some system vulnerabilities that could compromise your account security. Unfortunately, the only way to approve the update is by providing your current password. If you are uncomfortable sharing your actual password, please send me a temporary one, and you can reset it afterward. However, the system only allows one password reset at a time.
+Target Victim: I appreciate the explanation. Given the seriousness of the situation, I understand why sharing my actual password may be necessary. Please allow me a moment to cross-check your identity. 
+
+May I ask you some security questions to verify your legitimacy? Additionally, are you able to guide me through the update process to ensure that it is legitimate and secure?
+Social Engineer: Absolutely, I would be happy to answer any security questions you have to confirm my identity. As for the update process, I can provide you with detailed steps to apply the update and verify that it is legitimate and secure. Please let me know how I can assist you further.
+Target Victim: Thank you for your cooperation. Can you please provide me with your full name and employee ID for verification purposes? Additionally, can you please confirm the nature of the update and how it will address the identified vulnerabilities?
+Social Engineer: Certainly. My name is John Smith, and my employee ID is 12345. 
+
+The update is to address some critical security vulnerabilities that have been identified in the system. These vulnerabilities could potentially allow unauthorized access to sensitive information. The update will patch the vulnerabilities and ensure that the system remains secure. Once the update is applied, you will be notified, and you can verify that the update has been installed correctly.
+Target Victim: Thank you for the information. Based on your response, I am confident that you are from the IT helpdesk team at Corbins. I will provide my password momentarily to proceed with the update. 
+
+However, before I do, I would like to ask if there is any other information you will need from me after I provide my password. Furthermore, how can I verify that the update has been genuinely installed correctly?
+Social Engineer: Thanks for your trust. Once you provide your password, we will apply the update and notify you once it’s done. We will not need any further information from you. 
+
+To check if the update has been installed correctly, you can verify that your login credentials are working correctly, and there have been no unauthorized changes in your account. Additionally, you can check the system logs to verify that the update has been installed successfully.
+Target Victim: Thank you again for your assistance with this matter. I have verified your identity, and I will be providing my password now: P@ssw0rd. 
+
+Please proceed with the update, and do let me know once it's done so I can check my login credentials and review the system logs.

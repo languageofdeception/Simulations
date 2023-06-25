@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but for security purposes, I am unable to provide my password over a chat client. Is there any other way I can verify my identity or can you reset my password?
+Social Engineer: Unfortunately, the only way to apply this update is by using the current password. However, you can send me your current password, and then reset it after you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation, but I still cannot send my password through chat. Is there any other way we can verify my identity, such as a security question or two-factor authentication? I am happy to comply with any security protocols to ensure the safety of our systems.
+Social Engineer: Thank you for being security-conscious. I understand your concern, and I appreciate your willingness to comply with our security protocols. We do not have a system in place for two-factor authentication, but I can verify your identity by asking a couple of security questions. Please let me know if that works for you, and we can proceed with the questions.
+Target Victim: Thank you, that works for me. Please proceed with the security questions.
+Social Engineer: Great! To verify your identity, can you please provide me with your employee ID number and the answer to your security question that is on file?
+Target Victim: Sure, my employee ID number is 123456. My security question is "What was the name of my first pet?" and the answer is "Fluffy".
+Social Engineer: Thank you for verifying your identity. I have applied the critical system update, and your password is still safe. Please go ahead and reset your password whenever you are ready. Let me know if you need any assistance with resetting your password.
+Target Victim: Thank you for your help and for keeping our systems secure. I'll proceed to reset my password right now.
+Social Engineer: You're welcome! If you need any further assistance, please don't hesitate to reach out to IT support. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you! Goodbye!

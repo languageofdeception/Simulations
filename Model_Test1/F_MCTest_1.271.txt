@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I would be happy to verify my identity but I cannot give you my password. Is there any other way we can confirm my identity so we can proceed with the update?
+Social Engineer: Certainly, I understand. Can you please provide me with your full name and employee ID number so I can verify your identity?
+Target Victim: Yes, my full name is John Doe and my employee ID number is 123456.
+Social Engineer: Thank you, John. Can you also please confirm the last four digits of your social security number?
+Target Victim: I'm sorry, but I can't give you my social security number over this chat. Is there any other way we can verify my identity?
+Social Engineer: That's understandable, John. Can you please provide me with the answer to any of the following security questions that you have set up with us? 
+-What was your childhood nickname?
+-What's your mother's maiden name? 
+-What street did you grow up on?
+Target Victim: Sure, I can answer the question: What was your childhood nickname?
+The answer is Maverick.
+Social Engineer: Thank you, John. I have successfully verified your identity, and I'll proceed with the update. Let us know if you face any issues in the future.
+Target Victim: Thank you for your help, I appreciate it. Have a great day!
+Social Engineer: You're welcome, John. Have a great day as well!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

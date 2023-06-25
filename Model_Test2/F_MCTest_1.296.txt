@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide additional information about the system update? As per company policy, I cannot share my password without proper validation from the IT team.
+Social Engineer: I completely understand. I am a member of the IT support team at Corbins and we need your password to apply a critical security update to your account. This update is necessary to protect your account from potential security threats and keep your data safe. May I please request your password now?
+Target Victim: Thank you for verifying your identity and providing me with more information about the update. I appreciate your concern for account security, however, as per company policy, I cannot share my password even with an IT team member. Is there any other way I can help?
+Social Engineer: Yes, there is a solution. We can perform the update by using a temporary password. Once the update is successfully applied, you can reset your password to a new one. Is this something you would be willing to do?
+Target Victim: That sounds like a reasonable solution. Thank you for suggesting it. Please let me know how to proceed.
+Social Engineer: Thank you for that. Please send us your current password so that we can apply the necessary update. Once done, we will inform you that the update has been applied and you can reset your password to a new one. Please remember that the message containing your current password should be deleted immediately after you've sent it and please reset your password as soon as possible.
+Target Victim: I apologize, but as I said earlier, I am not permitted to share my password with anyone, even members of the IT team. Instead, can you please generate a temporary password, that I will use to login to my account, apply the necessary update, and then change my password to a new one?
+Social Engineer: I understand your concerns and yes, generating a temporary password is something we can do. I will need to request this from our system administrator. Please allow me a few minutes to coordinate with them and generate the temporary password for you. I will send it to you as soon as possible. Thank you for your patience.
+Target Victim: Thank you for your assistance. I appreciate your help in keeping my account secure.
+Social Engineer: You're welcome, it's my pleasure to assist you. Here is your temporary password: [temporary password]. Please use this password to log in, apply the update, and then reset your password to a new one. Kindly let me know once you have completed this process so that I can confirm that the update has been successfully applied.
+Target Victim: Thank you for providing me with the temporary password. I will use it to log in and change my password immediately after applying the update. I will inform you once the process is complete.
+Social Engineer: You're welcome. Please take your time and change your password as soon as possible. Don't hesitate to contact us if you have any questions or concerns. Have a great day!

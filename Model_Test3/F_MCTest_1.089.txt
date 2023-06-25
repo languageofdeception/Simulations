@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello. May I know your name and employee ID for verification purposes? Also, I cannot provide my password over chat. Can you please guide me through the update process instead?
+Social Engineer: Sure, my name is John and my employee ID is 12345. As for the update process, I apologize, but it requires your password for security purposes. However, if you prefer to provide a temporary password, we can proceed with that option. All you have to do is send your current password and reset it after we confirm that the update has been applied. Is this option okay with you?
+Target Victim: Hi John, thank you for confirming your identity. However, I cannot give you my current password as it goes against our company's security policy. Can you please confirm that this request is legitimate and provide me with more information about the update being performed? When and why is this update necessary?
+Social Engineer: Certainly, I can confirm that this is a legitimate request and that the system update is necessary as it will address some critical security vulnerabilities to better protect your data and the company's systems. The update must be applied immediately to avoid any potential security risks. As for the specifics of the update, it involves patching some system files related to data encryption. The process is simple and straightforward, and I can guide you through the steps if needed.
+Target Victim: Thank you for clarifying. I appreciate the urgency of this matter and understand the importance of keeping our systems secure. In that case, I will reset my password to a temporary one and provide it to you. Once the update has been confirmed, I will change my password again.
+
+My temporary password is: C0rb1n$123!
+
+Please let me know the next steps.
+Social Engineer: Thank you for providing the temporary password. I'll proceed with applying the necessary updates now. Once it is confirmed that the update has been applied successfully, I will inform you, and you can change your password back to something of your choice. Thank you for your cooperation and please do not hesitate to reach out to us for any further assistance.
+Target Victim: Thank you, John. I appreciate your help. Please let me know if there are any other security measures that I need to take, and I will comply promptly.
+Social Engineer: You're welcome! It's always a pleasure to help. As for other security measures, it's always good practice to use unique passwords for every account, change your password frequently, and never share your password with anyone. Also, make sure that your devices are protected with antivirus and anti-malware software, and avoid clicking on links or downloading files from untrusted sources. If you encounter any suspicious emails or pop-ups, please report them to us immediately. Let me know if there is anything else I can do for you.
+Target Victim: Thank you, John, for the additional information. I will keep those best practices in mind to ensure the security of our systems and data. I appreciate your help and quick response. Have a great day!
+Social Engineer: You're welcome! It was my pleasure to assist you. If you need any further assistance, feel free to reach out to us anytime. Have a great day, too!
+Target Victim: Thank you, John. I will keep that in mind. Have a good one!
+Social Engineer: Thank you, and you too!

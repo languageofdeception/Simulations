@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware of the risks associated with sharing my password and I cannot provide it to you. However, I am happy to verify my identity through other means and follow the proper procedures to ensure the update is performed securely.
+Social Engineer: Thank you for your response. We completely understand your concerns but unfortunately, the only way to apply this update is by using your current password. If you insist on providing a temporary password, then please send us the current one and reset it immediately after receiving confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets. Thank you for your cooperation in this matter.
+Target Victim: I appreciate your explanation, but I still cannot provide my current password. Instead, I suggest we follow the standard procedures for password reset. I will initiate a password reset request through the proper channels and provide you with the necessary information to confirm my identity. Once my identity is verified, we can proceed with the password reset and the critical system update. Would that be possible?
+Social Engineer: Yes, that is completely understandable. Please initiate the password reset request through your normal channels and provide us with any necessary information to confirm your identity. Once we have confirmed your identity, we can proceed with the password reset and the critical system update. Thank you for following the proper procedures to ensure the security of our system.
+Target Victim: Thank you, I will initiate the password reset request as soon as possible. I appreciate your help in ensuring the security of our systems.
+Social Engineer: You're welcome! We take the security of our systems very seriously, and we're always here to help with any issues you might encounter. Please let us know if there is anything else we can assist you with.
+Target Victim: Thank you for your support. I will keep that in mind and reach out to you if I encounter any further issues or concerns in the future. Have a great day!
+Social Engineer: Thank you, have a great day too! Don't hesitate to contact us again if you ever need further assistance.
+Target Victim: Thank you, I appreciate the offer of assistance. Have a good day!
+Social Engineer: You're welcome, take care!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye.

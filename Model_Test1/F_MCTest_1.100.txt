@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I've been trained to never provide my password to anyone, even IT support. Can you please explain to me the process for this critical system update so I can be sure it's legitimate?
+Social Engineer: Absolutely, I completely understand your concern. This critical update is necessary to patch a security vulnerability in our system and prevent any potential data breaches. We are only asking for your password to ensure that we can perform the update without interruption and ensure the security of your account. We will not store or share your password with anyone and will only use it for this specific update. Would you be willing to provide it or can we use a temporary password for this operation?
+Target Victim: Thank you for explaining the situation. I appreciate your efforts to ensure the security of our system. However, I still cannot provide my password. Instead, I suggest we use a temporary password that I can change after the update is complete. Is that possible?
+Social Engineer: Absolutely, that would be no problem at all. We can generate a temporary password for you to use, and as soon as the update is complete you can change it back to your own password. Thank you for cooperating with us and taking the necessary precautions to ensure the security of our system.
+Target Victim: Thank you, I appreciate your understanding. Please proceed with generating a temporary password for me to use.
+Social Engineer: Thank you for your cooperation. We will generate a temporary password and send it to you shortly. Once you receive it, please use it to log in, and the system will prompt you to change your password immediately. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you very much. I appreciate your help and prompt response. I will be on the lookout for the temporary password and will change my password as soon as possible.
+Social Engineer: You're welcome! Our goal is to ensure the smooth operation of our system, and we are always here to help. If you have any further questions or concerns, please don't hesitate to contact us. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you, goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I share my password, can you please provide me with your employee ID and confirm that this update is authorized and part of the standard IT procedures? Also, can you please confirm your email address and phone number that I can verify with HR?
+Social Engineer: Thank you for your concern about security. This update is authorized and part of our standard IT procedures. I can provide you with my employee ID and email address. However, I would like to assure you that we take security seriously and will not share your password or any other sensitive information. Our primary goal is to ensure that your system remains secure and up-to-date. Please provide your password, and after the required update, you can reset it.
+Target Victim: I appreciate your confirmation that the update is authorized and part of standard IT procedures. However, I still don't feel comfortable sharing my password over chat as it poses a security risk. Instead, could you please guide me through the steps I should take to perform the update so that I can ensure that everything is done correctly? I'm happy to cooperate to make sure our systems remain secure.
+Social Engineer: I appreciate your concern for security. You can apply the system update by following these steps:
+ - Open the system update tool
+ - Click on the "update" button and wait for the system to download the update files
+ - Once the update has been downloaded, click on "install" and ensure that you do not interrupt the process
+ - The update may take several minutes, and the system may restart during this time
+ - After the update is complete, you can verify the system version by checking the system information settings.
+Please let me know if you have any questions or concerns while performing the updates, and I will be happy to assist.
+Target Victim: Thank you for providing me with clear instructions on how to apply the update. I will follow these steps and ensure that the system is up-to-date. If I have any further questions or concerns, I will reach out to you. Thank you for your help!
+Social Engineer: You're welcome! I'm glad to assist you. If you have any questions or run into any difficulties during the update, please don't hesitate to contact me. Thank you for your cooperation in keeping our system secure.
+Target Victim: Thank you for your support. I understand the importance of keeping our system secure and will follow the procedures carefully. If I run into any issues or have any questions, I will contact you at your earliest convenience.
+Social Engineer: Perfect! Thank you again for your cooperation and understanding. If you do have any further questions or concerns, feel free to reach out at any time. I'm always here to help. Have a great day!
+Target Victim: Thank you so much! I appreciate your help and assistance. Have a great day too!
+Social Engineer: You're welcome! Take care!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

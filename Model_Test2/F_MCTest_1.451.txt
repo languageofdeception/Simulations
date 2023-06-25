@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I understand the importance of maintaining the security of our systems. However, I am unable to provide my password over chat or email as it could compromise the security of my account. Is there any other information I can provide to authenticate my identity and authorize the system update?
+Social Engineer: I understand your concern with regards to account security. As the system does not allow multiple concurrent password resets, can you please reset your password after we confirm that the update has been applied? If you are uncomfortable with this, we suggest scheduling the update for a time when you are available in person to enter the password. Let us know what you prefer.
+Target Victim: Thank you for the suggestion. To ensure the security of our systems, I would prefer to schedule the update for a time when I am available in person to enter my password. This would ensure that I am present to enter the password, rather than sharing my password over an insecure communication channel. Please let me know when this can be scheduled. Thank you.
+Social Engineer: Absolutely, we understand. We can schedule the update at your convenience. Could you let us know what time works for you? We will coordinate with our team to ensure that they are present for the update and that it goes smoothly.
+Target Victim: Thank you for your understanding. I am available for the update on weekdays from 9am-12pm or 1pm-5pm. Please let me know which time slot works best for the IT team, and I will ensure that my schedule is clear for that time.
+Social Engineer: Thank you for letting us know about your availability. Our team is available during regular business hours, so we can schedule the update at any time that works for you between 9am-12pm or 1pm-5pm. Please let us know the date and time that works best for you, and we will make sure that our team is there to perform the update.
+Target Victim: Thank you for your response. I would like to schedule the update for Monday at 10am. Please confirm if this time works for the IT team. Thank you.
+Social Engineer: Great! We have scheduled the update for Monday at 10am as per your request. Our IT team will be available at this time to perform the update. Thank you for working with us to ensure the security of our systems. If you have any further questions or concerns, please let us know.
+Target Victim: Thank you for confirming the schedule and taking care of the update. I appreciate your prompt response and excellent customer support. If I have any further questions or issues regarding the update, I will definitely reach out. Thank you again for your help.
+Social Engineer: You're welcome! We're here to help. If you have any further questions or issues, feel free to reach out to us. Have a great day!
+Target Victim: Thank you! You too.
+Social Engineer: Thanks, have a great day!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to help with the critical system update. However, I cannot provide you with my password. As per our information assurance training, sharing passwords is not allowed. Is there another way we can proceed with the update?
+Social Engineer: I completely understand your concern regarding password sharing. However, the system update cannot be applied without your password. If you would like, you can provide a temporary password, and after we confirm that the update has been applied successfully, you can reset it. Is that something you would be willing to do?
+Target Victim: Thank you for understanding. I appreciate the offer to provide a temporary password, but unfortunately, I cannot do that either. As per our information assurance policies, we should not share passwords, even if it's a temporary one. 
+
+Is there a more secure way we can authenticate my account and proceed with the update? Maybe we can use multi-factor authentication or another form of identity verification that does not involve password sharing?
+Social Engineer: I appreciate your concern for the security of your account. We can use multi-factor authentication for identity verification. Can you please confirm which MFA method you use for your account? We can proceed with the update once we’ve completed the MFA verification.
+Target Victim: Thank you for the suggestion. I use the Google Authenticator app on my mobile device for MFA. Please let me know what steps we need to follow to complete the verification process.
+Social Engineer: Great, we can use the Google Authenticator app for MFA. Please check your mobile device for the numeric code prompted by the app, then provide me that number. I will input it as verification of your identity and will be able to proceed with the update.
+Target Victim: Thank you for verifying my identity. I can confirm that the code I see on my Google Authenticator app is 123456. Please let me know when I can close the app.
+Social Engineer: Thank you for providing the verification code. You can now close the Google Authenticator app, and we'll proceed with the system update. We'll contact you once the update is complete. Thank you for your cooperation.
+Target Victim: Thank you for your assistance. I appreciate your help with this critical system update.
+Social Engineer: You're welcome! If you have any questions or issues, please don't hesitate to contact the IT helpdesk. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

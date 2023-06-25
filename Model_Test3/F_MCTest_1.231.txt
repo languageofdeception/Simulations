@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. As per our company's information assurance policy, I am not permitted to share my password, even for critical system updates. Is there another way we can perform the update?
+Social Engineer: I understand the security policy, but unfortunately, there is no other way to apply this update. If you want, you can provide me with a temporary password, and then reset it once we have confirmation that the update has been applied successfully. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for understanding the importance of our security policy. I appreciate your suggestion, but I do not feel comfortable providing a temporary password. Can you please provide me with more information about what the update involves and why it requires my password?
+Social Engineer: I completely understand your concerns. The system update involves a security patch for the software you are currently using. This patch requires your password to be applied because it will be updating some of the security features related to your login credentials. Our system's security protocols require user authentication for any change to the security settings involving login credentials.
+Target Victim: Thank you for the explanation. I appreciate your efforts to safeguard our system security. In that case, I will provide my password for the update, but please ensure that you reset it to a new password immediately after the update is complete, just to ensure all security measures are adequately implemented.
+Social Engineer: Understood, thank you for providing your password for the update. I will ensure that we reset it immediately after the update, and I will inform you as soon as the update has been completed successfully. Thank you for your cooperation.
+Target Victim: Thank you for your assistance. I look forward to hearing from you soon and learning that the update was successful.
+Social Engineer: You're welcome. I will keep you informed. If you have any other questions or concerns, please let me know. Have a great day!
+Target Victim: Thank you! You too!
+Social Engineer: Thank you. Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity and provide more details on the system update and why my password is needed?
+Social Engineer: Of course, our team has been authorized to perform the system update by our IT manager. Your password is needed to complete the process and ensure that the update runs smoothly. For verification, I can provide you with my employee ID and you can contact our IT manager for confirmation as well.
+Target Victim: Thank you for the explanation. For security purposes, I prefer not to share my password over chat. Is there another way we can verify my identity or complete the update without having to provide my password?
+Social Engineer: Understandable. We can provide you with a temporary password that you can change once the update is complete. Would you be willing to create a temporary password for us to complete the update? This will allow us to access your account and complete the update, without requiring your actual password.
+Target Victim: Yes, I can create a temporary password for you to use. Please provide me with the format requirements for the password so I can generate a strong one.
+Social Engineer: Great! The password should be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, and one number. It can also contain special characters if you prefer. Please let me know once you have generated the temporary password so we can proceed with the update.
+Target Victim: Thank you for the format requirements. I have generated a strong temporary password for you to use: T3mp@ssw0rd. Please let me know once the update is complete, so I can change my password to something more secure again.
+Social Engineer: Thank you! I have confirmed the temporary password works, and the system update has been completed successfully. You can change your password to a more secure one at any time. Thank you for your cooperation!
+Target Victim: Glad to hear the update went well. I will change my password immediately and ensure it is a strong and secure one. Thank you for your help and have a great day!
+Social Engineer: You're welcome! If you have any further questions or issues, don't hesitate to contact us again. Have a great day!
+Target Victim: Thank you, I will keep that in mind. Have a great day too!
+Social Engineer: Thank you! Goodbye!

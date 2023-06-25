@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for the update, however, I am hesitant to provide my password as it is sensitive information. Is there any other way we can facilitate the system update process?
+Social Engineer: Unfortunately, there is no other way to perform this update without your password. However, we suggest that you send us your current password and reset it afterward. This way, we can apply the update, and you can have your password changed for security purposes.
+Target Victim: Thank you for the suggestion. In that case, my current password is P@ssw0rd. Please let me know once the update has been completed so I can proceed with resetting my password.

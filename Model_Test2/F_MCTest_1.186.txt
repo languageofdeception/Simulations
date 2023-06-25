@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi IT support, I understand the need for system updates, but I cannot give out my password over chat for security reasons. Is there another way to verify my identity or complete the update without revealing my password?
+Social Engineer: We completely understand the security concerns, but unfortunately, the only possible way to apply this update is by you supplying your password. If you can't provide your password, we suggest you send your current password, and then reset it after you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets. Can you please send your current password for us to proceed with the update?
+Target Victim: I appreciate your explanation, however, sending my password via chat is not a secure method and may compromise my account's integrity. Instead, would it be possible for you to send me a link to a secure portal or email me with further instructions and details about the update so I can verify the authenticity of the request and complete the necessary steps to apply the update?
+Social Engineer: Absolutely. We understand your concern for security and privacy, so we will send you an email with an encrypted link to a secure portal. You can follow the instructions on the portal to complete the necessary steps to apply the update. Please check your inbox and spam folder for an email from us. Let us know if you have any questions or issues.
+Target Victim: Thank you for your prompt response and understanding regarding security concerns. I appreciate your help and look forward to following the necessary steps to apply the update.
+Social Engineer: You're welcome. We always prioritize security and privacy for our users, and we appreciate your understanding in this situation. If you have any further questions or issues, please don't hesitate to reach out to us. We're always here to assist you.
+Target Victim: Thank you, IT support. I will keep that in mind and contact you if I have any questions or run into any issues. Have a great day!
+Social Engineer: You're welcome, and have a great day ahead as well! Don't hesitate to reach out if you need any further assistance.
+Target Victim: Will do. Thanks again.
+Social Engineer: You're welcome, take care!
+Target Victim: You too!
+Social Engineer: Thank you!

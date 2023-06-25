@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons I cannot provide my password over an unsecured chat client. Can you please provide me with more information about this critical system update?
+Social Engineer: Sure, the critical system update is related to a security vulnerability that needs to be patched as soon as possible. It is a time-sensitive matter and the update needs to be completed urgently to prevent any potential security breach. We appreciate your concern for security, but we assure you that the password will be used only for this specific purpose and will not be shared with anyone.
+Target Victim: Thank you for clarifying the situation. I understand the importance of security and will provide my password to facilitate the update. My password is P@ssw0rd. Please let me know if there is anything else I need to do to assist with the update.

@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but can you please verify your identity before I provide you with my password?
+Social Engineer: Absolutely, I am [insert name] from the Corbins IT helpdesk support team. Is there anything else you need me to provide to verify my identity?
+Target Victim: Thank you for providing your name. To ensure security, could you also provide me with the ticket number or any other identifying information related to this critical system update?
+Social Engineer: Sure, the ticket number for this critical system update is [insert ticket number]. Can you please provide me with your password now so we can start the update? If you are worried about security, we recommend providing your current password and then reset it after we confirm the update is complete.
+Target Victim: Thank you for providing the ticket number. However, I cannot provide you with my password as it goes against company policy and puts both my personal and company information at risk. Is there any other way we can proceed without my password?
+Social Engineer: I completely understand your concerns with sharing your password. Unfortunately, the system update can only be completed with your password due to system restrictions. If you prefer, we can schedule a time to update your password after the critical system update has been completed. Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for understanding my concerns. In that case, I will provide you with my password. My current password is P@ssw0rd. Please let me know once the critical system update is complete and confirm if any further action is required from my end.

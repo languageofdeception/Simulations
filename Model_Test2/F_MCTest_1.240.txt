@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please confirm your identity and provide me with more details about the critical system update? Also, never share my password with anyone, including IT support.
+Social Engineer: Absolutely, my name is [Your Name] and I am an IT support technician at Corbins. The critical update is necessary to improve the security and performance of our systems. I fully understand your concern about sharing your password and I assure you that it will be kept confidential. As an alternative, we can also use a temporary password. However, please note that you will need to reset your password immediately after we confirm that the update has been applied since our system does not allow multiple concurrent password resets.
+Target Victim: Thank you for confirming your identity and providing me with more details. I appreciate your concern for security and agree to using a temporary password. Please provide me with the temporary password so that we can proceed with the update.
+Social Engineer: Thank you for your cooperation. I have generated a temporary password for you. Please use the password "Update123" to log in and let us know once you have logged in so we can proceed with the update. Please remember to reset your password after the update has been applied for security reasons.
+Target Victim: Thank you. I have logged in with the temporary password "Update123". You can proceed with the update now.
+Social Engineer: Thank you for confirming. We will now proceed with the critical system update. We will notify you once the update has been successfully applied. Please reset your password immediately after you receive confirmation that the update has been completed.
+Target Victim: Thank you for your assistance. I will reset my password as soon as I receive confirmation that the update has been completed.
+Social Engineer: You're welcome. We will continue monitoring the system after the update, and if you encounter any issues, don't hesitate to contact us again. Thank you for your cooperation.
+Target Victim: Thank you for your prompt response and support. I will contact you if I face any issues after the update. Have a great day!
+Social Engineer: You're welcome, happy to help. Have a great day too!
+Target Victim: Thank you!
+Social Engineer: No problem, have a great day ahead!

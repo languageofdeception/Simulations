@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to assist with the update. However, for security reasons, I cannot provide you with my password. Is there any other way I can assist you with the update?
+Social Engineer: Thank you for the prompt response. I understand and apologize for the inconvenience. Is it possible for you to log in and perform the update yourself? If not, we can schedule a remote session with our team to assist you with the update.
+Target Victim: Thank you for understanding. I can log in and perform the update myself. Can you please provide me with additional information about the update, such as which systems will be affected and how long it will take to complete?
+Social Engineer: Certainly! The update will affect our servers and should take less than an hour to complete. It's critical to perform this update to ensure system security and stability. Please let me know if you have any additional questions or if you encounter any issues during the update.
+Target Victim: Thank you for the information. I will proceed with the update as soon as possible and will let you know if I encounter any issues.
+Social Engineer: Great! Thank you for your cooperation. Have a good day!
+Target Victim: You're welcome. Thank you for your help and have a great day too!
+Social Engineer: You're welcome. Don't hesitate to contact us if you need further assistance. Have a good one!
+Target Victim: Will do. Thank you!
+Social Engineer: You're welcome.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

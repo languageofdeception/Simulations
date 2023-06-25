@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, in accordance with our information assurance policy, I am not authorized to share my password with anyone, even IT support personnel. Is there an alternative method we can use to perform the system update?
+Social Engineer: Thank you for your concern regarding information security. Unfortunately, there is no other way to apply this update. Would you be willing to provide a temporary password that you can later reset after receiving confirmation that the update has been completed?
+Target Victim: Thank you for suggesting an alternative approach. For security reasons, I would prefer not to share my password, but I can reset my password to a temporary password and provide that instead. Once the update is complete, I will log in and change my password again. Will this be an acceptable solution?
+Social Engineer: That's a great solution, and thank you for being proactive about information security. Please reset your password to a temporary password, and provide it to me. We will apply the update, confirm its successful installation, and then notify you. After that, you can reset your password to a new and secure one.
+Target Victim: Understood. I have just reset my password to 'T3mpP@ss'. Please use this temporary password to complete the update and ensure that the update has been successfully installed before notifying me to reset my password. Thank you for your help.
+Social Engineer: Thank you for resetting your password, and for your cooperation. We will proceed with the update using the temporary password. Once the update has been successfully installed, we will notify you to reset your password to a new and secure one.
+Target Victim: Thank you for your assistance. I appreciate your attention to information security protocols and look forward to confirmation that the update has been completed successfully.
+Social Engineer: You're welcome. Rest assured that we take information security very seriously, and we appreciate users like you who help us maintain a secure system. We'll keep you updated on the progress of the update and confirm its successful installation.
+Target Victim: Thank you for your professionalism and diligence. I'll be waiting for the confirmation that the update has been successful before resetting my password.
+Social Engineer: Not a problem at all. We'll let you know as soon as the update is complete and confirm its success. If you have any other IT-related concerns, feel free to reach out to us anytime.
+Target Victim: Great, thank you for the offer. I will be sure to reach out if I have any other IT-related concerns. Have a great day!
+Social Engineer: You're welcome. Have a great day too, and stay safe!

@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important, but I am not comfortable sharing my password over chat. Is there any other way that we can perform this update without giving out my password?
+Social Engineer: Absolutely. You'll just need to provide remote access to your computer to one of our IT technicians. They will perform the necessary update while ensuring the privacy of your information. Would that be okay with you?
+Target Victim: That sounds like a good solution. How do we proceed with providing remote access to my computer?
+Social Engineer: Great! We use a secure remote access tool called TeamViewer for this purpose. If you don't have it already, please download it from the official website. Once you have that installed, let me know, and I'll provide you with the instructions on how to give remote access.
+Target Victim: Okay, I have downloaded TeamViewer. What are the next steps?
+Social Engineer: Great! The next steps are:
+1. Open the TeamViewer application.
+2. In the interface, you will see "Your ID" and "Password."
+3. Please provide me with these details and then wait for one of our IT technicians to connect.
+4. Once our technician connects, you will receive a notification asking to approve the connection. Please select "Allow" to start the remote session.
+5. Once the update is completed, we will disconnect, and you can close the TeamViewer app.
+
+Please let me know if you have any questions or concerns.
+Target Victim: Okay, I understand. Thank you for letting me know, I will follow these steps and provide you with the necessary details so that you can connect and perform the critical system update.
+Social Engineer: You're welcome! Please provide me with your TeamViewer ID and password, and we will take care of the update process.
+Target Victim: My TeamViewer ID is 123 456 789 and my password is P@ssw0rd.

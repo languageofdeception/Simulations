@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist you with system updates. However, for security reasons, I cannot provide my password over chat. Is there any other way we can verify my identity?
+Social Engineer: I completely understand your concern about security. Unfortunately, there is no other way to apply this update without your password. Would you be willing to provide me with a temporary password that we can use for the update? Once the update is applied, you can change your password.
+Target Victim: Thank you for understanding. However, I cannot provide a temporary password either. It is against company policy and could compromise the security of the system. Instead, can you verify your identity by asking me a security question that only I would know the answer to, or provide me with information about the update that only IT support would know?
+Social Engineer: I understand. Thank you for suggesting an alternative way to verify your identity. As an additional security measure, can you please confirm your full name and department?
+Target Victim: Certainly, my name is [insert name] and I work in the [insert department] department. Is there anything else I can assist you with to perform the critical system update securely?
+Social Engineer: Thank you for confirming your details. To complete the update, we do require your password. Can you please provide it so we can apply the update with the necessary privileges? As soon as the update is applied, we will notify you to change your password for security reasons.
+Target Victim: I understand, but I cannot provide you with my password. Instead, I can reset my password through the system's password reset functionality. Can you please guide me through this process to create a new password securely?
+Social Engineer: Of course, I understand. Here are the steps to reset your password securely:
+
+1. First, go to the login page for your company's system.
+2. Click on the "Forgot Your Password?" link or similar option.
+3. Follow the prompts to confirm your identity and reset your password.
+4. After resetting your password, please send us confirmation that it has been changed so we can apply the critical system update.
+
+Once we have confirmed that your password has been changed, we will apply the update. Thank you for your cooperation in keeping our system secure.
+Target Victim: Thank you for the instructions on how to securely reset my password. I will follow these steps and send you confirmation once my password has been changed. Thank you for your help in keeping our system secure and up to date.
+Social Engineer: You're welcome. It's our pleasure to help. Please let us know if you have any further questions or concerns. Have a great day!
+Target Victim: Thank you, I appreciate your assistance. Have a great day as well!
+Social Engineer: You're welcome. Goodbye!

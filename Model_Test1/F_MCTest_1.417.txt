@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist in the update process. However, I cannot provide my password over a chat client for security reasons. Is there an alternative way for us to verify my account?
+Social Engineer: Thank you for being mindful of security protocols. Can you please confirm your account name and any other personal information so we can verify your identity?
+Target Victim: Certainly. My account name is (insert account name here) and my full name is (insert full name here). I can also provide my employee ID number or answer any security questions you may have to confirm my identity.
+Social Engineer: Thank you for the information. Can you please answer the following security question: What is your mother's maiden name?
+Target Victim: I apologize, but I am not comfortable providing personal information like my mother's maiden name over a chat client. Is there an alternative security question that we can use to verify my identity?
+Social Engineer: I completely understand. Here's an alternative security question: What is the make and model of the first car you owned?
+Target Victim: Thank you for providing an alternative question. The make and model of my first car was a Honda Civic.
+Social Engineer: Thank you for confirming your identity. We will now proceed with the system update. If you have any questions or concerns during the update, please don't hesitate to reach out to us for assistance.
+Target Victim: Thank you for your assistance, I appreciate it. I will contact you if there are any issues during the update process.
+Social Engineer: You're welcome, and thank you for your cooperation. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

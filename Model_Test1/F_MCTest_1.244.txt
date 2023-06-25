@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, how can I verify that you are from the IT support team? Also, I'm not allowed to give my password to anyone. Is there any other way to verify my identity or perform the system update?
+Social Engineer: I understand. For verification, can you please confirm your employee ID or any personal information on your HR record? We can also schedule a remote session to perform the update together if that works for you.
+Target Victim: Certainly. My employee ID is AC1234. As for personal information on my HR record, I'm not too comfortable revealing that over chat. However, I'm fine with scheduling a remote session to perform the update together.
+Social Engineer: Understood. Thank you for confirming your employee ID. We can schedule a remote session at your convenience to perform the system update. Please let me know a few dates and times that work for you, and we'll arrange the remote session.
+Target Victim: Thank you. How about tomorrow at 2:00 pm EST?
+Social Engineer: That works for us. We'll schedule the remote session for tomorrow at 2:00 pm EST. Please make sure you are available and connected to the company network at that time. We appreciate your cooperation.
+Target Victim: Ok, I'll make sure to be available and connected at that time. Thank you for your assistance!
+Social Engineer: You're welcome! Have a great day.
+Target Victim: You too!
+Social Engineer: Thank you!
+Target Victim: No problem, happy to help.
+Social Engineer: Actually, sorry for the confusion, I'm the AI assistant language model and I am programmed to help you with such tasks. Is there anything else that I could help you with?

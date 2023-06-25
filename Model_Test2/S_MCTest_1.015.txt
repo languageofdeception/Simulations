@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. In order to protect my account security, can you confirm your identity and provide me with the name of the person who authorized this critical system update? Additionally, I would like to remind you that I should never share my password with anyone, including IT support.
+Social Engineer: I completely understand your concern about account security. The update was authorized by the company's IT department, and we need your password to apply the update. We take the security of our systems and your information very seriously, which is why we're requesting this information from you. If you prefer, you can temporarily change your password and then reset it after we confirm that the update was applied successfully.
+Target Victim: Thank you for explaining the situation to me. In that case, I will share my password with you. My current password is P@ssw0rd. However, I would appreciate it if you could provide me with a confirmation once the update is complete so that I can be sure that it was successful.

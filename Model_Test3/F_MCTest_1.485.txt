@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello IT support, I understand that system updates are necessary for security and maintenance purposes. However, I cannot provide you with my password as it goes against our company's information assurance policy. Is there any other way I can assist with the system update?
+Social Engineer: Thank you for understanding. Unfortunately, there is no other way to apply this update except with your password. However, if you'd like, you can provide me with a temporary password that you can reset later after we've confirmed the update has been applied.
+Target Victim: Thank you for offering me an alternative. However, I cannot provide a temporary password either as it is not a secure practice. Instead, can you please provide me with more details on the update and why my password is needed? I can then verify this with my manager and follow the proper procedures for password sharing if necessary.
+Social Engineer: I understand your concern, and I apologize for any inconvenience this may cause. Unfortunately, the details of the update are sensitive and cannot be shared with non-IT staff. Additionally, your password is needed to ensure that the update is applied as smoothly as possible, as the system does not allow multiple password resets at once. If your manager needs more information, I can provide a brief summary of the update via email.
+Target Victim: I appreciate your explanation. As an employee, I understand the importance of protecting our sensitive information and systems. In that case, please provide me with the summary of the update and I will forward it to my manager for confirmation. We can follow the proper procedures for password sharing if necessary.
+Social Engineer: Thank you for your cooperation. The system update involves a critical security patch that prevents unauthorized access to our company's database. It is essential that the update is applied as soon as possible to avoid any potential breaches. Please let me know if you have any additional questions or concerns.
+Target Victim: Thank you for providing me with the details. I recognize the importance of protecting our data from unauthorized access. I will consult with my manager and follow the proper procedures for password sharing. Thank you again for your assistance with this matter.
+Social Engineer: You're welcome, and thank you for your cooperation in ensuring the security of our systems. Please let me know if you have any more questions or need further assistance.
+Target Victim: Thank you, I will definitely reach out to IT support should I require any further assistance with our systems. Have a great day!
+Social Engineer: You too, have a great day!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

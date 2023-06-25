@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you with my password, may I ask for more information about the critical system update? What kind of update is it and what does it involve? Also, can you please confirm that you are part of the legitimate IT support team authorized to perform this update?
+Social Engineer: Thanks for asking! The update is a security patch to fix a vulnerability that's been detected. Unfortunately, we are not able to disclose further information for security reasons. Rest assured that I am a legitimate IT support technician from Corbins. May I please have your password so we can proceed with the update?
+Target Victim: I appreciate you taking the time to explain the nature of the update. However, as per Corbins' information assurance policies, it is important that I do not disclose my password to anyone, even if they claim to be part of the IT support team. Instead, can you please provide me with specific instructions on how I can change my password or access the update through a secure portal? This will help ensure that our system remains secure while still allowing for necessary updates.
+Social Engineer: I completely understand and appreciate your concern for security. To update your password, please follow the steps below:
+
+1. Log in to your account.
+2. Navigate to your account settings.
+3. Click on the "Change Password" button.
+4. Enter your current password and choose a new password that meets the system's password requirements.
+5. Save your new password.
+
+Alternatively, if you prefer to provide a temporary password for the update, you can do so, but please reset your password as soon as you receive confirmation that the update has been applied. Please note that the system only allows for one password reset at a time, so we recommend resetting your password immediately after the update.
+
+Thank you for your cooperation and understanding in maintaining the security of our systems.
+Target Victim: Thank you for providing these instructions. I will proceed to change my password following these steps. If there are any issues or concerns after the update, I will be sure to reach out to the IT support team for further assistance. Once again, thank you for your help and commitment towards ensuring the security of our systems.
+Social Engineer: You're welcome! If you have any further questions or concerns, please don't hesitate to contact us. We are always here to help.
+Target Victim: That's great to know. Thank you for your prompt support and the valuable insights you have provided. I appreciate your help and I will definitely reach out again if I have any more questions or concerns.
+Social Engineer: You're welcome! We are always happy to help. Don't hesitate to reach out anytime. Have a great day!
+Target Victim: Thank you, you too.
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Take care!

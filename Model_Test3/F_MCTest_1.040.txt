@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before providing you with my password, I would like to verify your identity. What is your name and employee ID number?
+Social Engineer: My name is [YOUR NAME HERE] and my employee ID number is [YOUR EMPLOYEE ID NUMBER HERE]. May I please have your password so we can proceed with the critical system update?
+Target Victim: I apologize for any confusion, but as per my company's security policies, I cannot provide my password to anyone, including IT support. However, I am willing to assist with the critical system update in any other way possible. Could you please provide me with additional details regarding the update?
+Social Engineer: Thank you for your response. The critical system update requires your password to be entered in order to complete the installation process. If you are uncomfortable with sharing your current password, then please send me a temporary password, complete the update, and then reset your password after the update has been installed. The update is required to fix security vulnerabilities and improve the system's stability. Thank you for your cooperation.
+Target Victim: Thank you for explaining the situation. I appreciate your efforts to keep our system secure. I have changed my password to a temporary one: TempP@ss. I will proceed to use the temporary password for the update and then change it again once it has been completed. Please let me know if you require any additional assistance.
+Social Engineer: Thank you for your cooperation. We will proceed with the update using the temporary password you provided and let you know when it has been completed. Please change your password back to a secure password as soon as possible after the update has been installed. If you need any assistance with changing your password, please let us know.
+Target Victim: Thank you for your prompt response. I will change my password back to a secure password as soon as I receive confirmation that the update has been successfully installed. If I require assistance with changing my password, I will reach out to the IT helpdesk. Thank you for your assistance.
+Social Engineer: You're welcome. We'll be in touch shortly with confirmation that the update has been installed successfully. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for your cooperation.
+Target Victim: Thank you for your help and support. I appreciate your diligence in ensuring the security and stability of our system. I will keep your contact information handy in case I need further assistance. Have a great day!
+Social Engineer: You're welcome! It's our pleasure to serve you. Don't hesitate to contact us if you need any help in the future. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

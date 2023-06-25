@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates. To verify my identity, may I confirm some details before sharing my password?
+Social Engineer: Absolutely, please go ahead and confirm your details so we can proceed with the update process.
+Target Victim: Thank you. My full name is [Your Full Name] and my employee ID is [Your Employee ID].
+Social Engineer: Great, thanks for verifying your details. Please provide me with your password, and I'll apply the necessary updates. 
+
+If it's okay with you, we recommend that you share your current password and reset it later. This is because the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for the recommendation, and for helping keep our systems secure. My password is: P@ssw0rd. Please let me know once the updates have been applied.

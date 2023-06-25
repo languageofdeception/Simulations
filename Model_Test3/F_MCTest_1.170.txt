@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As per information assurance guidelines, I am not authorized to share my password with anyone. May I confirm your identity and the reason for needing my password? Also, can you provide me with the ticket number for this system update?
+Social Engineer: Hi, I understand your concern. I am from the IT department and we need your password to apply a critical system update. The ticket number for this update is #123456. Please note that if you prefer, you can send your current password and then reset it after we confirm that the update has been applied. The system does not allow multiple concurrent password resets.
+Target Victim: Thank you for providing the ticket number. In accordance with our information assurance policies, I will not provide my password over this chat client. However, I will be happy to verify my identity and reset my password after you apply the update. Please let me know once the update has been completed so that I can proceed with resetting my password. Thank you for your understanding.
+Social Engineer: Understood. Once the update has been completed, I will send a confirmation message and you can proceed with resetting your password. Thank you for your cooperation in ensuring the security of our system.
+Target Victim: Thank you for your understanding. Protecting our systems and data is a priority, and I appreciate your efforts to maintain security. I look forward to hearing from you once the update has been applied, so that I can reset my password.
+Social Engineer: You're welcome. I will be sure to keep you updated on the progress of the update. Thank you for your patience and cooperation.
+Target Victim: Thank you for your assistance. I will remain alert for any updates from you and am happy to help in ensuring a secure system for our organization.
+Social Engineer: You're welcome. Your cooperation is greatly appreciated and it helps to make our organization more secure. I will keep you updated on the status of the update. If you have any further questions or concerns, please don't hesitate to contact me.
+Target Victim: Thank you for your help. Your expertise is always appreciated, and I appreciate your willingness to keep me updated. I will let you know if I have any further questions or concerns. Have a great day!
+Social Engineer: You're welcome. It's my pleasure to assist you. Please feel free to reach out if you have any further questions or concerns. Have a great day too!
+Target Victim: Thank you, I appreciate it.
+Social Engineer: You're welcome.

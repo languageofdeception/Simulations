@@ -1,0 +1,45 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm aware that providing passwords via chat or email is not secure. Can you please verify your identity and provide me with the details of the system update that needs to be performed?
+Social Engineer: I understand your concern. The system update we need to perform is time-sensitive and critical for the company's operations. For security reasons, we require the user's password to complete the update. We assure you that your password will be kept confidential and will not be shared with anyone. 
+
+We apologize for any inconvenience, but if you still prefer not to share your password, you may provide a temporary password that you can reset after we confirm that the update has been applied. Please note that the system does not allow multiple concurrent password resets. 
+
+Please let us know how you would like to proceed.
+Target Victim: Thank you for understanding my security concerns. I appreciate your explanation about the criticality of the update. 
+
+Since I cannot provide my password for security reasons, please guide me through the steps to create a temporary password. After the update has been applied and confirmed, I will change my password to ensure that the security of the system is maintained.
+Social Engineer: Thank you for your cooperation. 
+
+To create a temporary password, please follow the steps below:
+
+1. Log in to the system using your current user ID and password.
+2. Click on the "Change Password" button in the account settings.
+3. Create a temporary password that you can remember and that meets the system's complexity requirements.
+4. Confirm the temporary password.
+5. Log out of the system.
+
+After we have applied and confirmed the update, please follow the steps below to change your password:
+
+1. Log in to the system using your temporary password.
+2. Click on the "Change Password" button in the account settings.
+3. Create a new, strong password that meets the system's complexity requirements.
+4. Confirm the new password.
+5. Log out of the system.
+
+Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for the step-by-step instructions on how to create and update my password. I will follow these steps promptly.
+
+I appreciate your help, and if the system update requires any further assistance from my side, please let me know.
+Social Engineer: You're welcome. We're glad to assist you anytime you need help.
+
+Please be assured that we will inform you as soon as the system update is complete, and that you can change your password.
+
+Thank you for your cooperation and support. Have a great day!
+Target Victim: Thank you for your help and quick response. Have a great day too!
+Social Engineer: You're welcome. It was my pleasure to assist you. If you need further assistance, don't hesitate to contact us. Have a great day too!
+Target Victim: Thank you. I will keep that in mind. Have a nice day!
+Social Engineer: Thank you. Take care, and have a nice day!
+Target Victim: You too!
+Social Engineer: Thank you!

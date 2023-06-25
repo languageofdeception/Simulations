@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I want to confirm whether this update has been scheduled and announced ahead of time through official channels. Also, I am not comfortable providing my password over chat for security reasons. Is there any other way to verify my identity or complete this process securely?
+Social Engineer: Yes, this update has been scheduled, and an announcement has been sent out through official channels. Unfortunately, due to technical limitations, the only way to apply the update is by providing your password. However, if you are uncomfortable providing your password over chat, you can use a temporary password, but please ensure that you reset it immediately after we confirm that the update has been applied.
+Target Victim: Thank you for the confirmation. I understand the technical limitations, and I am willing to use a temporary password. Please provide me with the temporary password and any instructions on how to reset it. I will make sure to reset it as soon as possible.
+Social Engineer: Thank you for your cooperation. Here is your temporary password: Corbins#123. To reset it, please follow these steps: 
+
+1. Log in to your account using the temporary password.
+2. Navigate to your account settings.
+3. Click on the option to change your password.
+4. Enter your current temporary password as the old password.
+5. Set and confirm your new password.
+
+Once you have completed these steps, please notify me so that we can confirm that the update has been applied successfully.
+Target Victim: Thank you for providing the temporary password and the steps to reset it. I will apply the update and reset my password following the given instructions. I will notify you once the update has been applied and my password has been reset. Thank you for your help.
+Social Engineer: You're welcome. Please don't hesitate to contact us if you need any further assistance. We are always happy to help.
+Target Victim: Thank you. I will keep that in mind. Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you. Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Take care!
+Social Engineer: You too!

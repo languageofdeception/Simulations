@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I'm an employee at Corbins, but I cannot share my password, even with IT support. Is there any other way that you can perform the system update without me sharing my password?
+Social Engineer: Unfortunately, there isn't any other way. However, if it makes you feel more comfortable, you can provide a temporary password. Once the update is complete, you can reset your password. Please send your current password now, and we'll ensure that you reset it immediately once the update is complete. Thanks.
+Target Victim: I appreciate the explanation, but I'm still not comfortable with sharing my password. However, I can log in through a remote access tool and allow you to perform the update without sharing my password. Would that be possible?
+Social Engineer: Thank you for suggesting that. Yes, we can use a remote access tool for the update. Please let me know when you are ready to provide access, and I will provide you with instructions on how to do so.
+Target Victim: Great, I am ready to provide access. Please provide me with the instructions to set up the remote access tool.
+Social Engineer: Sure, to set up remote access, please follow these instructions:
+1. Download and install the remote access tool from this link: <insert link>.
+2. Once installed, open the tool and select "Allow access" on the window that appears.
+3. Please let me know when you've completed step 2, so I can proceed with the update on my end.
+
+Please let me know if you need any further instructions or if you face any issues during the installation process.
+Target Victim: Thank you for the instructions. I'll go ahead and download the tool now and provide access. I'll let you know as soon as I've completed step 2.
+Social Engineer: You're welcome. Take your time, and let me know if you need any help during the installation process. I'll be here waiting for your confirmation once you've completed step 2.
+Target Victim: I've installed the remote access tool, and I'm ready to provide you access. Please let me know how to proceed.
+Social Engineer: Great! Now please provide me with the ID and password that the remote access tool generated. Once you provide me with the details, I'll be able to remotely access your computer to perform the necessary update. Please note that we will make sure not to access any of your personal data.
+Target Victim: Thank you for assuring me. The ID is XXX-XXX-XXX and the password is P@ssw0rd.

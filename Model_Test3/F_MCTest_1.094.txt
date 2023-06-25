@@ -1,0 +1,33 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm my identity as an employee of Corbins but I cannot disclose my password. May I know what the critical system update is regarding?
+Social Engineer: Thanks for your reply. The critical system update is meant to fix a security vulnerability in the system that could lead to loss of important data. Without your password, we won't be able to apply this update. Would it be possible for you to temporarily provide us with your password? You can always reset it afterward.
+Target Victim: I appreciate your concern for data security, but as per our information assurance training at Corbins, sharing passwords is not allowed. Instead, would you mind verifying my identity by asking a few questions that only I, as an employee, can answer? Alternatively, we can also go through the standard password reset process if necessary.
+Social Engineer: Understandable. To verify your identity, could you please confirm your full name and employee ID, and answer the following security question: What was the name of your first pet?
+Target Victim: Certainly. My full name is John Smith and my employee ID is 12345. The name of my first pet was Max. Is there anything else I can provide to assist with the critical system update?
+Social Engineer: Thank you for confirming your identity. Unfortunately, due to the nature of this update, we still need to access your account with your password in order to apply it. If you are concerned about sharing your password, we suggest that you set a temporary password now and then reset it immediately after we have confirmed that the update has been successfully applied. This would still allow you to maintain control of your own account while enabling us to perform the necessary update.
+Target Victim: I appreciate the explanation, but for security reasons, I'm not comfortable with sharing or setting a temporary password. Can you please provide an alternative solution for performing the update or convince me of the necessity of sharing my password? I take data security seriously and want to follow the established procedures.
+Social Engineer: We understand and appreciate your vigilance with regard to data security. After looking into the issue further, we have discovered a workaround that does not require you to share your password.
+
+We can perform the critical system update by resetting your account's password, which you will then be allowed to change to a new password of your choosing upon logging in. This way, you do not have to share your existing password, and you will still be in control of your account's password at all times.
+
+Please let us know if you are comfortable with this modified approach to the update.
+Target Victim: Yes, I am comfortable with this modified approach. Please guide me through the necessary steps to reset my password.
+Social Engineer: Great! Here are the steps to reset your account's password:
+
+1. Navigate to the Corbins login page, and click on the "Forgot Password?" link.
+
+2. Enter your email address or username associated with your Corbins account, and click on "Submit".
+
+3. We will send you a password reset link to your registered email address. Please check your inbox and click on the link to reset your password.
+
+4. On the password reset page, enter your new password according to the guidelines, and click "Submit".
+
+5. Log in to your account with your new password, and perform any necessary system updates.
+
+6. After the update, please ensure that you change your password to a new one of your choosing to maintain security.
+
+Please let us know if you have any questions or issues during the process. Thank you for your cooperation and commitment to data security.
+Target Victim: Thank you for guiding me through these steps to reset my account's password. I have successfully completed the update and changed my password. I appreciate your help and commitment to security as well.
+Social Engineer: You're welcome, John. We're glad to hear that the update was successful and that you were able to reset your password without issues. If you have any further questions or concerns, please don't hesitate to reach out. Thank you for choosing Corbins and for your unwavering commitment to data security.

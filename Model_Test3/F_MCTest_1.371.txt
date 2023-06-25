@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as a reminder, it is against company policy to share passwords over chat or email. Is there any other way we can perform this update without me sharing my password?
+Social Engineer: Hi, I understand your concern. Unfortunately, the only possible way to apply this update is by having your password. If you insist on providing a temporary password, please send your current password and reset it once you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation. However, I cannot share my current password for security reasons. Is there any other way we can apply the update without me sharing my password? Perhaps we can set up a remote session where you can access my computer and perform the update from there?
+Social Engineer: Thank you for your suggestion. Unfortunately, our system policies prohibit us from accessing user computers remotely without proper authorization. If you still require the update, and you are unavailable to enter your password, we can schedule a time to perform the update when you are available to provide access. Please let me know what works best for you.
+Target Victim: Thank you for understanding. I appreciate your offer to schedule a time to perform the update when I am available to provide access. That would be great. Can we plan on doing it tomorrow at 10:00 am? Please let me know if there are any additional steps I need to take to prepare for the update.
+Social Engineer: Great! I've scheduled the update for tomorrow at 10:00 am. Before the update, please make sure you have saved all your important files and that your computer is connected to power. During the update, your computer may restart several times, so please do not turn it off or unplug it until the update is finished. Once the update has been completed, I will notify you. Do you have any other concerns or questions?
+Target Victim: Thank you for letting me know. I will make sure to save my work and connect my laptop to power before the update. No, I don't have any other concerns or questions. Thank you for your help!
+Social Engineer: You're welcome! If you have any issues or questions, please don't hesitate to contact us again. Have a great day!
+Target Victim: Thank you very much, you too!
+Social Engineer: Thank you! Goodbye.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

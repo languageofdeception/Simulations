@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the need to perform a critical system update, but I cannot share my password with you. Is there any other way we can ensure that the update is done securely without compromising my password?
+Social Engineer: I appreciate your concern for security. Unfortunately, the only possible way to apply this update is by using your password. If it helps, you can provide me with a temporary password and reset it after receiving a confirmation that the update has been successfully applied. Please let me know if this option works for you.
+Target Victim: I'm sorry, but sharing my current password or a temporary password is against our company's security policy. Is there any other way we can proceed with the update? Perhaps we can authenticate my identity through a verification process for added security?
+Social Engineer: Thank you for reminding me about the security policy. I appreciate your caution. We can proceed with the verification process to authenticate your identity securely. Please provide me with your full name and employee ID number, and I will guide you through the identity verification steps.
+Target Victim: Sure, my full name is Jane Doe, and my employee ID number is 12345. Please let me know the verification process, and I'll be happy to comply to make sure the update is done securely.
+Social Engineer: Thank you, Jane. I will now send you an email with detailed instructions on the verification process, which includes providing a valid government-issued ID and answering a few security questions. Once we verify your identity, we can proceed with the update securely without compromising your password. Please check your inbox and follow the instructions to complete the verification process.
+Target Victim: Thank you, I will check my inbox and follow the instructions to complete the verification process as soon as possible. I appreciate your assistance in ensuring the security of my password and our company's network.
+Social Engineer: You're welcome, Jane. I'm happy to assist you in any way I can. Please let me know once you have completed the verification process, and we can proceed with the update.
+Target Victim: Sure, I'll let you know as soon as I complete the verification process. Thank you again for your help.
+Social Engineer: You're welcome, Jane. I wish you all the best. Please don't hesitate to contact me anytime if you need further assistance.
+Target Victim: Thank you, I appreciate that. Have a great day!
+Social Engineer: You too!

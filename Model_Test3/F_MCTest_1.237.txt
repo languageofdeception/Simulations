@@ -1,0 +1,29 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I always follow the company's information assurance policy and procedures. As a reminder, I am not permitted to share my password with anyone, including IT support. Is there another way we can perform the critical system update that does not involve sharing passwords?
+Social Engineer: Thank you for being security-conscious! We appreciate your efforts in maintaining our company's security. Unfortunately, the critical system update can only be performed by someone with authorized access to your account. However, if you would prefer to provide a temporary password, you can send your current password and then reset it once the update has been applied. Please let me know your preference.
+Target Victim: Thank you for understanding my concerns and being committed to upholding our company's security. As per the standard practice, I can reset my password after the update has been applied. Please provide me with a temporary password, so I can proceed with the update now.
+Social Engineer: Thank you for your cooperation. For the temporary password, please provide me with your current password, and I will notify you once the update has been applied, and you can then reset your password.
+Target Victim: I apologize, but I cannot provide my current password as per the information assurance policy. Is there any alternative approach to update the system?
+Social Engineer: Thank you for your concern for security. In order to perform the system update, we need to access your account with your password. However, if you are uncomfortable providing your password, we can set up a remote screen-sharing session so that you can enter the password yourself on your computer while we perform the update. This option will allow us to complete the update without knowing your password.
+Target Victim: Thank you for suggesting this alternative approach. I am okay with setting up a remote screen-sharing session. Please let me know the instructions for establishing the screen-sharing session.
+Social Engineer: Great! To set up a screen-sharing session, we'll be using a secure screen-sharing application. Please follow these instructions to download and run the application:
+
+1. Browse to the following website: https://www.teamviewer.com/en/
+
+2. Click on the "Download for free" button to download the application.
+
+3. Run the application once downloaded, and then provide your unique ID and password to us via chat so that we can connect to your computer.
+
+With this approach, we ensure that you retain full control over your computer while we perform the update. Let me know if you have any questions about these steps.
+Target Victim: Thank you for the instructions. I will proceed with downloading the application and providing the unique ID and password to you via chat. If I have any questions or concerns, I will let you know.
+Social Engineer: You're welcome! If you need any assistance, don't hesitate to reach out to me. I'll be ready to assist you through the process.
+Target Victim: Thank you for your support. I have successfully downloaded and run the application. Here is my TeamViewer unique ID and password:
+
+ID: 123 456 789
+
+Password: Abc12345
+
+Please let me know once you are connected, and I'll stand by for the update to be performed.
+Social Engineer: Thank you for sharing your unique ID and password with me. I will now connect and begin the update process. I will let you know once the update is complete. Please remain connected during the whole process.

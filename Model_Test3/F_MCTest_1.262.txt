@@ -1,0 +1,41 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware of the importance of information security and it is not permitted to provide password through any medium including chat, emails or phone calls. May I know the purpose and procedure of this system update to ensure its legitimacy?
+Social Engineer: Thank you for bringing up your security concerns. We apologize for the inconvenience. The purpose of the system update is to patch a critical vulnerability that could potentially compromise the security of your account. We can assure you that our IT team is taking all necessary measures to ensure the legitimacy of this update. If you are still uncomfortable with providing your password, we can provide temporary credentials for you to use for the update and then reset it afterwards.
+Target Victim: Thank you for explaining the purpose of the update. I appreciate your efforts to protect the company's data. I would feel more comfortable with using temporary credentials to perform the update and resetting them afterward. Please let me know the steps to obtain and use the temporary credentials.
+Social Engineer: Great to hear that you're on board with using temporary credentials. Here are the steps:
+
+1. Please provide me with your current password so we can generate temporary credentials for you.
+
+2. Once the temporary credentials are generated, we will send them to you along with instructions on how to use them.
+
+3. You can then log in to the system using the temporary credentials and apply the update.
+
+4. After the update is applied, please reset your password as soon as possible to ensure continued security of your account.
+
+Please let me know if you have any questions or concerns.
+Target Victim: Thank you for the clear instructions. However, I am still not comfortable with providing my current password. Instead, can you guide me with the steps to reset my password? I will then reset my password and use the new password for performing the system update.
+Social Engineer: Certainly, I can walk you through the steps to reset your password. Here they are:
+
+1. Go to the login page of the system that you need to update.
+
+2. Click on the 'Forgot Password' link located below the password field.
+
+3. Enter your email address or username associated with your account, and click the Submit button.
+
+4. You will receive an email with a link to reset your password.
+
+5. Click on the link and follow the instructions to reset your password.
+
+6. Once you have reset your password, you can use the new password to log in and apply the system update.
+
+7. Please make sure to choose a strong password and keep it safe.
+
+Please let me know if you need any further assistance.
+Target Victim: Thank you for the detailed instructions. I will reset my password and complete the system update as soon as possible. Thank you for your help.
+Social Engineer: You're welcome! Feel free to reach out if you need any further assistance. We're always here to help.
+Target Victim: Sure, thank you for your support. Have a great day!
+Social Engineer: You too! Take care and stay safe.
+Target Victim: Thank you, same to you.
+Social Engineer: Thank you.

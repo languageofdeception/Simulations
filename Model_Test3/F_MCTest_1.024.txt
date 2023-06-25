@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, per our company's cybersecurity policy, I am not able to provide my password to anyone, including IT support. Is there an alternative way we can perform the critical system update?
+Social Engineer: I completely understand that, and we take security very seriously. Unfortunately, the only way to apply this update is by providing your password. If you insist on providing a temporary password, please send me your current password and reset it after receiving confirmation that the update has been applied.
+Target Victim: Thank you for understanding the importance of security. Since we are not permitted to share our passwords, is there any other way to verify my identity? Perhaps, we could use a multi-factor authentication process or provide additional identification information?
+Social Engineer: I appreciate your concern for security. We do have multi-factor authentication available, but in this particular case, it would not work because the system requires your password to perform the update. However, if you are uncomfortable providing your password, we understand. In this case, we can schedule an in-person verification of your identity before proceeding with the update. Please let me know if that is something you'd like to pursue.
+Target Victim: Thank you for offering an alternative solution. I think scheduling an in-person verification of my identity would be a good option. Can you provide me with more information on what the verification would entail and who I should contact to schedule it?
+Social Engineer: Of course! For the identity verification, we would require a government-issued ID such as a driver's license or passport. We will also need to verify that you are an authorized user of the account in question. Please reach out to our helpdesk team to schedule the verification. They will provide you with instructions on what to bring with you. Thank you for taking security seriously!
+Target Victim: Thank you very much for providing information. I will contact the helpdesk team to schedule an in-person verification.
+Social Engineer: You're welcome! Please don't hesitate to contact us if you have any further questions. Have a great day!
+Target Victim: Thank you and have a great day too!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: No problem, happy to help!

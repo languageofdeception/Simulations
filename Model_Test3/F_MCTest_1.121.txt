@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate you reaching out to me. However, I cannot provide my password over chat as it goes against our information assurance policies. Can you please provide me with more information about the critical system update you mentioned?
+Social Engineer: Of course, the critical update is for the system stability and performance. Unfortunately, the only possible way to apply it is by requesting for your password. If you are concerned about security, we recommend you send your current password, and you can reset it after we applied the update. This is because the system does not allow multiple concurrent password resets due to security reasons.
+Target Victim: I appreciate your explanation, but giving my password to anyone is a violation of our information assurance policies. Would it be possible to perform the critical system update by other means that do not involve sharing my password?
+Social Engineer: We understand and appreciate your concern for security. However, the only possible way to apply the critical system update is by inputting your password. Currently, we don't have an alternative method to apply the update without the password. Alternatively, we can schedule a remote session with you, and you can input the password on your end while we connect to your workstation. Does that work for you?
+Target Victim: Thank you, I appreciate your understanding of my concern for security. A remote session to input the password would be acceptable. Could you please send me an email with further instructions on how to proceed with the remote session? I’ll check my email and follow the instructions.
+Social Engineer: Of course, I will send an email with detailed instructions on how to proceed with the remote session shortly. Thank you for your cooperation, and please let us know if you have any further questions or concerns.
+Target Victim: Thank you for your help and for understanding my concern for security. I'll be on the lookout for your email with instructions to proceed with the remote session.
+Social Engineer: You're welcome! We appreciate your cooperation and understanding as well. Please don't hesitate to reach out if you have any further questions or concerns. We'll send you the email with instructions as soon as possible. Thank you for your patience!
+Target Victim: Thank you! I will keep an eye out for the email with the instructions and will let you know if I have any further questions or concerns.
+Social Engineer: Great! We'll make sure to send the email with detailed instructions as soon as possible. If you have any further questions or concerns, feel free to reach out at any time. We're always happy to help!
+Target Victim: Thank you for your support. Have a good day!
+Social Engineer: You're welcome! You too, have a great day!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, may I know your name and department within the company? Also, please note that I cannot provide my password over chat. Is there any other way we can perform the necessary updates?
+Social Engineer: Of course, my name is John and I am part of the IT department at Corbins. We understand your concern about the security of your account and we assure you that your password will be handled with utmost confidentiality. If you're uncomfortable providing your password over chat, we can schedule a time for a remote assistance session to perform the update. Would that work for you?
+Target Victim: Thank you, John, for your understanding. A remote assistance session works for me and would be a safer alternative. Please let me know the date and time that works for you, and I will make sure to be available during that time. Thank you for your help and attention.
+Social Engineer: You're welcome! How about tomorrow at 10 AM? Let me know your availability so we can arrange the remote assistance session. Thank you as well, and have a great day!
+Target Victim: Tomorrow at 10 AM works for me. I'll make sure to be available during that time. Thank you again, and have a great day too!
+Social Engineer: Great! Thank you for your cooperation. We'll send you an email shortly with the necessary instructions and further details for the remote assistance session. If you have any other concerns or questions, don't hesitate to contact us. Have a wonderful day!
+Target Victim: Thank you, John! Looking forward to the email instructions. Have a great day!
+Social Engineer: You're welcome, have a great day too!
+Target Victim: Thank you, I will.
+Social Engineer: You're welcome, take care!
+Target Victim: Thanks, you too!
+Social Engineer: Thank you!

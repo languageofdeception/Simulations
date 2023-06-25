@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the update. However, I'm not comfortable sharing my password over chat. Is there another way we can proceed with the update?
+Social Engineer: I completely understand your concern. We can try a remote session where I can do the update while you're present and can enter your password on your end. Does that work for you?
+Target Victim: Yes, a remote session sounds like a good solution. Can you provide me with the necessary instructions to start the session?
+Social Engineer: Sure, I can provide you with the necessary instructions and we can get started as soon as you're ready. Please follow these steps:
+
+1. Go to https://www.teamviewer.com/en/download/
+2. Download and install the free version of TeamViewer
+3. Provide me with your ID and password from the TeamViewer interface so I can join your session
+4. Once I'm connected, I'll perform the update while you enter your password on your end
+
+Let me know if you have any questions or encounter any issues during the process.
+Target Victim: Thank you for the instructions. I will go ahead and download and install the free version of TeamViewer now. Once it's installed, I'll provide you with my ID and password.
+Social Engineer: Great! I'll be standing by for your ID and password. Just let me know when you're ready to proceed with the remote session.
+Target Victim: I have successfully installed TeamViewer and my ID is 123 456 789. My password is P@ssw0rd (as mentioned before). Let me know once you have connected to my session.

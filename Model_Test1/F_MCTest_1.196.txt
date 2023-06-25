@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I am happy to help with the system update, however, I cannot provide my password over chat for security reasons. Is there any other way I can verify my identity to you?
+Social Engineer: Understood, thank you for being cautious. Can you please provide me with a phone number where we can verify your identity and get your password securely? We need to ensure that only authorized users have access to this sensitive information.
+Target Victim: Sure, you can verify my identity by calling me at (xxx) xxx-xxxx. I'll be happy to provide my password over the phone, or we can set up a secure method for me to change it after the update is complete.
+Social Engineer: Great, thank you for providing your phone number. We will give you a call shortly to confirm your identity and proceed with the update. Thank you for ensuring the security of our system.
+Target Victim: Thank you for understanding the importance of security. I'll be waiting for your call to proceed with the update.
+Social Engineer: You're welcome. Our team will give you a call as soon as possible to get this update done. Thank you for your patience!
+Target Victim: No problem at all, I am here to help. Thank you and looking forward to your call.
+Social Engineer: Thank you for your cooperation. We will contact you shortly. Have a good day!
+Target Victim: Thank you. Have a great day too!
+Social Engineer: You're welcome.
+Target Victim: Is there anything else I can help you with?
+Social Engineer: No, that's all for now. I appreciate your willingness to help us with this update. If we need anything else, I will definitely reach out. Thanks again and have a great day!

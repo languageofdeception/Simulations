@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I am aware of company policies regarding password protection. For security reasons, I cannot provide my password over chat. Can you please confirm the details of the critical system update so I can verify its legitimacy?
+Social Engineer: Yes, of course. We need to perform a critical security patch for a vulnerability that was discovered yesterday. It is essential to update all user accounts to prevent potential security breaches. Would you be able to provide your password securely over the phone or in person to one of our IT support staff?
+Target Victim: Thank you for explaining the situation. I understand the severity of security breaches and the need for immediate action. Can we schedule a time for a phone call, or can I confirm the identity of the IT support staff member before providing my password in person?
+Social Engineer: Certainly, a scheduled phone call works for us. We can coordinate a time that works best for you. Also, before providing your password in person, our staff members will have identification badges and will be wearing company uniforms. It is best to check their identification before providing any sensitive information. Thank you for your cooperation.
+Target Victim: Excellent. Please let me know when the scheduled call is confirmed, and I shall be available for it. Also, thank you for the reminder about checking the identification of any IT support staff member before sharing sensitive information. I will keep that in mind and ensure their credentials before sharing my password in person. Thank you for your understanding and help with keeping our company's data secure.
+Social Engineer: Thank you as well for your cooperation and understanding. I will coordinate with you regarding the scheduled call. Have a good day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you.
+Target Victim: You're welcome again. If you have any other concerns or questions, please don't hesitate to reach out.
+Social Engineer: Thank you. I'll keep that in mind.

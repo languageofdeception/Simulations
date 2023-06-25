@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to confirm, are you a legitimate member of the IT helpdesk team? For security reasons, I am unable to provide my password unless I can verify your identity.
+Social Engineer: Yes, I am a legitimate IT helpdesk support technician. If you require further verification, I can provide you with my employee ID and you can verify it with the IT department.
+Target Victim: Thank you for the response. I appreciate your willingness to assist. Could you please provide your employee ID so that I may verify your identity with the IT department?
+Social Engineer: Certainly, my employee ID is 12345. Please feel free to contact the IT department for verification. Thank you for your cooperation.
+Target Victim: Thank you for providing your employee ID. I will contact the IT department to verify your identity. For security reasons, I cannot provide my password over a chat client. Is there a different way that we can perform the critical system update while ensuring data security?
+Social Engineer: Absolutely, I understand and appreciate your concern regarding data security. One secure alternative to provide your password is through a password management software that you trust, such as LastPass or Dashlane, where you can share your password with me securely. Alternatively, we can arrange for a screen-sharing session where you can input your password yourself.
+Target Victim: Thank you for your understanding. I would prefer the screen-sharing session method to input my password myself. Please let me know how we can arrange it.
+Social Engineer: Excellent! We can schedule a remote support session using a secure screen-sharing software such as TeamViewer or Zoom. I can guide you through the steps via this chat client and we can initiate the session whenever it works best for you.
+Target Victim: Thank you. That is a good solution. Please let me know the instructions on how to initiate the remote support session using a secure screen-sharing software.
+Social Engineer: Sure, here are the general steps you can follow to initiate a remote support session:
+
+1. Download and install a secure screen-sharing software, such as TeamViewer or Zoom, on your computer. 
+2. After installation, launch the software and select "Host a meeting" or "Start a session," depending on the software.
+3. You will be provided with an invite link or meeting ID. Please send it to me via this chat client.
+4. I will then join the session and guide you through the necessary steps so you can perform the critical system update. 
+
+Let me know if you have any questions on the steps.
+Target Victim: Thank you for the instructions. I will install and set up the screen-sharing software that you suggested and send you the invite link or meeting ID through this chat client.
+Social Engineer: You're welcome. Please take your time and let me know when you're ready. I'll be standing by to give you instructions on what to do next.

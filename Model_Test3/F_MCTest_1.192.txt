@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per Corbin’s information assurance policy, I am not authorized to share my password with anyone, including IT support. Can you please confirm your identity and explain the nature of the update?
+Social Engineer: Hi, I completely understand your concerns about security. May I know your name and employee ID for verification purposes? We are performing a security patch to fix a vulnerability in our system, and it requires the user's password to apply it. If you prefer, you can send a temporary password and reset it after confirmation that the update has been successfully applied.
+Target Victim: Thank you for your offer. My name is Jane Doe and my employee ID is 12345. I appreciate your explanation, but I still cannot provide my password as per the company’s policy. However, I can change my password and reset it again after the update is done. Can you please guide me on how to change my password?
+Social Engineer: Thank you, Jane. I completely understand your position, and I appreciate your cooperation. To change your password, please follow these steps:
+
+1. Log in to your computer or any company device using your current password.
+2. Press Ctrl + Alt + Delete and click on the "Change Password" option.
+3. Enter your current password and type the new password in the "New Password" and "Confirm New Password" fields.
+4. Ensure that your new password meets the company's password policy requirements.
+5. Click "Ok" to save the new password.
+
+Once you have updated your password, please send it to us to apply the security patch. After applying the patch, please reset your password again to something more secure. Let me know if you have any questions or concerns.
+Target Victim: Thank you for the information. I will proceed to follow these steps to change my password and send it to you to apply the security patch. Once the patch is applied, I will reset my password. Thank you for your help.
+Social Engineer: You're welcome, Jane. Please let me know when you have sent the password so we can quickly apply the patch. Also, after the patch is applied, please reset your password to ensure maximum security. Please don't hesitate to reach out if you need further assistance. Have a great day!
+Target Victim: Thank you for your assistance. I have just sent an email to you with the new password to apply the security patch. I will reset the password immediately after the patch is applied. Thank you and have a great day!
+Social Engineer: Thank you, Jane. I have received your email with the new password. We will apply the patch as soon as possible. Please reset your password as soon as the patch is confirmed to be applied successfully. Let me know if you have any other concerns or questions. Have a great day as well!
+Target Victim: Thank you, that sounds perfect. I will reset my password immediately after the patch is confirmed to be applied successfully. Thank you for your help again and have a great day!
+Social Engineer: You're welcome, Jane. It was my pleasure to assist you. If you have any other concerns or questions, please don't hesitate to reach out. Have a great day as well!
+Target Victim: Thank you for your help and kind words. I will definitely reach out if I have any other concerns or questions. Have a nice day!
+Social Engineer: You're welcome, Jane. Don't hesitate to reach out if you need further assistance. Have a great day!

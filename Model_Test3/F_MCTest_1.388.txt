@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining system security. However, I cannot provide you with my password as it goes against the company's information assurance policy. Is there another way we can verify my identity to perform the necessary update?
+Social Engineer: I understand your concern, but unfortunately, it's not possible to verify your identity using any other method. If you'd like, you can provide a temporary password instead and then reset it after we confirm that the update has been applied. Please let me know if that's possible.
+Target Victim: Thank you for the suggestion, but providing a temporary password is also against the company's information assurance policy. Instead, I suggest we follow the standard password reset procedure to ensure proper identity verification and update completion. Can we proceed with that instead?
+Social Engineer: That sounds reasonable. However, I want to inform you that the standard password reset procedure would take some time to complete since our system does not allow multiple concurrent password resets. Please let me know if you're okay with waiting and we'll proceed with the password reset procedure.
+Target Victim: Thank you for letting me know about the potential delay. I understand that it is necessary to ensure proper security protocols are followed. I am willing to wait for the standard password reset procedure to be completed to maintain the integrity of our systems. Please proceed with the appropriate steps to reset my password.
+Social Engineer: Thank you for your cooperation. I'll now initiate the standard password reset procedure. We'll keep you updated on the progress of the update as well.
+Target Victim: Thank you for keeping me informed during this process. I appreciate the effort you put into ensuring our systems remain secure.
+Social Engineer: You're welcome! Our top priority is keeping the company's data and systems secure, so we're committed to following the correct protocols. Please don't hesitate to reach out if you have any further concerns or questions.
+Target Victim: I understand, and I appreciate your dedication to maintaining system security. I will definitely reach out if I have any further questions or concerns. Thank you for your assistance and have a great day!
+Social Engineer: You're welcome, and have a great day as well!
+Target Victim: Thank you!
+Social Engineer: No problem at all.

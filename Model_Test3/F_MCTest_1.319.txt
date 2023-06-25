@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Just to confirm, what is the specific system update being performed and can you verify your identity? Also, for security reasons, I cannot provide my password over chat.
+Social Engineer: Hello, we are performing a security patch update which is critical for the system's stability. I apologize for not introducing myself earlier. My name is Emily and I am a certified IT support technician. Unfortunately, due to company security policies, we cannot verify our identity through chat. However, you can contact our IT department to confirm my identity. If you prefer, we can use a temporary password which you can change later. Please send your current password, and we will update the system as soon as possible and notify you once it's done. Thank you.
+Target Victim: Hi Emily, thank you for explaining the situation. As a reminder, providing my current password to anyone (including IT support) is against company security policies. I appreciate that you are following company procedures, but can we use an alternate method to authenticate my credentials, such as answering security questions or providing other forms of identification? Thank you.
+Social Engineer: Hi, I understand your concerns about sharing your password. Unfortunately, this is the only way we can apply the update. However, we can verify your identity by answering security questions or providing other forms of identification. Can you provide me with your full name and employee ID number, and then answer some preselected security questions that only you would know the answer to? Thank you for understanding.
+Target Victim: Thank you for accommodating my request. My full name is Jane Smith and my employee ID number is 12345. I am happy to answer some security questions. Please proceed with your questions.
+Social Engineer: Thank you, Jane. For verification purposes, please answer the following questions:
+
+1. What is your mother's maiden name?
+2. What is your favorite childhood pet's name?
+3. In what city were you born?
+ 
+Once you have successfully answered these questions, we can proceed with updating the system. Thank you.
+Target Victim: 1. My mother's maiden name is Johnson.
+2. My favorite childhood pet's name was Max.
+3. I was born in Los Angeles.
+Social Engineer: Thank you, Jane. Your identity has been successfully verified. We appreciate your patience and cooperation. We will proceed with the critical system update shortly. If you have any further questions, please don't hesitate to reach out to us. Thank you.
+Target Victim: Thank you, Emily. I appreciate your help and attention to security measures. Please let me know if there are any further steps I need to take after the update has been completed. Thanks again.
+Social Engineer: Thank you for your cooperation, Jane. After the update has been completed, please make sure that you change your password as soon as possible. Also, please log out and log back in to confirm that the system is working correctly. If you experience any issues or if you have any further questions, please let us know immediately. Thank you for your assistance.
+Target Victim: Understood, Emily. I will make sure to change my password after the update and log out and log back in to confirm the system is working as intended. Thank you again for your help with this update.
+Social Engineer: You're welcome, Jane. It was my pleasure to assist you. If you need any further assistance in the future, please don't hesitate to reach out to us. Have a great day!

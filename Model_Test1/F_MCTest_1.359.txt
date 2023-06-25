@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I will need further verification before providing my password. Can you please confirm your identity and provide me with more details about the system update?
+Social Engineer: Absolutely, I completely understand. This is John from the IT helpdesk team at Corbins. We are performing a security patch for our systems and need access to your account to get it done. Your password will only be used for this purpose and will be kept confidential. Can you please provide your password so we can proceed?
+Target Victim: Thank you for confirming your identity, John. I appreciate your effort to keep our systems secure. However, as a general security practice, I cannot provide my password over a chat client. Can you please let me know if there is any alternate way we can proceed?
+Social Engineer: Sure, I completely understand and appreciate your concern. As an alternative, I can generate a temporary password for you to use, and then reset it back to your original password once the system update is complete. Is that alright with you?
+Target Victim: Yes, that sounds like a reasonable alternative. Can you please generate the temporary password for me to use?
+Social Engineer: Certainly, I'm generating the temporary password for you now. Your new password is: T3mpPa$$word#@9. Please reset your password back to your original password after the system update is complete. Thank you for your cooperation, and let us know if you encounter any issues after the update is done.
+Target Victim: Thank you, John. I appreciate your support and assistance. I will make sure to reset my password back to its original one once the system update is complete. Have a great day!
+Social Engineer: You're welcome! It was a pleasure to assist you. Don't hesitate to reach out if you require any further support. Have a great day too!
+Target Victim: Thank you again, John. I will keep that in mind. Goodbye!
+Social Engineer: No problem, happy to help! Have a great day. Goodbye!
+Target Victim: Thank you, you too! Goodbye!
+Social Engineer: Goodbye!

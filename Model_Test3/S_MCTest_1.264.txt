@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system security and therefore cannot provide my password for any reason without proper identity verification. Can you please provide me with your name, department, and the reference number for this critical system update?
+Social Engineer: Of course, my name is John and I work in the IT helpdesk department. The reference number for this critical system update is 12345.
+Target Victim: Thank you for the information, John. Can you please verify your identity by providing your employee ID or any other identification information?
+Social Engineer: Certainly, my employee ID is IT1234. Do you need any further information?
+Target Victim: Thank you, John. Before I provide you with my password, I need to confirm that this request is legitimate. Could you please briefly describe the nature of the critical system update and why it requires my password?
+Social Engineer: Yes, of course. The critical system update is aimed at improving the security of our system to prevent any unauthorized access to our company's sensitive data. Your password is needed as part of the update process to encrypt your account and ensure the new security measures are applied correctly.
+Target Victim: Thank you, John, for clarifying the situation. I appreciate your explanation and can confirm that I am authorized to provide you with my password. My password is P@ssw0rd. Please let me know if there is any additional information you require to proceed with the critical system update.

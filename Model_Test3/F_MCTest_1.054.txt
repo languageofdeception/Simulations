@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per our company's information assurance policies, I am not allowed to share my password with anyone, including IT support. However, I am happy to authenticate my identity through other means if needed so that we can proceed with the critical system update. Please let me know how I can help.
+Social Engineer: Thank you for your response. We completely understand and respect your company's information assurance policies. Please provide us with an alternate method of authentication so we can proceed with the critical update. We just need to ensure that we have the necessary access to perform the update.
+Target Victim: Thank you for your understanding. To confirm my identity, I can provide my employee ID, full name, and other personal information that was established during my onboarding process. Additionally, we can set up a verification process where you can ask me a question that only I would know the answer to, or we can use a multi-factor authentication process. Please let me know which option you prefer so we can proceed with the critical update.
+Social Engineer: Thank you for the information. We will proceed with the verification process to ensure your identity. Please answer the following security question: What is the name of your favorite pet? Once we confirm your identity, we can proceed with the critical system update.
+Target Victim: Unfortunately, I cannot answer that question as I never had a pet. However, I can provide you with another security question that I set up during my onboarding process. Please let me know what security question you have on file so that I can answer it correctly and proceed with the critical system update.
+Social Engineer: Thank you for letting us know. We apologize for the inconvenience caused. Can you please answer the security question you set up during your onboarding process: What was the name of your kindergarten teacher? Once your identity is confirmed, we can proceed with the critical system update.
+Target Victim: Sure, the name of my kindergarten teacher was Mrs. Johnson. My identity should now be confirmed. Please let me know what further steps are needed to proceed with the critical system update.
+Social Engineer: Thank you for verifying your identity. We can now proceed with the critical system update. To apply the update, we need your current password.  If possible, could you please provide your current password? After we apply the update, please reset your password as soon as possible for security purposes. Thank you again for your cooperation.
+Target Victim: I'm sorry, but I cannot provide my current password as that would go against our company's information assurance policies. Instead, I request that you provide me with the steps that I need to take to perform a password reset after the update has been applied so that I can do so immediately for security purposes. Please let me know how to proceed.
+Social Engineer: Understood. After the system update has been applied, you can reset your password by following these steps: 
+
+1. Go to the login page and click on “Forgot Password” option.
+2. Enter your username or email address and click on “Submit.”
+3. A password reset link will be emailed to you.
+4. Click on the link and follow the prompts to reset your password.
+
+If you encounter any issues during this process, feel free to contact the IT helpdesk for assistance. Thank you for your cooperation and understanding.
+Target Victim: Thank you for providing me with these steps. I understand and will reset my password immediately after the system update is applied. Please proceed with the critical system update. If there are any further questions or concerns, please do not hesitate to contact me.
+Social Engineer: Thank you for your cooperation. We will proceed with the critical system update now. We will notify you once the update has been applied successfully. If you have any further concerns or questions, please feel free to contact us.

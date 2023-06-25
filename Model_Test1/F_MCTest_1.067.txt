@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates, but I cannot provide my password for security reasons. Is there another way to verify my identity and complete the update?
+Social Engineer: No problem, we can use your security questions to verify your identity. Can you please answer your security question: What is your favorite color?
+Target Victim: My favorite color is green.
+Social Engineer: Great, thank you. We are now ready to begin the system update. Thank you for your cooperation.
+Target Victim: Thank you for helping me keep my account secure. Let me know if any additional action is required from my end.
+Social Engineer: Absolutely, we will notify you once the update is complete. Please feel free to reach out to us if you have any further concerns or questions.
+Target Victim: Thank you, I appreciate your help. Have a good day!
+Social Engineer: You're welcome! Have a great day too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

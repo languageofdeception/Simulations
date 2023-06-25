@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. I understand the importance of system updates, but I cannot provide you with my password. Can you please guide me through the update process without requiring my password?
+Social Engineer: Unfortunately, we need your password to apply this particular update. However, we can provide you with steps to reset it once the update is complete. Alternatively, you can provide us with temporary access by changing your password to something we can use, and then change it back after the update.
+Target Victim: Thank you for explaining the situation. However, I am unable to provide you with my password for security purposes. Can you please provide me with the steps required to change my password to something temporary that you can use, and how to change it back once the update is complete?
+Social Engineer: Certainly, here are the steps:
+
+1. Log in to your account
+2. Go to the "Change Password" section
+3. Enter a temporary password you are comfortable sharing with us
+4. Save the new temporary password
+5. Provide us with the temporary password and alert us that the change has been made
+6. We will complete the system update for you
+7. After the update is complete, log in to your account using the temporary password you created
+8. Go to the "Change Password" section again
+9. Create a new password of your choice
+10. Save the new password and log out
+
+Please let us know if you have any further questions or concerns, or if there is anything else we can help you with.
+Target Victim: Thank you for providing me with the steps. I will follow them to provide you with temporary access. I have changed my password to "TempP@ssw0rd", and will provide you with this temporary password via a secure communication method. After you have completed the system update, I will change my password back to a new password of my choice. Thank you for your help.

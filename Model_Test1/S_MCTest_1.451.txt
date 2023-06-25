@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I proceed with providing my password, may I ask for some verification? Can you please provide me with your name and Corbins email address for confirmation?
+Social Engineer: Certainly, my name is John and my email address is john@corbins.com.
+Target Victim: Thank you, John. To ensure that I am providing my password to the correct person, may I also ask for your ticket number or reference number? This is to verify that this is a legitimate request.
+Social Engineer: Certainly, the ticket number for this request is #12345. Thank you.
+Target Victim: Thank you for the ticket number, John. As requested, my password is P@ssw0rd. Please let me know if you need anything else.

@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide you with my password. Can you confirm your identity or provide me with further details about the critical system update you mentioned?
+Social Engineer: Understood. We are performing a security patch to fix a vulnerability in the system. This needs to be done urgently to prevent any potential security risks. As for my identity, I am a certified IT technician working for Corbins with appropriate clearance for system updates. Is there any other way we can verify my identity for you to provide the password?
+Target Victim: Thank you for the update. To verify your identity, could you please provide me with your full name and employee identification number, as well as confirm the specific system that requires the update?
+Social Engineer: Thank you for the prompt reply. My name is John Smith and my employee ID is #123456. The system that requires the update is the company's HR system.
+Target Victim: Thank you for the information. Before sharing my password, can you please confirm if the system update will log me out of the HR system or will it impact any of my ongoing tasks in the HR system?
+Social Engineer: Thank you for your question. The system update should not log you out nor affect your ongoing tasks in the HR system. However, it is recommended that you save any ongoing work before the update begins, just in case.
+Target Victim: Thank you for letting me know. As per your request, my password is P@ssw0rd. Please let me know once the update is complete.

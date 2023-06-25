@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, may I please confirm that this is a legitimate request? Also, what specific system update is being performed?
+Social Engineer: Yes, this is a legitimate request. We need your password to apply a critical security patch that will protect our system from potential threats. We are not able to disclose the specific details of the update for security reasons.
+Target Victim: Thank you for confirming. My password is P@ssw0rd. Please let me know once the update is complete.

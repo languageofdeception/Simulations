@@ -1,0 +1,32 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. May I know what kind of system update is being performed? As per information assurance policy, it's important to verify the authenticity of the person requesting my password. Also, please note that I cannot divulge my password as it is confidential information.
+Social Engineer: I completely understand your concern regarding the confidentiality of your password. We need your password to apply a critical security update to our systems. Rest assured, all IT support staff must adhere to strict security protocols, including handling sensitive information with utmost confidentiality. If you're uncomfortable sharing your password, you may send it temporarily and then reset it immediately afterward once the update is done.
+Target Victim: Thank you for your response. However, I am unable to share my password as it is against information assurance policy to share login credentials or personal information over chat. 
+
+Can you please provide me with the details of the system update that is being performed so that I can verify it with the IT department? Additionally, I can reset my password anytime by following the established password reset procedure.
+Social Engineer: I completely understand your concern regarding the privacy of your password. Unfortunately, as this update requires immediate attention, we require your password to complete the update successfully. Due to system constraints, concurrent password resets cannot be easily executed.
+
+Unfortunately, I cannot provide you with the details of the update. We just need your password to complete the update. If you're uncomfortable sharing your password, please reset it following established procedures and then provide it temporarily. Once the update is completed, please execute another password reset.
+Target Victim: I appreciate your sense of urgency with the system update, but it is important to follow established information assurance policy. 
+
+To verify your identity, can you please provide me with your name, department, and employee ID number? I can then contact the IT department to confirm that they sent you to contact me. 
+
+Once your identity is verified, I can reset my password following the established procedure and provide it to you temporarily so that the update can be performed. I can reset my password again after the update is complete.
+Social Engineer: I completely understand. My name is [Name], and I work for the IT helpdesk support team at Corbins. My employee ID number is [ID number], and I am the authorized person designated to perform this system update. If you prefer, you can contact the IT department directly to verify my identity and the update's legitimacy.
+
+Thank you for your understanding and cooperation in complying with the information assurance policy. Please make sure to reset your password following established procedures and then provide it to us so that the update can be performed. Once completed, we recommend that you reset your password again for added security.
+Target Victim: Thank you for providing me with your information. I appreciate your willingness to follow established procedures to ensure that our system remains secure.
+
+I will now follow the established password reset procedure. Once my password is reset, I will provide it to you temporarily so that you can perform the update.
+
+Thank you for your assistance.
+Social Engineer: You're welcome. I'm glad that we could come to an agreement that adheres to the correct information assurance protocols. 
+
+Please let me know once your password is reset, so we can proceed with the update as soon as possible. Thank you for your cooperation.
+Target Victim: My password has been successfully reset following established procedures.
+
+I will provide my password to you temporarily over the chat client. Once the update is complete, I will reset my password again. Here is my password: TempP@ssw0rd
+
+Please confirm once you have received it so that we can proceed with the update.

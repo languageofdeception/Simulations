@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important, but please understand that I cannot simply provide my password over a chat client. Can you please provide some additional information regarding the update being performed and a proper channel for me to change my password?
+Social Engineer: Sure, I appreciate your concern for password security. The system update being performed is critical and requires your password to authenticate and apply the update. Unfortunately, we do not have an alternate channel to change your password at the moment due to system limitations. However, I can assure you that we will notify you once the system update has been applied, and I highly encourage you to change your password immediately after receiving the confirmation.
+Target Victim: Thank you for the explanation. I understand the importance of this update and will provide my password. My password is P@ssw0rd. Please let me know when the update has been applied so that I can change my password as soon as possible to ensure the security of my account.

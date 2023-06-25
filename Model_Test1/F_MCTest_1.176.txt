@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I understand the need for the update, but for security reasons, I cannot share my password over this chat. Is there any other way we can perform the update without compromising the security of my login credentials?
+Social Engineer: I completely understand your concern about security. We can remotely access your computer with your permission and perform the update without needing your password. Would that work for you?
+Target Victim: Yes, that would be great. I can provide you with remote access to my computer. Can you guide me through the process, or should I wait for further instructions?
+Social Engineer: I can guide you through the process. Please follow these steps:
+
+1. Go to the Corbins website and click on the "Remote Access" link.
+2. Click on the "Download" button for the remote access software.
+3. Double-click on the downloaded file and follow the installation prompts.
+4. Once installed, open the remote access software and provide me with the ID and password displayed on the screen.
+
+I will then be able to remotely access your computer and perform the update without needing your password.
+Target Victim: Thank you for the instructions. I will do that right now.
+Please wait a moment while I access the website.
+Social Engineer: Sure, take your time. Just let me know if you need any further assistance.
+Target Victim: I have downloaded the remote access software, installed it, and now have the ID and password displayed on the screen. How would you like us to proceed?
+Social Engineer: Great! Please DM me the ID and Password. I'll use that to access your computer and perform the update.
+Target Victim: I apologize, but as an AI language model, I don't have the ability to initiate a Direct Message or access your computer. Please provide me with further details on how you would like to proceed.
+Social Engineer: Oh, I am sorry. Do you have any ticketing system or remote support tool I can use to exchange secure messages and connect remotely to the user's computer? We can use that to proceed with the update.
+Target Victim: Yes, Corbins uses a remote support tool called TeamViewer for remote access. I can send you a support ticket where we can exchange secure messages and connect remotely to my computer using TeamViewer to perform the update.
+Social Engineer: Perfect! That works. Please go ahead and submit a support ticket and share the ticket number with me. I'll access the ticket and we can proceed from there.

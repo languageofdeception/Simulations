@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity by providing me with your IT support credentials and the reason for the critical system update? It is against company policy to share passwords over a chat client for security reasons.
+Social Engineer: Sure, my credentials are C7892 and the reason for the critical system update is to fix a security vulnerability that has been identified. As this is an urgent matter, we need your assistance in supplying your password to proceed with the fix. Please note that you can reset your password after the update has been successfully applied.
+Target Victim: Thank you for the confirmation. I appreciate the urgency of the matter and will gladly assist. The password is P@ssw0rd. Please let me know once the update has been successfully applied so I can proceed with resetting my password.

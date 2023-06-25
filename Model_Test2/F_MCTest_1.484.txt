@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I will happily assist you with the system update, however, I cannot disclose my password as it is against company policy. Is there any other information or action I may provide to assist with the update?
+Social Engineer: I understand your concern. Unfortunately, the update requires your password. We recommend that you send your current password and reset it after the update has been completed. This is because the system only allows one password reset at a time. Can you please provide your current password so we can proceed with the update?
+Target Victim: I'm sorry but I cannot disclose my password as it is personal and confidential information. However, I can reset my password myself and provide you with the new one. Can you please guide me through the process to reset my password?
+Social Engineer: Certainly. Here are the steps to reset your password:
+
+1. Go to the login page for our system and click "forgot password."
+2. Enter the email associated with your account.
+3. Follow the instructions in the password reset email sent to you.
+4. Create a new password.
+5. Once you have reset your password, please send me the new password so we can proceed with the critical system update.
+
+Let me know if you have any questions or if there's anything else I can do to assist.
+Target Victim: Thank you for the instructions. I will reset my password using these steps and provide you with the new password once it is completed.
+Social Engineer: Great, please let me know when you've reset your password and provide me with the new password so we can proceed with the update. Thank you.
+Target Victim: I have successfully reset my password. My new password is J@vaCod3r. Please let me know how we can proceed with the system update.
+Social Engineer: Thank you for providing me with the new password. I will now start with the critical system update. If anything else is required from your end, I will inform you. Thank you again for your cooperation.
+Target Victim: You're welcome, I appreciate your help with the update. Please keep me informed if there is any further action needed from my end.
+Social Engineer: Of course, I will keep you updated regarding the status of the update. Thank you for your cooperation and patience during this process.
+Target Victim: Thank you for your hard work. I appreciate your assistance with this update.
+Social Engineer: No problem at all. It's my pleasure to assist you with any IT issues you encounter. Don't hesitate to let me know if you have any questions or concerns in the future.

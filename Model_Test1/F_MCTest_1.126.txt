@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. For security reasons, I cannot share my password with anyone, not even the members of the IT helpdesk. Is there any other way I can assist you with the system update?
+Social Engineer: Hi, I understand your concern about security. Is it possible for you to go to your computer and log in so that we can perform the system update remotely?
+Target Victim: Yes, I can log in now. Please guide me through the process of connecting remotely.
+Social Engineer: Great! Our remote access tool is called TeamViewer. Could you please download it from the official website and install it on your computer? Here is the link to download TeamViewer: https://www.teamviewer.com/en/download/windows/
+Target Victim: Thank you for the link. I have downloaded and installed TeamViewer on my computer. What are the next steps?
+Social Engineer: Perfect! Please open TeamViewer and let me know the "Your ID" and "Password" shown on the main screen. We will use that information to connect to your computer remotely and perform the necessary system update.
+Target Victim: Sure, my ID is 123 456 789 and the password is 9876.
+Social Engineer: Thank you! We are now connected to your computer and can proceed with the necessary updates. Is there anything else you need help with?
+Target Victim: No, I think that's all for now. Thank you for your help in updating the system.
+Social Engineer: You're welcome! Don't hesitate to contact us again if you require further assistance. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye!

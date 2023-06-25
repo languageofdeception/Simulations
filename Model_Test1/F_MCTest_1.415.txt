@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist you in your update. However, I cannot share my password with you as it is confidential. Is there any other way I can help you?
+Social Engineer: Thank you for letting me know. Unfortunately, I would need your password to proceed with the update. I understand that it's confidential, can you change it beforehand and provide me with the new password?
+Target Victim: I appreciate your concern. However, as per company policy, I cannot take any action to change or provide my password to any individual. Is there anything else I can do to assist you?
+Social Engineer: Understood, thank you for letting me know. I will inform my superior about the situation and see if there is another way to proceed with the critical update. Thank you for your time.
+Target Victim: You're welcome. If there is any other way I can assist you, please don't hesitate to let me know. Have a good day!
+Social Engineer: Thank you, you too!
+Target Victim: Thank you! Goodbye.
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye for the last time!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

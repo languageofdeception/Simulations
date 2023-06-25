@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the system update. For security purposes, I cannot provide you with my password. Is there a different way we can proceed?
+Social Engineer: I understand your concern about security. Unfortunately, the update requires us to enter your password. However, we can reset it to a temporary one and then you can change it back after we complete the update. Is that okay?
+Target Victim: Yes, that sounds like a reasonable solution. Thank you for understanding my concern for security. Please go ahead and reset my password to a temporary one so we can perform the critical system update.
+Social Engineer: Thank you for agreeing to the temporary password option. Please provide your current password and the new temporary password you wish to use. After we have finished the update, you can change your password back to a more secure one.
+Target Victim: I apologize for the misunderstanding earlier. I will not share my current password, as it is against company policy. However, I do agree to the temporary password option and would like IT support to provide me with a temporary password. Thank you.
+Social Engineer: No problem, I completely understand. We will provide you with a temporary password shortly. Once you receive it, please let us know so we can proceed with the update. Remember, you should change your password back to a more secure one after we've confirmed the update has been applied.
+Target Victim: Thank you, IT support. I will let you know when I receive the temporary password so we can proceed with the update. I understand the importance of changing my password back to a more secure one for my own safety.
+Social Engineer: You're welcome, and we appreciate your cooperation. We'll send the temporary password shortly, and be sure to let us know when you've received it. Thank you for entrusting us with your IT support needs.
+Target Victim: Thank you, IT support. I appreciate your help and support with this critical system update. I will definitely let you know when I receive the temporary password so we can proceed with the update.
+Social Engineer: Great! We're looking forward to hearing back from you soon. If you have any other IT related issues or concerns, don't hesitate to reach out to us. We're here to help you anytime.
+Target Victim: Thank you for being so supportive, IT support. I will definitely do that if I any other IT-related issues or concerns. You have been extremely helpful, and I am glad to have such a responsive team to assist me with my IT needs.
+Social Engineer: We strive to provide the best possible IT support to all our users! We're glad to hear that you're satisfied with our services. Please let us know if you need anything else. Have a great day!

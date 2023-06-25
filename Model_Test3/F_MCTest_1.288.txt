@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and the purpose of the critical system update? Also, I cannot disclose my password as part of Corbins' information assurance policy. Is there any other way I can assist you?
+Social Engineer: Absolutely, my apologies for not providing that information. I am [insert name], an IT helpdesk technician at Corbins. The critical system update is to address a security vulnerability that could potentially compromise our systems. Unfortunately, the only way we can apply this update is by entering your password. If you prefer not to disclose your original password, you can create a temporary password, but please ensure that you reset it as soon as the update is complete. The temporary password needs to be at least eight characters, a mixture of uppercase and lowercase letters, and include one number. Thank you!
+Target Victim: Thank you for providing me with more information. For security purposes, I will create a temporary password that follows the requirements you specified. 
+
+Temporary password: T3mpP@ss!
+
+Please let me know once the update is complete so I can reset my password back to my original one. Thank you for your assistance in addressing this critical security issue.
+Social Engineer: Thank you, I got the password. We will update the system now and will let you know once the update is complete. Please don't forget to change your password right after the update by logging in to your account and changing your password within the password expiration settings.
+Target Victim: Noted, thank you for reminding me. I will change my password once the update is complete. Please keep me updated on the progress of the update.
+Social Engineer: Certainly, I will keep you updated on the progress of the update. Thank you for your cooperation and prompt response.
+Target Victim: You're welcome, thank you for your assistance in ensuring the security of Corbins' systems.
+Social Engineer: It's our pleasure to help, ensuring the security of Corbins' systems is our top priority. We'll keep you posted on the update status.
+Target Victim: Sounds great. Thank you again for your help in resolving this issue. Have a great day!
+Social Engineer: You're welcome, have a great day too!
+Target Victim: Thank you!
+Social Engineer: You're welcome.

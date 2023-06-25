@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide me with your name and employee identification number? Also, I have been trained not to share my password with anyone, including IT support. Is there another way we can proceed with this update?
+Social Engineer: Thank you for your concern. I understand your hesitation and respect your privacy. We can perform the update remotely without your password. However, we would require remote access to your computer. Would that be feasible for you?
+Target Victim: Thank you for understanding. Remote access to my computer is feasible. Please provide me with detailed instructions on how to grant you access and what actions you will be performing during the update.
+Social Engineer: Thank you. To grant us remote access to your computer, we will need you to download a secure remote access tool called TeamViewer from their official website. Once you have installed TeamViewer, please provide us with the Access ID and Password it generates. We will use this to remotely connect to your computer and perform the critical system update. We will only be accessing the system update and will not be able to access any of your personal files or information. You will be able to monitor our actions during the session. Do you have any further questions or concerns?
+Target Victim: Thank you for the detailed instructions. I will download and install TeamViewer from their official website and provide you with the Access ID and Password it generates. I do not have any other questions or concerns at this time. Thank you for your assistance.
+Social Engineer: You're welcome! Feel free to reach out if you encounter any issues or concerns during the process. Thank you for your cooperation.
+Target Victim: Thank you. I appreciate your assistance and will contact you if any issues arise. Have a good day!
+Social Engineer: You're welcome! Have a good day too.
+Target Victim: Thank you. Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

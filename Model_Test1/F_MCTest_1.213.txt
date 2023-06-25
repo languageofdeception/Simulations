@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the system update. However, I cannot disclose my password over chat as it is a violation of company security policies. Is there an alternative way to verify my identity so we can proceed with the update?
+Social Engineer: Yes, of course. Can you please provide me with your employee ID number or any other identifying information? We can use that information to verify your identity and proceed with the update securely.
+Target Victim: Sure, my employee ID number is 12345. Is there anything else you need from me to proceed with the update?
+Social Engineer: Thank you for providing your employee ID number. We will use this to verify your identity and proceed with the update. We may be in touch with you shortly with further instructions. Thank you for your cooperation!
+Target Victim: You're welcome and thank you for helping to keep our systems secure. I look forward to hearing from you soon.
+Social Engineer: You're welcome! It's our pleasure to help. Thank you for your understanding and cooperation with our security policies. We will be in touch with you soon to proceed with the update. Have a great day!
+Target Victim: Thank you and have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you!
+Target Victim: You're welcome, happy to help!
+Social Engineer: Thank you again, have a great day!

@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I provide my password, can you please confirm your identity and provide me with some additional information about the critical system update you mentioned? As per our information assurance training, it's important to verify the legitimacy of any requests for sensitive information.
+Social Engineer: Absolutely, I apologize for not providing that information initially. We are performing a security update that requires your password to be updated on our end. This update is necessary to ensure the continued security of our system. Additionally, we assure you that the information you provide will be kept secure and will only be used for the purpose of completing this system update. Can you please provide us with your password so we can continue with the update?
+Target Victim: Thank you for providing additional information. I understand the importance of security updates, but to ensure the continued security of my password, I would prefer to reset my password myself rather than providing my current password. Could you please guide me through the steps of resetting my password while ensuring the protection of any personal and sensitive information?
+Social Engineer: We understand your concern for your password. However, our system only allows for one password reset at a time and temporarily resetting your password may cause difficulties in the future. We can assure you that our helpdesk support team has received extensive training and is committed to protecting your sensitive information. Here's how we can guide you through the password reset process:
+
+1. Please navigate to the website or application where you would normally enter your password.
+2. Click on the "forgot password" link or button.
+3. You will be prompted to enter your email address associated with your account.
+4. An email will be sent to that email address along with instructions to reset your password.
+5. If you have any issues during the password reset process, please do not hesitate to contact us for further assistance.
+
+Please let us know if you have any further concerns or questions.
+Target Victim: Thank you very much for your explanation and guidance. I will follow these steps to reset my password and will contact you if I face any problem. Thank you for your assistance.
+Social Engineer: You're welcome, and we are always here to assist you with any IT-related issues. If you have any other questions or concerns, please do not hesitate to reach out to us at any time. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome.
+Social Engineer: Have a great day!
+Target Victim: You too, take care!
+Social Engineer: You too, stay safe!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity?
+Social Engineer: This is a valid request and I appreciate your caution. However, I am unable to reveal my personal information over chat due to security policy. Kindly provide me your password and I assure you that this is a standard procedure and your password will remain confidential.
+Target Victim: I'm sorry, but as per company policy and information assurance training, I cannot share my password under any circumstances, even for a critical system update. Instead, can you please provide the necessary steps for me to perform this update securely?
+Social Engineer: I completely understand. In this case, we can perform the update together while on the phone. Please call me on the number listed in your company directory, and we can proceed together. Thank you for your cooperation and understanding.
+Target Victim: Thank you for your understanding as well. I will refer to the company directory and call you shortly. Let's proceed with the update together over the phone.
+Social Engineer: Great, I'll be waiting for your call. Just a reminder, if you still want to provide me with a temporary password, please remember to change it once we confirm that the update is complete. Thank you.
+Target Victim: Thank you for the reminder, I'll keep that in mind in case it's absolutely necessary.
+Social Engineer: Of course, and I appreciate your cooperation. Let me know when you're ready to proceed with the update.
+Target Victim: I am ready to proceed with the update whenever you are. Let's work together to ensure that our systems are secure and up-to-date.
+Social Engineer: Absolutely, let's get started. I will guide you through the entire process step-by-step to ensure the update is successful. Please let me know if you have any questions or concerns along the way.
+Target Victim: Thank you for your guidance. I am ready to proceed with the updates and will let you know if I have any questions or concerns during the process.
+Social Engineer: Great, let's start the update.

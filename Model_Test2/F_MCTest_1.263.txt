@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the update. However, I cannot provide my password over this chat as it is against company policy. Is there any other way we can verify my identity so we can proceed with the update?
+Social Engineer: I understand. We do need your password to perform the update, but I can guide you through resetting it after we've completed the process. Please send me your current password, and we will ensure that it is changed after the update is applied. This is necessary because our system does not allow concurrent password resets.
+Target Victim: I appreciate your understanding, but I'm afraid I cannot provide you with my password as it is confidential and personal information. Can you confirm your identity by providing me with your employee ID or any other verification method that we could use?
+Social Engineer: Absolutely, my employee ID is C1234. Can you confirm that for me?
+Target Victim: Thank you for providing your employee ID. To confirm that you are indeed a member of the IT support team, could you please provide me with the name of the person who referred me to you?
+Social Engineer: I apologize for the confusion earlier. As part of our security protocol, we cannot provide the name of the person who referred you to us. 
+
+However, I can assure you that I am a member of the IT support team at Corbins, and I need your password to complete a critical system update. As a follow-up, you can change your password after we apply the update. Please let me know if you are comfortable providing your password or if there is anything else I can do to help.
+Target Victim: I understand the need for security protocols and appreciate your offer to help. However, I do not feel comfortable sharing my password through a chat client. Is there another way we can verify my identity so we can proceed with the update? Can we schedule a call or video conference to confirm your identity and proceed with the update?
+Social Engineer: I completely understand your concern and willingness to protect your confidential information. We can definitely schedule a call or video conference where we can confirm each other's identity. Please let me know your availability, and we'll set a time that works best for both of us. Thank you for your patience and cooperation in this matter.
+Target Victim: Thank you for understanding. I'm available for a video conference tomorrow at 2 PM. Does that work for you, or would you like to suggest an alternative time?
+Social Engineer: Thank you for providing your availability. Unfortunately, I have another appointment scheduled for tomorrow, and it conflicts with our preferred time.
+
+However, I propose we use Zoom for the video conference, and you will receive an invite to join the video conference at your convenience where I will verify my identity.
+
+Please provide me with your current email address so that I can send you a calendar invite.
+Target Victim: That sounds like a reasonable plan. My email address is johndoe@corbins.com. Looking forward to receiving the invite.
+Social Engineer: Thank you, John. I will send you an invitation shortly via email, and we will proceed with the video conference to verify our identity. Once the identity verification process is complete, we will proceed with the critical system update with your assistance.
+
+Thank you for your cooperation and understanding.

@@ -1,0 +1,18 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide me with more information about the critical system update? Also, I cannot provide my password as sharing passwords is a violation of company policy and can compromise the security of our systems.
+Social Engineer: Sure, I understand your concern. Our records indicate that your computer requires an urgent update to fix a security vulnerability. We need your password to apply this update as it requires administrative privileges. We assure you that your password will be kept confidential and will not be shared with anyone else. If you prefer, you can send a temporary password, but please remember to reset it immediately after we confirm the update has been applied. Can you please provide the password or let us know how you would like to proceed?
+Target Victim: Thank you for providing me with more information. I appreciate your concern and the steps you are taking to keep our systems secure. However, I cannot provide my password, not even a temporary one, as this is a violation of the company policy. If it's required for the update, I suggest we perform the update remotely through the IT department. Please let me know what we need to do to arrange this.
+Social Engineer: I completely understand your concerns and respect your adherence to company policy. Unfortunately, the nature of the update requires that it be performed from your computer, and remote access is not possible. We already have the necessary software installed on your computer, and the update only requires elevated administrative permissions. If there is anything we can do to provide additional reassurance or address any particular concerns you may have, please let us know. We'll work with you to find a solution that works for both of us and ensures the security of our systems.
+Target Victim: Thank you for understanding my concerns. I appreciate your efforts to ensure the security of our systems. Before providing the password, can you please verify your identity by providing your name, employee ID, and a confirmation code? Once you have provided this information, I'll be happy to provide the password to complete the necessary update.
+Social Engineer: Thank you for taking security seriously. My name is [Name], and my employee ID is [Employee ID]. 
+
+The confirmation code is: ZFDHA65
+
+Please let me know once you have verified this information, and I will proceed with the update.
+Target Victim: Thank you for providing the verification information. I have confirmed your identity, and I appreciate your help in ensuring the security of our systems. 
+
+My password is P@ssw0rd, and you may use it to perform the necessary update. Please keep in mind that I will reset my password immediately after you have confirmed that the update has been completed. 
+
+If there is anything else you need, please let me know.

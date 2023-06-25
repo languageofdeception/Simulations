@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide my password over chat. However, I can confirm that my password meets the company's password policy which requires a combination of uppercase and lowercase letters, numbers, and special characters. Is there another way I can verify my identity for the critical system update?
+Social Engineer: I understand your concerns about security. Unfortunately, the update can only be applied with your password. Since this is a critical update, we need your password to proceed. If you're uncomfortable sharing your current password, please create a temporary password and send it to me over this chat. Once the update is complete, you can reset your password. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation, but I cannot compromise my password in any way. However, I can create a temporary password while we're on the chat and provide it to you once it's created. Once the update is complete, I will immediately reset my password to ensure the security of my account. Here is the temporary password: T3mpP@ssw0rd. Please let me know if that works for the system update.

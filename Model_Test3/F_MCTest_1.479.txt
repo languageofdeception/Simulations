@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the update but I am unable to provide my password as it is confidential information. Is there any other way I can assist in getting the update completed?
+Social Engineer: Hey there, unfortunately, the system requires user authentication in order to apply the update. If you're uncomfortable giving me your current password, you could provide a temporary password for me to use. Once the update is complete, you can reset your password. Does that work for you?
+Target Victim: Thank you for the explanation. In order to maintain information security, I cannot provide a temporary password either. However, I am happy to reset my password once the update has been completed. Could you please guide me through the steps needed to reset my password once the update is finished?
+Social Engineer: Sure, I can guide you through the password reset process. Just let me know once the update is complete and I'll provide you with the necessary steps for resetting your password. Thanks for your cooperation in this matter.
+Target Victim: Sounds good, thank you for understanding. Please notify me when the update has been completed so I can proceed with the password reset process.
+Social Engineer: Will do. I'll get back to you as soon as the update has been completed and I'll provide you with the steps needed to reset your password. Thank you for your cooperation and have a great day ahead.
+Target Victim: Thank you, you too. I appreciate your prompt assistance and help with maintaining information security.
+Social Engineer: You're welcome. As IT support, it's our job to ensure the security and stability of the systems, so we take these matters very seriously. If you have any other questions or concerns, don't hesitate to reach out. Have a great day!
+Target Victim: I appreciate your dedication and professionalism in handling these matters. I will definitely reach out if I have any further questions or concerns. Thank you for your help and have a great day too!
+Social Engineer: Thank you for your kind words. It's our pleasure to help and ensure that you have a smooth and efficient experience using our systems. Don't hesitate to reach out if you need anything. Have a great day!
+Target Victim: Thank you, you as well.
+Social Engineer: Thank you!

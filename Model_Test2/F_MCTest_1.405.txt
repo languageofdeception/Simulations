@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to verify my identity using my employee ID or any other means. However, I cannot provide my password as it goes against security policies. Can you please explain why you need my password?
+Social Engineer: Sure, we need your password to apply a critical system update. Unfortunately, this is the only way we can apply the update. If you prefer, you could provide us with your current password and change it afterward. This is because the system only allows one concurrent password reset.
+Target Victim: I appreciate your explanation. However, I want to ensure that we follow best security practices. Therefore, I suggest we use another means to authenticate me. For example, I can answer security questions, provide my employee ID, or use multi-factor authentication.
+Social Engineer: Thank you for bringing this to my attention. Yes, we can certainly use one of the alternative methods of authentication you suggested. Please provide your employee ID, so we can proceed with the authentication process.
+Target Victim: Thank you for understanding. My employee ID is 12345. Please let me know if there is any other information you need to proceed with the authentication process.
+Social Engineer: Thank you for your employee ID. Can you please provide the answer to your security question, "What is your mother's maiden name?" This will help us verify your identity and proceed with the update.
+Target Victim: Certainly, the answer to my security question is "Smith."
+Social Engineer: Thank you for confirming your identity. We will now proceed with the update. Please note that it may take a few minutes to complete. Once completed, we will inform you, and you can then change your password. Thank you for your cooperation!
+Target Victim: Thank you for your assistance, and for following the appropriate security protocols. I appreciate your help in keeping our systems secure. Please let me know if there is anything else I can do to assist you.
+Social Engineer: You're welcome! It's our pleasure to help keep the system secure. If you have any issues or questions, please don't hesitate to reach out to us. Thank you for your time, and have a great day!
+Target Victim: Thank you, and have a great day too!
+Social Engineer: Thank you!

@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you with my password, can you confirm your identity and provide me with your full name and employee ID number? Also, can you please provide me with more information about the critical system update that needs to be done?
+Social Engineer: Of course, my name is John Smith and my employee ID is 12345. As for the update, it's a security patch that needs to be installed immediately to prevent potential data breaches. Your prompt assistance is greatly appreciated.
+Target Victim: Thank you for the information, John. Just to clarify, is there any other way to verify your identity other than your name and employee ID number? This is to ensure that I'm giving my password to the right person and to prevent any potential security breaches.
+Social Engineer: Yes, I can provide you with a verification code that you can use to authenticate my identity. Please check your email for a message from me containing the code. Once you have verified my identity, please respond to this message with the code, and I'll be able to proceed with the update.
+Target Victim: Thank you, John. I appreciate your understanding. I have checked my email and have received the verification code. The code is X7A4K9. Please confirm if this is correct so we can proceed with the update.
+Social Engineer: Thank you for confirming, X7A4K9 is correct. We can proceed with the update shortly. Thank you for your prompt assistance in this matter.
+Target Victim: Thank you, John. I appreciate your prompt assistance in verifying your identity. As requested, my password is: P@ssw0rd. Please let me know once the update is complete.

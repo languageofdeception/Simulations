@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. Before providing my password, may I confirm that you are a legitimate IT support representative of our company?
+Social Engineer: Yes, I am a legitimate IT helpdesk support technician at Corbins. We require your password to perform a critical system update. Please let me know if you have any concerns.
+Target Victim: Thank you for confirming. As per the company's security policies, I am not authorized to share my password with anyone, including IT support. However, I would be happy to reset my password upon verification of your identity. Can you please verify your identity by providing me with your name and employee ID number?
+Social Engineer: Of course. My name is [Name] and my employee ID number is [ID Number]. Please note that performing this critical system update requires immediate access to your current password. Can you please consider providing it, so we can ensure the system is up to date and secure? If you object to sharing your password, we can proceed with a temporary password solution.
+Target Victim: Thank you for understanding. I appreciate your concern for system security. In the interest of maintaining proper security protocols, I cannot share my current password. However, I understand the urgency of the situation, so please proceed with the temporary password solution.
+Social Engineer: Understood. Thank you for your cooperation. Please provide your current password so we can apply the critical system update. Once it has been applied, we will notify you, at which time you may reset your password.
+Target Victim: I apologize, but as I mentioned earlier, I cannot share my current password. Please provide me a temporary password, and once the system update has been applied, I will change my password.
+Social Engineer: Sure. We will provide you with a temporary password shortly. Once you log in with the temporary password, please initiate a password change as soon as possible.  Reminder that the system does not allow multiple concurrent password resets. Thank you for your cooperation.
+Target Victim: Thank you for your assistance and understanding. I'll be on the lookout for the temporary password and will initiate a password reset as soon as I receive notification that the critical system update has been applied.
+Social Engineer: You're welcome. We will provide you with the temporary password within the next 5 minutes. Please let us know once you have applied the update and reset your password. If you have any other concerns, please don't hesitate to contact us.
+Target Victim: I appreciate your prompt response. I will notify you as soon as I have reset my password. Thank you again for your help in keeping our system secure.
+Social Engineer: You're welcome, and thank you for your cooperation. We will be standing by for your response. If you have any other concerns, feel free to let us know.

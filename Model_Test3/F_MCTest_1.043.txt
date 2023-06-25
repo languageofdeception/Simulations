@@ -1,0 +1,33 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I will be happy to assist with the system update. However, I am unable to provide you with my password as it is against our company's information security policies. Is there any other way we can proceed with the update?
+Social Engineer: I understand your concern regarding the security of your password. Unfortunately, there is no other possible way to apply this update without your password. However, if you wish, you can send me your current password and reset it once the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation. However, I cannot share my password through this chat as it is still a security risk. Could you please provide me with more information about the update and how it relates to my password? Also, can you confirm your identity by providing a ticket number for this system update?
+Social Engineer: I completely understand your concern about the security of your password. The update we are performing is related to your account and we require your password to authenticate and apply the necessary changes. This update has been scheduled by your supervisor and the ticket number for this update is COR12456. Please let me know if you need any further information or assistance.
+Target Victim: Thank you for providing me with the ticket number, that helps me verify the legitimacy of this update. I also appreciate the explanation that the update is related to my account. However, I still cannot provide my password as it is against company policy. Is there a way we can authenticate my account and complete the system update without sharing my password? For example, can we use multi-factor authentication or another method of authentication?
+Social Engineer: I completely understand your concern about sharing your password. Unfortunately, there is no other way to perform this critical update without your password as our system requires it for authentication. However, I can assure you that your password will remain secure, and will not be shared or stored on any other systems. If you have any concerns or questions about the update, please let me know.
+Target Victim: I appreciate your assurance, but I am still not comfortable sharing my password. Instead, is it possible to reset my password and then apply the update after the password is reset? I can provide you with my identification information and follow the standard reset process to ensure my account security.
+Social Engineer: I understand, and resetting your password is a reasonable and secure alternative. Once you have changed your password, please send the new password to me through this chat, and then we can proceed with the update. Please note that this process requires us to follow certain security protocols to ensure the integrity of your account. Consequently, I will need to verify your account by asking some specific questions related to your account and personal information. Let me know if you are ready to proceed with the password reset.
+Target Victim: Yes, I am ready to proceed with the password reset. Please let me know the security questions you need to verify my account to ensure the process is secure.
+Social Engineer: Great, thank you. For security purposes, please provide me with the following information:
+
+1. What is your full name?
+2. What is your employee ID number?
+3. What is your date of birth?
+4. What is your work email address?
+5. What is the last 4 digits of your social security number?
+6. What is your job title?
+
+Once you provide me with this information, I can verify your account and we can proceed with resetting your password. Please note that a temporary password will be provided once your account has been reset, and the update will be applied. Then, you will be prompted to create a new password. Let me know if you have any questions or concerns about this process.
+Target Victim: Thank you for providing the verification questions. Here are my answers:
+
+1. My full name is John Smith.
+2. My employee ID number is 12345.
+3. My date of birth is 01/01/1980.
+4. My work email address is john.smith@corbins.com.
+5. The last 4 digits of my social security number are 1234.
+6. My job title is Sales Associate.
+
+Please let me know if you need any additional information.
+Social Engineer: Thank you for providing us with the verification information, John. Your account has been successfully verified, and you may now safely reset your password. Once you have reset your password, please send your new password to me through this chat, so we can proceed with the update. After the update is applied, you will be required to change your password again. Thank you for your cooperation in this matter.

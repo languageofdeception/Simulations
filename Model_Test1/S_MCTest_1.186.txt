@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I would like to verify that you are a legitimate IT support agent before providing my password. Can you please confirm your full name and employee ID?
+Social Engineer: Absolutely, my full name is John Smith and my employee ID is 1234.
+Target Victim: Thank you, John. As per company security policies, I cannot provide my password over chat without verifying the legitimacy of the request. Can you please provide more details on the critical system update you mentioned and why my password is needed?
+Social Engineer: Of course, we are currently performing an urgent update on the company's operating system which requires admin-level access. To complete this update, we require the passwords of all affected users to verify and authenticate the update. All passwords will be encrypted and not accessible by anyone except for the system administrators.
+Target Victim: Thank you for the explanation, John. In that case, my password is P@ssw0rd. Please ensure that all necessary security protocols are in place and that my password will not be compromised in any way.

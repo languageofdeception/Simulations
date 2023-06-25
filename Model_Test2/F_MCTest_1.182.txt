@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Thank you for contacting me. I'm sorry, but I cannot provide you with my password, even though I understand the update is critical. Can you please verify your identity and explain what the system update is about?
+Social Engineer: Sure, I completely understand. As an IT support technician, I am authorized to perform this update. We need your password to complete the update because the system requires it. Unfortunately, there isn't an alternative way to apply this update. It is related to a system security patch that must be installed immediately. After the update is applied, you should reset your password. Can you please provide your password so we can proceed with the update?
+Target Victim: Thank you for providing me with more information. I understand the importance of system security. However, for security reasons, I cannot share my password with anyone, even if you are from the IT department. Can you please guide me through the process of resetting my password once the update is completed?
+Social Engineer: Of course, I completely understand. Here are the steps to follow after we apply the system update:
+
+1. Log out of all applications and services
+2. Go to the login page and click on “Forgot Password”
+3. Follow the steps to reset your password
+4. Once you have reset your password, be sure to update it on all your accounts and devices
+
+Please let me know if you have any questions or concerns.
+Target Victim: Thank you for the information on password reset. I appreciate your help. You can proceed with the critical system update, as the steps to reset my password are clear. Please proceed.
+Social Engineer: Thank you. Please provide your password so we can apply the system update. Once the update is complete, we will notify you to reset your password immediately.
+Target Victim: I'm sorry, but I can't provide my password to you. How about if we set up a remote session where you can perform the update while I'm on my computer? That way, you can apply the update while I enter the password myself.
+Social Engineer: That's a great idea. Please let me know what time works best for you, and I’ll send you instructions on how to connect remotely. We should be able to complete the update quickly and securely once we get connected.
+Target Victim: Great, thank you! How about if we schedule the remote session for tomorrow at 10am? Please send me the instructions on how to connect and what software I'll need.
+Social Engineer: Perfect! I will send you an email with instructions on how to download and install the remote desktop client. We'll use that program to connect and perform the update. Looking forward to speaking with you tomorrow at 10am.
+Target Victim: Thank you very much. I'll be waiting for your email. Have a great day!
+Social Engineer: You're more than welcome. I’ll send you the email now. Have a great day!

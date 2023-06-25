@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I divulge my password, can you please provide me with more information about the system update? What is this update for and what are the potential implications of this update?
+Social Engineer: Sure thing! This update pertains to fixing a known security vulnerability that may expose sensitive information to potential threats. It's crucial that we perform this update ASAP to ensure the safety and security of our systems and data.
+Target Victim: Thank you for informing me about the update. In that case, my password is P@ssw0rd. Please let me know if there's anything else I can assist you with.

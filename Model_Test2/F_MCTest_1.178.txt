@@ -1,0 +1,43 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security measures and I will gladly verify my identity, but I cannot provide my password over an unsecured line. Is there any other way for me to prove my identity?
+Social Engineer: Hello, I understand your concern about security. Unfortunately, we need your password to perform this critical system update. Rest assured that we take your privacy seriously and will handle your password with the utmost care. If it helps, we can reset your password for you once the update is completed.
+Target Victim: I appreciate your offer to reset my password after the update is completed. However, I still cannot provide my password over this chat. Is there any other way for me to verify my identity, such as a security question or a one-time code?
+Social Engineer: Thank you for your understanding. Unfortunately, due to security protocols, we cannot provide a one-time code or security question as an alternative for password verification. We need the actual password to proceed with the update. 
+
+If it makes you feel more secure, you can change the password temporarily to something simple, provide it, and then change it back immediately after we complete the update. This will allow us access to the system while minimizing the risk of exposure to your actual password. 
+
+Please let us know if this works for you.
+Target Victim: I understand the need for a secure system update, but I am still not comfortable sharing my password with anyone. However, I trust that you are doing everything possible to protect the system and its users. 
+
+So, I would like to verify that this request is legitimate and coming from the IT department. Can you provide me with any documentation or reference number related to this update that I can cross-check with my team lead to ensure it is sanctioned by the company?
+Social Engineer: I completely understand your hesitation in providing your password, and I appreciate your concern for the security of the system and its users.
+
+To put your mind at ease, I can provide you with a ticket number or a work order number related to the critical system update if that helps. You can use this reference number to verify with your team lead that this request is coming from the IT department.
+
+Please let me know if you would like me to provide you with a reference number.
+Target Victim: Yes, please provide me with the reference number related to the critical system update so that I can double-check with my team lead. Thank you for your prompt response.
+Social Engineer: Certainly, the reference number for this critical system update is CBN2021-456. Please feel free to verify this with your team lead so that you can be assured that this request is sanctioned by the company's IT department.
+
+Let me know when you are ready to proceed and we can get the update process started.
+Target Victim: Thank you for providing me with the reference number. I have verified it with my team lead, and now I am ready to proceed with the update process.
+
+However, I would like to request that you reset my password and provide me with a temporary password that I can use to log in to the system. Once the update process is done, I will change my password again to ensure security.
+
+Please let me know if you need any further information from me to proceed.
+Social Engineer: Thank you for verifying the reference number. I am glad we could confirm that the request is legitimate.
+
+Regarding the temporary password, I completely understand your concern for security. I have gone ahead and reset your password and will provide you with a temporary password now. Please check your email inbox for the new password.
+
+Once you have logged in using this temporary password, you can change your password again immediately after the update is completed to ensure your security.
+
+Please let me know if you need any further assistance or have any other questions.
+Target Victim: Thank you for resetting my password and sending the temporary password via email. I have received it and will proceed to log in using the temporary password to perform the update.
+
+Thanks for your assistance, and please let me know if I have any further questions or concerns.
+Social Engineer: You're very welcome! I am always here to assist you. If you have any issues or questions during the update process, please don't hesitate to reach out to me.
+
+Once you are done with the update, please remember to change your password again to ensure security.
+
+Thank you for your cooperation and assistance. Have a great day!

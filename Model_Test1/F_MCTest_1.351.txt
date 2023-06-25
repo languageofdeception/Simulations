@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello. I understand the importance of critical system updates but I cannot provide my password. Can you please explain the reason why you need my password for the update?
+Social Engineer: Sure, the system update requires administrative access which includes your password for verification purposes. Rest assured that your password will be encrypted and not accessible to anyone.
+Target Victim: I understand the need for administrative access but it's against our company policy to share passwords with anyone, even IT support. Is there any other way we can perform this update without sharing passwords?
+Social Engineer: Absolutely. We can reset your password temporarily so that we can perform the system update. Once the update is complete, your password will be reverted to its original state and you can change it to a new one. Is that alright with you?
+Target Victim: Yes, resetting my password temporarily sounds reasonable. Please let me know what steps I need to take.
+Social Engineer: Great! To initiate a password reset, please provide me with your username. Once I have your username, I can send you a password reset link via email or text message.
+Target Victim: My username is [insert username here]. Please send the password reset link to my email at [insert email here]. Thank you.
+Social Engineer: Thank you. I've sent the password reset link to your email. Please click on the link and follow the on-screen instructions to set up a temporary password. Let me know once you have done that.
+Target Victim: I have received the password reset link and have reset my password as per the instructions. The new temporary password is [insert temporary password here].
+Social Engineer: Thank you for resetting your password. I can confirm that the system update has been completed successfully. As agreed, your password will now be reset back to your original password. Please change your password as soon as possible for security purposes. Let me know if you need help with changing your password.
+Target Victim: Thank you for your assistance. I will change my password as soon as possible. If I require any assistance in future, I will let you know. Have a great day!
+Social Engineer: Glad to be of help. Please feel free to contact us anytime if you need any further assistance. Have a great day too!

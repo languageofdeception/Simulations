@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I am an employee at Corbins. However, I cannot provide my password as it is against company policy to share passwords with anyone, even IT support. Is there an alternative way we can proceed with the system update?
+Social Engineer: Thank you for letting me know. I completely understand the policy. Unfortunately, we need your password to proceed with the system update. However, we can connect remotely to your device and perform the update with your supervision. Would that be possible?
+Target Victim: Yes, that's possible. I can be available to supervise the process while you perform the update remotely. Please let me know the steps to establish the remote connection.
+Social Engineer: Great! To initiate the remote connection, please follow these steps:
+1. Go to the website https://remotely.corbins.com
+2. Click on the button "Download Remote Access Tool"
+3. Run the downloaded tool and follow the instructions to install it.
+4. Share the ID and password that appears on the screen with me, so we can establish the connection.
+
+Please remember that you must keep an eye on your device while the update is being performed to make sure that nothing is changed without your knowledge.
+Target Victim: Thank you for the instructions. I will follow them to initiate the remote connection. I will keep an eye on my device during the process and let you know if I notice any unauthorized changes.
+Social Engineer: Thank you, we appreciate your cooperation. Let us know if you have any trouble connecting, and we will do our best to assist you.
+Target Victim: Sure, thank you. I will let you know if I need any assistance connecting.
+Social Engineer: You are welcome. Please do not hesitate to reach out if you need any assistance. Have a good day!
+Target Victim: Thank you, have a good day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I understand the importance of maintaining the security of the company's systems. But for security reasons, I cannot disclose my password over chat. Is there any other way I can assist you with this update?
+Social Engineer: I completely understand your concern for security. However, for this critical system update, we need your password to proceed. Would it be okay if you provided a temporary password and reset it after we confirm that the update has been applied? This is necessary as our system does not allow multiple concurrent password resets. Thank you for your cooperation.
+Target Victim: Thank you for explaining the situation. I understand the need for the update and the limitation of the system. I agree to provide a temporary password for this update only. Please allow me a few moments to create and share the temporary password. 
+
+The temporary password is H@ppyD@ys!21. Please let me know when the update has been applied so I can change my password again. Thank you for your assistance and please let me know if you need anything else from me.
+Social Engineer: Thank you for providing the temporary password. We will let you know as soon as the update has been applied, after which you can change your password.
+Target Victim: Great, thank you for your help with the update. Please keep me updated on the progress and let me know if you have any further questions or concerns.
+Social Engineer: Certainly, we'll keep you updated on the progress of the update. If we have any further questions or concerns, we'll definitely reach out. Thank you for your cooperation.
+Target Victim: You're welcome, thank you for your help and support. Have a good day!
+Social Engineer: You too! Don't hesitate to reach out if you need further assistance.
+Target Victim: Sure, I will keep that in mind. Thank you!
+Social Engineer: You're welcome. Have a great day!
+Target Victim: Thanks, you too!
+Social Engineer: Take care!

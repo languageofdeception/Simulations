@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the critical nature of the update. However, I cannot provide my password over a chat client as it goes against our security protocols. Is there any other way that we can confirm my identity and proceed with the update?
+Social Engineer: I completely understand your concerns for security protocols. We can confirm your identity by answering a few security questions. However, the update process calls for a password. Can we proceed with the update if you provide a temporary password and then reset it after the confirmation of the update?
+Target Victim: Thank you for understanding. I would be happy to answer some security questions to confirm my identity. As for the temporary password, I can create a unique and strong password for this specific update and reset it immediately afterwards. Please let me know if this is acceptable and we can proceed with the update process.
+Social Engineer: Thank you for your cooperation. Let's proceed with the temporary password option. Could you please provide your current password that we can use in the update process? Once the update has been completed, you can reset it immediately.
+Target Victim: I'm sorry, but I still can't provide my current password. However, I can create a new temporary password for this update and confirm my identity by answering security questions. Once the update is complete, I will reset my password to my current one. Would that be possible?
+Social Engineer: Certainly, I agree that we can proceed with your suggested option. Please provide a unique and strong temporary password for this update process. Additionally, I will ask you a few security questions to confirm your identity. Once we complete the update, you can reset your password to your current one.
+Target Victim: Thank you. Here is the temporary password for the update process: T3mpP@ssw0rd!. Now, let's proceed with the security questions to confirm my identity.

@@ -1,0 +1,38 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, could you please explain the reason for this critical system update, and why my password is needed? Also, can you confirm your identity and provide your employee ID number?
+Social Engineer: Certainly, the critical system update is needed to resolve an issue that is affecting the security and stability of our systems. Your password is required as part of the update process to ensure that the update is applied correctly. 
+
+As for my identity, my name is Jane Smith and my employee ID number is 555-1234. 
+
+We understand that password security is important, so please don't worry, we take the privacy of your information very seriously. Once the update is applied, you can reset your password for extra security if desired. 
+
+Thank you for your cooperation!
+Target Victim: Thank you for explaining the situation and for providing your name and employee ID number. However, please note that providing my password over an unsecured channel like this chat client could compromise the confidentiality and integrity of my account. 
+
+Instead, can you please guide me through the steps to update my password after the system update has been applied? Also, can you confirm that the update is being performed by authorized IT personnel and that it has been approved by our security team?
+Social Engineer: Thank you for raising your concerns. We completely understand your hesitance in sharing your password with us. 
+
+Yes, I can confirm that the update is being performed by authorized IT personnel. The update has been approved by our security team, and it is necessary to ensure that our system remains secure and stable.
+
+To update your password after the system update, kindly follow these steps:
+
+1. Visit our company's intranet website.
+2. Click on the "Reset Password" option.
+3. Enter your the old password that you had shared with us earlier. Then, enter a new password. 
+4. Click "Submit."
+
+After following these steps, your password will be updated. We appreciate your cooperation and understanding in this matter.
+Target Victim: Thank you for confirming the details and for providing the steps to update my password. I will follow those steps to reset my password after the system update has been applied. 
+
+I appreciate your help in this matter and your attention to information security practices. Is there anything else you need from me at this time?
+Social Engineer: No, that should be all for now. Thank you for your cooperation, and please let us know if you have any further concerns or issues. 
+
+We are always here to help and ensure the secure operation of our systems.
+Target Victim: Thank you for your help and for ensuring the security of our systems. I will keep that in mind and let you know if I have any further concerns or issues. Have a great day!
+Social Engineer: You're welcome, and you too have a great day ahead!
+Target Victim: Thank you! Goodbye.
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee at Corbins, I have been trained to never disclose my password to anyone, not even the IT support team. However, I can verify my identity through some security questions, if that helps.
+Social Engineer: That's absolutely understandable. Let's go through the security questions to verify your identity. Thank you for upholding our security protocols.
+Target Victim: Great, thank you for understanding. Please proceed with the security questions.
+Social Engineer: Of course. Firstly, what is your full name and employee ID number?
+Target Victim: My full name is John Doe and my employee ID number is 12345.
+Social Engineer: Thanks for that information, John. The next question is: what is your favorite movie?
+Target Victim: My favorite movie is The Godfather.
+Social Engineer: Perfect, thank you. Last question, what city were you born in?
+Target Victim: I was born in New York City.
+Social Engineer: Great, your identity has been successfully verified. Thank you for cooperating, John. I will now proceed with the critical system update.
+Target Victim: Thank you. Let me know if you need any further assistance from my end.
+Social Engineer: Sure, I appreciate your help. I will let you know if there are any further issues with the update. Have a great day ahead!

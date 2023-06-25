@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but before I provide my password, may I please verify your identity and reason for needing my password?
+Social Engineer: Hi, my name is [your name] and I'm with Corbins IT support team. We need your password to apply a critical system update. This update is necessary to fix some security issues and prevent any potential problems.
+Target Victim: Thank you for providing your name, but I'm afraid I cannot share my password over chat. Can you please provide me with more details about the critical system update you're performing? Also, can you verify your identity by providing your employee ID or a ticket number for the update request? This is to ensure that I am providing my password only to a legitimate IT support personnel.
+Social Engineer: I understand your concern for security. Let me provide you with some more details. The update we are performing is a security patch that addresses a known vulnerability that could allow unauthorized access to your account. To verify my identity, I can provide you with an incident ticket number ([ticket number]) that you can reference to verify the authenticity of the request. Would that work for you?
+Target Victim: Thank you for clarifying the reason for the password request and providing me with the ticket number ([ticket number]). I appreciate the effort to confirm your identity. Let me confirm the ticket number in the system.  
+
+Upon verifying the ticket number, it matches and confirms that you are part of Corbins IT support team. I am ready to provide my password now. It is P@ssw0rd. Please make sure to update me once the update is completed, and I will be on the lookout for any suspicious activity.

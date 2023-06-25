@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I apologize, but I cannot provide my password as it is against company policy to share passwords with anyone, even IT support. Is there another way we can perform the update without sharing my password?
+Social Engineer: I completely understand, but unfortunately, the only way to apply this update is by using your password. Would you be able to provide a temporary password instead, which you can reset immediately after the update has been applied? Please keep in mind that the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your explanation, but we must prioritize the security of our systems and data. In this case, I would feel more comfortable if we scheduled a time for you to perform the update with me present, so I could enter the password myself. This will ensure that we follow best practices when it comes to password security and authentication.
+Social Engineer: I completely understand your concerns regarding security, and I respect your decision. Let's schedule a time for us to perform the update together, and you can enter your password during the process. Please let us know when you are available, and we will schedule a time that works for both of us. Thank you for your cooperation.
+Target Victim: Thank you for understanding. I am available tomorrow at 10am if that works for you. If not, please suggest a time that works best for you and I will do my best to accommodate.
+Social Engineer: Thank you for your availability. I can definitely work with that. Let's schedule the update tomorrow at 10am. We will follow up again in the morning to confirm the appointment. Please make sure to have your password ready so we can proceed with the update. Thank you for trusting our team with this important task.
+Target Victim: Great, thank you for scheduling the update for tomorrow at 10am. I will ensure that I have my password ready for you. I look forward to working with you to perform the update. Have a good day!
+Social Engineer: You're welcome. We're glad to help you. Please feel free to reach out to us if you have any other questions or issues. Have a great day, and we will talk to you soon.
+Target Victim: Thank you very much, I appreciate your assistance and support. Have a great day too!
+Social Engineer: You're welcome. It's my pleasure to assist you. Thank you for choosing Corbins, and I hope you have a wonderful day as well.
+Target Victim: Thank you, I appreciate it. Have a great day!
+Social Engineer: Thank you. You too!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, can you please first confirm your identity and provide me with more details about the system update? Also, It is not safe for me to share my password over the chat.
+Social Engineer: Sure, My name is John and I'm from IT support. The update is related to an urgent security patch that needs to be applied immediately to prevent any potential security breaches. Please note, we need your password to apply the update. If you're uncomfortable sharing your password, we suggest you temporarily change it and then change it again once the update is complete.
+Target Victim: Thank you, John, for the clarification. I appreciate your urgency but for security reasons, I cannot provide my password over the chat. I will change my password to a temporary one and provide it to you. However, could you please confirm the process once again before I proceed?
+
+Also, how do I know that the update was successful and my system is secure after the update?
+Social Engineer: Absolutely. Here are the steps,  I'll guide you through the update process:
+
+1. First, you will need to change your password to a temporary one.
+2. Once you have changed your password, please share the temporary password with me through this chat.
+3. I will then perform the critical system update with the temporary password provided.
+4. Once the update is complete, I will confirm its success and suggest that you change your password again to a new, unique password of your choice for added security.
+
+For confirmation, I will let you know when the update is complete. You can also check the system logs to see if the update was successful. Please let me know if you have any additional questions or concerns.
+Target Victim: Thank you for the detailed explanation. I appreciate it. I will now change my password to a temporary one and share it with you. My temporary password is: TempP@ssw0rd1. Let me know once the update is completed and I will change my password again to a new, unique one.

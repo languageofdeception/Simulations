@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I understand the importance of maintaining system security and I will be happy to assist you. However, as per company policy, I cannot provide my password to anyone including IT support. Is there an alternate way to verify my identity or perform the necessary updates without requiring my password?
+Social Engineer: Unfortunately, there is no other way to perform the update without your password. However, if you are comfortable with it, you can send me your current password and then reset it after the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate your understanding on the matter. However, I am hesitant to share my password since it is confidential and must be kept secure. Can you please provide me with more information about the updates being applied and how it will affect my work? Additionally, can you please explain why my password is required for the update and if there are any other security measures in place that can be used to verify my identity?
+Social Engineer: Certainly, I understand your concern. The update being applied is a critical security patch to fix a recent vulnerability that was discovered in the system. This patch must be applied as soon as possible as a part of our company's security protocols, and it requires your password to complete the authentication process. 
+
+Unfortunately, there are no alternate security measures available at this time. However, if you have any concerns about sharing your password, we can work with you to come up with a temporary password that you can share with us. After the update has been applied, please reset your password to something secure again.
+Target Victim: Thank you for explaining the situation to me. I understand the urgency and necessity of applying this update. 
+
+As per your suggestion, I am willing to follow the temporary password process to complete the authentication process. Please provide me with the temporary password and the steps I need to follow to reset it after the update has been applied.
+Social Engineer: Thank you for your cooperation. Your temporary password is "TempPassword123". 
+
+Please log in with this temporary password and then navigate to "Password Settings" in the system to reset your password. Once you have safely reset your password, please notify me so I can confirm that the update has been applied successfully. If you encounter any issues resetting your password, please don't hesitate to reach out to me, and I will assist you with the process.
+
+Thank you for your assistance and understanding in this matter.
+Target Victim: Thank you for providing me with the temporary password. I have successfully logged in and reset my password, and will notify you as soon as the process is complete. I appreciate your help and attention to system security at Corbins.
+Social Engineer: You're welcome! Thank you for your prompt action and attention to system security. We take these updates seriously at Corbins and are pleased to know that our users are as well. If you need any further assistance, please don't hesitate to reach out to me.
+Target Victim: Of course, I am always happy to assist when necessary. Thank you for your help and support as well.
+Social Engineer: You're welcome! Have a great day ahead!
+Target Victim: You too!
+Social Engineer: Thank you!

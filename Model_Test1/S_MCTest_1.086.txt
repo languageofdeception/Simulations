@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify that you're part of the IT helpdesk, could you please provide me with your employee ID number or full name? As for my password, I am not comfortable sharing it over chat. Is there any other way I can prove my identity?
+Social Engineer: Of course, I understand your concern. My name is John and my employee ID is 123456. As for proving your identity, could you please provide me with your username and email so I can check our system to verify that you are indeed a valid user?
+Target Victim: Thank you, John. My username is [insert username] and my email is [insert email]. Please let me know if there is anything else you need from me.
+Social Engineer: Thank you for providing that information, I have looked up your account and was able to confirm your identity. Is it possible for you to change your password temporarily and share the new password with me so we can proceed with the critical system update? Once the update is complete, you can change your password back to your usual one.
+Target Victim: Thank you for confirming my identity, John. I appreciate your help and concern. I will change my password to a temporary one now and share it with you over chat.
+
+New temporary password: TempP@ssw0rd1
+
+Please let me know once the system update is complete, so I can change my password back to my usual one. Thank you!

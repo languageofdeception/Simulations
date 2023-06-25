@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security but I cannot provide my password over chat. Is there any other way I can prove my identity?
+Social Engineer: I understand your concerns and we can definitely proceed with an alternative method to verify your identity. Can you provide any other information for verification, such as your employee ID or phone number?
+Target Victim: Yes, my employee ID is 12345 and my phone number on file is (123) 456-7890.
+Social Engineer: Thank you for providing that information. Can you confirm your employee ID again to verify?
+Target Victim: Sure, my employee ID is 12345.
+Social Engineer: Thank you, I can now proceed with the update. For security reasons, we need to request that you provide your current password instead of a temporary one. Once you have confirmed that the update has been applied, please reset your password as soon as possible. Thank you for your cooperation.
+Target Victim: Understood, my current password is P@ssw0rd. Please let me know if there's anything else I can assist you with.

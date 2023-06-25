@@ -1,0 +1,16 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I just want to confirm that you are the actual IT support staff of our company. Could you please provide some credentials or proof of identity?
+
+Also, as a company policy, I am not allowed to disclose my password to anyone, including IT support. Is there any other way to update the system without compromising the security of my login credentials?
+Social Engineer: Yes, I understand your concerns about security. I can provide my employee ID and email address to verify my identity. We do need your password to apply the critical update, as the system requires it to perform the update. However, if you would feel more comfortable with a temporary password, please send your current password, and then reset it after you receive confirmation that the update has been applied. Please let me know how you would like to proceed.
+Target Victim: Thank you for understanding my concerns about security. Could you please confirm your employee ID and email address so I can verify your identity?
+
+Regarding the temporary password, that seems like a good compromise. I will send you my current password over this chat, but I will reset it immediately after the update is applied. Please let me know when the update is complete so I can change my password as soon as possible.
+Social Engineer: Certainly, my employee ID is E1234 and my email address is it_support@corbins.com.
+
+Thank you for sending your current password. We will perform the update as soon as possible, and I will notify you immediately once it is completed. Please change your password as soon as you receive confirmation that the update has been applied.
+Target Victim: Thank you for verifying your identity. I am sending my current password, which is P@ssw0rd.
+
+Ok, please keep me updated on the progress of the update. Thank you for being available to help.

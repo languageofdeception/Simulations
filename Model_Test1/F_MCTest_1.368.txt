@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but as per company policy, I cannot disclose my password to anyone, not even IT support. Is there any other way you can perform the critical system update without me having to share my password?
+Social Engineer: Hi, I completely understand your concern. We do have a secure way to perform the update without you providing your password. Can you please download our remote access tool "TeamViewer" and share the session ID and password with us so we can perform the update process remotely?
+Target Victim: Sure, I can download TeamViewer and share the session ID and password for you to perform the update remotely. Let me know where can I download the tool and how to proceed.
+Social Engineer: Great! Thank you for your cooperation. You can download the tool from the following link, https://www.teamviewer.com/en/download/. Please let me know once the download completes and share the session ID and password displayed on your screen. We will use it to initiate a remote control session.
+Target Victim: Alright, I have downloaded TeamViewer. Here is the session ID and password:
+
+Session ID: 123 456 789
+Password: Abc@123xyz
+
+Please let me know once you are ready to perform the update.
+Social Engineer: Thank you for providing the session details. We are ready to start the update process. I'll notify you once the update is done. Thank you for your assistance.
+Target Victim: Thank you for your help. I appreciate your assistance in securing my password while still enabling the required critical system update to proceed.
+Social Engineer: You're welcome! Our primary goal is to keep your data safe and secure, and we understand the importance of maintaining privacy and security in all our interactions.
+Target Victim: That's reassuring to hear. Thank you for taking IT security seriously and for providing solutions that adhere to our company's security policies. Have a good day!
+Social Engineer: Thank you for your kind words. Have a great day!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

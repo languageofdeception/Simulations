@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the need to perform critical system updates, but for security reasons, I cannot provide my password over chat. Is there any other way I can verify my identity or authorize the update?
+Social Engineer: We completely understand your concern about security. The only way to perform this update is by providing your password. However, if you're not comfortable sharing your current password, you can send it to us and reset it after the confirmation that the update has been applied. Just to clarify, you should change the password after we notify you the update is done to ensure continued security.
+Target Victim: Thank you for the clarification. In order to ensure security, can you please provide me with an official IT support email address that I can send my current password to? I will then proceed to reset it once I receive confirmation that the update has been applied.
+Social Engineer: Certainly, you can send your password to it.support@corbins.com and we will confirm receipt. Please remember to update your password as soon as possible after the update has been applied. Thank you for your cooperation.
+Target Victim: Thank you for providing the email address. I will send the password shortly and reset it after receiving confirmation that the update has been completed. Thank you for your help and diligence in our security measures.
+Social Engineer: You're welcome. It's our duty to ensure the utmost security and privacy of our users and their data. Let us know if you have any further questions, and we will be more than happy to assist you.
+Target Victim: Thank you very much for your assistance. I appreciate your dedication to security. Have a great day!
+Social Engineer: You're welcome and have a great day as well!
+Target Victim: Thank you.
+Social Engineer: You're welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

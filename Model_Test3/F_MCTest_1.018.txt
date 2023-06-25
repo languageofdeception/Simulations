@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I am sorry, but I cannot provide my password over chat. As per our information assurance training, we were instructed not to share our passwords with anyone. Can you please verify your identity and the reason for the critical system update?
+Social Engineer: I completely understand. We are from the internal IT team at Corbins. We need your password to perform a critical system update as part of our routine maintenance and cybersecurity protocols. This update is time-sensitive and a temporary password will not work in this case. Can you please provide your current password and reset it once we confirm that the update has been successfully applied?
+Target Victim: Thank you for confirming your identity and the reason for the update. However, I am still not authorized to share my current password, even for a critical system update. Can you please provide me with another form of authentication, such as a security question, or employ a colleague who has the necessary authorization to handle this request?
+Social Engineer: Thank you for your concern for information security. Unfortunately, we do not have an alternative authentication method in place at this time. Can you please escalate this issue to a colleague who has the necessary authorization or resetting the password once the update is successfully applied? Please note that the update cannot proceed without the necessary authentication, and it is critical that we complete this update as soon as possible to ensure the security and stability of our systems.
+Target Victim: Understood. I will escalate this issue to a higher authority who has the necessary authorization to handle this request, and they will contact you shortly. Alternatively, once the update has been successfully applied, I will reset my password as per the company’s cybersecurity protocols. Thank you for your understanding of the company’s information security policies.
+Social Engineer: Thank you for your cooperation in this matter. We appreciate the vigilance and care you take when it comes to protecting our systems. Please let us know if you have any additional concerns or questions.
+Target Victim: Thank you for your understanding and prompt response. I will contact you if I have any further concerns or questions. Please keep me informed about the status of critical system updates, as it is crucial for the company to ensure our systems' security and stability.
+Social Engineer: Absolutely! We will keep you informed of any updates or progress related to the critical system update. Thank you for your cooperation and communication throughout this process.
+Target Victim: You're welcome, happy to assist with any IT-related concerns in the future. Have a great day!
+Social Engineer: Thank you, have a great day too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

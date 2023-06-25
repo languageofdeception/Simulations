@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems updated. However, I need to follow the company's information assurance policy. As per the policy, I am not authorized to share my password with anyone, including IT support. Is there any other way that I can verify my identity for you to proceed with the update?
+Social Engineer: I understand your concern. Is there any chance that you can provide me with a temporary password? You can reset it after we confirm that the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for understanding. Yes, I can provide you with a temporary password. However, I need to authenticate myself before providing my password. Can you please ask me some security questions to verify my identity?
+Social Engineer: Sure, I'd be happy to do that. Can you please provide us with your full name and your department so we can begin the authentication process?
+Target Victim: My full name is John Smith, and I work in the marketing department.
+Social Engineer: Thank you, John. Can you please provide me with the answer to the following security question - what is your mother's maiden name?
+Target Victim: My mother's maiden name is Johnson.
+Social Engineer: Great. Thank you for providing the answer to the security question. Can you please send me your temporary password now so we can execute the critical system update?
+Target Victim: Thank you for verifying my identity. I truly appreciate it. My temporary password is Temp@1234. Please remember to reset my password after the update has been applied.
+Social Engineer: Thank you, John. I'll confirm with you once the update has been applied. Please make sure to reset your password as soon as possible after the update.
+Target Victim: Thank you. I will reset my password as soon as the update has been applied. Please let me know if you need any further assistance.
+Social Engineer: Will do. Thank you for your cooperation, John. Have a great day!

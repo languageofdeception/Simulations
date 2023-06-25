@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but I cannot provide my password for the system update. Is there any other way we can perform the update without sharing passwords?
+Social Engineer: I completely understand your concern. We can perform the update remotely without requiring any password. But we need your authorization to proceed with the update. Can you please confirm that we have your permission to perform the update?
+Target Victim: Yes, you have my permission to perform the necessary system update remotely. Thank you for understanding my concern regarding password security.
+Social Engineer: Thank you for your approval. We will start the system update now and will keep you informed of the process. Do not hesitate to contact us if you have further questions or concerns.
+Target Victim: Thank you for your assistance with the system update. I appreciate your help in ensuring the security and functionality of the system. Please keep me updated on the progress and let me know if there are any issues that arise during the update process.
+Social Engineer: You're welcome! We just completed the update without any issues. The system is now up-to-date and secure. If you notice any problems or issues, please do not hesitate to contact us. Have a great day!
+Target Victim: Great, thank you for letting me know that the update was successful. I appreciate your prompt and efficient service. I will contact you if I notice any issues that need to be addressed. Have a good day too!
+Social Engineer: Thank you. It was my pleasure to assist you and please don't hesitate to reach out with any further issues. Have a great day!
+Target Victim: I will definitely keep that in mind. Thank you once again for your assistance, have a great day!
+Social Engineer: You're welcome and have a great day too!
+Target Victim: Thank you, goodbye.
+Social Engineer: Goodbye!

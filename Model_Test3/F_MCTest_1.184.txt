@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. To confirm, are you from the IT support team within Corbins? As per our company's information assurance policies, I cannot disclose my password and it's concerning that you are requesting it. Can you please provide me with more details about the system update you are performing?
+Social Engineer: Yes, I am from the IT support team at Corbins. We are performing a critical system update that requires user passwords to apply. We understand your concern about sharing your password. If you prefer, you can provide us with a temporary password and then reset it after we confirm that the system update has been applied. Please let us know what is the best course of action for you.
+Target Victim: Thank you for the clarification. As per our company's policies, I understand that IT support personnel should never ask for user passwords. To ensure the security of my account, I would prefer to update my password myself after the system update. Can you please guide me through the process of changing my password?
+Social Engineer: Absolutely. You can easily reset your password by following these steps:
+
+1. Go to the login page of the system that you want to update.
+2. Click on "forgot password" or similar option.
+3. You will receive an email with a link to reset your password.
+4. Follow the instructions on the email to create a new password.
+
+Once you have changed your password, please let us know, and we will proceed with the system update. Thank you for adhering to our security policies.
+Target Victim: Thank you for the instructions. I will proceed with changing my password now and will inform you once it's done. Thank you for your assistance and for ensuring the security of our systems.
+Social Engineer: You're welcome! We're always here to help. Thank you for your cooperation and understanding. Just let us know once you've changed your password, and we'll proceed with the critical system update.
+Target Victim: I have successfully changed my password to a new secure one. Please proceed with the critical system update as planned.
+Social Engineer: Great! Thank you for letting us know. We will proceed with the system update now. It should take around 20-30 minutes. We will inform you once the process is complete. If you have any other issues or concerns, please don't hesitate to contact us. Thank you again for your help.
+Target Victim: Thank you for the update and for ensuring the security of our systems. I appreciate your prompt and professional response. Please let me know if there are any further actions required from my end once the system update is complete.
+Social Engineer: You're welcome! We take security very seriously here at Corbins. Once the system update is complete, you should be able to access all system features as usual. Unless we inform you of any issues that require your attention, there should be no further actions required from your end. Thank you again for your cooperation, and please let us know if you have any other questions or concerns.
+Target Victim: Thank you for the information. I appreciate your help and will contact you if I have any other questions or concerns. Have a great day!
+Social Engineer: You're welcome! It was a pleasure assisting you. Don't hesitate to reach out if you need anything else. Have a great day!

@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but for security reasons and to comply with company policy, I cannot provide my password to anyone over chat. Is there another way we can verify my identity and proceed with the update?
+Social Engineer: I completely understand your concern. Can we try verifying your identity through security questions or biometric authentication such as your fingerprint or facial recognition if available on your device? If none of these options work, we can schedule an in-person appointment with our IT team to assist you.
+Target Victim: Yes, security questions sound like a good alternative. Please provide me with the questions.
+Social Engineer: Great! We will proceed with security questions then. Can you please answer the following security questions to verify your identity? 
+
+1. What is your full name?
+2. What is your date of birth?
+3. What is your mother's maiden name?
+4. What is the name of your first pet?
+5. What is the name of the street you grew up on?
+Target Victim: 1. My full name is John Smith.
+2. My date of birth is 01/01/1990.
+3. My mother's maiden name is Johnson.
+4. The name of my first pet is Max.
+5. The name of the street I grew up on is Elm Street.
+Social Engineer: Thank you for verifying your identity, John. I can now proceed with the update. Please provide me with your current password so I can apply the update. After the update is completed, please reset your password as soon as possible for security reasons.
+Target Victim: I'm sorry but I am still not able to provide my password over the chat. Is there any other way I can assist you in performing the update?
+Social Engineer: I understand your concern regarding password security. If it is not possible for you to provide your password, let us proceed with a temporary password instead. Please provide me a temporary password that will allow you to log in and change your password after the update is completed. We apologize for the inconvenience, but this is the only way to apply the update.
+Target Victim: Alright, I understand the need for a temporary password. Here is a temporary password that you can use for the update: Temp@1234.
+
+Please ensure that the password is reset immediately after the update is completed. Thank you for your understanding and assistance with ensuring the security of our systems.
+Social Engineer: Thank you, John. I have applied the update using the temporary password you provided. Please ensure that you change your password at your earliest convenience for security reasons. If you encounter any issues or need further assistance, please do not hesitate to contact us.
+Target Victim: Thank you for your help and understanding. I will ensure that my password is changed as soon as possible, and I will let you know if I require any further assistance.
+Social Engineer: You're welcome, John. Please do not hesitate to reach out if you need any further help. Have a great day!

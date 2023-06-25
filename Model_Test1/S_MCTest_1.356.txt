@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates, but can you please authenticate yourself before I provide you with my password?
+Social Engineer: Absolutely, my name is [insert name], and I work at Corbins IT helpdesk. Is there anything else you need for me to verify my identity?
+Target Victim: Thank you for providing your name and role, I appreciate it. For added security, can you please provide me with a ticket or reference number related to the system update you mentioned earlier?
+Social Engineer: Thank you for your concern for security. We do have a reference number for the update. The reference number is: [insert reference number]. Please let me know if there is anything else you need from me.
+Target Victim: Thank you for providing the reference number. To confirm, I am speaking to a legitimate IT support staff from Corbins and the reference number matches the update we are expecting. My password is P@ssw0rd. Please let me know if there's anything else you need from me to proceed.

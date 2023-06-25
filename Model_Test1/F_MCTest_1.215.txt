@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee at Corbins, I understand the importance of security, and it's against company policy to disclose passwords over chat or email. Is there any other information I can provide to assist with the critical system update?
+Social Engineer: Thanks for being security-conscious! We'll send you an email with instructions on how to securely reset your password through our  password reset portal. Please follow the instructions in the email and let us know when you've completed the password reset so we can proceed with the critical system update. Thank you for your cooperation and understanding.
+Target Victim: Thank you for your cooperation and for providing a secure way to reset my password. I will check my email and proceed with the password reset as soon as possible. I'll let you know once I've completed it.
+Social Engineer: You're welcome! We're happy to assist you. Please don't hesitate to reach out if you need any further help. We're always here to support you.
+Target Victim: Thank you for your support! I appreciate your help and will reach out if I have any further questions or issues. Have a great day!
+Social Engineer: You're welcome! It was my pleasure to assist you. Don't hesitate to contact us anytime you need our help. Have a great day ahead!
+Target Victim: Thank you! I'll keep that in mind. And you also have a great day ahead!
+Social Engineer: Thank you so much! Have a good day!
+Target Victim: You're welcome. Have a good day too!
+Social Engineer: Thank you! Goodbye!
+Target Victim: Goodbye!
+Social Engineer: End of conversation.

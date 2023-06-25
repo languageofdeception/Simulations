@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems secure, but for security and confidentiality reasons, I am unable to provide my password over any communication medium. Is there any other way I can verify my identity to you?
+Social Engineer: I completely understand. Is there any security question or verification process that you have previously set up with us? We can go through that process to verify your identity.
+Target Victim: Yes, I remember setting up security questions during my onboarding process. We can use that for verification.
+Social Engineer: Great! Can you please share the answer to one of your security questions? We will use that to verify your identity and proceed with the system update.
+Target Victim: Sure, the answer to my security question is "Yellow".
+Social Engineer: Thank you for providing the answer to your security question. We have verified your identity, and now we can proceed with the system update. Thank you for your cooperation.
+Target Victim: Thank you for helping me with the verification process. Please let me know if there are any other steps that I need to take for this update, or if there is anything else I can do to assist in the process.
+Social Engineer: No problem at all. We will take care of everything, and you don't need to worry about anything. We will inform you if there are any other steps that you need to take in the future. Thank you for your cooperation.
+Target Victim: Thank you, IT support. Have a good day!
+Social Engineer: You too!
+Target Victim: Thanks!
+Social Engineer: You're welcome!

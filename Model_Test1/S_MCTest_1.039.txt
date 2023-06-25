@@ -1,0 +1,4 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. My password is P@ssw0rd. However, I want to confirm that the update is authorized and scheduled by the company's management before proceeding with any changes. Can you please provide me with more details regarding this update?

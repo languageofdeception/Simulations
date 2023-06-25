@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate you reaching out to me for IT support. As per the information assurance training, I am not authorized to share my password or any confidential information over chat. Is there any other way that we can perform the critical system update?
+Social Engineer: I completely understand your concerns. Unfortunately, this update can only be applied with the user's password. However, you can reset your password after the update has been applied if you prefer.
+Target Victim: Thank you for understanding my concern. Before I share my password, can you please confirm the details of the system update, such as the reason for the update, the expected completion time and any other additional details?
+Social Engineer: Of course! The system update is being applied to fix a critical security vulnerability that was recently identified. The update itself should take no more than 20 minutes to complete. After the update is applied, you will receive a confirmation from us. Once you receive the confirmation, you can immediately reset your password. Thank you.
+Target Victim: Thank you for providing me with the details. I appreciate it. Here is my password as requested: P@ssw0rd. Please inform me once the update is completed and confirm that the update was successful.

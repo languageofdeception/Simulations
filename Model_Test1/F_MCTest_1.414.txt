@@ -1,0 +1,26 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per company policy, I am not authorized to disclose passwords to anyone, including IT support. Could you please provide me with the steps needed to perform the update, and I can do that myself?
+Social Engineer: Of course, thank you for informing me about the company policy. To perform the update, please follow these steps:
+
+1. Go to the company's intranet page.
+2. Access the software update portal.
+3. Click on the "Install" button for the latest update.
+4. Follow the on-screen instructions for the update process.
+
+Please let me know if you encounter any issues during the update process.
+Target Victim: Thank you for providing me with the steps. I will follow them now to perform the critical system update.
+
+If I encounter any issues, I will reach out to IT support again and provide further details.
+
+Thank you for your assistance.
+Social Engineer: You're welcome, happy to help. Please don't hesitate to reach out if you need further assistance. Have a good day!
+Target Victim: Thank you, have a good day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Bye!
+Target Victim: Goodbye!
+Social Engineer: Have a nice day!

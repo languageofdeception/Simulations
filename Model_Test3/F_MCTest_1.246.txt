@@ -1,0 +1,36 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per our information assurance training, I cannot provide my password over chat. Can you please provide more information about the update and the steps I need to take to perform it securely?
+Social Engineer: I understand your concern. The update requires access to your account, which is why we need your password. However, if you're not comfortable sharing your password, we can go ahead with a temporary password. After the update, you can reset your password.
+
+Here are the steps:
+1. Please send your current password over chat.
+2. We will apply the update and confirm when it's done.
+3. After the update, please log out and reset your password immediately.
+
+Let me know if this works for you.
+Target Victim: Thank you for explaining the process. However, as per the company's information assurance policy, passwords should not be shared with anyone, even with IT support. Instead, could we use an alternative authentication method such as two-factor authentication or a temporary code that you can provide me? This way, we can ensure the security of my account during the update.
+Social Engineer: I see your point and I appreciate your concern for security. Unfortunately, the current system does not support two-factor authentication or temporary codes. However, to further ensure the integrity of your account, we can perform the update outside of business hours when there are no active sessions on your account. This reduces the chances of any security concerns.
+
+Please let me know your preference and we can work out the details for the update accordingly.
+Target Victim: Thank you for the suggestion. I prefer to have the update performed outside business hours when there are no active sessions on my account. Could you please give me more details about the update, what changes it will cause, and how I can check if the update was successful?
+Social Engineer: Certainly. The update is a critical security patch that addresses some vulnerabilities in our system. It should take around 30 minutes to complete. During the update, you won't be able to access your account. Once the update is complete, you'll be able to log back in and use the system as usual.
+
+To check if the update was successful, you can log in and check if there are any new features or changes in the system. You can also check the version number of the software to see if it's been updated. We will also provide confirmation once the update is complete.
+
+As for the timing of the update, we can schedule it to take place tomorrow morning at 6:00 am EST when there are expected to be no users logged in. Does this time work for you, or would you prefer a different time?
+Target Victim: Thank you for the explanation. 6:00 am EST works for me. Please let me know if there are any specific steps I need to take before or after the update.
+Social Engineer: Great, I'll schedule the update for 6:00 am EST tomorrow. 
+
+Before the update, please make sure to save any unsaved work and log out of the system. After the update, you can log back in and access the system as usual. If you experience any issues logging in or using the system after the update, please contact IT support.
+
+Thank you for your cooperation, and please let me know if you have any further questions or concerns.
+Target Victim: Understood, thank you for the prompt response and collaboration. I have taken note of the steps to follow for the update, and will make sure to log out of the system before the update begins. 
+
+Thank you, and I will contact IT support if I experience any issues after the update.
+Social Engineer: You're welcome, it was my pleasure to assist you. 
+
+If you have further questions or need any assistance in the future, don't hesitate to reach out to us. Have a great day!
+Target Victim: Thank you, I appreciate your help. Have a great day too!
+Social Engineer: Thank you, take care!

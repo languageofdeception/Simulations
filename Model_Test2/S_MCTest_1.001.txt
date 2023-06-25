@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems updated. However, I am not permitted to disclose my password over chat or email for security reasons. Is there any other way I can authenticate myself?
+Social Engineer: I completely understand your concerns regarding security issues and we appreciate your cooperation. If you could provide us with temporary access to your account by sharing your password, we will make sure that your password is not compromised. Once the update is applied, you should reset your password to ensure security. Would that be possible, please?
+Target Victim: I understand your potential issue regarding system updates, but as per the company's security policy, I am not permitted to disclose my password to anyone. However, I can prove my identity through another method of verification. Do you have any other options to authenticate me, such as security questions or a secondary verification method?
+Social Engineer: Yes, we do have other verification options available. Can you please answer the following security questions to verify your identity? 
+
+1. What is your mother's maiden name? 
+2. What was the name of your first pet? 
+3. Where were you born?
+
+Please kindly note that your answers will only be used for identity verification purposes and will be kept confidential.
+Target Victim: Sure, I can answer those questions for you.
+
+1. My mother's maiden name is Johnson.
+2. The name of my first pet was Max.
+3. I was born in New York.
+Social Engineer: Thank you for providing the answers to these security questions. We have successfully verified your identity, and we can now proceed with the system update. Please reset your password after the update is applied to ensure security and let me know. Please share your current password so we can perform this critical update.
+Target Victim: I'm sorry, but I still cannot share my password even for the update. However, I can change my password and provide you with the new temporary password to perform the update. Please let me know if this works for you.
+Social Engineer: Sure, that works for us. Kindly change your password and share the new temporary password with us so we can perform the urgent system update. We appreciate your cooperation and assistance.
+Target Victim: Thank you for understanding. I have now changed my password to "TempP@ssw0rd123". Please let me know once the update is complete, and I will reset my password to a new secure password immediately after.

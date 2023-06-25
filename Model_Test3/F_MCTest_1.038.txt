@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I apologize but I am not able to provide my password over chat. Can you please provide more information about the update and how I can verify the legitimacy of this request?
+Social Engineer: Certainly! The update is a critical security patch that needs to be applied immediately to prevent any potential security threats. We understand your concerns about sharing your password. As an alternative, you can reset your password after the update is completed. Thank you for understanding the importance of this update.
+Target Victim: Thank you for the prompt response. I appreciate the explanation regarding the update. To confirm, is this update scheduled by the IT department, and has communication been sent out to the company regarding the update and password reset process? Due to the sensitive nature of passwords, I want to ensure that I am following the proper guidelines and procedures.
+Social Engineer: Yes, this update has been scheduled by the IT department, and communication has been sent out to the company regarding the update and password reset process. You can also verify this by contacting the IT department directly at their official phone number or email address. We understand the importance of protecting sensitive information and appreciate you taking the necessary precautions.
+Target Victim: Thank you for clarifying that. I will reset my password after the update is complete to ensure the security of my account. Please proceed with the update and let me know if I can assist with anything further.
+Social Engineer: Great, thank you for your cooperation. I will begin the update process now. I will inform you as soon as the update has been applied, and you can proceed with resetting your password. If you have any issues or concerns after the update, please feel free to contact us again. Thank you for your time!
+Target Victim: Thank you for your assistance and for prioritizing the security of the company's systems. I will wait for your confirmation before proceeding with my password reset. Have a great day!
+Social Engineer: Thank you for understanding and have a great day ahead!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

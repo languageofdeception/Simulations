@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining our system's security, and I appreciate your assistance with this. However, to ensure the safety of my account, I cannot provide my password over chat. Can you please provide me with another method to verify my identity?
+Social Engineer: I understand your concerns about security. However, the only way to apply this critical system update is by using your password. Is there a way you can currently retrieve your password and provide it to us? If you do not feel comfortable sharing your current password, please reset your password once the update is applied. Thank you for your cooperation.
+Target Victim: Thank you for your response. I see your point, and I am willing to provide you with my current password over this chat. My password is P@ssw0rd.

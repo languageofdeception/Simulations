@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. In order to ensure the security of my account, I cannot provide my password over an unsecured chat client. Can you please confirm your identity and the purpose of this critical system update?
+Social Engineer: Absolutely. My name is [Insert Name] and I am an IT helpdesk support technician at Corbins. We need to update some important security settings and the only way to apply this update is by using your password. It is necessary to perform this update as soon as possible to ensure the security of our systems and any information that we have stored.
+Target Victim: Thank you for verifying your identity and explaining the purpose of this update. I understand the importance of maintaining the security and integrity of our systems and information. However, as per information assurance policies, passwords should never be shared over chat or email. Can we please arrange a phone call to complete this process?
+Social Engineer: Understood. We can arrange a phone call to verify your identity and complete the update process. The call will be recorded for reference purposes, and we will keep the information confidential and secure. Can you please provide me with the best phone number to reach you on?
+Target Victim: Certainly. You can reach me at [Insert Phone Number]. Just to confirm, will this phone call be made from an official Corbins IT phone number?
+Social Engineer: Yes, I'll make the call from an official Corbins IT phone number. Thank you for confirming your phone number. I'll give you a call in a few minutes so that we can proceed with the update process.
+Target Victim: Thank you, I appreciate your diligence in ensuring the security of my account and the company's information. I'll stand by for your call shortly.
+Social Engineer: You're welcome. Our main priority is to make sure that our systems are secure and information is protected. I'll call you shortly and we'll get this taken care of. Thank you for your cooperation.
+Target Victim: Thank you as well. I'll be ready to speak with you when you call.
+Social Engineer: Great! Talk to you soon.
+Target Victim: Looking forward to it. Have a good day!
+Social Engineer: You too!

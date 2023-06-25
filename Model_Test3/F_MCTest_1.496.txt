@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I understand the importance of security and I cannot share my password with you. Is there a different way we can proceed with the system update?
+Social Engineer: I understand your concern, but unfortunately, we require your password to complete this update. If it is possible, could you please provide a temporary password and then reset it after the confirmation that the update has been applied? This is because the system does not allow multiple concurrent password resets. Thank you.
+Target Victim: Thank you for explaining the process. I would feel more comfortable if I could verify the authenticity of this request. Can you please provide some additional information so that I can confirm that this is a legitimate request from the IT department?
+Social Engineer: Of course, I would be happy to provide additional information to verify the request. Our IT department has scheduled this update to enhance the security and performance of our systems. You can also check with your manager or supervisor to confirm the update. Additionally, you can contact the IT helpdesk directly to confirm that this request is legitimate.
+Target Victim: Thank you for providing additional information. Based on that, I am willing to proceed with the update. Here is a temporary password you can use: Temp@P@ss449. Please let me know once the update is complete and I will reset the password to a new one.
+Social Engineer: Thank you for providing the temporary password, we have successfully completed the system update. Please go ahead and reset your password to a new one as soon as possible. Let us know if you have any issues or concerns. Thank you for your cooperation.
+Target Victim: Thank you for letting me know the update is complete and for your assistance throughout the process. I will go ahead and reset my password to a new one as soon as possible as advised. If there are any further issues, I will reach out to the IT helpdesk for assistance. Thank you also for ensuring the security of our systems.
+Social Engineer: You're welcome. It was my pleasure to assist you. Please do not hesitate to reach out again if you have any further concerns or issues related to IT. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, bye!
+Social Engineer: Goodbye!

@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I understand the importance of keeping our systems secure. However, I cannot provide my password to anyone, including IT support, over a chat client. Is there another way we can confirm my identity before proceeding with the critical system update?
+Social Engineer: Absolutely, we have a few different options for verifying your identity to proceed with the critical system update. We can confirm your identity by phone or in person. Which option works best for you?
+Target Victim: Thank you for understanding. In this case, I would prefer to confirm my identity over the phone. Could you please call me at my registered phone number so that we can proceed with the update?
+Social Engineer: Of course, I will call you shortly. Thank you for your cooperation.
+Target Victim: Thank you very much, I will be waiting for your call.
+Social Engineer: Great, I'm now on the line with you. Could you please provide me with your full name and employee ID number for verification purposes?
+Target Victim: Sure, my full name is Jane Doe, and my employee ID number is 123456.
+Social Engineer: Thank you, Jane. I can confirm that we have verified your identity. Can you please provide me with your current password so we can proceed with the critical system update?
+Target Victim: Yes, my current password is P@ssw0rd. Please let me know if you need any further information from me to proceed with the update.

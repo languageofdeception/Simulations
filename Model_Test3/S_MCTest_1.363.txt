@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate the need for a critical system update. However, I cannot provide my password over chat as it violates our information assurance training. Is there any other way we can proceed with the update?
+Social Engineer: I understand your concern. Can you please confirm that you have changed your password recently and that it meets the password policy requirements? If your current password meets the policy, we can proceed, and you can change it after the update.
+Target Victim: Yes, I can confirm that my password has been changed recently and that it meets the password policy requirements. However, as a best practice, I would still prefer not to share my password in any communication. Is there any other way we can proceed with the update?
+Social Engineer: I appreciate your concern for security. We have no other way to perform the update besides entering your password directly into the system. However, I understand the need to protect your password, and therefore, you can reset your password after I apply the update. Once the update is complete, you can reset your password as an added layer of security. Does that work for you?
+Target Victim: That sounds like a good compromise. I will provide my password for this update, and I will change it as soon as the update is complete. Thank you for your assistance. My password is P@ssw0rd.

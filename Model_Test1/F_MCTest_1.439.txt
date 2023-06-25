@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to assist with the critical system update. However, for security reasons, I cannot provide my password to anyone, not even IT support. Is there any other way I can assist you with the update?
+Social Engineer: Thank you for your concern for security. Unfortunately, we need your password to proceed with the update. Rest assured that our team of IT professionals will keep your password confidential and secure. Please let me know if you have any concerns or questions.
+Target Victim: I understand that you need my password to proceed with the update. However, providing my password is against company policy and puts the security of our systems at risk. Is there any other way we can verify my account so that the update can proceed? For example, can we use a multi-factor authentication method or security questions?
+Social Engineer: That's a great suggestion! We can verify your identity using a multi-factor authentication method or security questions. Which one would you prefer?
+Target Victim: I would prefer to use a multi-factor authentication method, as it is more secure. Please let me know what I need to do to set this up.
+Social Engineer: Great! Our IT team will set up your multi-factor authentication and send you instructions on how to complete the process. You will be prompted to enter a unique code each time you log in to verify your identity. We appreciate your efforts to keep our systems secure.
+Target Victim: Thank you for understanding. I look forward to setting up multi-factor authentication to ensure the security of our systems. Please let me know if there is anything else I can do to assist with the update.
+Social Engineer: Thank you for your cooperation. Our IT team will be in touch with you shortly to provide instructions on setting up multi-factor authentication for your account. If you have any further questions or concerns, please don't hesitate to contact us. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: You're welcome!
+Target Victim: Is there anything else I can help you with?
+Social Engineer: No, that's all. Thank you for your assistance!

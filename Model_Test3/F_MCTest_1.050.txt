@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please provide me with some context and information about the critical system update you are performing? Also, can you confirm your identity and provide me with your name and employee ID?
+Social Engineer: Hi, the critical system update is a security patch that needs to be applied to ensure the safety of the system. My name is John and my employee ID is AC1234. Can you please provide me with your password so we can proceed with the update?
+Target Victim: Hello John, I appreciate the information you provided. However, I'm sorry but I cannot provide you with my password as it goes against our organization's information security policy. Instead, can you please provide me with more details about the update such as which system is being updated, what is the risk, and how long the update will take? 
+
+Furthermore, to authenticate your identity, can you please provide me with a ticket number or reference number for this update request so I can verify it with our IT department?
+Social Engineer: Of course, I completely understand your concern. The update is for our company's email system, and it is to address potential security vulnerabilities that have been identified. The update should take no longer than 30 minutes to apply. As for the ticket/reference number, unfortunately, we do not have one as this is an urgent update. However, I can confirm that this is a legitimate request. If you are still uncomfortable providing your password, you can send us a temporary password, and then you can reset it after we confirm the update has been applied.
+Target Victim: Thank you for the additional information, John. I appreciate your commitment to the security of our systems. I apologize for any inconvenience caused. 
+
+As per our organization's policy, I cannot provide temporary passwords. However, I can change my password once I receive confirmation from our IT department that this update is being carried out by a legitimate and authorized person. 
+
+Can you please provide me with your contact number or email address so I can verify the request with our IT department and confirm the legitimacy of the update request?
+Social Engineer: Certainly, I completely understand. You can reach out to our IT department at itdept@corbins.com, or you can call our support number at 1-800-123-4567 Ext. 1234. Once our IT department confirms the legitimacy of the update request, we will proceed with applying the update, and you can reset your password. Is that okay?
+Target Victim: Thank you, John. I appreciate your cooperation in ensuring the safety and security of our systems. I will contact the IT department using the information you provided and wait for their confirmation before proceeding with any password change. 
+
+Once I receive confirmation, I will change my password, and you can proceed with the update. After the update is applied, I will reset my password per our organization's policy. Thank you for your understanding in this matter.
+Social Engineer: You're welcome! I'm glad we were able to reach a resolution. We take the security of our systems seriously, and we appreciate your cooperation. Please let me know if you have any other questions or concerns in the future.
+Target Victim: Thank you, John, I appreciate your professionalism and understanding. I will contact you if I have any further questions or concerns. Have a great day.
+Social Engineer: You're most welcome! It was my pleasure to assist you. Have a great day ahead!
+Target Victim: You too, take care.
+Social Engineer: Thank you, you too. Goodbye!

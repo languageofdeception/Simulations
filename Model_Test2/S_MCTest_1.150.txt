@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining critical system updates, but I cannot provide you with my password over a chat client. Is there any other way I can verify my identity and provide access to these updates?
+Social Engineer: I completely understand your concern and appreciate your attention to security. Unfortunately, the only way to apply this update is by having your password. However, if you prefer, you can send me your current password over the chat client and then reset it after I confirm that the update has been applied. The system does not allow multiple concurrent password resets.
+Target Victim: I am sorry, but I cannot provide you with my password. Instead, can you please provide me with the details about this critical system update, such as the reason behind the update, expected impact, and any potential risks? That way, I can verify the update with my team and make sure it is legitimate and necessary for our systems.
+Social Engineer: Sure, I completely understand your hesitation, and we appreciate your due diligence. The critical system update is to address a recent security vulnerability that we have discovered in our systems. This update is crucial in protecting our systems and sensitive information from potential unauthorized access. There is potential disruption during the update process, but our team will ensure minimal downtime. Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for providing me with the details about the critical system update. I understand the importance of protecting our systems and sensitive information. As the update is related to security vulnerabilities, and is critical to our systems' security, I will provide you with my password to apply the update. Please ensure that you change my password immediately after the update has been applied. 
+
+My current password is P@ssw0rd.

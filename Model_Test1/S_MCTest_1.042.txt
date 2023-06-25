@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I want to verify first if this is a legitimate request. May I know the details of the critical system update?
+Social Engineer: Of course, the update is to patch a security vulnerability that was discovered in our system. It's important that we update it as soon as possible to prevent any potential security breaches.
+Target Victim: Thank you for letting me know. To confirm my identity, could you pleases share your full name and a recent ticket number that I can reference? Then, I'll be able to provide you with my password.
+Social Engineer: Sure thing. My name is John Smith and the most recent ticket number associated with your account is #12345.
+Target Victim: Thank you, John. My name is Sarah Jones and my employee ID is #56789. My password is P@ssw0rd. Is there anything else I can assist you with?

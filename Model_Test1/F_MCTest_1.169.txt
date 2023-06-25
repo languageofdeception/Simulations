@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please provide me with your name and department for verification purposes? Also, I want to remind you that I should never disclose my password to anyone, including IT support. Is there any other way I can verify my identity?
+Social Engineer: Of course, apologies for not introducing myself earlier. My name is John and I am part of the IT department at Corbins. For verification purposes, can you please confirm your employee ID or provide any other personal details that only you would know?
+Target Victim: Thank you, John. My employee ID is 12345678. Is there any other way to authenticate my identity? I want to ensure that my account is secure.
+Social Engineer: Thank you for providing your employee ID. As an alternative to disclosing your password, we can reset it and provide you with a temporary password that you will be required to change on your next login. Would you like to proceed with this method?
+Target Victim: Yes, resetting my password sounds like a good solution. Thank you for suggesting that, John. Please proceed with resetting my password, and provide me with the temporary password so I can log in and create a new one.
+Social Engineer: Great. I have reset your password and have sent the temporary password to your email. Please check your inbox and ensure you change the temporary password on your next login to ensure the security of your account. Let me know if you have any issues logging in. Thank you!
+Target Victim: Thank you, John. I've received the temporary password and will change it right away. I appreciate your help in keeping my account secure. Have a great day!
+Social Engineer: You're welcome! I'm glad I could help. If you need any further assistance, please don't hesitate to reach out. Have a great day!
+Target Victim: Thank you, John! Have a great day too!
+Social Engineer: You're welcome! Take care and stay safe!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye.

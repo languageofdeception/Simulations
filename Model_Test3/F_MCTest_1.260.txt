@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As a Corbins employee, I am aware of the company's information security policy, and I cannot provide my password as it is confidential information. Can you please advise on how we can proceed without sharing my password?
+Social Engineer: I understand your concern. Unfortunately, the only way to apply this system update is by using your password. However, if you prefer, you can send us your current password temporarily, and we will reset it after the update has been applied. Alternatively, you could be present during the system update and enter the password yourself. Please let me know what you prefer, and we can take it from there.
+Target Victim: Thank you for the options. I prefer to be present during the system update and enter the password myself. May I know when the update is scheduled to take place, and what the update is about?
+Social Engineer: Thank you for your preference. The update is scheduled to take place tomorrow at 2 PM. The update is about enhancing the security features of our systems to protect them from potential cyber attacks. If you have any other concerns or questions, please don't hesitate to let us know.
+Target Victim: Thank you for the information. I appreciate your efforts to keep the company's systems secure. I will be available tomorrow at 2 PM for the system update and will enter my password during the process. Please let me know if there are any further instructions or information I should know about.
+Social Engineer: Great, thank you. Please make sure to have your device connected to the company's network and that your password is up to date. The update process will take approximately 10-15 minutes to complete. Once the update is done, you will receive a confirmation message from us. If you have any questions or issues during the process, please feel free to contact us at any time. Thank you for your cooperation.
+Target Victim: Thank you for the instructions. I will make sure to have my device connected to the company's network and ensure that my password is up to date before the update takes place. I will be on standby for any issues or questions that may arise during the update. Thank you again for your help.
+Social Engineer: You're welcome. We appreciate your cooperation. If you have any further questions or concerns, don't hesitate to contact us. We're always here to help. Have a great day!
+Target Victim: Thank you very much, I appreciate your support. Have a great day too!
+Social Engineer: You too!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

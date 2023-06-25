@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I provide my password, can you please confirm your identity and the purpose of this critical system update? Also, may I know what specific system you are referring to?
+Social Engineer: Absolutely. This is the IT helpdesk at Corbins. We need your password to apply a security patch to your system. This update is critical to ensure your computer's security and performance. Specifically, we are updating your operating system to fix a vulnerability that could potentially compromise your data.
+Target Victim: Thank you for clarifying that. I can confirm that I have been instructed to stay up-to-date with security patches and have been expecting an update. However, I will not give my password over a chat as this method may not be secure. Instead, can you initiate the update process remotely through our IT management system or set up a secure way for me to provide you my password, such as a password-protected link or encrypted chat?
+Social Engineer: Yes, I completely understand your concerns around security. Unfortunately, at this time, we do not have a way to initiate this critical system update remotely or set up a secure way for you to provide us your password. However, we can recommend you send your current password temporarily and then reset it after we confirm that the update has been applied. Please note that this method is only a temporary solution as we discourage users from sharing their passwords in any form.
+Target Victim: I appreciate your suggestion, but I would prefer not to send my password through a chat message. Instead, can you please provide me with a support ticket number or other form of documentation that confirms the authenticity of the update and that I can use as a reference if necessary? 
+
+Also, can you please provide me with a timeline for this critical system update, so that I can be prepared for any disruptions or downtime?
+Social Engineer: Sure thing! Here is the support ticket number: TKT23741. You can use this reference number to confirm the authenticity of this critical system update with our IT management team if needed. 
+
+Regarding the timeline, the update should take approximately 20-30 minutes, during which time your computer will need to be restarted. We prefer to apply updates outside of business hours, so we will coordinate with your schedule to find a time that works best for you. 
+
+Again, we apologize for any inconvenience or security concerns. We take the security and privacy of your data very seriously and assure you that all measures have been taken to ensure this update is safe and necessary.
+Target Victim: Thank you for providing me with the ticket number and timeline. I appreciate the efforts you've taken to ensure the security of our systems, and will coordinate with you on scheduling the update.
+Social Engineer: You're welcome! We're always here to help with any IT-related issues, and please don't hesitate to contact us if you have any further questions or concerns about IT security or system updates. We look forward to working with you and ensuring the ongoing performance and security of your computer systems.
+Target Victim: Thank you for your assistance and for prioritizing security. I will definitely reach out to you if I have any other questions or concerns related to IT security or system updates. Have a great day!
+Social Engineer: You too, have a fantastic day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!

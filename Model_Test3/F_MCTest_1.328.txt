@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. Before I provide any sensitive information, may I please verify your identity and the specific update that needs to be performed? Also, in accordance with information assurance, I am not authorized to share my password with anyone, including IT support. Can we find an alternative solution?
+Social Engineer: Understandable. I can provide you with further proof of my identity if needed. As for the update, it's a critical security patch that needs to be applied immediately to prevent any potential security breaches. Unfortunately, the only way to apply this update is through the use of your password. Would you be open to sending us your current password and change it immediately after we confirm that the update has been applied?
+Target Victim: Thank you for providing more details on the situation. However, sharing passwords is not encouraged in accordance with information assurance protocols and company policies. Instead, could we please set up a remote session where I can observe the update being applied securely without the need of sharing my password?
+Social Engineer: I understand your concern, but the remote session might take longer, and we want to ensure that the update is applied immediately to prevent any potential security breaches. Additionally, the system does not allow multiple concurrent password resets. Therefore, it's essential to provide us with your password to apply the update. Once done, you can change your password immediately.
+Target Victim: I appreciate your updates on the situation and your concern for security. However, I cannot provide my password under any circumstances. Could you please check if there is any other solution to apply the update that does not require sharing of passwords? For example, could you share the steps that you would take to apply the update so that I can perform them myself while you guide me through the process?
+Social Engineer: I understand your concern, and I appreciate your diligence in following company protocols and information assurance guidelines. We can provide you with the steps to apply the update so that you can perform them yourself while we guide you through the process. Here are the steps:
+
+1. Navigate to the Control Panel on your system.
+2. Go to System and Security.
+3. Click on Windows Update.
+4. Click on Check for Updates.
+5. Once the update is shown, click on Install Updates.
+
+Please note that it might take a while to complete the update installation process, and your system may restart during this time. Please do not turn off your system during the update installation process.
+
+Can we proceed with this solution?
+Target Victim: Thank you for providing the steps I need to follow. I can perform the update myself following the steps you shared. I will let you know if I need any assistance during the process, and I understand that my system may restart during the update. Thank you for your help.
+Social Engineer: You're very welcome. I'm happy to be of assistance. Please don't hesitate to reach out to us if you need any further assistance. Have a great day!
+Target Victim: Thank you, I appreciate your help. Have a great day too!
+Social Engineer: You're welcome! You too!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

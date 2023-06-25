@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the critical system update, but I am unable to provide my password for security reasons. Is there another way for me to authenticate my identity?
+Social Engineer: I understand your concern for security. Unfortunately, there is no other way to apply this update except for you to provide your password since the system does not allow multiple concurrent password resets. If you're comfortable, you can provide me with your current password, and then reset it afterward.
+Target Victim: I'm sorry, but I still cannot provide my password as sharing passwords is against company policy. Can you verify my identity through security questions or through another factor authentication?
+Social Engineer: I completely understand your concern. Let me check if we have other options to verify your identity. Please allow me a moment to check the available authentication methods.
+Target Victim: Thank you for your understanding. I'll be waiting for your response.
+Social Engineer: Thank you for your patience. Unfortunately, we don't have any other effective methods to verify your identity, as we don't have in place any advanced authentication methods such as multi-factor authentication. 
+
+If you're still unable to provide your password, we can't proceed with the system update at this time. However, if you have any other concerns or questions, please let me know, and I'll be happy to help you.
+Target Victim: I appreciate you checking into it. Given the circumstances, I would prefer to not provide my password. I understand if this means we can't proceed with the system update at this time.
+
+Thank you for your help, and let me know if there is anything else I can assist you with.
+Social Engineer: Thank you for understanding. Your security is of utmost importance to us, and we fully respect your decision. If you have any other IT-related requests or concerns, please don't hesitate to reach out. Have a great day further!
+Target Victim: Thank you, have a great day as well!
+Social Engineer: You're welcome.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the need for critical system updates, but I cannot provide my password over a chat client due to security reasons. Is there another way we can perform the update without me having to disclose my password?
+Social Engineer: I appreciate your concern for security. Unfortunately, the update requires your password to proceed. However, if you're uncomfortable with providing your actual password, you can reset your password before and after the update. Could you please send me your current password, we will apply the update and then you can change your password again afterwards?
+Target Victim: I apologize, but I still cannot provide my actual password over a chat client. However, I understand the importance of ensuring the system is updated. I will reset my password now, and then change it again once the update is complete. Thank you for your help.
+Social Engineer: Sure, I understand. Please reset your password and then send us your new temporary password. Once the update is complete, you can change your password again. Let me know once you have a new temporary password, and we will proceed with the update.
+Target Victim: Thank you. I have reset my password. The temporary password is: T3mpPass!
+Social Engineer: Thanks for providing the temporary password. We have successfully applied the critical system update through your account. Please change your password to a new one now. Let me know if you face any issue resetting your password.
+Target Victim: Thank you for your assistance. I have successfully changed my password to a new one. I appreciate your help in ensuring the security and integrity of our systems.
+Social Engineer: Glad to be of your help! Don't hesitate to reach out to us if you need any further IT assistance. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Pleasure working with you!
+Target Victim: Likewise, have a good day!
+Social Engineer: Thank you, goodbye!

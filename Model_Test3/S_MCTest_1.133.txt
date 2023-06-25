@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates. However, I cannot provide you with my password as it is against company policy to do so. Is there an alternative way that we can proceed with the update?
+Social Engineer: Thank you for understanding the importance of the update. Unfortunately, providing your password is the only way we can proceed with the update. However, if you would like to provide a temporary password, you can send us your current password and then reset it after we confirm that the update has been applied. This is because the system does not allow multiple concurrent password resets. Let me know how you would like to proceed.
+Target Victim: I appreciate your suggestion, however, I cannot share my current password with anyone. Instead, I am willing to reset my password to a temporary password and share it with you. Once the update is confirmed, I will reset it again to a new password. Is that acceptable?
+Social Engineer: Yes, that works for us as well. Please reset your password to a temporary password that you are comfortable sharing with us. Once the update is confirmed, please reset it to a new password that is unique and secure. Thank you for your cooperation.
+Target Victim: Sure, my temporary password will be "TempP@ssw0rd!". Please let me know once the update is completed so that I can reset my password.

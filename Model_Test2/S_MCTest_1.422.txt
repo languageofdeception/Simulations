@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but I'm hesitant to provide my password over chat. Can you confirm your identity and provide more information about the update you need to perform?
+Social Engineer: Certainly. This is IT helpdesk support technician at Corbins. I can also provide you with my employee ID number if you would like. 
+
+The update that needs to be done is to fix a critical vulnerability that has been identified in our system. Unfortunately, we require your password to apply this update. If you feel uncomfortable providing your current password, we recommend resetting it after we confirm the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+
+Thank you for your understanding.
+Target Victim: Thank you for confirming your identity and providing more information. I understand the urgency of this update, and with your guarantees of IT helpdesk support, I will provide my current password: P@ssw0rd. Please let me know once the update has been completed so that I can proceed with resetting my password.

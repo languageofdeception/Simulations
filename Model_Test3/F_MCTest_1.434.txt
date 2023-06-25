@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates, but as per our company policy, I cannot share my password with you. Can you please provide me with your name and department so I can verify your identity?
+Social Engineer: Of course, my name is John and I'm part of the IT helpdesk team at Corbins. Would it be possible to have you send me your current password and then reset it after we complete the update? The system does not allow for multiple concurrent password resets.
+Target Victim: Hello John, thank you for introducing yourself. I appreciate your efforts. However, I cannot share my current password with you over the chat client. Instead, can you please guide me on how to change my password once the system update is completed?
+Social Engineer: No problem, I completely understand. Once we complete the update, you can go to the company's password reset page and change your password there. In the meantime, if you could please log out and then log back in after 20 minutes, the system will be updated. Thank you for your cooperation!
+Target Victim: Thank you for your guidance, John. I will log out now and come back in after 20 minutes. Thank you for your assistance in keeping our systems up-to-date and secure.
+Social Engineer: You're welcome, happy to help! If you have any other concerns, please do not hesitate to reach out again. Have a great day!
+Target Victim: Thank you, John! Have a great day too!
+Social Engineer: You too, take care!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

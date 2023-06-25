@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important but for security reasons, I cannot provide my password over chat. Can you please guide me through the process of resetting my password or authenticate my identity in some other way?
+Social Engineer: Hi, I appreciate your concern towards security. However, we need your current password to apply the update as the system allows only one password reset at a time. Alternatively, you can provide a temporary password that you can change once the update has been applied. Please let me know which option you prefer. Thank you.
+Target Victim: Thank you for considering an alternative option for me. I can provide a temporary password for updating the system. Once the update has been completed successfully, I will immediately reset my password to a new one to ensure the security of my account. Please let me know how to proceed with providing a temporary password.
+Social Engineer: Thank you for understanding. Please provide your current password as a temporary password so we can perform the update. Once the update is complete, please change your password immediately to a new one for security reasons. Thank you.
+Target Victim: I'm sorry, but I cannot provide my current password. It is against company policy to share passwords. Instead, I can generate a new temporary password for your reference. Can you please confirm if you need me to do so?
+Social Engineer: I understand your concern, and it is good to see that you are following company policies. Yes, please generate a new temporary password and send it to me. Once the update is complete, please change the password immediately to a new one. Thank you.
+Target Victim: Thank you for your understanding. I have generated a new temporary password for you to apply the system update: T3mpP@ssw0rd. Please ensure that you keep this password safe and change it to a new one as soon as the update is complete. Thank you.

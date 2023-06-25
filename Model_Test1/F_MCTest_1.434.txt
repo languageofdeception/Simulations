@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thanks for reaching out. For security reasons, I cannot provide my password over chat. Is there another way that we can verify my identity?
+Social Engineer: Thank you for your concern with security. Can you please confirm your full name and employee ID so we can verify your identity?
+Target Victim: Sure, my full name is John Doe and my employee ID is 12345.
+Social Engineer: Thank you, John. Please verify the last 4 digits of your social security number for further verification.
+Target Victim: Sorry, but I cannot provide my social security number as personal information over chat. Is there any other way I can verify my identity?
+Social Engineer: Certainly, John. We take security very seriously. Can you please provide the answer to your security question that we have on file?
+Target Victim: Yes, I can provide the answer to my security question. What is the security question?
+Social Engineer: Your security question is: What is the name of your first pet?
+Target Victim: Thank you for reminding me. The name of my first pet was "Max".
+Social Engineer: That's great, John. I have successfully verified your identity. Thank you for your cooperation. We will now proceed with the system update.
+Target Victim: Thank you for verifying my identity. Please let me know if you need any further assistance from me.
+Social Engineer: No problem, John. We will let you know if there are any further concerns or issues that require your attention. Thank you for your cooperation and have a good day!

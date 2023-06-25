@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I always take information assurance seriously and we are trained not to give away passwords. Can you please provide me with more context and information about the critical system update that requires my password?
+Social Engineer: Certainly, we need to apply an urgent security patch to your system to prevent potential security vulnerabilities. This update requires the password to be entered manually by the user. If it makes you feel more comfortable, you can reset the password after the update has been confirmed.
+Target Victim: Thank you for explaining the reason behind the request for my password. I appreciate your concern for security. However, for security reasons, I cannot provide anyone with my actual password, even if it is for a critical system update. Can you guide me through the steps I can take to apply the update myself?
+Social Engineer: I understand your concern about security. In that case, please reset your password and then provide me with your temporary password. Once the update has been applied, you can reset your password again. This way, you can help us apply the update while keeping your password secure. Does that work for you?
+Target Victim: I appreciate your suggestion and the fact that you understand my concern about security. I can reset my password myself following our organization's process and provide you with a temporary password. However, for security reasons, I would prefer to enter the temporary password myself. Can you guide me through the steps to apply the update once I have my temporary password?
+Social Engineer: Thank you for your cooperation and willingness to reset your password. I understand your concerns and appreciate your efforts to maintain security. Once you have your temporary password, I will send you the steps to apply the update. In the meantime, please let me know once you have reset your password so we can proceed with the update.
+Target Victim: Great, thank you for understanding. I will reset my password now and let you know once it is done.
+Social Engineer: Thank you, please let me know once your password has been reset so we can proceed with the update.
+Target Victim: I have reset my password. Please provide me with the instructions for applying the update so I can proceed with it myself.
+Social Engineer: Thank you for resetting your password. Here are the steps to apply the update: 
+
+1. Log in to your computer using your new temporary password.
+2. Open the system update tool by clicking on the start menu and searching for "Windows Update".
+3. Click on "Check for updates" and wait for the system to detect and download the available updates.
+4. Once the update has been downloaded, you will be prompted to restart your computer to complete the installation. Please make sure to save any unsaved work before proceeding with the restart.
+
+If you encounter any issues during the update process, please do not hesitate to contact me for further assistance.
+Target Victim: Thank you for providing me with the steps. I will proceed with applying the update and will contact you if I need further assistance.
+Social Engineer: You're welcome, please let me know if you encounter any issues during the update process. Have a great day!

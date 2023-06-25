@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security measures but it's important to verify your identity. Can you please provide your name and employee ID so that I can confirm you are a legitimate member of the IT helpdesk?
+Social Engineer: Of course, my name is John Smith and my employee ID is 12345. Thank you for verifying my identity. Can you please provide me with your password so we can move forward with the system update?
+Target Victim: Thank you for confirming your identity, John. However, for security reasons, I am unable to provide my password over chat. Is there another way we can proceed with the system update?
+Social Engineer: I completely understand your concerns. It might be best if we schedule a remote session where I can access your computer and perform the system update while you are present to type in your password. How does that sound?
+Target Victim: That sounds like a reasonable solution. When would be a convenient time for the remote session?
+Social Engineer: Thank you for your cooperation. How about we schedule the remote session for tomorrow at 10 am? Would that work for you?
+Target Victim: Yes, that works for me. Can you provide me the details of the remote session and the steps that will occur during the system update?
+Social Engineer: Sure, I will send you an email with the instructions on how to connect to the remote session. During the session, I will ask you to open our IT support tool which will allow me to remotely access your computer. Once connected, I will perform the system update while you provide me with your password to complete the process. You will be able to witness the entire process and can end the session at any time if necessary.
+Target Victim: Thank you for the information. I will be sure to follow the instructions in the email and am looking forward to the system update.
+Social Engineer: You're welcome. Thank you for your cooperation, and we look forward to a successful system update. Please don't hesitate to contact us if you have further concerns or questions.
+Target Victim: Thank you for your help, and I will definitely reach out if I have any further concerns or questions. Have a great day!
+Social Engineer: You too!

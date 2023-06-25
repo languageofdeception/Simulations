@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates. However, for security reasons, I cannot provide my password as it is personal and confidential information. Is there another way we can proceed with the update?
+Social Engineer: Hello, I understand your concern about security. However, the update is critical and requires your password to be applied. If you prefer, you can send me your current password and then reset it after we confirm that the update has been completed. This is because multiple concurrent password resets are not allowed in the system.
+Target Victim: I appreciate the explanation but I am still reluctant to provide my password over chat. Can you please provide more information about the update, such as what it involves and why my password is needed specifically? 
+
+Also, can you please confirm that this chat is secure and encrypted?
+Social Engineer: I completely understand your concern. The system update involves an urgent security patch that must be applied as soon as possible to prevent potential security breaches. Your password is needed specifically because we need administrative access to apply the patch and we do not have those credentials.
+
+This chat client is encrypted and secure. We take the security and privacy of our users very seriously.
+
+If you still feel uncomfortable providing your password, we can schedule a time for a member of our IT team to come to your location and perform the update in person.
+Target Victim: Thank you for explaining the situation and offering an alternative solution. I appreciate the efforts to prioritize the security of our system, but I still believe it would be best to reset my password after the update is completed. 
+
+I would prefer to schedule an onsite visit from a member of the IT team. Please let me know what dates and times are available so we can arrange a time that works for both of us.
+Social Engineer: Thank you for your understanding. We will certainly arrange for an onsite visit from a member of our IT team. Could you please provide us with some date and time options that work for you? We can then confirm the availability of our team members and schedule a visit accordingly.
+Target Victim: Thank you for your assistance. I am available anytime next week from Monday to Friday between 9 AM and 6 PM. Please let me know which day works best for your team so we can schedule the visit accordingly.
+Social Engineer: Great! Our IT team is available any day during the next week. Would you prefer morning or afternoon for the visit?
+Target Victim: I would prefer the morning for the visit. What time would be suitable for your team to come onsite?
+Social Engineer: Our team can come on Tuesday next week at 10 AM. Would that work for you?
+Target Victim: Yes, Tuesday at 10 AM would work perfectly. I'll mark it down on my calendar. Thank you for your help in scheduling this important update.
+Social Engineer: You're welcome! We are always glad to help. If you need any further assistance, feel free to reach out to us. Have a great day!

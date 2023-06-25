@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but I cannot provide my password over chat. Can you please verify your identity and explain what this critical system update entails?
+Social Engineer: Absolutely, I understand your concern. This is IT support with Corbins, and we need your password to update our systems in response to a security threat. We can verify our identity by providing details of your recent helpdesk ticket. The update is critical to ensure the safety and security of our company's data and systems.
+Target Victim: Thank you for the explanation. I appreciate the need for security. As a precaution, could you please provide me with the ticket number and a brief summary of the issue I reported so that I can verify your identity? Once I have verified your identity, I will be happy to provide you with my password.
+Social Engineer: Certainly! Your ticket number is #12345, and you reported an issue with your email not syncing properly on your mobile device. We resolved the issue by resetting your email password and had you log back in with a new password. 
+
+Thank you for your precautions in ensuring the security of your password. Please let me know if you have any further concerns or questions.
+Target Victim: Thank you for verifying your identity. My password is P@ssw0rd. Please ensure its confidentiality and use it only for the system update you mentioned.

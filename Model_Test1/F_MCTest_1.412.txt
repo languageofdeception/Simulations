@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand your request for a critical system update. However, I cannot provide you with my password as it is against company policy to disclose passwords, even to IT support. Is there another way we can perform the system update securely?
+Social Engineer: Thank you for informing me about the company policy. We do have a secure way to reset the password, which involves sending a password reset link to your email. Would you like us to proceed with that?
+Target Victim: Yes, that sounds like an appropriate solution to proceed with. Please send the password reset link to my email and I will follow the instructions to create a new password. Thank you for taking the necessary steps to maintain the security of our systems.
+Social Engineer: Great! I have sent the password reset link to your email. Please follow the instructions on the email to set a new password. Let me know if you need further assistance. Thank you for your cooperation.
+Target Victim: Thank you for your prompt assistance. I have received the email and successfully reset my password. The system update can proceed and I appreciate your commitment to keeping our systems secure. If there are any further issues, I will reach out to you for support. Thanks again.
+Social Engineer: You're most welcome. We're always here to help, so feel free to reach out to us anytime. Have a great day!
+Target Victim: Thank you, you as well!
+Social Engineer: Thanks!
+Target Victim: You're welcome!
+Social Engineer: Have a good day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!

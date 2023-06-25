@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the update, but I can't provide my password for security reasons. Is there another way we can verify my identity?
+Social Engineer: Thank you for bringing that up. Can you please provide your username and answer a security question? We just need to make sure it's you before we proceed with the update.
+Target Victim: Yes, my username is [insert username here], and I'm happy to answer a security question.
+Social Engineer: Thank you. Can you kindly provide the name of your first pet?
+Target Victim: Of course! The name of my first pet was Rusty.
+Social Engineer: Great, thank you for confirming your identity. We'll proceed with the update now. If you have any questions, please don't hesitate to ask. Thank you for your cooperation.
+Target Victim: Thank you for verifying my identity and for your help with the update. If I have any questions, I'll be sure to reach out.
+Social Engineer: You're welcome! If you need further assistance, feel free to contact us anytime.
+Target Victim: Thanks, I will keep that in mind. Have a great day!
+Social Engineer: You too, take care!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!

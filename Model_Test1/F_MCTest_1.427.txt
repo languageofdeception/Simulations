@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of security, so I cannot provide you with my password. Is there any other way I can help you with the system update?
+Social Engineer: Hello, thank you for understanding. We can create a temporary password that you can use just for this update and then change it again afterward. Would that work for you?
+Target Victim: That sounds like a good option. Can you generate the temporary password for me?
+Social Engineer: Sure, please provide me with your username and I will generate a temporary password for you.
+Target Victim: My username is [insert username]. Thank you.
+Social Engineer: Alright, I have generated a temporary password for you. The password is [insert temporary password]. Please use this password to perform the system update and then change it back to your original password afterward. Let us know if you need further assistance.
+Target Victim: Thank you for your help. I will use the temporary password to perform the system update, and I will change it back to my original password after. Thank you again for your assistance.
+Social Engineer: You're welcome! Don't hesitate to reach out if you need any further assistance or encounter any issues during the update. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you!

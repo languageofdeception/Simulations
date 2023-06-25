@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. To verify, can you please confirm your identity and provide me with your employee ID? Also, I never disclose my password to anyone.
+Social Engineer: Sure, I completely understand your concern. My employee ID is 12345. Could you please provide your password so that we can proceed with the update? If you're uncomfortable sharing your actual password, you can change it after the update is completed. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for providing your employee ID, but I will not be able to provide my password. Instead, I can reset my password to a temporary one and share it with you over this chat for the purpose of the update. Once the update is completed, I will log in with the temporary password and change it to a new one that only I will know. Would that be an acceptable solution?
+Social Engineer: Yes, that works as well. Please go ahead and reset your password. Once you have the temporary password, please share it with me over this chat. We will apply the update and confirm back to you once it is done. Then, you can log in with the temporary password and reset it to a new one. Thank you for your cooperation.
+Target Victim: Sure, I appreciate your understanding. I have reset my password to t3mpP@ssw0rd. Please confirm that you have noted down the temporary password and that we can proceed with the update.

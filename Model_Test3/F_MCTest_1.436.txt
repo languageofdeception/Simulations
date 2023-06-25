@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the system update. However, I cannot provide you my password as it is against company policy to share passwords with anyone, including IT support. Is there any other way I can assist you with the update?
+Social Engineer: I understand your concern, but in this case, we need your password to apply the update. Is it possible for you to provide a temporary password that we can use and then reset once the update is completed? Remember, the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate that you need access to update the system. In such cases, when IT support needs privileged access to perform any system related task, the company has a process in place to generate a temporary password to grant the necessary access. So, I will follow that process and generate a temporary password that you can use for the update. Please provide me the ticket number, and I will begin the process.
+Social Engineer: Thank you for following the company's policy. The ticket number is #123456. Please let us know once the temporary password has been generated so we can perform the update as quickly as possible.
+Target Victim: Thank you for providing the ticket number. I have generated a temporary password that you can use for the system update. The temporary password is D@taupd@t3. Please make sure to reset it after the update is completed. Let me know if there is anything else I can help you with.
+Social Engineer: Thank you for generating the temporary password. We have used the password to apply the critical system update successfully. We appreciate your help with this matter. We have confirmed that the update has been applied successfully, so you can go ahead and reset your password. If you need any further assistance, please don't hesitate to reach out to us.
+Target Victim: I'm glad to hear that the update was applied successfully. Thank you for updating me and performing the necessary steps. I'll go ahead and reset my password now. If there are any further issues or concerns, I'll let you know. Thank you for your support.
+Social Engineer: You're welcome. We appreciate your cooperation and prompt assistance in this matter. Don't hesitate to contact us if you need anything else. Have a great day!
+Target Victim: Thank you, I appreciate your support as well. Have a great day!
+Social Engineer: Thank you! Have a great day ahead!
+Target Victim: You're welcome! You too, have a great day!
+Social Engineer: Thank you!

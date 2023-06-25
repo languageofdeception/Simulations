@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee of Corbins, I understand that sharing passwords is not allowed for security reasons. Can you please provide me with more information about the critical system update? Is there any other form of authentication that can be used to perform the update?
+Social Engineer: I understand your concern for security. However, for this particular update, we require your password as the only form of authentication to proceed with the update. If you're worried about sharing your password, you can reset it immediately after we confirm that the update has been applied.
+Target Victim: I really appreciate you reaching out and I understand your requirements for the update; however, I am not able to provide my password to anyone. Instead, let's follow the standard procedures for updating our systems and verifying that the updates have been applied. Can you please provide me with the standard procedure for the update so that I can verify that it is legitimate?
+Social Engineer: I understand your concerns about sharing your password. Here is the standard procedure for the update so you can verify its legitimacy:
+
+1. Go to the "Start" menu on your computer.
+2. Click on "Control Panel."
+3. Select "Windows Update."
+4. If an update is available, click on "Install Now" or "Update."
+5. The system may prompt you to enter your password to continue with the installation.
+
+Could you please follow these steps and let me know if you encounter any issues? Thank you.
+Target Victim: Thank you for the instructions. I have followed the steps and have successfully installed the update. I appreciate your help and diligence to make sure our systems are up to date and secure.
+Social Engineer: Thank you for your cooperation. I'm glad that the update was installed successfully. If you have any other questions or concerns, feel free to reach out to us. Have a great day!
+Target Victim: Thank you for your assistance and for addressing my concerns. I will be sure to reach out if there are any further questions or issues. Have a great day as well!
+Social Engineer: You're welcome. It was my pleasure to assist you. Have a great day too!
+Target Victim: Thank you again. Take care!
+Social Engineer: You're welcome. You too, take care and stay safe!
+Target Victim: Thank you, will do!
+Social Engineer: Great, have a good one. Goodbye!

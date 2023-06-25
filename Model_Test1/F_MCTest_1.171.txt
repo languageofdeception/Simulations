@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per Corbins' password policy, I am not allowed to share my password over any platform, even with an IT support team member. Is there any other way we can perform the critical system update without compromising my password security?
+Social Engineer: I completely understand your concern. Our company takes security very seriously. Can you please come over to our IT office so we can perform the system update together while maintaining the confidentiality of your password?
+Target Victim: Sure, I'll be happy to come over to your office to complete the system update. Thank you for prioritizing security. I'll be there as soon as possible.
+Social Engineer: Great, thank you! Our IT office is located on the 5th floor. Let me know if you need any further assistance.
+Target Victim: Thank you! I appreciate your assistance. I have noted down the directions, and I will see you shortly on the 5th floor.
+Social Engineer: You're welcome! We'll be waiting for you.
+Target Victim: Thank you once again. I look forward to working with you. See you soon!
+Social Engineer: Likewise! See you soon.
+Target Victim: Goodbye for now.
+Social Engineer: Goodbye!
+Target Victim: Signing off!
+Social Engineer: Great, have a nice day!

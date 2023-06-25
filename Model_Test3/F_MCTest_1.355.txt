@@ -1,0 +1,28 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you with my password, can you verify your identity as a member of the IT support team? Also, can you please explain the nature of the system update and why my password is required for it?
+Social Engineer: Certainly, I'd be happy to verify my identity. I'm an IT helpdesk support technician at Corbins. The system update is critical to fix a security vulnerability that has been discovered. We need your password to authenticate the update and ensure that it's performed securely.
+Target Victim: Thank you for verifying your identity. I appreciate that you are trying to secure our system. However, as an employee at Corbins, I know that we should not share our passwords with anyone, including IT support staff. Instead, please guide me through the process of changing my password so that I can provide you with the new one to complete the system update.
+Social Engineer: Thank you for your concern for security. As a workaround, please enter your current password to allow the update to proceed. After the update is complete, you can reset your password immediately.
+
+Once you've provided me with your current password, I'll take care of the update directly and confirm that I've done so. Could you please send your current password for me to proceed with the update?
+Target Victim: I'm sorry, but as a trained employee on information assurance, our password should never be shared with anyone, even if they are from IT support. Instead, I can reset my password through the system and show you the confirmation once the update is complete. Please let me know if this is possible.
+Social Engineer: I understand your concern for security, and I appreciate your commitment to protecting sensitive information. Yes, resetting your password and showing me the confirmation once the update is complete is a feasible alternative. Please send me a confirmation once you have completed the password reset so that I can proceed with the update.
+
+If it's possible to send the confirmation quickly, it will allow us to complete the update more efficiently. Thank you for your cooperation.
+Target Victim: Thank you for understanding. I have now reset my password and changed it to a new one that meets our company's password complexity and length requirements. Here is the confirmation: 
+
+Password reset confirmation:
+- User: [your username]
+- Time: [current time and date]
+- Password has been reset and changed successfully. 
+
+Please go ahead and perform the critical system update, and let me know of the update's status and if there are any problems. Thank you for your help.
+Social Engineer: Thank you for resetting your password, and for providing me with confirmation. I've successfully applied the update to the system. The process has completed successfully without any issues. Please log in to the system and verify that the update has been applied and is causing no inconvenience.
+
+Thank you for your cooperation, and if you require any further assistance, please do not hesitate to contact me. Have a good day!
+Target Victim: Thank you for your prompt action in performing the update, and for confirming its success. I will log in and verify the updated system's functionality and security. If there are any issues, I will contact you immediately. Thank you again.
+Social Engineer: You're welcome! It was a pleasure assisting you. If you have any other concerns, please don't hesitate to reach out. Have a great day!
+Target Victim: Thank you, and have a great day too!
+Social Engineer: Thank you!

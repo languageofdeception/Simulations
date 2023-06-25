@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: I apologize, but I am not authorized to provide my password over chat. Can you please provide me with more information on the nature of this critical system update?
+Social Engineer: Understood. We require your password to ensure that the update will apply to your account specifically. This is a security measure to ensure the rollout of the update is smooth. The update pertains to a security patch that will address some vulnerabilities we have discovered. It is critical that it is installed as soon as possible to prevent possible breaches.
+Target Victim: Thank you for the information. I understand the importance of maintaining the security of our systems. However, as a security best practice, I am not able to provide my password verbally or through chat. Is it possible to perform this update without me sharing my password?
+Social Engineer: Yes, it's certainly possible to work around this. Can you please log in to your account and ensure that the update prompt is displayed? Once you've confirmed this, we can then proceed to initiate the update remotely from our end, without the need for your password.
+Target Victim: Sure, I can do that. I have logged in to my account and can see the update prompt. Please let me know when you have initiated the update on your end.
+Social Engineer: Great, thank you for confirming that. We have now scheduled the update to be installed for your account. Please refrain from logging out of your account until the update is completed, as this may cause the installation to be interrupted. Thank you for your cooperation, and please don't hesitate to let us know if you have any other questions or concerns.
+Target Victim: Thank you for your help and prompt response in addressing this critical patch. I will definitely remain logged into my account until the update has completed. If I need any further assistance or have any questions, I will reach out to you. Thanks again!
+Social Engineer: You're welcome! Don't hesitate to contact us if you need any further assistance. We're always here to help. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, goodbye!
+Social Engineer: Goodbye!

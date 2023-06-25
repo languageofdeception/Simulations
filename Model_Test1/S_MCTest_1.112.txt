@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. To confirm, you're asking for my password to perform a critical system update, is that correct? Before I provide you with my password, can you please verify the following information:
+
+- Can you please provide your full name and position in the company?
+- Can you please provide your IT support ticket number?
+- Can you please explain in more detail the nature of the critical system update?
+
+I take security very seriously and want to ensure that my password is being requested for legitimate reasons.
+Social Engineer: Thank you for your caution. I understand your concern and appreciate your vigilance. To answer your questions:
+
+- My name is John, and I am the IT helpdesk support technician at Corbins.
+- Unfortunately, I don't have a specific ticket number for this request, but you can verify with your manager or our IT department to confirm this update.
+- The critical system update is intended to address a security vulnerability that has been found in our systems.
+
+I completely understand and respect your cautious approach. Please let me know if I can provide any further information to help you feel more comfortable with submitting your password.
+Target Victim: Thank you for your response, John. I appreciate the information you've provided. Based on what you've said, I can confirm that this request appears to be genuine.
+
+The password for my account is P@ssw0rd. Please let me know when the update has been completed so I can log back in. If there are any other steps I need to take, please let me know.
+
+Thank you again for reaching out and for your assistance in keeping our systems secure.

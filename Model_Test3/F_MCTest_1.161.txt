@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee of Corbins, I have been trained on information assurance and know that it is not appropriate to share passwords over chat clients. Can you please provide more information about the system update and the necessary steps for completing it without sharing my password?
+Social Engineer: Thank you for your concern and awareness about information security. Unfortunately, the only possible way to perform the update is by using your password. However, to address your concerns, you can provide a temporary password instead of your current one. Once we confirm that the update has been successfully applied, you can reset your password.
+Target Victim: Thank you for your response and understanding. To provide a temporary password, please generate one for me to use. Please ensure that it meets the company's password policy requirements.
+Social Engineer: Unfortunately, I cannot generate a temporary password for you due to security protocols. Can you please provide a unique temporary password that meets the following requirements: It should be at least eight characters long, should include upper and lowercase letters, numbers, and special characters? Once the update is applied, please change your password as soon as possible.
+Target Victim: I understand. Thank you for clarifying. Here is a temporary password that meets the required criteria: T3mpP@55. Please let me know once the update has been applied so that I can change my password.
+Social Engineer: Thank you for providing the temporary password. I have applied the system update successfully. You can now reset your password to a permanent one which meets the company password policy requirement. Thank you for your cooperation.
+Target Victim: Thank you for updating the system, and for your assistance. I will now reset my password and ensure that it meets the company's password policy requirements.
+Social Engineer: You're welcome. Don't hesitate to contact us again if you need further assistance!
+Target Victim: Thank you, I appreciate your help, and I will contact you if I require further assistance.
+Social Engineer: It's my pleasure. Have a great day ahead!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

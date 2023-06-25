@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security verification before sharing any sensitive information. Can you please provide me with your name and the ticket number so I can verify your credentials before sharing my password? Thank you.
+Social Engineer: Absolutely, my name is John and the ticket number for this update is 123456. Thank you for verifying before sharing your password, we appreciate your assistance in ensuring security.
+Target Victim: Thank you for providing me with your name and ticket number. My password is P@ssw0rd. Please let me know if there's anything else I can assist you with.

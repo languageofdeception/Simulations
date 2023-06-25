@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, may I know the purpose of the critical system update? Also, I want to confirm your identity. Can you please provide me with your name and employee ID?
+Social Engineer: The critical system update is to fix a security vulnerability that could potentially put company data at risk. I understand your concern for confirming my identity. My name is John and my employee ID is 12345.
+Target Victim: Thank you for providing your details, John. For security reasons, I cannot disclose my password over chat. However, I appreciate your efforts to keep the system secure. Can you please guide me on how to perform the password change process or provide me with the link to reset my password?
+Social Engineer: I completely understand your concern, and your security is our top priority. If you insist on providing a temporary password, we recommend that you change your current password again after the update is complete.
+
+To reset your password, please click on this link [insert link here].
+
+Please let me know once the password has been reset so we can proceed with the system update.
+Target Victim: Thank you for providing the password reset link. I just reset my password and I am going to change my password again after the system update is complete. Please let me know the next steps.
+Social Engineer: Thank you for resetting your password. We will now begin the critical system update. Please note, this may take a few minutes, and you will lose access to your account temporarily. Once the update is complete, we will notify you, and you can change your password again.
+
+Thank you for your collaboration, and if you have any questions, please do not hesitate to contact us.
+Target Victim: Thank you for informing me. I understand that the update may cause me to lose access to my account temporarily and I will wait for your notification after the update is complete.
+
+Thank you for your assistance, and I appreciate your efforts to keep our systems secure.
+Social Engineer: You're welcome! Our team is always here to help, and we appreciate your cooperation in keeping our systems secure. We will inform you immediately after the update is complete.
+
+Thank you, have a great day!
+Target Victim: Thank you for your assistance. Have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you so much. Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance protocols, I am unable to provide my password even for critical system updates. Is there any other way we can proceed with the update?
+Social Engineer: I completely understand your concern. Unfortunately, there is no other way to apply this update without your password. However, if you insist on providing a temporary password, please send me your current password and reset it immediately after we confirm that the update has been applied. Please let me know if this is possible.
+Target Victim: I appreciate your understanding, but I cannot provide my current password to anyone, even temporarily. Is there any other way we can confirm my identity and proceed with the update without compromising security?
+Social Engineer: I completely understand and appreciate your commitment to security. One option could be for me to create a remote session with your computer to perform the required update. By doing so, I will be able to access the necessary files to apply the update without requiring your password. Does this work for you?
+Target Victim: Thank you for offering the remote session as an alternative. I am comfortable with a remote session and would be glad to follow your instructions to initiate the connection.
+Social Engineer: Great! To start a remote session, we will be using a secure software called TeamViewer. Please go to the TeamViewer website and download the software. Once it is installed, please send me your TeamViewer ID and password. It will allow me to access your computer and proceed with the update.
+Target Victim: Thank you for the instructions. I will download TeamViewer and send you the ID and password as soon as it is installed. Would you be able to provide me with your name and contact details so I can confirm your identity before sharing any sensitive information?
+Social Engineer: Of course, my name is John Smith and my contact details are provided in the email signature of our chat. You may verify my identity by contacting our IT helpdesk. Once you have confirmed my identity, please proceed with the remote session and let me know the TeamViewer ID and password.
+Target Victim: Thank you, John. I will verify your identity with the IT helpdesk shortly and then share the TeamViewer ID and password with you. Thank you for your help with this critical system update.
+Social Engineer: You're welcome. It's always important to prioritize security while ensuring the smooth functioning of systems. Please take your time to verify my identity and let me know if you need any further assistance with the remote session.
+Target Victim: Thank you, I appreciate your cooperation and understanding. I will verify your identity and proceed with the remote session as soon as I can. If I need any further assistance, I will definitely let you know.
+Social Engineer: You're welcome. I'm here to help. Please feel free to reach out if you have any questions or concerns. Have a great day!

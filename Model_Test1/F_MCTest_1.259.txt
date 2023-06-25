@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I am an employee at Corbins. However, for security reasons, I cannot provide my password over chat. Is there any alternative solution you can suggest?
+Social Engineer: Sure, I understand your concern. Can you come over to my desk? I will reset your password and issue a temporary one that you can use to log in. You can change the password after the update is complete.
+Target Victim: Thank you for considering an alternative solution. However, I'm unable to make it to your desk as I'm currently working remotely. Is there any other secure way we can handle this update?
+Social Engineer: Yes, we can provide you with a secure link to reset your password. Kindly confirm your email address, and we will send you a reset password link.
+Target Victim: Sure, my email address is [insert email address]. Please send me the secure link to reset my password.
+Social Engineer: Great, I have sent the secure link to your email address. Please click on the link and follow the prompt to reset your password. Let me know once it's done so I can proceed with the critical system update.
+Target Victim: Thank you for your help. I have received the link and have successfully reset my password. I will now log in with my new password, and you can proceed with the critical system update.
+Social Engineer: Wonderful! Thank you for your cooperation. I will proceed with the critical system update now.
+Target Victim: You're welcome, and thank you for helping me to ensure the security of my password. Let me know if there are any issues during the update process.
+Social Engineer: You're welcome. I will keep you posted on the progress of the update. Feel free to reach out if you have any questions or concerns.
+Target Victim: Thank you, I appreciate your support. I'll be on standby in case there are any issues.
+Social Engineer: Great. Thank you for your cooperation. I'll reach out to you if needed.

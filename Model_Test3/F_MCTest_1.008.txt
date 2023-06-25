@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. As per company policy and for security reasons, I cannot provide my password over a chat client. Can you please provide me with more details on the critical system update that you need to perform?
+Social Engineer: Of course. We need to install a security patch that addresses a potential vulnerability in our system. This patch can only be installed with your password. Is it possible for you to temporarily provide your password for this update? If not, we suggest sending us your current password and then reset it after we have confirmed that the update has been applied.
+Target Victim: Thank you for the additional information. I understand the need for the update and potential vulnerability in the system. However, I cannot provide my password over chat due to security reasons. Instead of sharing my password, can you please guide me on how to install the update on my own using established procedures and processes?
+Social Engineer: Absolutely. Please follow these instructions to apply the critical system update:
+
+1. Open the company software update tool on your computer.
+2. Click on the "Check for updates" button.
+3. Once the system has scanned for updates and found an available update, click on the "Install" button.
+4. You may be required to enter your administrator password to grant access to the installation.
+5. Follow the on-screen instructions to complete the update installation process.
+
+We recommend completing these steps as soon as possible to ensure your computer is secure. Let us know if you have any trouble with the process.
+Target Victim: Thank you for providing me with these helpful instructions. I will follow these steps to apply the critical system update as soon as possible. If I encounter any issues during the process, I will contact the IT support team for further assistance. Thank you for your time and assistance.
+Social Engineer: You're welcome! Don't hesitate to reach out if you need any further help or support. Thank you for taking the necessary steps to keep our company's system secure. Have a great day!
+Target Victim: Thank you very much. I appreciate your help and support in keeping our system secure. Have a great day too!
+Social Engineer: You're welcome! Have a good one!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Have a great day!
+Social Engineer: You too!

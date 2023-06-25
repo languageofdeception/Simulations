@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help. In order to verify your identity, can you please provide me with your employee ID number and the name of your supervisor? As per company policy, I cannot disclose my password without proper verification.
+Social Engineer: Thank you for your security concern. Your employee ID number and name of your supervisor are not necessary for this request. We just need access to your account for a few minutes to complete the update. Could you please provide us with your current password? Afterwards, you can change it to a new one if you would like.
+Target Victim: I'm sorry, but as per company policy and for security reasons, I cannot give out my password, especially over a chat client. Is there any other way we can complete this update? Perhaps I can come down to the IT department and provide my password in person to ensure the security of my account.
+Social Engineer: I completely understand your concern. Unfortunately, due to the nature of this update, we need access to your account in a timely manner and cannot wait for you to physically come to the IT department. Alternatively, we can set up a temporary password for you, but please be advised that you will need to reset it immediately after the update has been applied, as the system does not allow multiple concurrent password resets. Could we proceed with setting up a temporary password for you?
+Target Victim: Okay, setting up a temporary password would be fine. Please provide me with the steps to reset my password afterward.
+Social Engineer: Thank you for agreeing to set up a temporary password. I'll send you an email with the temporary password, and please make sure to reset it immediately after the update is done. Here are the steps to reset your password:
+
+1. Log in to your account with the temporary password provided.
+2. Click on your profile icon and select "Account Settings".
+3. In the "Security" tab, select "Change Password".
+4. Enter your current password (temporary password) and then enter your new password twice to confirm it.
+5. Click "Save" to apply your new password.
+
+Please let us know if we can assist you with anything else.
+Target Victim: Thank you for the instructions on resetting the password. I will follow the steps once the update is complete and change my password to something new. Please go ahead and provide me with the temporary password via email.
+Social Engineer: Great. I have just sent an email with the temporary password to your registered email address. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for your assistance. I have received the temporary password and will proceed with the update and password reset as soon as possible. I appreciate your help.
+Social Engineer: You're welcome. Please don't hesitate to contact us if you need further assistance in the future. Have a great day!
+Target Victim: Thank you, have a good day as well!
+Social Engineer: Thank you!

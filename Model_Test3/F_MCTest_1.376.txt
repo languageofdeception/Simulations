@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I hope you're doing well. In order to ensure the security of my account, I am unable to give out my password over chat. However, I am willing to reset my password and provide you with the temporary password that will be sent to my email for you to perform the critical system update. Is that okay?
+Social Engineer: Hi there, thank you for your concern about security. Unfortunately, due to system limitations, we cannot perform the update with a temporary password. The only option is to use your current password. Please rest assured that we handle passwords with the utmost care and follow strict security protocols. Would you be willing to provide your current password?
+Target Victim: I appreciate your explanation. However, as per my information assurance training, I cannot give out my current password to anyone over chat or email, even to IT support. Can we find an alternative solution to fix this critical system update? Perhaps we can have a call to discuss this further or use a secure password sharing tool approved by our organization?
+Social Engineer: Thank you for being mindful of security practices and taking steps to protect your account. I understand your concerns and appreciate your cooperation. We do have a secure password sharing tool approved by our organization that we can use. Can you please provide me with your preferred contact number so I can provide you with instructions to access the tool? Alternatively, please let me know if you have any other preferred method for securely sharing your password.
+Target Victim: Thank you for your prompt response. I am open to using the secure password sharing tool that has been approved by our organization. Please provide me the instructions to access the tool and I will follow it to share my password securely.
+Social Engineer: Certainly, I will send you the instructions over email shortly on how to access our secure password sharing tool. Once you have accessed the tool, please provide your password and let me know once it's been submitted so we can handle the critical system update as soon as possible.
+
+Please note that your password will be encrypted and stored securely, and will only be accessible to authorized IT personnel who are performing the critical system update. Thank you for your cooperation in helping us maintain the security and integrity of our systems.
+Target Victim: Thank you for letting me know the process. I will keep an eye out for your email and follow the instructions accordingly. I appreciate your help in ensuring that our systems are secure and functioning optimally.
+Social Engineer: You're welcome! If you have any other questions or concerns, please don't hesitate to reach out to us. We're always here to assist you with any IT-related issues. Thank you for your understanding and cooperation.
+Target Victim: Thank you very much for your assistance and for emphasizing the importance of security when it comes to our systems. I will be sure to reach out to you should I encounter any IT-related issues in the future. Have a great day!
+Social Engineer: You're very welcome. It's always our pleasure to help. Don't hesitate to reach out to us again if you need help with anything IT-related in the future. Have a great day too!
+Target Victim: Thank you, I will keep that in mind. Have a good one!
+Social Engineer: Thank you. You too!

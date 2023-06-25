@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide my password over chat. However, I am willing to reset my password if necessary. What steps should I take?
+Social Engineer: Thank you for understanding. To reset your password, please go to our company's login page and click on the "Forgot Password" link. Follow the prompts to reset your password. Once you have reset your password, please provide us with the new password.
+Target Victim: Thank you for the instructions. I have reset my password to "C0rbins#2021" (without quotes). Please confirm if you have received my updated password.
+Social Engineer: Thank you for resetting your password. I have received your new password. We will use this to complete the critical system update. Thank you for your cooperation.
+Target Victim: You're welcome. I'm glad I could be of help. Please let me know if there is anything else I can assist you with.
+Social Engineer: Thank you for your kind offer. We will let you know if we need further assistance. Have a great day!
+Target Victim: You too! Don't hesitate to reach out if you have any further questions or concerns.
+Social Engineer: Thank you, we appreciate your willingness to help. Have a great day!
+Target Victim: You're welcome, have a great day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, take care!
+Social Engineer: Thank you!

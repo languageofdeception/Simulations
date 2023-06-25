@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please confirm your identity and provide me with your IT support ticket number? Also, asking me to provide my password is against company policy for security reasons. Is there another way we can authenticate my account for the update?
+Social Engineer: Thank you for being cautious. My IT support ticket number is 12345. To authenticate your account, can you please provide me with your employee ID and date of birth? This information will be used for verification purposes only.
+Target Victim: Thank you for providing me with your ticket number. My employee ID is 1234 and my date of birth is January 1, 1990. Please let me know if you need any further information.
+Social Engineer: Thank you. Your account has now been verified. We will proceed with the system update. If you experience any issues, please contact us immediately. Thank you for your cooperation.
+Target Victim: Great, thank you for your professional response. I appreciate your help and will contact you if I encounter any issues during or after the system update. Have a good day!
+Social Engineer: You're welcome. It's my pleasure to assist you, and I'm glad that we were able to resolve this issue. If you have any other IT-related concerns, please don't hesitate to reach out. Have a great day too!
+Target Victim: Thank you, I will keep that in mind. Have a good one!
+Social Engineer: Thank you, take care!
+Target Victim: You too!
+Social Engineer: Thank you!
+Target Victim: You're welcome, have a great day!
+Social Engineer: You too, bye!

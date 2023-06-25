@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand that system updates are important, however, as per our company's security policies, I am not authorized to share my password over chat. Is there any other way I can help you with the update?
+Social Engineer: I understand your concern for security. Unfortunately, the only way we can apply this update is by you supplying your password as the system does not allow multiple concurrent password resets. If you insist on providing a temporary password, please send your current password and then reset it after you receive confirmation that the update has been applied.
+Target Victim: Thank you for explaining the situation. I understand the importance of keeping our systems up-to-date. However, I cannot share my password as per our company's security policies. Is there any other way we can achieve the update without revealing my password?
+Social Engineer: I appreciate your concern for security. Unfortunately, in this case, the only possible way to apply this update is through password authentication. If you'd like, we can verify your identity through other means such as security questions or a phone call with your supervisor. Please let me know if that works for you.
+Target Victim: Thank you for suggesting an alternative method to verify my identity. A phone call with my supervisor sounds like a good option. Can you please provide me with more information on the process?
+Social Engineer: Sure thing. Please provide me with the name and contact information of your supervisor. We will reach out to them to confirm your identity, after which we can go ahead with the system update.
+Target Victim: My supervisor's name is Jane Smith, and her contact number is [insert phone number here]. Please let me know once you have contacted her for verification.
+Social Engineer: Thank you for providing your supervisor's contact information. We'll reach out to Jane Smith shortly to verify your identity. Once we receive confirmation from her, we will proceed with the update and let you know when it is complete. Thank you for your cooperation!
+Target Victim: You’re welcome, I appreciate your help and understanding. Thank you for following the necessary security protocols to protect our systems and information.
+Social Engineer: It's always a pleasure to assist you. Thank you for prioritizing security. It's vital to keep our systems secure and protect our valuable data. If you have any further questions or concerns, please don't hesitate to reach out. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

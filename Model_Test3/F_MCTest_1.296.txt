@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. Before I provide you with my password, can you please confirm your name, title and employee ID, and explain the purpose of the critical system update?
+Social Engineer: Of course! My name is John and I am a helpdesk support technician at Corbins. My employee ID is 12345. The critical system update is to improve the security and performance of our systems. We require your password to apply the necessary updates.
+Target Victim: Thank you, John, for confirming your identity and purpose of the update. However, as you may know, passwords are confidential information and should not be shared over chat or email unless there is a valid reason and proper authorization procedures are followed. Instead, I suggest we follow the company's password policy and I will reset my password to a new and secure one. Once that is done, you can provide me with instructions on how to access the system with the new password and perform the updates. Can we proceed with that instead?
+Social Engineer: I completely understand your concerns. If that is what you prefer, we can proceed with a password reset. However, please be aware that the system does not allow multiple concurrent password resets. If you do proceed with resetting your password, please ensure that you remember the new password, as you will not be able to reset it again until the next day. Once you reset it, we will provide you with the necessary instructions on how to access the system and apply the updates.
+Target Victim: Thank you for letting me know about the potential limitations. I understand the importance of remembering the new password as well. In that case, I am ready to proceed with resetting my password to a new one. Please provide me with the necessary instructions on how to do so.
+Social Engineer: Great! Here are the steps to reset your password:
+
+1. Go to our company's login page and select "Forgot Password."
+2. You will be redirected to a page where you can reset your password. Enter your email address associated with your account, then select "Reset Password."
+3. You will then receive an email with a link to create a new password. Follow the instructions to create your new password.
+4. Once you have created your new password, you can access the system and apply the necessary updates.
+
+Let me know if you have any questions or if you need further assistance.
+Target Victim: Thank you for the instructions, John. I will follow them now and create a new password. If I have any questions or need further assistance, I will reach out to you.
+Social Engineer: You're welcome! If you need any help, just let me know. Have a great day!
+Target Victim: Thank you, John! You too.
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Goodbye!

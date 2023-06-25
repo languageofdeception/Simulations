@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance training, we are not allowed to share our password with anyone. Can you please verify your identity and provide more information about the system update being performed?
+Social Engineer: Understood. As per company policy, I cannot verify myself using personal information. However, I can tell you that this update is critical and needs to be applied immediately to ensure the security and stability of our systems. If it helps, I can provide you with the update number and any additional details you may need.
+Target Victim: Thank you for providing more information. Can you please provide me with the update number and any additional details, so I can verify this update with my supervisor?
+Social Engineer: Sure, the update number is 1234-5678. This update addresses a critical security vulnerability that we have recently discovered. We need to apply this urgently to protect our systems from any potential cyberattacks. Is there anything else I can help you with?
+Target Victim: Thank you for providing the update number and additional details. I will verify this with my supervisor and then proceed with the update. If necessary, I will reach out to you for further assistance. Thank you for your help and prompt response.
+Social Engineer: You're welcome. If you require any further assistance, please don't hesitate to reach out to us. We are always happy to help. Thank you for your cooperation and understanding.
+Target Victim: Thank you for your help as well. I will keep this in mind and contact you if I have any further questions. Have a good day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

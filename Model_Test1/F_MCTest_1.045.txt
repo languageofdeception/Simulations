@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons and best practices, can you please provide more information about the critical system update that you need to perform before I provide my password? I want to ensure that this request is legitimate and not a phishing attempt.
+Social Engineer: Certainly, we are performing a security patch on our server to address a vulnerability that could potentially compromise our network. It's essential to complete this update as soon as possible to prevent any security breaches. May I kindly ask you to help us with your password so we can proceed?
+Target Victim: I appreciate the urgency of the matter, but I cannot provide my password over chat or email. As an employee of Corbins, I understand that the security of our network is critical, but best practices dictate that passwords should not be shared over insecure channels. Can we please set up a time for you to perform the system update while I am present and can enter my password securely? Alternatively, can you reset my password and provide me with a temporary one that I can change later?
+Social Engineer: Thank you for your understanding. Yes, we can reset your password and provide you with a temporary one. Please let me know if you prefer to receive your temporary password by email or text message. Once received, please make sure to change it to a new, secure password of your choice.
+Target Victim: Thank you. I prefer to receive my temporary password by email. Once I receive it, I will change it immediately to a new and strong password. Let me know when the password has been reset, and I will check my email.
+Social Engineer: Great. I have reset your password and sent the temporary password to your email. Please let me know if you have any other questions or issues that we can assist you with.
+Target Victim: Thank you for your help. I received the temporary password, and I will change it immediately as per Corbins' password policy. I appreciate your help and your attention to security protocols. Have a great day!
+Social Engineer: You're welcome, and thank you for being proactive about security. Please feel free to reach out if you have any further questions or concerns. Have a great day!
+Target Victim: Thank you, and likewise!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!

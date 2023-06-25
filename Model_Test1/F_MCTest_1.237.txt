@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee at Corbins, I understand that it is against company policy to share passwords with anyone, including IT support. Is there another way we can verify my identity and complete the system update?
+Social Engineer: Yes, I apologize for asking for your password. Can you please confirm your full name and employee ID number so I can verify your identity?
+Target Victim: Yes, my full name is Jane Smith and my employee ID number is 123456.
+Social Engineer: Thank you, Jane. That information checks out. We will proceed with the critical system update as soon as possible. Thank you for your cooperation.
+Target Victim: You're welcome. Please let me know if there is anything else I can do to assist with the update process.
+Social Engineer: Sure, I'll keep you updated if we need any more information. In the meantime, please let me know if you experience any issues with your computer system. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Take care!

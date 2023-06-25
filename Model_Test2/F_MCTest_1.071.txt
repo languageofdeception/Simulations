@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your request but I cannot share my password over chat. Is there another way we can proceed with the system update?
+Social Engineer: I completely understand your security concern. However, we need your password to apply this critical system update. To minimize any security risks, please share your current password and then reset it after you receive confirmation that the update has been applied. Thank you.
+Target Victim: I appreciate your explanation, but I still cannot give you my password. Instead, can we perform the update through an IT-approved remote access tool where you can apply the updates while I am still logged in, without sharing my password?
+Social Engineer: Thank you for suggesting an alternative way. Unfortunately, due to our company's policy, we are not allowed to use remote access tools for this kind of system update. As I mentioned earlier, the only possible way to apply this update is by the user supplying their password. In this case, it sounds like the best option is for you to share your current password and then reset it after confirmation that the update has been applied. Please let me know if you have any other concerns.
+Target Victim: I understand that you are following company policy, but password sharing is not an acceptable security practice. Is there a supervisor or manager that I can speak with to discuss alternative options for this situation?
+Social Engineer: I can definitely connect you with my supervisor to discuss this further. Can you please provide me with your contact information and a convenient time for them to reach out to you? They can discuss alternative options to accommodate your security concerns and also comply with the company policy.
+Target Victim: Thank you for your assistance. I appreciate your professionalism in seeking a resolution that satisfies both company policy and my concern for security. Please email me at johndoe@email.com with your supervisor's name and a list of alternative solutions. I'm available any time during normal business hours.
+Social Engineer: Thank you for your cooperation, John. I have passed on your request to my supervisor and you should receive an email from them soon. They will be more than happy to discuss other options with you while ensuring the security of our systems. If you have any further questions, please don't hesitate to reach out.
+Target Victim: Thank you very much for your help and for being understanding of my security concerns. I appreciate your prompt response, and I look forward to hearing back from your supervisor. Good day!
+Social Engineer: You're very welcome, John. I'm glad I could be of help. We take our user's security concerns very seriously, and we will do our best to find a way to address them while meeting company policy requirements. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you very much!

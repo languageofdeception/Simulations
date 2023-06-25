@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, is there any other way for you to authenticate my identity? It is not recommended to disclose passwords over chat.
+Social Engineer: Yes, that's a valid concern. Can you confirm your identity by answering a security question that only you would know the answer to?
+Target Victim: Sure, I can do that. What is the question?
+Social Engineer: Great! What is your favorite color?
+Target Victim: My favorite color is blue.
+Social Engineer: Thank you, I can confirm that you are the user of this account. I will now proceed with the system update. Thank you for your cooperation.
+Target Victim: You're welcome! Thank you for taking the necessary steps to ensure security of my account. Let me know if there is anything else I can assist with.
+Social Engineer: Absolutely, we take security very seriously here at Corbins. Thanks for your willingness to cooperate. If you have any further questions or concerns, don't hesitate to let us know. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome, take care!
+Target Victim: You too, bye!
+Social Engineer: Goodbye!

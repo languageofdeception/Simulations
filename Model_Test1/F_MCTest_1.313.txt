@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before providing my password, can you please confirm your identity and provide me with more details about the critical system update?
+Social Engineer: Absolutely, my name is John and I'm part of the IT helpdesk team. The critical update we need to perform today is related to a security patch that was released this week. It's important that we perform this update as soon as possible to prevent any potential security threat. Please let me know if you need more information.
+Target Victim: Hi John, thank you for your response and for providing more information about the update. I appreciate your concern for our company's security. For verification purposes, can you confirm your employee ID or any other information to validate your identity as part of the IT helpdesk team?
+Social Engineer: Of course. My employee ID is 12345. Additionally, I can also confirm that I'm using a valid account registered under john@corbins.com email address. Please let me know if there are any other details I can provide to further authenticate my identity.
+Target Victim: Thank you, John. I can confirm that your employee ID and email address are valid. For security purposes, I'll provide my password through a more secure channel. Please send me an email with information on how to access a secure document storage platform where I can provide my password. Once I have done so, please confirm that the system update has been successful. Thank you for your assistance.
+Social Engineer: Understandable. Please check your email now. I have sent you a link to our secure document storage platform and instructions on how to provide your password. Once we have received your password, we will proceed with the system update and notify you as soon as it's complete. Thank you for your cooperation.
+Target Victim: Thank you, John. I have received your email and will provide my password through the secure platform as instructed. I appreciate your prompt response and assistance in keeping our systems secure.
+Social Engineer: You're welcome. I'm glad I could help. If there's anything else I can do for you, feel free to reach out anytime. Thank you and have a great day!
+Target Victim: Thank you very much, John. I appreciate your helpfulness. If I need anything else, I won't hesitate to contact you. Have a great day too!
+Social Engineer: You're welcome and take care!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you. Goodbye!

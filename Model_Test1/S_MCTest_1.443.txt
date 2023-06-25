@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I just want to verify that this is a legitimate request. Can you please confirm your name and position in the IT department? Additionally, I understand the importance of security so could you please provide me with some additional information to verify your identity?
+Social Engineer: Yes, of course. My name is John and I am a helpdesk support technician at Corbins. To verify my identity, let me give you the ticket number for the critical system update that we need to perform. The ticket number is #123456. Please let me know if you need any further information.
+Target Victim: Thank you for verifying your identity and providing the ticket number. My password is P@ssw0rd. Please let me know once the critical system update has been completed.

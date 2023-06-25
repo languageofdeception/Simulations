@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot share my password, but I can reset it if necessary. Could you please guide me through the password reset process?
+Social Engineer: Sure, I understand. To reset your password, please go to our password reset portal, which you can access by clicking on this link: [insert link]. You'll need to follow the on-screen instructions to reset your password. Let me know when that's done, so we can update the system. Thanks!
+Target Victim: Thank you for providing me with the link to reset my password. I have now reset my password to a new one. Please let me know the next steps to proceed with the critical system update.
+Social Engineer: Perfect! Thank you for resetting your password. Now, we'll go ahead and initiate the critical system update on our end. This should take about 10-15 minutes to complete. During this time, you may experience some intermittent disruptions. However, once we're done with the update, you'll need to use your new password to log in. Thanks for your assistance!
+Target Victim: Understood. Thank you for letting me know about the possible interruptions, and for all your help. Please let me know if there’s anything else I can assist you with.
+Social Engineer: You're welcome! That's all we need for now. We'll let you know if we need any further assistance. Thanks again for your cooperation.
+Target Victim: You're welcome! Feel free to reach out if you need any further assistance. Have a great day!
+Social Engineer: Thanks. You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

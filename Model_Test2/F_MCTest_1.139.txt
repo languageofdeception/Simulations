@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm sorry but I cannot disclose my password over a chat client. Can you please provide me with more information regarding the critical system update?
+Social Engineer: Certainly, we are performing an update to fix a security vulnerability. This update is critical and needs to be completed as soon as possible to ensure the safety and security of our network. We require your password to initiate the update. If you insist on providing a temporary password, please send your current password and then reset it after we confirm that the update has been applied.
+Target Victim: Thank you for providing more information, I appreciate it. However, I still cannot disclose my password over a chat client. Is there any other way for me to verify my identity so that we can secure my account with a temporary password?
+Social Engineer: Yes, we understand your concern for security. May I know your preferred way to verify your identity? We can either do it via email or phone. Please let us know which is more convenient for you.
+Target Victim: Thank you, I appreciate your understanding. My preferred method of verification is via phone call. Can you please give me a call at my office number, which is 555-1234, so we can proceed with the update process?
+Social Engineer: Absolutely, we will be happy to give you a call at your office number. Our IT support team will verify your identity through a phone call and guide you through the process of setting up a temporary password, which you can use to validate the critical system update. Our team will call you soon. Thank you for your cooperation.
+Target Victim: Thank you very much, I appreciate your assistance. I'm looking forward to the phone call from your IT support team.
+Social Engineer: You're welcome! We'll get in touch with you shortly. If you have any further questions or concerns, do not hesitate to contact us.
+Target Victim: Thank you for your assistance and support. I'll be waiting to hear from your IT support team. Have a great day!
+Social Engineer: You too! Have a great day ahead!
+Target Victim: Thank you, take care!
+Social Engineer: You as well, goodbye!

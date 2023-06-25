@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per Corbin's information assurance policy, I am not authorized to disclose my password to anyone, even members of the IT helpdesk. Is there any other way to perform the critical system update without requiring my password?
+Social Engineer: Unfortunately, there is no other way to apply this update without your password. However, if you prefer, you can provide a temporary password, then reset it after receiving confirmation that the update has been applied. This will ensure the security of your account.
+Target Victim: Thanks for the suggestion. I appreciate that you are thinking about the security of my account. I'll provide a temporary password for you to use to apply the critical system update, but I would like to change it afterward. Here is my temporary password: Temp@P@ssw0rd. Please let me know when the update has been applied so that I can reset my password.

@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: I apologize, but I am not authorized to provide my password over an unsecured channel. Is there a different way we can verify my identity?
+Social Engineer: Thank you for voicing your concern. For security purposes, we require your password to complete the update. However, we understand your apprehension about sharing your password. As a compromise, you can send us your current password and then reset it after we confirm that the update has been applied. Would that be okay?
+Target Victim: I appreciate your willingness to compromise, but giving out my current password is against company policy and security best practices. Instead, can we use a multi-factor authentication process to verify my identity? This could include a phone call, text message, or an authentication app. This will ensure that only authorized personnel can access my account and that our company's security protocols are followed.
+Social Engineer: Thank you for your concern and suggestion. We value your commitment to the security of our system. Unfortunately, the critical update requires access to your password. If it isn't possible to verify your identity through multi-factor authentication, we suggest that you change your password before and after we apply the update. This will help ensure the security of your account while still allowing us to perform the update. Do let us know if you have any further questions or concerns.
+Target Victim: I understand the importance of the critical update, but giving out my password is not an option. Instead, I would like to suggest that we use a temporary password provided by the IT department that I can use to log in. After the update is applied, I can reset my password to a new, secure password that I create. This way we can maintain the security of the system and ensure that the update is completed successfully.
+Social Engineer: I understand your position, and that solution would work. We can provide you with a temporary password that will allow us to complete the update, and after it's completed, you can change your password to a new, secure password. Once we receive confirmation that the update is completed, we will notify you, and you can then proceed to change your password. I will send you a temporary password to use, please let me know if you have any issues or questions.
+Target Victim: Thank you, that solution works well for me. Please send me the temporary password and further instructions on how to proceed with the update.
+Social Engineer: Great, thank you! Here is your temporary password: [insert temporary password]. Please do not share this password with anybody, and as soon as the update is complete, we strongly recommend that you change it. To proceed with the update, please follow these steps:
+
+1. Log in to your account using the temporary password I provided.
+2. Navigate to the update page and follow the instructions to apply the critical update.
+3. After the update is applied, please notify me so that I can start the process of generating a new password for you.
+
+Please let me know if you have any questions or concerns during this process.
+Target Victim: Thank you, I have taken note of the steps and the temporary password. I'll proceed to apply the update after logging in with the temporary password and I'll notify you immediately once the update is complete so that you can generate a new password for me. Thank you for your help and attention to security in this matter.
+Social Engineer: You're welcome! We're here to help. Please don't hesitate to reach out to us again if you have any further concerns. We appreciate your cooperation in ensuring the security of our system.
+Target Victim: Certainly, thank you for your help. Have a great day!
+Social Engineer: You too, have a great day!

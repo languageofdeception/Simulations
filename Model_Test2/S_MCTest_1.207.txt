@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I just want to confirm that this is a legitimate request. Can you please provide me with more details about the critical system update? Also, I cannot give you my password for security reasons. Is there another way we can address this issue?
+Social Engineer: Yes, this is a legitimate request. We are about to conduct a critical system update that requires user authentication. I'm sorry, but we need your password to proceed with this update. If you insist on providing a temporary password, you can reset it after receiving confirmation that the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for providing me with more details. I appreciate your assurance that this is a valid request. In that case, I will provide my password; it is P@ssw0rd. Please let me know if any further action is required on my end or if you need any additional information.

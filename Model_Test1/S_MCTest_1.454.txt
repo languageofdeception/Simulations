@@ -1,0 +1,4 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Sure, my password is P@ssw0rd. However, I must verify that this request is legitimate. Can you provide me with more information about the critical system update and why my password is needed?

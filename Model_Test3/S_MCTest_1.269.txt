@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to assist with the update, but I'm not able to provide my password over a chat client as it goes against information assurance policies. Is there an alternative method to perform the update that doesn't involve disclosing my password?
+Social Engineer: I understand your concern. Unfortunately, there is no alternative method to perform the update. As long as the update is in progress, the system will not allow multiple concurrent password resets. However, you can provide a temporary password, perform the update, and then reset your password. Would that be a feasible option for you?
+Target Victim: Thank you for understanding. I would be willing to provide a temporary password for the update. However, I would like to set some conditions on it to ensure the security of my account. Can you confirm that the temporary password will be immediately reset once the update is complete, and that no one else has access to the temporary password during the update process? Also, can you provide me with a timeframe for how long the temporary password will be active?
+Social Engineer: Yes, I can confirm that the temporary password will be immediately reset once the update is complete. We will also ensure that only authorized personnel have access to the temporary password during the update process, and we will disable the temporary password as soon as the update is finished.
+
+Regarding the timeframe, the update should take no longer than 30 minutes, so we will make the temporary password valid for 45 minutes to give you some extra time. Once the update is complete, we'll let you know, and you can reset your password immediately. Can we proceed with this plan?
+Target Victim: Thank you for the confirmation. Under these conditions, I'm willing to provide a temporary password. Here it is: TempP@ssw0rd1. Please let me know once the update is complete so I can reset my password. Thank you for your help.

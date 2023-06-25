@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify your identity, can you please provide me with your name and employee ID? Also, for security reasons, I cannot provide my password over chat. Is there an alternate way we can perform the system update without sharing passwords?
+Social Engineer: Of course, my name is John Doe and my employee ID is 12345. Unfortunately, there is no other way to perform this update without your password. However, I understand your concern about security. If you prefer, you can send me your current password and then immediately reset it once the update has been completed. This is because the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for understanding my concern about security. To confirm that you are indeed a member of the IT helpdesk, could you please provide me with your phone extension number? Additionally, I would be more comfortable resetting my password myself after the update has been completed. Can we please schedule a time during which I can perform the update and reset my password?
+Social Engineer: Certainly, my phone extension number is 5555. I completely understand your hesitation in sharing your password. We can schedule a time convenient for you to perform the update and reset your password afterward. Is there a specific date and time that works best for you?
+Target Victim: Thank you for providing me with your phone extension number, John. It helps me validate your identity. I will check my schedule and get back to you shortly with a preferred time to perform the update and reset my password afterward. Thank you for your help.
+Social Engineer: You're welcome! Take your time and please let me know when you're available. Always happy to assist you.
+Target Victim: Thank you for your patience, John. I have checked my schedule and I recommend performing the system update and password reset on Friday at 3 PM. Does that time work for you?
+Social Engineer: Thank you for getting back to me. I can schedule the update and password reset for Friday at 3 PM. Please do not hesitate to contact me if you have any other questions or concerns.
+Target Victim: Great! I will mark the scheduled update and password reset in my calendar. Thank you for your help today, John, and for understanding my concerns about security. Have a good day!
+Social Engineer: You're welcome! It was a pleasure assisting you. If you have any other issues in the future, don't hesitate to contact me. Have a great day as well!
+Target Victim: Thank you, John. I sure will. Have a great day!
+Social Engineer: You too!

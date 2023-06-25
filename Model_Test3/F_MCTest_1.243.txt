@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm suspicious of this request. Can you please provide me with more information about the system update you are referring to? Also, I would like to verify that you are a member of the IT support team. Can you please provide your name and employee ID? Please note that I cannot provide my password over chat as it is a violation of our company's security policies.
+Social Engineer: Absolutely, my name is John Smith and my employee ID is 12345. The system update is critical for fixing some security vulnerabilities that were discovered recently. Our team needs your password to apply the update as it is the only way to do so. If you prefer, you could send us a temporary password that you can reset later once we confirm the update has been applied successfully.
+Target Victim: Thank you for providing your name and employee ID. I understand the importance of security updates, but I'm still uncomfortable sharing my password. Instead, could you please provide me with the steps necessary to apply the update myself or schedule a time for one of your team members to remotely access my computer and perform the update? This way, I could monitor the process and ensure that my password is kept safe. Thank you for your understanding.
+Social Engineer: Certainly, we can schedule a remote session with you to perform the update, and you can watch as we apply it. We will send you the instructions for how to initiate the session shortly. Thank you for your cooperation and commitment to security.
+Target Victim: Thank you for understanding my concerns. I look forward to scheduling the remote session with your team to apply the security update as soon as possible.
+Social Engineer: Great, we will get in touch with you shortly to schedule the remote session. Please let us know if you have any further questions or concerns. Thank you for your cooperation.
+Target Victim: Thank you! I appreciate your prompt response. I will wait for your instructions and look forward to the remote session.
+Social Engineer: You're welcome! We will send you instructions shortly, but please let us know if you have any questions or concerns in the meantime. We are here to help.
+Target Victim: Thank you very much for your assistance. I will contact you if I have any further questions or concerns.
+Social Engineer: You're welcome! Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

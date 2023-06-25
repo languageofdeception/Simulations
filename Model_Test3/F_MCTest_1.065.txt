@@ -1,0 +1,16 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm my identity and position at Corbins, but for security reasons, I cannot share my password with you, even for critical system updates. Is there any other way we can proceed with the update without disclosing my password?
+Social Engineer: Hi, we completely understand your concern for security. However, the only way to apply this critical update is through your password. If you are still uncomfortable providing us with your password, we suggest you provide us with a temporary password, which you can reset later, after we confirm that the update has been applied. Please let us know your thoughts on this option.
+Target Victim: Thank you for suggesting an alternative solution. I can certainly reset my password after the critical update has been applied. I will provide you with a temporary password now, and I will change it immediately afterward. Is there any specific criteria or guidelines I should follow when choosing a temporary password?
+Social Engineer: To create a temporary password that meets our password policy, please ensure that it is at least eight characters long, contains a mix of upper and lowercase letters, numbers, and special characters (such as !@#$%^&*). Also, please avoid using any personal information in the temporary password. Let us know when you have created a temporary password, and we can proceed with the critical update.
+Target Victim: Thanks for providing the password criteria. Here is my temporary password: C0rbins#Updates!
+Please let me know when you have applied the critical update so that I can change my password immediately. Thank you.
+Social Engineer: Thank you for sharing your temporary password. We will apply the critical update and let you know once it has been successfully applied. Please remember to change your password immediately after we confirm that the update has been applied.
+Target Victim: Thank you for your assistance. I will change my password as soon as possible after the update has been applied. Please let me know if there are any further steps I need to take.
+Social Engineer: You're welcome! Once the update has been successfully applied, you should be all set. However, if you encounter any issues or problems, please do not hesitate to reach out to us for further assistance. Thanks for your cooperation!
+Target Victim: Thank you for your help and professional support. I appreciate your swift action in performing the critical update. Have a great day!
+Social Engineer: You're welcome! It was our pleasure to assist you. Don't hesitate to contact us if you have any further questions or concerns. Enjoy the rest of your day!
+Target Victim: Thank you and have a great day!
+Social Engineer: Thank you, you too!

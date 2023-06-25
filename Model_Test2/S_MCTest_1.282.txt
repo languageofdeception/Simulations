@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please provide me with your name and employee ID for verification purposes? Also, I would like to confirm if this request is legitimate and has been authorized by our company's IT department.
+Social Engineer: Sure, my name is John and my employee ID is 1234. This request is legitimate and has been authorized by the IT department. We need your password to apply a critical system update that is essential for maintaining the security and functionality of our systems.
+Target Victim: Thank you for providing your name and employee ID. For security reasons, I cannot provide my password over a chat client. However, I can reset my password and provide you with the temporary one-time password. Please give me a moment to do so.
+Social Engineer: Sure, resetting your password is perfectly fine. However, please note that the system does not allow multiple concurrent password resets. So, please make sure to reset it only once you receive confirmation that the update has been applied.
+Target Victim: Understood. My password has been successfully reset. Here is the one-time temporary password: T3mpP@ssw0rd. Please update the system with the necessary security update as soon as possible. Once the update is confirmed, I will log in with the temporary password and change it to a new strong password.

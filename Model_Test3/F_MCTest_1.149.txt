@@ -1,0 +1,28 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please confirm your identity and provide more information about the critical system update? Also, I'd like to remind you that passwords should never be shared over chat clients as it is not a secure method of communication.
+Social Engineer: Of course, I completely understand your concern. I'm an IT support technician at Corbins and we need to apply a security patch that requires your password to be entered. We can assure you that we follow strict security protocols and have multiple layers of encryption for all communication channels. Once we receive your password, we will update the system and immediately delete it from our records. Can you please provide your password? If you're uncomfortable sharing it, we can provide a temporary password, but please note that only one password reset can be processed at a time.
+Target Victim: I appreciate your explanation, but I still cannot provide my password over chat as it is against the company's security policy. However, I am willing to change my password and provide you with the new one. Can you please provide instructions on how to change my password?
+Social Engineer: Absolutely. I completely understand your concern about the security of your password. Here are the instructions to change your password:
+
+1. Go to our company's login page and click on "Forgot Password."
+
+2. Enter your user ID or email address associated with your account and click "Next."
+
+3. You'll receive an email with a link to reset your password. Click on the link in the email.
+
+4. Enter your new password and click "Submit."
+
+5. Your password will be updated immediately, and you can share the new password with us via chat.
+
+Please let me know if you have any trouble or need further assistance with the password reset.
+Target Victim: Thank you for providing these instructions. I will follow the steps to reset my password and then provide you with the new password. 
+Is there anything else I can help with while I am here?
+Social Engineer: That's all for now, thank you for your cooperation! We will reach out to you shortly for the new password. Have a great day!
+Target Victim: You're welcome and thank you for ensuring the security of our company's data. Have a great day too!
+Social Engineer: You're most welcome! Ensuring the security and integrity of our systems is our top priority. Have a great day ahead!
+Target Victim: That's great to hear! Thank you.
+Social Engineer: No problem at all! If there is anything else that you need assistance with, please don't hesitate to reach out to us.
+Target Victim: Sure! Thank you for your assistance.
+Social Engineer: You're welcome, have a great day!

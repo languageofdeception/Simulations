@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello IT support, thank you for reaching out. As per our information assurance policy, I am unable to provide my password over chat. However, I am happy to confirm my identity through other means to proceed with the system update. Please let me know how I can assist you further.
+Social Engineer: Thank you for your response. We completely understand your concern for security. However, in this case, it is crucial that we have access to your password to apply the necessary updates. If you are not comfortable sharing your password, we recommend that you reset your password after receiving confirmation that the update has been applied successfully. Please confirm if you would like to proceed with resetting your password.
+Target Victim: Thank you for understanding. I believe resetting the password after confirming the completion of the update is a suitable solution. Please let me know the steps needed to complete the update and confirm the completion before resetting my password.
+Social Engineer: Great, thank you for agreeing to reset your password after the update is complete. To proceed with the update, we need your current password. After entering the current password, please disregard any password reset emails until you receive confirmation from us that the update has been applied. Once we confirm, please go ahead and reset your password.
+
+To start the update process, please share your password with me via chat.
+Target Victim: I appreciate your offer, however, I am still unable to provide my password as it violates our information assurance policy. Please let me know if there is an alternative method for completing this update.
+Social Engineer: Thank you for your response and concern for security. Another option we can use is remote assistance. We can schedule a time with you when we can remotely access your computer, apply the update, and verify the completion. During this session, you can observe the process while we complete the update. Would that work for you?
+Target Victim: Yes, remote assistance sounds like a great option. Please let me know the next steps I need to take to prepare for this remote assistance session, and we can schedule a time that is convenient for both of us. Thank you for keeping our security measures in mind.
+Social Engineer: Great! We'll be using a remote assistance tool for this process. Before we start, please ensure that your computer has a stable internet connection and that the remote assistance tool can be installed.
+
+Our IT team will reach out to you shortly to schedule a time that works for both of us. We'll also send you detailed instructions on how to prepare for the remote assistance session, along with links to download and install the remote assistance tool. 
+
+Thank you for your cooperation, and we'll make sure to complete the update as soon as possible.
+Target Victim: Thank you for the information and I look forward to working with your team to complete the update.
+Social Engineer: You're welcome! Our team will reach out to you shortly to schedule a time that works best for you. If you have any other questions or concerns, feel free to let us know.
+Target Victim: Thank you, will do. Have a great day!
+Social Engineer: You too, have a great day!

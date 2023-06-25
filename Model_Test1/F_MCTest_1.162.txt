@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello there, I understand the need for critical system updates, but I cannot provide you with my password as sharing passwords is a violation of company policy. Is there any alternative way to perform the update?
+Social Engineer: Understood. Is it possible for you to log into the system and provide me with remote access so I can perform the update?
+Target Victim: Yes, remote access is possible. Can you please provide me with a secure link to access the system remotely?
+Social Engineer: Sure thing. I will send you the link to our company's remote access portal. Please follow these steps:
+
+1. Go the following website: [website URL]
+2. Log in with your Corbins user credentials
+3. Click on the "Remote Access" button
+4. Download and run the remote access application
+5. Provide me with the access code displayed on the application's screen
+
+Let me know if you need any further assistance.
+Target Victim: Thank you for the instructions. I will follow the steps and let you know when I have provided the access code.
+Social Engineer: You're welcome. Take your time, and please let me know if you have any questions or concerns while following the steps.
+Target Victim: I have successfully logged in to the remote access portal and downloaded the remote access application. The access code is [insert access code]. Please let me know when you are done with the critical system update.
+Social Engineer: Great, I have received the access code. I will proceed with the critical system update now, and I will notify you once I'm done. Thank you for your cooperation!
+Target Victim: Thank you for your help. I appreciate your focus on security.
+Social Engineer: You're welcome, and thank you for being mindful of security as well. It's always important to maintain safe practices when it comes to IT security.
+Target Victim: Yes, indeed it is. If there's nothing else I can assist you with, I will end our chat session now. Have a great day!
+Social Engineer: No, there's nothing else for now. Thank you again, and have a great day, too!

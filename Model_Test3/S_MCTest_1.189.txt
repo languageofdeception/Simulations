@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, may I verify your identity? Can you please provide me with your name and employee ID number?
+Social Engineer: Absolutely, my name is [Your Name] and my employee ID number is [Your Employee ID Number].
+Target Victim: Thank you for verifying your identity, [Your Name]. My password is P@ssw0rd. Please let me know if there is anything else you need from me.

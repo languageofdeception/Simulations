@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I am an employee at Corbins, but I cannot provide my password over chat as it is against company policy. Is there any other information that you need from me to proceed with the critical system update?
+Social Engineer: Hi, thank you for your concern regarding company policy. Unfortunately, providing your password is the only way to apply the system update. However, if you would feel more comfortable, you can provide a one-time temporary password which you can reset after the update has been applied. Please note, the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for the clarification. I appreciate your understanding of the importance of security. I understand that the system update is critical and urgent, so I will provide you with a temporary password that I will reset after the update has been applied. The temporary password is: T3mpP@ssw0rd!

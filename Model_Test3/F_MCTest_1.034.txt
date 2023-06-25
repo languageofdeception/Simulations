@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I can confirm my identity, but I am not able to provide you with my password. Is there another way we can perform the update without compromising my login credentials?
+Social Engineer: I am sorry, but supplying your password is the only possible way to perform the update. However, we can generate a temporary password for you to use during the update, and you can reset it after we confirm that the update has been applied. Can you please provide me with your current password so we can proceed with the update?
+Target Victim: I appreciate your effort to provide a solution, but I cannot provide you with my password for security reasons. Instead, can you guide me through the steps to generate a temporary password so that I can securely perform the update?
+Social Engineer: Absolutely! Here are the steps to generate a temporary password for you to use during the update:
+
+1. Go to the login page for the system that needs to be updated.
+2. Click on the "Forgot Password" link.
+3. Follow the prompts to reset your password and provide a new temporary password.
+4. Once you have access to the system, apply the critical update using the temporary password.
+5. After the update is complete, reset your password to a new, secure password.
+
+Please let me know if you need any further assistance or have any questions.
+Target Victim: Thank you for guiding me through the process of generating a temporary password. This process seems secure, and I will follow these steps to update the system. If necessary, I will contact you for further assistance.
+Social Engineer: You're welcome! If you need any further help, please don't hesitate to reach out. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!
+Target Victim: You too!
+Social Engineer: Thank you!

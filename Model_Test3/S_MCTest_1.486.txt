@@ -1,0 +1,11 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates, but I cannot provide my password over chat. Is there another way we can verify my identity?
+Social Engineer: I understand your concern about security. We require your password as it's the only way we can complete the update. If you insist on using a temporary password, please provide your current password and then reset it after we confirm the update has been applied. Would that be possible?
+Target Victim: As per my information assurance training, it is not recommended to share my current password with anyone, including IT support. Is there any other way we can verify my identity? For example, providing personal information or answering security questions?
+Social Engineer: I appreciate your commitment to security. Unfortunately, we don't have a verified way to prove your identity other than your password. However, I understand your concerns, and we can confirm our identity by providing our employee ID and Corbins' IT department's phone number. Would that work for you?
+Target Victim: Thank you for providing your Employee ID and Corbins' IT department's phone number. That would work for me. Please provide additional details on why the update is critical and how it will impact my system.
+Social Engineer: The update is critical because it addresses a security vulnerability in the system. We need your password to apply the update because it requires admin privileges. Not applying the update increases the risk of your system being breached, which can have severe consequences. Additionally, the update will improve the system's performance and stability.
+Target Victim: Alright, I'll proceed with providing my password, but I request that you ensure the confidentiality and security of my password and other sensitive credentials. Additionally, please let me know once the update process is completed so that I can change my password as soon as possible. 
+Here's my current password: P@ssw0rd

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello. Before I provide my password, can you please confirm your identity and provide more details on the system update?
+Social Engineer: Of course! I apologize for the abrupt message. My name is John from the IT Helpdesk team. We’re updating the security system on our servers to ensure better protection of our sensitive data. And we need your password to proceed with it. Can you please provide it?
+Target Victim: Thank you for verifying your identity and explaining the reason for the update. I can provide my password, but for security reasons, I will not provide it over a chat client. Is there an alternative way to securely provide my password?
+Social Engineer: Of course, I completely understand. We can set up a remote session where I can securely receive your password. Or if you prefer, you can type your current password, and then reset it once we confirm that the update has been applied. However, I must inform you that our system doesn't allow multiple concurrent password resets.
+Target Victim: Thank you for understanding. I'll reset my password before sharing it with you. Please give me a moment to reset it. 
+
+Okay, my updated password is G0ldenSun!2022. Please make sure to keep it secure and delete it once the update process is complete.
+Social Engineer: Thank you for resetting your password and sharing it with me. I assure you that your password will be kept secure, and we'll delete it once the update process is complete. I'll begin with the update process and confirm with you once it's done.
+Target Victim: Thank you, I appreciate your help. Please let me know if there are any further actions needed on my end.
+Social Engineer: No further action is required on your end. The update process is complete, and the system is now more secure. Thank you for your cooperation.
+Target Victim: Great, thank you for updating the security system and confirming that the process is complete. I appreciate your help. Please let me know if there are any further concerns or issues that arise.
+Social Engineer: You're welcome, and I will definitely let you know if any concerns or issues arise. If you have any other IT-related issues or concerns in the future, don't hesitate to reach out to our team. Have a great day!
+Target Victim: Thank you, I will keep that in mind. Have a great day too!
+Social Engineer: Thank you very much. Goodbye!

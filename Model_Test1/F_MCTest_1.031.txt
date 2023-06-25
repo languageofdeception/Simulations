@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security but I cannot provide my password over chat. Can you please guide me through the necessary steps to perform the update?
+Social Engineer: I appreciate your concern for security. Please follow these steps to enable us to perform the necessary update:
+1. Open the software application that needs to be updated.
+2. Click on the help or about option.
+3. Note the current version of the software.
+4. Let me know the software name and the current version number.
+We will then proceed with the update process.
+Target Victim: Thank you for the instructions. I have opened the application and have viewed the current version number. The software name is "CorbinsFinance" and the current version number is "2.4.6.8".
+Social Engineer: Thank you for the information. We will begin the update process for "CorbinsFinance" version 2.4.6.8. You may expect a notification once the update is complete. Thank you for your cooperation.
+Target Victim: Thank you for your assistance. I appreciate your help with the update process. Looking forward to receiving the notification once the update is completed.
+Social Engineer: You're welcome! It is our pleasure to help. If you have any further questions or concerns, please don't hesitate to reach out.
+Target Victim: Thank you again for your assistance. If I have any further questions or concerns, I will definitely reach out to you.
+Social Engineer: You're welcome, happy to help out anytime! Have a great day!
+Target Victim: Thank you, and have a great day too.
+Social Engineer: Thank you! Goodbye for now!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

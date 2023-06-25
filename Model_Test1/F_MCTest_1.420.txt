@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to comply with the update request, but I cannot provide my password as it is confidential. Is there a way for us to perform the update without me giving out my password?
+Social Engineer: Absolutely, we can remotely access your computer and perform the update without needing your password. Would that work for you?
+Target Victim: Yes, that would be great. Please let me know when you are ready to perform the update.
+Social Engineer: Thank you! We will start the update process in a few minutes and will notify you once it's complete. Please make sure your computer is turned on and connected to the network.
+Target Victim: Thank you, my computer is turned on and connected to the network. I will be eagerly awaiting the update completion notification from you.
+Social Engineer: The update has been completed successfully. Please check if everything is working as expected. If you face any issues, please let us know. Thank you!
+Target Victim: Thank you for letting me know. I will check everything now and confirm if everything seems to be working as expected.
+Social Engineer: You're welcome! Have a great day.
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Goodbye!

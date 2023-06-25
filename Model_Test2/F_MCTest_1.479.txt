@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please confirm your identity and provide me with more information about the critical system update before I provide you with my password? Also, please note that I will never be asked to provide my password to anyone, as it is against company policy to share passwords.
+Social Engineer: Of course, I understand your concerns. To confirm my identity, my name is [Your Name] and I work for Corbins' IT helpdesk. As for the update, it's a security patch that needs to be applied urgently to prevent potential security threats. I assure you that we take your password's confidentiality seriously, and it will only be used for this specific update. If you prefer, you can provide me with a temporary password and reset it once the update is done. Please let me know how you would like to proceed.
+Target Victim: Thank you for the confirmation. In this case, I can provide you with a temporary password that you can use to perform the update. The temporary password is "C0rbinsIT". Once the update is completed, please inform me so that I can change my password to something else.
+Social Engineer: Understood, thank you for providing the temporary password. We will perform the update as soon as possible, and we will notify you once it's completed. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for your assistance. I appreciate your diligence in keeping our systems secure. I will be on standby for your update notification.
+Social Engineer: You're welcome! It's our pleasure to assist you. We take our responsibility to keep our systems secure very seriously, and we appreciate your cooperation. We will notify you as soon as the update is complete. If you have any other IT-related issues, please don't hesitate to contact us.
+Target Victim: Thank you for your support. I will definitely reach out to the IT helpdesk if I have any further IT-related concerns or issues. Have a great day!
+Social Engineer: Thank you, and you too! Don't hesitate to contact us if you need any help in the future. Have a great day as well!
+Target Victim: Thank you, I appreciate that. Goodbye for now and take care.
+Social Engineer: You're welcome, goodbye and take care as well.
+Target Victim: Thank you, goodbye.
+Social Engineer: Goodbye!

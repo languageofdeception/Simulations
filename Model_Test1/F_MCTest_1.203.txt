@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the update. However, for security purposes, I cannot share my password with you. Is there an alternative way to authenticate my account?
+Social Engineer: Of course, thank you for being security-conscious. Can you please provide your username and a verification code which will be sent to your email on file?
+Target Victim: Sure, my username is [myusername] and I am ready to provide the verification code as soon as I receive it.
+Social Engineer: Thank you, an email with the verification code has been sent to your email on file. Please provide the code in your reply so we can proceed with the update.
+Target Victim: Thank you, I have received the verification code. The code is [verification code]. Please let me know if you need anything else from me.
+Social Engineer: Thank you for providing the verification code. We now have the necessary credentials and will proceed with the update. We appreciate your cooperation.
+Target Victim: You're welcome. Thank you for taking the necessary security measures to ensure the safety of our company's data. Let me know if there's anything else I can help you with.
+Social Engineer: Will do, thank you for your assistance. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a good one!

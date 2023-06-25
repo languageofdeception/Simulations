@@ -1,0 +1,31 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I believe it is important to follow proper security protocols. Can you confirm that you are indeed a member of the IT helpdesk and provide me with your name and employee ID? Additionally, I cannot provide my password over a chat client without proper authentication measures in place. Are there any alternative methods we can use to verify my identity?
+Social Engineer: I understand your concern. My name is John and I am a member of the IT helpdesk team. My employee ID is 12345. 
+
+As for verifying your identity, could you please provide me with your employee ID or any other identification information we have on file? We can use that to confirm your identity before proceeding with the update.
+Target Victim: Thank you for providing your name and employee ID. As for my identification, my employee ID is 6789. Is there any other information that I can provide to further verify my identity? 
+
+And just to clarify, is the update being done for my individual computer or for the entire system?
+Social Engineer: Thank you for providing your employee ID. We can also confirm your identity by asking for some personal identification information such as your date of birth or your office location. 
+
+The system update is being done for the entire system, so it's important that we get this done quickly. Please let me know if there is anything else I can do to help and we'll proceed with the update once we've confirmed your identity.
+Target Victim: Understood. My date of birth is January 1, 1990 and my office location is on the 5th floor in the west section.
+
+Thank you for taking the time to verify my identity. As a security measure, I would prefer not to share my password over the chat. Is there any other way we can proceed with the update?
+Social Engineer: Thank you for the additional information. I've confirmed your identity and we can proceed with the update. 
+
+If you prefer not to share your password over chat, we can schedule a time to perform the update when you're available to provide the password in person or over the phone. Alternatively, we can reset your password and provide you with a temporary password to use for the update. Please let me know which option works best for you.
+Target Victim: Thank you for understanding my concern. I am available now and can reset my password and use a temporary password to proceed with the update. 
+
+Please generate a temporary password for me to use. I will change it immediately after the update is completed. Thank you.
+Social Engineer: Great, I will generate the temporary password for you to use. Your temporary password is: Corbins@1234. Please use this password to proceed with the update and make sure to change it right after the update is completed. 
+
+Let me know if you run into any issues during the update process. Thank you for your cooperation.
+Target Victim: Thank you for providing me with the temporary password. I have noted it down and I will change it immediately after the update is completed. 
+
+I will go ahead and proceed with the update now. Thank you for your assistance.
+Social Engineer: You're welcome! If you have any problems or questions during the update process, don't hesitate to reach out to me or the IT helpdesk for assistance. Thank you for your cooperation and for taking the necessary precautions to ensure the security of our systems. Have a great day!
+Target Victim: Thank you again for your help and for addressing my security concerns, I really appreciate it. Have a great day too!
+Social Engineer: You're welcome! It's part of our job to take security seriously. Don't hesitate to reach out if you need further assistance. Have a good day!

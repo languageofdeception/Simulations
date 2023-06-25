@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I can provide my password, can you please confirm your identity by providing your name and employee ID? I want to ensure that I am only sharing my password with authorized personnel.
+Social Engineer: Of course, my name is [Your Name] and my employee ID is [Employee ID]. Can you please share your password so we can proceed with the update? Remember, if you insist on providing a temporary password, please send your current password and then reset it after you receive confirmation that the update has been applied.
+Target Victim: Thank you for confirming your identity. However, I cannot share my password as it is a violation of our company's information security policies. Is it possible to perform the system update without my password? I would be glad to assist in any way I can to facilitate the update process.
+Social Engineer: Thank you for your concern for information security. We apologize for any inconvenience. Unfortunately, the system we are using requires the user password to perform the update. If you can provide a temporary password that we can use to complete the update, we can confirm that the update has been successfully applied and then you can reset your password afterward. Please let us know if this is possible.
+Target Victim: I appreciate your explanation, but I still cannot share my password. Instead, can we set up a screen-sharing session so that I can enter my password myself and observe the update being performed? This way, I can ensure that my password and other sensitive information are not being shared or recorded.
+Social Engineer: That's a great suggestion! We can definitely set up a screen-sharing session so that you can share your password securely and observe the update being performed. Please let us know a time and date which works best for you, and we will send you a screen-sharing link. Thank you for your cooperation.
+Target Victim: Thank you for accommodating my request. I'm available this afternoon between 1 pm and 5 pm EST. Please send me the screen-sharing link in advance, and I will use it to join the session at the appointment time. Thank you for your help in keeping our system and information secure.
+Social Engineer: You're welcome, and thank you for your cooperation. We've scheduled the screen-sharing session for today at 2 pm EST, and we'll send you the link in the next few minutes. We appreciate your help in ensuring our system remains up-to-date.
+Target Victim: Thank you, I will be ready for the session at the appointed time and I appreciate your help as well. Have a great day!
+Social Engineer: You're welcome, and thank you for your cooperation. We will see you at 2 pm EST. If there's anything else you need help with, feel free to reach out to us. Have a great day too!
+Target Victim: Thank you. I will be sure to do so if anything comes up. Have a great day!
+Social Engineer: Thank you, and take care!

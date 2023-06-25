@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I just want to confirm that you are a legitimate member of the IT helpdesk and that this request is authentic.
+
+Also, for security reasons, I cannot provide my password over chat. Is there an alternative way we can authenticate, or can you reset my password temporarily so I can change it later?
+Social Engineer: Yes, this request is legitimate and I am a member of the IT helpdesk. Unfortunately, we cannot reset your password temporarily as the system does not allow multiple concurrent password resets.
+
+To authenticate, I can provide you with my employee ID or we can set up a call to verify my identity. However, please note that we need your current password to perform the critical system update. Once the update is complete, I recommend that you change your password for security reasons.
+Target Victim: Thank you for understanding. I can provide you with my password, but I request that the password be obscured from your view during the update process for added security.
+
+My password is P@ssw0rd. Please let me know if you require any additional information or assistance.

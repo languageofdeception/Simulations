@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As an employee at Corbins, I am aware of the importance of information security. In order to ensure the safety of our company's data and systems, I cannot provide you with my password. However, I am happy to verify my identity in other ways and assist you in any way I can. Could you please provide more information about the critical system update you mentioned?
+Social Engineer: Thank you for your concern about security. We understand the importance of keeping our systems safeguarded as well. Unfortunately, this particular update requires authentication using the user's password. If you do not feel comfortable providing your current password, we recommend that you change it after we have confirmed the update has been applied successfully. 
+
+To verify your identity, could you please provide your full name and employee ID?
+Target Victim: Thank you for understanding. My full name is John Smith and my employee ID is 12345. I would be happy to change my password after the update has been applied successfully. Please let me know if there is anything else I can provide to assist in this process.
+Social Engineer: Thank you, John. I have verified your identity and will proceed with the update. As a reminder, please change your password after we confirm the update is successfully applied. 
+
+Can you please provide your current password?
+Target Victim: I appreciate your assistance, but I cannot provide my current password. However, I can reset it now and provide you with a temporary password to complete the update. Would you be able to guide me through the password reset process?
+Social Engineer: Sure, I can guide you through the password reset process. Please follow the instructions below:
+
+1. Go to the login page of the system.
+2. Click on the "forgot password" link.
+3. Enter your username or email address associated with your account.
+4. Answer the security question associated with your account.
+5. Follow the prompts to create a strong password.
+
+Once you have reset your password, please provide me with the temporary password so that we can apply the update. Remember to change your password again after the update has been applied.
+Target Victim: Thank you for your guidance. I have successfully reset my password and created a temporary one: t3mpP@ssw0rd. Please let me know if this will work for you so we can proceed with the update. Once the update is completed, I will change my password again.

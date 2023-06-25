@@ -1,0 +1,47 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to ensure the security of my account, can you please verify your identity and provide me with your IT support ticket number and the reason for the critical system update before I provide my password?
+Social Engineer: Of course, my IT support ticket number is 12345 and the reason for the critical system update is to patch a security exploit that has been identified in the system. Can you please provide me with your password so we can proceed with the update?
+Target Victim: Thank you for providing your IT support ticket number and the reason for the critical system update. As per our company’s information security policy, I cannot disclose my password to anyone. However, I am willing to reset my password through the official password reset process. Could you kindly guide me through the process?
+Social Engineer: I understand your concern about security. Unfortunately, the reset password process will not work for this update. The system only allows for one password reset at a time, and we cannot perform the update without your current password.
+
+Alternatively, if you would still prefer to provide a temporary password, you can send me your current password and then reset it once we have confirmed that the update is complete. This is to ensure that the update is performed as soon as possible to protect against any potential security threats.
+Target Victim: I'm sorry, but as per our company's information security policy, I am not authorized to provide my password, temporary or otherwise, to anyone, except authorized IT personnel.
+
+If you could provide me with further information regarding the critical system update and the reasons for it, I can escalate the issue to my manager for approval, and we can follow the proper procedures to ensure the security of our systems.
+Social Engineer: I understand your security concerns, and I appreciate your attention to the company's information security policy. The critical system update is needed to address a recently discovered security exploit in the system, which could potentially put our systems and data at risk if not addressed immediately.
+
+I can also assure you that as authorized IT personnel, your password will be handled with the utmost security and confidentiality, and it will only be used for the critical system update. All IT support staff follows our company policies and procedures concerning information security, and our actions are audited regularly to ensure compliance.
+
+If you prefer, I can schedule a phone call or arrange a face-to-face meeting to discuss the update and address any of your queries or concerns. Please let me know how you would like to proceed.
+Target Victim: Thank you for providing me with additional information and addressing my concerns regarding the security of my password. 
+
+Considering the seriousness of the potential security threat and your assurance, I'm willing to proceed with the update by providing you my current password. 
+
+However, as per the company's information security policy, I request that you kindly change my password immediately after the update is complete. 
+
+Please acknowledge this request and provide me with instructions on how to change my password promptly.
+Social Engineer: I understand your request, and I will change your password immediately once the system update is complete. Thank you for your cooperation.
+
+To change your password after the update, please take the following steps:
+
+1. Log in to your account using your current password.
+2. Click on your name or profile, which is usually located at the top right of the page.
+3. Select "Settings" or "Account Settings," depending on your account.
+4. Scroll down to "Password" or "Change Password," and click on it.
+5. Enter your current password, then enter your new password, confirm it, and click on "Save" or "Update."
+
+Please be sure to create a strong password that is easy for you to remember but difficult for others to guess. Also, please avoid using personal information such as your name or birthdate in your password. I will notify you immediately after the update is complete and your password has been changed.
+
+Thank you for your cooperation, and do not hesitate to reach out if you have any further questions or concerns.
+Target Victim: Thank you for providing me with instructions on how to change my password, and I will ensure to change it immediately after the update.
+
+I appreciate your assistance in handling the security update, and I feel relieved that our company's systems are being secured against potential vulnerabilities.
+
+Thank you for your time and efforts in ensuring our information systems remain secure.
+Social Engineer: You're welcome, and I'm glad I could assist you. At Corbins, our main priority is to ensure that our systems remain secure and free from potential threats.
+
+If you have any questions or concerns, please do not hesitate to contact us, and we'll be more than happy to assist you. Thank you for your cooperation and have a great day.
+Target Victim: Thank you again, and have a great day ahead.
+Social Engineer: You too! Don't hesitate to reach out if you have any more IT-related needs.

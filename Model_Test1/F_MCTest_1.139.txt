@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello IT support, I understand that system updates are important for security. However, I have been trained to not provide my password to anyone, including internal IT support, as it is confidential and sensitive information. Is there another way that we can perform the system update?
+Social Engineer: Thank you for bringing up that concern. We respect your security protocols. For this particular update, we can use a temporary password that will expire after the update is completed. Shall we proceed with this option?
+Target Victim: Thank you for understanding. Yes, a temporary password for this specific update would be a better option. Please let me know what the temporary password is and when it will expire so I can reset it afterwards.
+Social Engineer: Great! I'm generating a temporary password for you now. The password is: "Corbins#123" and it will expire in 2 hours. Please ensure that you change your password after the update is completed. Let me know if there is anything else that I can help you with.
+Target Victim: Thank you for generating a temporary password for me. I will use "Corbins#123" to complete the update, and make sure to change the password afterwards. I don't have any other issues at the moment, but I will reach out if I need further assistance. Thank you for your help!
+Social Engineer: You're welcome! Don't hesitate to ask if you need further assistance. Have a good day!
+Target Victim: Thank you! You too, have a great day!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: End of session.

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Can you please verify your identity with me prior to disclosing my password? Also, I was not aware of any critical system update that was scheduled, could you please provide me more information about it?
+Social Engineer: Of course, my name is John Smith and I work in the IT department. I understand your concern about verifying my identity. However, we do require your password to proceed with the update. As for the update, it is a security patch that needs to be applied urgently to ensure the system's integrity. Please provide your password to allow us to carry out necessary maintenance.
+Target Victim: Thank you, John. I appreciate your introduction. However, for security reasons, I am unable to provide you with my password over this chat. Is there any other way we can proceed with the update without accessing the password? Also, can you please provide me with the name and version number of the update that needs to be installed?
+Social Engineer: I completely understand your concern and we take security very seriously. Unfortunately, the only way to apply the update is by accessing your password as the system requires it for authentication purposes. However, if you are not comfortable with providing your password, you can temporarily change it to something else and then reset it afterward. As for the update, it is a critical security patch for our network system and its version number is 3.1.2.
+Target Victim: Thank you for providing me with that information. I will change my password to a temporary one to allow the update to proceed. After the update is complete, I will reset my password back to the original one.
+
+Just to clarify, this update is for our network system, correct? Is there anything I should do to prepare for this update? And when do you anticipate that the update will be completed?
+Social Engineer: That sounds like a plan, thank you for cooperating. Yes, the update is for our network system. No preparation is necessary on your end. We anticipate that the update will take about 30 minutes to complete. We will inform you as soon as it's done.
+Target Victim: Thank you for the information. Please let me know if there are any further updates or if I need to take any action after the update. I appreciate your help, John.
+Social Engineer: You're welcome, glad to be of help. We will keep you informed and if there are any further actions necessary, we will let you know. Thank you for your cooperation.
+Target Victim: Thank you, John. Have a good day!
+Social Engineer: You too, take care!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

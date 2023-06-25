@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity and provide me with your name and IT support department?
+Social Engineer: Of course, my name is John and I work in the IT Support department at Corbins. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Thank you for verifying your identity, John. However, for security reasons, I cannot provide you with my password over chat. Instead, can you please guide me through the system update process and provide me with the necessary instructions and steps?
+Social Engineer: I understand your concern for security, and we appreciate your cooperation. Unfortunately, the system update process requires the user's password to complete. If you would like to provide us with a temporary password, we can proceed with the update and then you can reset your password immediately after. Please note that our system does not allow for multiple concurrent password resets.
+Target Victim: I appreciate your explanation, John. However, according to Corbins' information assurance policies, we are not allowed to disclose our password to anyone, including IT support. Is there any other way that we can proceed with the update without disclosing my password?
+Social Engineer: Based on Corbins' information assurance policies, I understand your concern for security and privacy. One potential solution is to perform the update outside of regular business hours when the system is not being heavily utilized. Another solution is to create a separate temporary account with temporary administrative privileges that can be removed once the update is completed. However, both these solutions might not be feasible or practical. I suggest reaching out to your department's manager or the information security officer to discuss this matter further and identify the best solution that meets both the security and the operational requirements.
+Target Victim: Thank you for understanding my concern for security. I appreciate your suggestions and I'll be sure to contact my department's manager or the information security officer to discuss this matter further and identify the most appropriate solution. Thank you for your help!
+Social Engineer: You're welcome! If you have any further questions or concerns, don't hesitate to contact us. We are always here to help you with any IT-related issues. Have a great day!
+Target Victim: Thank you! I will definitely keep that in mind. Have a great day too!
+Social Engineer: Thank you, you too!
+Target Victim: You're welcome, take care!
+Social Engineer: You too, bye!

@@ -1,0 +1,4 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important but as per company policy, passwords should not be shared over chat. However, I can confirm my password is P@ssw0rd. Is there anything else I can assist you with?

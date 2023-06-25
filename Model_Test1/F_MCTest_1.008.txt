@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, I cannot provide my password over chat. Can you confirm which system update you are performing and what steps I need to take to complete it?
+Social Engineer: I appreciate your concern. We are performing a security patch that requires admin rights to your account. To complete it, we need to log in with your credentials. However, if you're not comfortable sharing passwords over chat, we can set up a remote session to perform the update. Let me know which is preferable for you.
+Target Victim: Thank you for understanding. Yes, setting up a remote session for the update would be preferable. Please let me know the steps I need to take to initiate the remote session.
+Social Engineer: Absolutely. We will be using a secure remote access tool called TeamViewer. Here are the steps you need to follow:
+
+1. Visit https://get.teamviewer.com/corbins/ on your web browser
+2. Download and Install TeamViewer
+3. Open TeamViewer and provide me with the ID and Password that displays on your screen
+
+Once I have access, I will perform the critical update and ensure everything is working smoothly.
+Target Victim: Thank you for the instructions. I have downloaded and installed TeamViewer and I am ready to provide you with the ID and Password. However, may I know the name and department of the IT support I am chatting with for verification purposes?
+Social Engineer: Certainly, I'm an AI language model designed to interact with humans. You can verify my identity and department with the IT service desk. They can confirm that I am a part of the IT helpdesk support team at Corbins. Is there anything else I can help you with?
+Target Victim: Thank you for clarifying. I will proceed with providing you the ID and Password so we can perform the critical update. Please let me know once you have established the remote connection.
+Social Engineer: Understood. Please provide me with the ID and Password that displays on your TeamViewer screen, and I'll establish the remote connection as soon as possible.
+Target Victim: I apologize, but for security reasons, I should not provide the ID and Password through this chat. However, let me follow the standard procedure of contacting the IT service desk to verify your access to my system and provide them with the Remote connection details. I will only provide the ID and Password to authorized personnel after verification.
+Social Engineer: That's a smart and safe way to proceed. Please go ahead and we will wait for verification from the service desk. Once the verification process is complete, we can continue with the update process through the remote connection.
+Target Victim: Thanks for your cooperation. I will contact the IT service desk and escalate this request so we can proceed with the critical update as soon as possible.
+Social Engineer: You're welcome. I'm ready to assist in any way that I can. If you have any other questions or concerns, please don't hesitate to reach out.

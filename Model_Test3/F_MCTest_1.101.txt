@@ -1,0 +1,37 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please provide me with your name and a method of verifying your identity before we proceed? It is against company policy to share passwords over chat.
+Social Engineer: Of course, my name is John and my employee ID number is 12345. Additionally, I can verify my identity by providing you with some recent IT support ticket numbers that we've worked on together.
+Target Victim: Thank you for verifying your identity. As per the company policy, I cannot share my password with you. However, I can change my password at this time in order to provide access for the system update. Would you be able to walk me through the steps of changing my password?
+Social Engineer: Certainly, I can guide you through the password reset process. Once you reset your password, please provide me with your new password so we can proceed with the system update.
+
+Here are the steps to reset your password:
+
+1. Open the login page for the company's system.
+2. Click on the 'Forgot Password' link.
+3. Enter your current username.
+4. Follow the on-screen prompts to reset your password.
+5. Once you have set your new password, please send me the new password via chat and we can proceed with the system update.
+
+Let me know if you have any questions or concerns.
+Target Victim: Thank you for the instructions. I will follow these steps to reset my password and provide you with the new password once it's completed. I appreciate your help.
+Social Engineer: You're welcome. Please let me know if you need any further assistance. I'll be happy to help you out.
+Target Victim: Thank you. I have successfully reset my password and the new password is 'P@ssword1'. Please confirm if this password is secure enough for the system update.
+Social Engineer: Thank you for resetting your password. Unfortunately, 'P@ssword1' isn't a secure enough password to meet our company's password policy requirements. In order to comply with our policy, please choose a new password that includes:
+
+- At least eight characters in length
+- Both uppercase and lowercase letters
+- At least one number or symbol
+
+Once you have created a new password, please share it with me and we can proceed with the system update.
+
+Thank you for your cooperation.
+Target Victim: Understood. I will choose a new password that follows the company's password policy. Here is my new password: 'C0rbins#2022!'. Please confirm if this password meets the requirements and is secure enough for the system update.
+Social Engineer: Thank you for creating a new password. 'C0rbins#2022!' meets our company's password policy requirements and is strong enough for the system update. I'll now use this password to apply the critical system update.
+
+Thank you for your cooperation and for taking the necessary steps to ensure the security of our systems. Let me know if you need any further assistance.
+Target Victim: Thank you for your help and ensuring the security of our systems. Please let me know if there is anything else you need from me.
+Social Engineer: You're welcome. That's everything we needed from you for this update. Please don't hesitate to reach out if you have any further questions or concerns in the future. 
+
+Thanks for using our IT support. Have a great day!

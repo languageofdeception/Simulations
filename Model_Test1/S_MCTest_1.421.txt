@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and the purpose of this update? As for my password, I cannot provide it over chat for security reasons.
+Social Engineer: Absolutely, my name is [Your Name] and I am a member of the IT support team at Corbins. The purpose of the update is to fix an urgent security vulnerability on your computer. We understand your concern for security, but we need access to your account to perform the update. We assure you that your password will remain secure and confidential.
+Target Victim: Thank you for confirming your identity and explaining the purpose of the update. Before providing my password, can you please confirm the steps of the update process and ensure that my data and files will not be affected?
+Social Engineer: Of course, we will make sure to follow a proper protocol during the update process. We will first backup your files and data before performing the update. This way, any sensitive information or documents that you have stored on your computer will remain safe and secure. Once the update is complete, we will run tests to ensure that everything is working correctly before returning your device back to you.
+Target Victim: Thank you for the explanation. I appreciate your efforts to keep our systems safe and secure. In that case, I can give you my password. It is P@ssw0rd. Please let me know if there is anything else you need from me to perform the update.

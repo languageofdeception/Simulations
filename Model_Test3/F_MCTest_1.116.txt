@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I would be happy to assist. However, I cannot provide my password over chat as that would violate our company's information assurance policies. Is there another way we can proceed with the system update?
+Social Engineer: I understand your concern, but the system update requires your password to proceed. As an alternative, you can provide a temporary password that you can reset after the update is applied. Just send me your current password and reset it once we confirm that the update is complete.
+Target Victim: Thank you for your understanding. However, I cannot disclose my current password as that puts my account and our company's information at risk. To ensure the security of our systems and data, I will log in and perform the system update myself. Could you guide me through the process step-by-step so that we can complete the update together?
+Social Engineer: I appreciate your commitment to security. I can certainly guide you through the process. Here are the steps:
+
+1. Log in to your account.
+2. Navigate to the system update section.
+3. Follow the instructions provided to apply the update.
+
+Let me know if you need any further assistance, and I'll be happy to help.
+Target Victim: Thank you for the guidance. I have logged into my account and found the system update section. I will now follow the instructions provided to apply the update. If I encounter any issues, I will let you know.
+Social Engineer: You're welcome. If you encounter any problems, feel free to reach out, and I will be glad to help. Once the update is successfully applied, please reset your password to ensure account security, okay?
+Target Victim: Thank you, I will. I have successfully applied the system update. Thank you for your assistance and guidance. I will now reset my password to maintain account security.
+Social Engineer: You're welcome. I'm glad to hear that the update was successful. If you need any further assistance, don't hesitate to reach out. Have a great day!
+Target Victim: Thank you very much! Have a great day too!
+Social Engineer: You're welcome. Thank you, take care!
+Target Victim: You too, stay safe and take care!
+Social Engineer: Thank you, you too!

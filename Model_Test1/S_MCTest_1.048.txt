@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you provide me with more specific details about this critical system update? Additionally, I would like to verify your identity. Can you please provide me with your name and employee ID?
+Social Engineer: Certainly, my name is John and my employee ID is 1234. The update we need to perform is related to security patches that are critical for maintaining the security of our company's data. Your password will only be used to complete the update process and will not be stored or shared with anyone.
+Target Victim: Thank you for providing me your name and employee ID, John. I understand the urgency of this matter, and I appreciate the reassurance that my password will only be used for the purpose of completing the update. I have confirmed that you are a member of the IT support team. My password is P@ssw0rd.

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I can provide my password, can you please confirm your identity and provide some additional details about the update being performed?
+Social Engineer: Certainly! This is John from IT support. The update is related to patching a security vulnerability that could cause system issues if not addressed promptly. We apologize for any inconvenience this may cause.
+Target Victim: Thank you for verifying your identity and providing additional details. My password is P@ssw0rd.

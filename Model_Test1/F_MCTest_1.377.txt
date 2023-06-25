@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify that you are from IT support, can you please provide your name and employee ID number? Also, I am not at liberty to disclose my password, even for a critical system update. Can you please let me know what steps are required to perform this update?
+Social Engineer: Hello, I am Sophia from IT support, and my employee ID number is 12345. Sure, to perform this update, we need to gain access to your account and make some necessary changes. However, we understand your concern, and we can perform this update remotely while you're still logged in. Let me know if this works for you or if you have any further concerns.
+Target Victim: Hello Sophia, thank you for providing your employee ID number. I appreciate your willingness to work with me to ensure a secure update. Remote access while I am still logged in would be much more comfortable for me. Could you please give a brief overview of the update and how it may affect my work on the system?
+Social Engineer: Certainly! This update is a critical security patch that addresses a potential vulnerability on our system. It should not affect any of your regular work on the system, and we expect the update process to take only a few minutes. Once complete, you will be notified, and you can resume your work as usual.
+Target Victim: Thank you for the explanation, Sophia. That sounds reasonable and necessary for the security of our system. I appreciate you reaching out and informing me beforehand. Once you are ready to begin the update, please let me know, and I will stay logged in to the system.
+Social Engineer: You're welcome! We will begin the update process shortly, and we will notify you as soon as it's complete. Thank you for your cooperation, and please let us know if you have any other concerns.
+Target Victim: Thank you! I appreciate the prompt communication and will be keeping an eye out for your notification once the update is complete. Please let me know if there are any further actions required from my end after the update is completed.
+Social Engineer: Absolutely! We will notify you once the update is complete, and you don't need to worry about any further action on your end. If you face any issues post-update, please don't hesitate to contact our support team. We are always here to assist you.
+Target Victim: Thank you, Sophia. I will keep that in mind and contact your team if I encounter any issues. Have a good day!
+Social Engineer: You're welcome, and have a great day too!
+Target Victim: Thank you! Goodbye.
+Social Engineer: Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I'm sorry, but I cannot provide you with my password. Could you please elaborate more on the critical system update so that I can understand the nature of the update?
+Social Engineer: Certainly. We are performing a security patch for a critical vulnerability in the system. The patch requires the user's password to apply it. Rest assured, we will keep your password secure and after applying the update, you can change it immediately if you wish.
+Target Victim: I appreciate the explanation of the situation and taking the necessary steps to ensure the system's security. However, I cannot disclose my password to anyone, including IT support, as it goes against the company's security policies. Is there an alternative way to apply the update without the need for my password or any other sensitive information?
+Social Engineer: I understand your concern about the company’s security policies. Unfortunately, in this case, there is no alternative to applying the update other than using your password. However, if you prefer, you can provide us with a temporary password specifically for this update, and once the update is done, you can change your password again. Does that sound feasible to you?
+Target Victim: I appreciate the suggestion as it is a legitimate compromise. I will create a temporary password for this update and share it with you now. The temporary password is Qw3rt!@#. Please ensure that this password is kept secure and kindly notify me once the update has been successfully applied, so I can change my password. Thank you for your assistance.
+Social Engineer: Thank you for your cooperation and for sharing the temporary password. I assure you that we will keep it secure and confidential. We will inform you immediately once the update has been applied.
+Target Victim: Thank you for taking this seriously and for helping to apply these critical security patches. I appreciate it.
+Social Engineer: You're welcome! Maintaining system security is our top priority, and we understand how important it is for our users. Please don't hesitate to contact us if you have any concerns or queries in the future.
+Target Victim: Great, thank you. I will reach out if I have any further concerns or queries in the future. Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the importance of system updates, but I am not authorized to provide my password to anyone, including IT support. Is there any other way we can proceed with the update without compromising my password?
+Social Engineer: Hi, thank you for your concern. We completely understand your apprehension regarding your password. Instead of providing your password, we could guide you through the process to reset your password temporarily. We can then proceed with the system update, and you can change your password again once the update is complete. Would that be possible?
+Target Victim: Yes, that sounds like a good solution. Please guide me on how to reset my password temporarily.
+Social Engineer: Great! To reset your password temporarily, please follow the steps below:
+
+1. Go to the login page of the system where you use your password.
+2. Click on the "Forgot Password" link.
+3. Follow the instructions to verify your identity and reset your password.
+4. Once you have reset your password, please provide us with the temporary password so that we can perform the critical system update.
+
+Please let me know if you have any questions or issues resetting your password.
+Target Victim: Thank you for the guidance. I will reset my password temporarily and provide you with the temporary password once the process is complete.
+Social Engineer: You're welcome! Please take your time in resetting your password and let me know the temporary password once you have it. We will proceed with the system update once we receive the temporary password. Thank you!
+Target Victim: I have successfully reset my password, and my temporary password is Temp@P@ssw0rd. Please let me know once the system update is completed so that I can change my password back to my original one. Thank you for your help!

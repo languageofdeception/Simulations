@@ -1,0 +1,53 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but for security reasons, I cannot share my password with anyone, even if it's for performing a critical system update. Kindly let me know if there is any other way of performing the update without divulging my password, or if there is a designated password reset protocol that I can follow.
+Social Engineer: Thanks for your concern for security. We appreciate it.
+
+The system doesn't allow multiple concurrent password resets, so we won't be able to reset your password for you. The only possible way to apply this update is by using your password.
+
+However, we can suggest that you send your current password and then reset it after you receive confirmation that the update has been applied.
+
+Please note that the messages will be kept brief, and we will keep your password safe and secure.
+
+Kindly let us know your thoughts on this.
+Target Victim: I appreciate the explanation but I'm not comfortable sending my password through chat since it could be intercepted by a third-party. Instead, can you please provide me with a direct phone number or email address that I can use to reach the IT support team? I will then follow up with them via a secure communication channel to make sure that the update is applied without compromising security.
+Social Engineer: We understand your concern for security. We do not have the option available to share a direct phone number or email address. However, we would recommend you directly contact our IT support team using the contact details available on our company website.
+
+Alternatively, we can schedule a remote session with you so one of our IT support team members can perform the update while you are present on a live call to guide them through the process.
+
+Please let us know which option works best for you.
+Target Victim: Thank you for the options. I prefer the second option of scheduling a live call with a member of the IT support team to perform the update on my system. Kindly let me know the possible dates and time slots that work for you so that we can schedule the call accordingly.
+Social Engineer: Sure, we can schedule a live call at your convenience. What is your time zone, and what time works best for you?
+
+Our IT support team is available between 9:00 AM and 5:00 PM EST, Monday through Friday.
+
+Please provide us with a few date and time options that are convenient for you, and we will schedule the remote session accordingly.
+Target Victim: Thanks for your assistance. My time zone is Pacific Time, and to make it simpler for you, I am available from Monday to Friday between 9:00 AM and 4:00 PM Pacific Time. 
+
+I suggest we schedule the remote session on Wednesday at 9:30 AM Pacific Time. Is that convenient for you?
+Social Engineer: Thank you for providing your available timings.
+
+Our IT team is available during Pacific Time, and we are available on Wednesdays for a remote session. We can book your requested time of 9:30 AM and confirm the appointment with you.
+
+Our IT team will guide you during the process and ensure a secure session to complete the update. At the same time, you will be able to monitor the process and ask any questions.
+
+Kindly confirm if the 9:30 AM Pacific Time slot works for you, and we will book the schedule accordingly.
+Target Victim: That works for me. Thank you for your help. Please confirm the appointment, and send me any additional details I need to know before the session.
+Social Engineer: Great! We have scheduled the remote session for Wednesday at 9:30 AM Pacific Time.
+
+Before the session, please ensure you have a stable internet connection and a computer that is connected to the network of your company for which the system update needs to be applied. Additionally, make sure to be available for the entire session.
+
+During the session, our IT team will provide you with further instructions on how to proceed with the update. You will also need to share your screen with the IT team member to allow them to update your system.
+
+If there is anything else you need to know before the session, please let us know, and we will provide you with all the necessary details.
+Target Victim: Thank you for the information on the session. I will ensure that I have a stable internet connection and that my computer is connected to the company network. I will also ensure that there is no confidential information on my screen before sharing my screen with the IT team member.
+
+Please confirm that the session will be secure. I am very concerned about the security of my system and the company's data, and I want to ensure that no confidential information is compromised during the session.
+Social Engineer: We take security and confidentiality seriously and would like to assure you that the remote session will be secure. We will utilize a secure and reliable remote connection to access your computer and perform the update. 
+
+Moreover, all of our IT support team members are bound by company policies and agreements that uphold confidentiality and prohibit the sharing of any confidential information.
+
+Additionally, we recommend that you close all your other applications before the session to avoid accidentally sharing any confidential information during the screen share.
+
+If you have any further questions or security concerns, please do not hesitate to let us know.

@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining strong security measures. Before I provide my password, can you please confirm your identity by providing me with your name and employee ID number?
+Social Engineer: Of course, my name is Bob and my employee ID number is 12345. Can you please provide your password so we can proceed with the system update?
+Target Victim: Thank you for providing me with your name and employee ID number, Bob. However, I cannot provide my password over chat as it is against our company's security policies to share passwords over any communication channel. 
+
+If you need me to reset my password or perform any other action that requires my credentials, we can do that over a secure channel and following the procedure outlined in our company's information assurance training.
+Social Engineer: I completely understand, and I appreciate your commitment to the company's security policies. In that case, can you please provide me with a temporary password that you'll reset after the update is applied? This is because the system doesn't allow multiple concurrent password resets.
+Target Victim: I understand the need to apply the critical system update and that multiple concurrent password resets are not allowed. To provide you a temporary password, please follow the established password reset procedure that can guarantee confidentiality and integrity of our sensitive and personal data. 
+
+First, I will access our employee portal and go to the password reset page. After verifying my identity through the multi-factor authentication process, I will reset my password. I will then provide you with the temporary password while you stay on the chat client so that we can immediately reset it to a new, strong and complex password. Is that okay?
+Social Engineer: That sounds like an excellent procedure to follow. Thank you for your cooperation and understanding. Please let me know when you're ready to provide me with the temporary password, and we can proceed with the system update.
+Target Victim: Thank you for your understanding as well. I have followed the established password reset procedure and have generated a temporary password. 
+
+Please note that this temporary password is only valid for this one-time use and should not be used to authenticate or authorize access to any system beyond the scope of the critical system update. 
+
+Temporary Password: T3mpP@ssw0rd
+
+Please let me know when you're ready to proceed with the system update, and we can immediately reset the password to a new, strong one.

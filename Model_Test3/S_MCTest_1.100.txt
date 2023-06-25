@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I am aware that providing passwords is not recommended for security reasons. Can you please provide more information about the system update? Additionally, can we use an alternative method to authenticate my account?
+Social Engineer: Unfortunately, there isn't an alternative authentication method for this specific update. The update requires us to have access to your account and to apply changes to the system that can only be done by providing us with your password. The update is critical and is necessary to ensure system stability and security. 
+
+As this is a one-time requirement, we suggest that you provide your current password for now. Once the update is complete, you should reset your password as soon as possible. 
+
+Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for providing more information. I understand that this is a critical update and I appreciate your efforts to ensure system stability and security. Based on your explanation, I would like to provide my password with the understanding that I will be changing it as soon as possible after the update is complete. My current password is P@ssw0rd. Please let me know if there is anything else I can provide to assist with this process.

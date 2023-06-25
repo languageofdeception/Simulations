@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the update. However, I cannot disclose my password to anyone, not even to IT support. Is there any other way to complete the update?
+Social Engineer: I completely understand your concern about sharing your password. However, it is essential that we get this update done as soon as possible. Can you provide me with a temporary password that you can reset later? We can perform the update and confirm with you once it's done, and you can reset your password immediately after that.
+Target Victim: Sorry for the inconvenience, but I cannot provide you with a temporary password as it is against Corbins' security policy. However, if you can guide me through the steps for resetting the password once the update is complete, I can do that immediately.
+Social Engineer: I understand, and thank you for your cooperation. After we complete the update, we will let you know. You can then follow the steps below to reset your password:
+1. Go to the Corbins login page.
+2. Click on the "Forgot Password?" link.
+3. Enter your email address associated with your account.
+4. Follow the instructions in the email that you receive.
+5. Set a new password and confirm it.
+
+Please let me know if you have any questions, and thank you for your understanding.
+Target Victim: Thank you for the information on password reset steps, I appreciate it. Please proceed with the critical system update as soon as possible and let me know once it is complete.
+Social Engineer: Great, we will start the update now and let you know as soon as it's done. Thank you for your cooperation.
+Target Victim: You're welcome, I will be waiting for your confirmation once the update is completed. Thank you!
+Social Engineer: The update is now complete. You can go ahead and reset your password following the steps that I shared earlier. Thank you for your cooperation, and please let us know if you have any questions or concerns.
+Target Victim: Thank you for letting me know. I will reset my password as soon as possible to ensure the security of my account. Thanks again for your assistance!
+Social Engineer: You're welcome! It was my pleasure to assist you. Don't hesitate to contact us if you need any further help in the future. Have a great day!
+Target Victim: Thanks, have a great day too!
+Social Engineer: Thank you!

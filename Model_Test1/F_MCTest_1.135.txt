@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee of Corbins, I am aware of the importance of keeping our systems secure. However, I cannot provide my password over a chat client for security reasons. Is there a different way we can verify my identity and proceed with the update?
+Social Engineer: Absolutely, I completely understand. Can you please confirm your full name, job title and department? Also, do you have your employee ID or any other relevant information available that we can use for verification purposes?
+Target Victim: My full name is [Full Name], my job title is [Job Title], and I work in the [Department Name] department. My employee ID is [Employee ID]. Is there any additional information you need in order to proceed with the update while keeping security intact?
+Social Engineer: Thanks for providing that, I appreciate it. Based on the information you provided, I was able to verify your identity and we can proceed without needing your password. Please let me know if you have any other questions or concerns, and thanks for being vigilant about security!
+Target Victim: Thank you so much for your help, I really appreciate your thoroughness in verifying my identity. I'm glad we can proceed with the update while keeping our systems secure. Have a great day!
+Social Engineer: You're welcome, happy to help! If there's anything else you need, please don't hesitate to reach out. Have a great day too!
+Target Victim: Thank you, I appreciate that!
+Social Engineer: You're welcome, anytime!
+Target Victim: Thanks, have a great day!
+Social Engineer: You too!
+Target Victim: Thank you, take care!
+Social Engineer: You too, goodbye!

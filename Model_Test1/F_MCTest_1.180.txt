@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I can't disclose my password to anyone, including IT support. Is there any other way I can assist you with the critical system update?
+Social Engineer: Thank you for understanding. Unfortunately, we do require your password to complete the update. However, if you would like to reset your password, we can assist you with that process. Please let us know if you would like to proceed with a password reset.
+Target Victim: Thank you for understanding. I would like to proceed with a password reset.
+Social Engineer: Great! I have just sent you an email with instructions on how to reset your password. Please follow the steps in the email and let us know if you encounter any issues. Once you have reset your password, please provide us with the new password to proceed with the critical system update. Thank you for your cooperation!
+Target Victim: Thank you for your prompt assistance. I have received the email and will follow the instructions to reset my password. Once I have reset my password, I will provide you with the new password to proceed with the critical system update. Thank you!
+Social Engineer: You're welcome! Please let us know if you need any assistance with resetting your password. We will be waiting for your new password to proceed with the critical system update. Thank you for your cooperation!
+Target Victim: I have successfully reset my password. My new password is: N3wPa33woRD. Please let me know if you need any further information.
+Social Engineer: Thank you for providing your new password. We will use it to proceed with the critical system update. Please log out and log back in with your new password when prompted. If you encounter any issues, please don't hesitate to contact us. Thanks again for your cooperation.
+Target Victim: Thank you for your assistance. I will log out and log back in with my new password as soon as possible. If I encounter any issues, I will be sure to contact you.
+Social Engineer: You're welcome! Please don't hesitate to reach out if you need any further assistance. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you! Goodbye!

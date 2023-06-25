@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thanks for reaching out. For security reasons, I cannot provide my password over chat. Is there any other way we can perform the critical system update?
+Social Engineer: Of course, we completely understand your concern. Would it be possible for you to provide us with remote access so we can perform the update without you needing to share your password?
+Target Victim: Yes, granting remote access seems reasonable. Can you please provide me with the necessary steps to grant access?
+Social Engineer: Sure, please follow the steps below to grant us remote access:
+
+1. Go to our company's website and download the remote access software.
+2. Install the software on your computer.
+3. Share the software's ID and password with us so we can access your system remotely.
+
+Thank you for your cooperation.
+Target Victim: Thank you, I will follow these steps immediately.
+Social Engineer: You're welcome. If you encounter any issues during the process, feel free to let us know. We'll be happy to assist you.
+Target Victim: Appreciate your kind help. I will let you know if there are any issues.
+Social Engineer: Not a problem at all. We're always here to help in any way we can. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!

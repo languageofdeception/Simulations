@@ -1,0 +1,39 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security measures, however, could you please confirm some details regarding the system update before providing my password for security purposes? Thank you.
+Social Engineer: Certainly, we are performing a security patch to address some vulnerabilities in our system. The update can only be applied with administrator-level access. Thank you for your help.
+Target Victim: Thank you for the clarification. To confirm my identity, can I ask for some information regarding this IT update, such as its purpose, timeline, and any other relevant details? 
+
+Also, I understand how vital system security is. Rather than providing my password, would it be possible for me to change it, then provide you with the updated password for you to carry out the necessary administration task?
+Social Engineer: Sure, the purpose of this update is to address some security vulnerabilities in our system that were identified in the latest vulnerability assessment. The update's timeline is expected to be completed within the next few hours.
+
+Regarding your password, we advise against giving out the password over chat. Changing your password first, then forwarding it to us is a great idea. After changing your password, please send it to us securely for us to complete the necessary administration tasks. Thank you for your caution in keeping our systems safe.
+Target Victim: Thank you for understanding my concerns. Before I change the password, could you please provide me with a secure method to send the updated password to you? 
+
+In the meantime, I will proceed to change my password and ensure that it meets the company's password policy requirements.
+Social Engineer: Certainly, our company uses a secure file-sharing platform that we can provide you with access to. This way, you can securely upload the new password. Alternatively, we can provide you with a unique encryption key to share your password safely. 
+
+Please let us know which method works best for you, and we will provide you with the necessary details to proceed securely. Thank you for your diligence in keeping our company's data safe.
+Target Victim: Thank you for providing me with those options. Given the sensitivity of the information I am sharing, could you please provide me with access to your secure file-sharing platform? 
+
+I will upload my updated password onto the platform as soon as possible to allow you to complete the necessary administration tasks. Thank you again for understanding my concerns and making security a top priority.
+Social Engineer: Certainly, we will provide you with access to the secure file-sharing platform. I will send you an email shortly with the necessary instructions you will need to access the platform and upload your updated password securely. 
+
+Thank you for taking the necessary precautions to ensure the safety of our company's data. Once we receive your updated password, we will promptly complete the necessary administration task and inform you after completion.
+Target Victim: Thank you so much for your assistance. I will keep a close eye out for your email and will act accordingly. Please let me know if there are any other details or security requirements that I need to be aware of to support the IT update process. 
+
+Thank you again for your help and have a great day.
+Social Engineer: You are welcome! The instructions in the email we are sending you list out all the information you need to know to upload your updated password securely. 
+
+If there are any other security details you need to know, we will be sure to let you know promptly. 
+
+Thank you for your cooperation and have a great day, too!
+Target Victim: Great, I got the instructions and will proceed with the necessary steps to upload my updated password securely. 
+
+Thank you for your assistance and for ensuring that our company's data remains safe and secure. Looking forward to hearing back from you once the administration task is complete. Have a great day!
+Social Engineer: Excellent, thank you for acting promptly and uploading your updated password securely. 
+
+We take data security very seriously, and we want to make sure that we follow the correct security protocols to keep our company's data safe.
+
+We will notify you as soon as possible after the administration task is complete. Thank you, and have a great day!

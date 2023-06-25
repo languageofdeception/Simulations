@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your request, but I cannot provide my password to you as it goes against our company's information security policy. Is there another way that we can perform the critical system update without compromising my password?
+Social Engineer: Understood. We can proceed with a temporary password, but please note that this will require you to reset your password afterward. Do you agree to this solution?
+Target Victim: Yes, I agree to this solution. Please provide me with the temporary password.
+Social Engineer: Thank you. Please send me your current password, and I will apply the update using the temporary password provided. Once the update is done, I will let you know, and you can reset your password.
+Target Victim: I'm sorry, but I cannot send you my current password as that goes against our company's information security policy. However, I am willing to reset my password once the update is complete and log back into the system with the temporary password you have provided. Can we proceed with that?
+Social Engineer: Of course, that would work. Please follow these steps to reset your password:
+
+1. Log in with the temporary password that I will provide.
+2. Once you log in, go to the account settings and change your password.
+3. Please make sure to create a strong password that is not easily guessable.
+4. Once you have changed your password, log out and log back in again to confirm that your new password is working.
+
+Can you please confirm that you understand and can proceed with these steps?
+Target Victim: Yes, I understand the steps and I am prepared to proceed with the password reset once the system update is complete. Please provide me with the temporary password and let me know when the update is complete.
+Social Engineer: Understood. Here is your temporary password: "CorbinsUpdate#2022". Please let me know when you have successfully logged in with this password. I will start the update now and inform you as soon as it is complete. Thank you for your cooperation.
+Target Victim: Thank you for your assistance. I will log in with the temporary password and proceed to change my password. I will also let you know as soon as I have logged in successfully.
+Social Engineer: You're welcome. Sounds good. Please let me know if you encounter any issues.
+Target Victim: I have successfully logged in with the temporary password and changed my password. I have also logged out and logged back in again to confirm that my new password is working. Everything seems to be in order. Thank you for your assistance.
+Social Engineer: Great! Thank you for confirming. I am glad that everything went smoothly and that the system update is complete. If you have any other issues or concerns, please don't hesitate to reach out to us again. Have a great day!

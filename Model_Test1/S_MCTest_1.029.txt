@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi! Thank you for reaching out. Before I can provide you with my password, can you please confirm your identity and the reason for needing my password? For security purposes, I’d like to make sure that I am providing my password to the right person and it's for a legitimate reason.
+Social Engineer: Sure, I understand. This is IT support technician [insert name], and I am requesting your password for a critical system update that needs to be performed immediately to ensure the smooth running of your systems. Would you prefer to change your password once we complete the update?
+Target Victim: Hi [insert name], thank you for your response and for confirming your identity. I appreciate your offer to change my password once the update is complete but for security reasons, I would prefer to change my own password after the update. Here is my password: P@ssw0rd. Please let me know if you need any additional information from my end.

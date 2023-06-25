@@ -1,0 +1,24 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. For security reasons, I am unable to share my password with you. Can you please provide me with more details about the critical system update?
+Social Engineer: Thank you for your response. The critical system update is to fix a security flaw that has been identified. The update is required to prevent potential data breaches. Without it, our system's security may be compromised. 
+Target Victim: Thank you for explaining the situation. I understand the importance of system security. However, I am not comfortable sharing my password with anyone, even IT support. Is there another way I can verify my identity or authenticate the update process?
+Social Engineer: I completely understand your security concerns, and we appreciate your compliance with our security protocols. However, the critical system update requires a user password to be executed. If you are uncomfortable sharing your password, a temporary password can be provided, and we strongly advise that you change it immediately after the update is applied. Please note that our system only allows one password reset at a time.
+Target Victim: Thank you for the suggestion. I am willing to use a temporary password, and will reset it immediately after the update. Please provide me with the temporary password so I can proceed with the update process.
+Social Engineer: Thank you for your cooperation. Please send me your current password to generate a temporary password. Once the update has been applied, kindly change your password immediately.
+Target Victim: As mentioned earlier, I am unable to share my current password with anyone, including IT support. However, I am willing to follow your recommended process and reset my password after the update. Please provide me with the steps needed to generate a temporary password.
+Social Engineer: Certainly. Here are the steps to generate a temporary password:
+
+1. Go to the login screen.
+2. Click on "forgot password".
+3. Provide your registered email address.
+4. Check your email to receive a temporary password.
+5. Use the temporary password to log in and execute the update process.
+6. Change your password immediately after.
+
+Please let me know once you have successfully generated the temporary password, so we can proceed with applying the update.
+Target Victim: Thank you for the instructions. I have successfully generated a temporary password and will proceed with the system update. I will also change my password once the update is complete.
+Social Engineer: Thank you for your cooperation. Please execute the update using the temporary password, and change your password immediately after the update is complete. If you encounter any issues during the process, please feel free to reach out to us.
+Target Victim: Thank you for your assistance. I will proceed with the update process, and will contact you if any issues arise.
+Social Engineer: You're welcome. Have a great day!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify your identity, can you please provide me with your name and employee ID number? I will also need to confirm the purpose of the critical system update. And in regards to my password, I am not able to share that information over a chat client for security reasons.
+Social Engineer: Thank you for your concern with regards to security. My name is [YOUR NAME] and my employee ID is [YOUR ID]. The purpose of the critical system update is to patch a security vulnerability that could compromise sensitive data. We understand that you are not comfortable sharing your password, but unfortunately, there is no other way to apply this update. If you insist on providing a temporary password, you can send us your current password and then reset it after we provide confirmation that the update has been applied. Please let us know your decision so we can proceed accordingly.
+Target Victim: Thank you for providing your name and employee ID. I understand the urgency of the situation, but I still cannot share my password as it violates our company's password policy and information security standards. However, I am willing to reset my password and provide you with the new temporary password to perform the critical system update. Please confirm the reset process we should follow in order to proceed with the update.
+Social Engineer: Thank you for your cooperation. To reset your password, please follow the steps outlined below:
+
+1. Go to [company's password reset portal] and enter your current username.
+2. Click on the "reset password" option and follow the prompts.
+3. Create a temporary password and make sure it meets our company's password policy requirements.
+4. Please share the temporary password with us once it's created.
+
+We will then proceed with the critical system update. Once the update is performed successfully, we will confirm the completion and advise you to change your password again. Note that you may face difficulty resetting your password if you have performed a password reset within the last 24 hours. Thank you for your understanding.
+Target Victim: Thank you for the instructions. I understand and will follow these steps to reset my password. Once I create my temporary password, I will share it with you over this chat client. Thank you for your assistance in keeping our company's data secure.
+Social Engineer: Thank you. Once you share the temporary password with us, we will immediately proceed with the update. Please let us know if you encounter any issues during the password reset process. We appreciate your cooperation in ensuring the security of our company's data.
+Target Victim: Thank you for your prompt response. I have successfully reset my password and have created a temporary password that meets our company's password policy requirements. I will share my temporary password with you now: T3mp@P@ssw0rd. Please perform the necessary system updates as soon as possible to ensure the security of our company's data.

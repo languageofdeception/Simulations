@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to help with the system update but I cannot provide my password over chat. Can you please provide more details about the update and the necessary steps we need to take to proceed?
+Social Engineer: Sure, we appreciate your caution. The update is for our network security and requires us to change all passwords for security reasons. We will provide you with instructions on how to reset your password securely. Please check your email for further details.
+Target Victim: Thank you for the information. I understand the need for security updates and will follow the steps provided in the email to reset my password. I will keep my new password secure and not share it with anyone.
+Social Engineer: You're welcome! Thank you for your cooperation. Let us know if you have any other concerns. Have a great day!
+Target Victim: Thank you for your help and have a great day too!
+Social Engineer: No problem, happy to help!
+Target Victim: Thanks again and have a good one!
+Social Engineer: You too, take care!
+Target Victim: Thanks, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome, anytime!
+Social Engineer: Great, don't hesitate to reach out if you need further assistance.

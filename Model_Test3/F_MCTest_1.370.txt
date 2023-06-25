@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, I cannot provide my password over a chat client. Is there an alternate method we can use to perform the system update?
+Social Engineer: I understand your concern, but unfortunately, we require your password to apply the update. However, if you prefer, you can provide a temporary password, which you can reset immediately after we confirm that the update has been completed. Please let me know your preference.
+Target Victim: Thank you for understanding my concern. However, giving out my password, even a temporary one, would violate our security policy. Is it possible to perform the update with a technician present physically to perform it, or perhaps remotely with secure access to my computer?
+Social Engineer: We do not have technicians available to come on-site. However, we can set up a remote session with you, and our technician can perform the upgrade while you are present on the call and able to observe everything being done. Would that be acceptable? We assure you that our remote session will be completely secure and encrypted.
+Target Victim: Yes, that sounds like an acceptable solution. Please let me know what steps I need to take to initiate the remote session.
+Social Engineer: Great! To initiate the remote session, please follow these steps:
+
+1. Visit the website https://www.teamviewer.com/en/
+2. Download and install the TeamViewer software.
+3. Once installed, open the TeamViewer application.
+4. Provide me with your TeamViewer ID and password so that I can securely access your system and perform the update.
+
+Let me know when you ready to proceed, and I will provide further instructions.
+Target Victim: Thank you for your assistance. I will install the TeamViewer software and provide you with the details once done.
+Social Engineer: You're welcome! Let me know once the installation is complete, and we can proceed with the upgrade.
+Target Victim: The TeamViewer installation is complete, and my ID and password are [ID: XXXXXX, Password: XXXXXX]. Please let me know once you have securely accessed my system, and we can proceed with the upgrade.
+Social Engineer: Great, thank you for providing the details. I have successfully accessed your system through TeamViewer. I will now proceed with the system update, which should take approximately 15 minutes to complete. Please let me know if you have any questions or concerns during the upgrade.
+Target Victim: Thank you for letting me know. I will be monitoring the upgrade process and let you know if I have any questions or concerns.
+Social Engineer: Great, sounds good! I will provide updates on the progress of the update throughout the process.

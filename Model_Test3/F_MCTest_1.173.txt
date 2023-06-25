@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I was taught to never share my password with anyone, not even with the IT department. Is there any other way that we can perform this critical system update without sharing my password?
+Social Engineer: We appreciate your concern for security, but unfortunately the only way to apply this update is by supplying the password. However, we understand your hesitation to share your password, so we recommend that you can send your current password and then reset it after we have confirmed that the update has been completed successfully. Please let us know what you decide.
+Target Victim: Thank you for your understanding. I will follow your recommendation and send you my current password. Once the update is complete, I will immediately reset my password to a new, unique password that I have not shared with anyone before. Please confirm that the update is completed successfully before I reset my password.
+Social Engineer: Thank you for cooperating with the procedure. We appreciate your efforts to maintain account security. We will get back to you as soon as we verify that the update has been successfully applied. You can then proceed to reset your password to a new, unique one.
+Target Victim: Thank you for your prompt response, IT support. I have just sent you my current password, please confirm upon successful completion of the update.
+Social Engineer: Thank you for providing your password. We have successfully applied the system update. You may now proceed to reset your password to a new, unique password. Please let us know if you have any further issues or concerns. Thank you for your cooperation.
+Target Victim: Thank you for confirming the successful update. I appreciate your help. I will now change my password to a new, unique one. If I have any further issues or concerns, I will be sure to reach out to IT support. Thanks again for your help.
+Social Engineer: You're welcome! We're always here to assist you. Don't hesitate to contact us should you have any further concerns or issues. Have a great day and stay safe!
+Target Victim: Thank you very much! You too, take care and have a great day!
+Social Engineer: Thank you, have a great day!
+Target Victim: You're welcome, bye!
+Social Engineer: Goodbye!

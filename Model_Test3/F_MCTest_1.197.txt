@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As an employee of Corbins, I understand the importance of maintaining information security. For verification purposes, can you please provide me with your name and/or employee identification number? I will then contact our internal IT department to confirm this request and follow the proper procedures.
+Social Engineer: Of course, my name is John and my employee ID is 12345. We need your password to apply a critical system update that is required for security reasons. If you prefer, you can provide us with a temporary password and reset it after you receive confirmation that the update has been successfully applied. Thank you for your cooperation.
+Target Victim: Thank you, John, for providing your information. However, I cannot provide you with my password as per Corbins' information assurance policy. Can you please provide me with more details about this critical system update and what it involves? Also, can you confirm if this request is authorized by our internal IT department?
+Social Engineer: I understand your concern about the information security policy. However, due to the nature of this update, we must have your password to complete it. This update involves a critical security patch that needs to be installed on all systems to ensure data protection. Yes, this request is authorized by our internal IT department, and they are aware of the update. Let me know if you have any other concerns, and I will try to address them.
+Target Victim: I appreciate the update and your efforts to keep our systems secure. However, can you please tell me what steps you will take to protect my password during this update process? Also, can you provide me with a timeframe for when the update will be completed?
+Social Engineer: Thanks for asking. We take data privacy seriously, and we will treat your password as confidential information. We will use it only to access the system for the purpose of applying the critical update, and we will not share it with anyone else. As soon as the update is complete, we will notify you that it is safe to reset your password, and I strongly recommend that you do so. The estimated time for the update is around 30 minutes, depending on various factors. Let me know if you have any other questions or concerns.
+Target Victim: Thank you, John, for providing this information. I understand the importance of this update, and I would like to confirm that I authorize you to use my password to apply the critical system update. Please make sure to notify me as soon as the update is complete, so that I can reset my password as soon as possible. 
+
+Please note that I will change my password immediately after you have confirmed the update has been successfully applied.
+Social Engineer: Thank you for your cooperation. We appreciate your prompt response. Once the update is complete, we will send you a confirmation notification, and then you may proceed to reset your password. Let me know if you need any further assistance.
+Target Victim: Thank you, John. I appreciate your help and support in keeping our system secure. I will stay alert for the confirmation message and immediately reset my password upon receipt. Have a great day!
+Social Engineer: You're welcome. We're happy to assist you. If you need any further assistance, please don't hesitate to contact us. Have a great day as well!
+Target Victim: Thank you, John!
+Social Engineer: You're welcome!

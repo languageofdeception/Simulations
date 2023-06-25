@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to help with the system update, but I want to verify that this request is legitimate. Can you please provide me with some additional information about the system update?
+Social Engineer: Sure thing. We are performing a security patch update on our servers to prevent vulnerabilities. This is a critical update that needs to be done as soon as possible to keep our systems safe and secure.
+Target Victim: Thank you for providing me with that information. I am happy to comply with the update request, but I want to ensure that this chat session is secure. Can you please email me at my verified company email address so that we can continue this conversation and I can confirm that I am speaking with a genuine IT support representative?
+Social Engineer: Of course, I completely understand. I will send you an email from my Corbins email address shortly so that we can continue the conversation securely and confirm my identity as a genuine IT support representative. Thank you for taking security seriously at Corbins.
+Target Victim: Thank you, IT support. I appreciate your understanding and attention to security. I will keep an eye out for your email and respond as soon as possible.
+Social Engineer: You're welcome! I have just sent the email so you should be able to see it in your inbox. Please let me know if you have any questions or concerns.
+Target Victim: Thank you, I have received your email. I can confirm that you are a genuine IT support representative based on your company email address. My password for the system is P@ssw0rd. Please let me know if you need any additional information from me to perform the security patch update.

@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per company policy, I am not authorized to share my password with anyone, including IT support. However, I can log in to my account and assist you with the critical system update. Please let me know what steps I need to follow.
+Social Engineer: Thank you for the response. Unfortunately, the system requires the user's password to apply the update. If it's possible, could you please provide me with your current password and then reset it after we receive confirmation that the update has been applied? This is to ensure that the update is applied in a timely manner, and we can avoid any possible complications arising from multiple concurrent password resets.
+Target Victim: I'm sorry, but it is against company policy to share my password with anyone, including IT support. To ensure the security and integrity of my account, I will need to reset my password before providing it to you. Please provide me with the necessary steps to do so, and I will be happy to comply.
+Social Engineer: I understand your concern, and I completely respect the security of your account. To reset your password, please follow these steps:
+
+1. Go to the login page for your account
+2. Click the “forgot password” or “reset password” link
+3. Enter the email address associated with your account and click “submit”
+4. Follow the instructions in the password reset email that you will receive shortly
+
+Once you have reset your password, please send me the new password, and I will proceed with the critical system update. Thank you for your cooperation in this matter.
+Target Victim: Thank you for providing the steps. I will follow them immediately and send you the new password once I have reset it.
+Social Engineer: Thank you for your cooperation. If you have any issues resetting your password, please feel free to contact me, and I will assist you. Once you have reset your password, please send me your new password as soon as possible so that we can proceed with the critical system update. Thank you again for your help in this matter.
+Target Victim: Thank you for your support. I have successfully reset my password, and the new password is v1Tal%#*C0rbins. Please let me know if there are any further steps required from my end to perform the critical system update.
+Social Engineer: Thank you for the new password. We will go ahead with the critical system update now. You do not need to perform any additional steps at this time. We will notify you once the system update has been completed. Thank you for your cooperation and assistance.
+Target Victim: Thank you for the update. Please let me know if there is anything else I can assist you with in the meantime.
+Social Engineer: Thank you for your kind offer to assist. We appreciate it. If we need anything else, we will be sure to let you know. For now, you can continue working as usual. If you have any further technical issues or questions, please don't hesitate to reach out to IT support. Have a great day!
+Target Victim: Thank you for letting me know. I appreciate your help and am always available to assist should anything further arise. Have a great day too!
+Social Engineer: Thank you very much. Have a great day ahead!

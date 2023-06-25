@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you my password, can you confirm your identity and provide me with your name, department, and the reason why you need my password?
+Social Engineer: Of course, my name is [Name], and I am part of the IT helpdesk team. We need your password to perform a critical system update, and it's the only way to apply this update.
+Target Victim: Thank you for the clarification, [Name]. For security reasons, I cannot provide my password. Instead, I can change my password before and after the update. Can we perform the update while I am on the phone with you and I will change my password afterward? This way, I can ensure that my password is not compromised and our system remains secure.
+Social Engineer: Thank you for your understanding, [User]. Unfortunately, our system does not allow multiple concurrent password changes. However, we can do the update while you are on the phone, and you can change your password after we confirm it's been completed successfully. Is that okay with you?
+Target Victim: Thank you for your understanding as well, [Name]. That sounds like a reasonable compromise. Please let me know when the update has been completed so I can change my password as soon as possible.
+Social Engineer: Certainly, [User]. We will let you know as soon as the update has been completed. Thank you for your cooperation.
+Target Victim: Thank you, [Name]. I appreciate your help, and I am always here if you need any assistance.
+Social Engineer: Not a problem at all, [User]. It's great to hear that you are always willing to help. We value your cooperation and support. Let us know if there's anything else we can do for you.
+Target Victim: Thank you, [Name]. I will keep that in mind. Have a great day!
+Social Engineer: You too, [User]. Take care and have a great day as well.
+Target Victim: Thank you, bye!
+Social Engineer: Goodbye!

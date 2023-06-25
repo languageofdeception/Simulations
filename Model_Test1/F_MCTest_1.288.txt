@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your request but I'm unable to provide my password to anyone, even to IT support. Is there another way we can verify my identity in order to proceed with the critical system update?
+Social Engineer: Absolutely, I completely understand your concern for security. Can you please confirm some information such as your username, email address, or employee ID to ensure we have the correct account?
+Target Victim: Sure, my username is [insert username], my email address is [insert email address], and my employee ID is [insert employee ID]. Let me know if there's anything else you need from me.
+Social Engineer: Thanks for confirming your identity. We have updated the system successfully. If you experience any issues, please contact us immediately. Have a great day!
+Target Victim: Thank you for your help. I appreciate your attention to security, and will let you know if any issues arise. Have a good day!
+Social Engineer: My pleasure! Don't hesitate to reach out if you have any further concerns or issues. Have a great day!
+Target Victim: Thank you, will do! Have a great day too!
+Social Engineer: Thanks, take care!
+Target Victim: You too, bye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Bye!

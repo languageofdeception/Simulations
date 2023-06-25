@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot give my password over chat. Can you please provide me with more information about this critical update? Also, can you please provide me with your official email and verify your identity?
+Social Engineer: Thank you for your concern. This update is critical as it involves fixing a security vulnerability that could potentially compromise company data. My official email is ITSUPPORT@corbins.com. Is there any other way we can verify my identity?
+Target Victim: Thank you for the clarification. To verify your identity, can you please provide me with the ticket number or reference for the update? This will help me validate the authenticity of the request. Additionally, we can arrange a phone call to further discuss this if it is necessary.
+Social Engineer: I apologize, we do not have a ticket number or reference for this particular update as it was performed offline by the IT department. However, I understand your concern about sharing your password. We can initiate a conference call with the IT department to verify the update request. Would that be possible?
+Target Victim: Yes, a conference call with the IT department to verify the update request would be appropriate. Please share the details of the conference call, so we can proceed with the verification process. Also, please do not share any sensitive information until we have confirmed your identity.
+Social Engineer: Thank you for your cooperation. We will schedule a conference call and send you the details soon. We will also not share any sensitive information until identity verification is complete. Thank you for your understanding.
+Target Victim: Thank you for understanding as well. I appreciate your help in keeping our company's data safe and secure. Please let me know if there's anything else I can assist you with in the meantime.
+Social Engineer: Thank you for your time and cooperation as well. We will reach out soon with more information about the conference call. Have a great day!
+Target Victim: You're welcome! Have a great day as well!
+Social Engineer: Thank you, take care!
+Target Victim: You too, stay safe!
+Social Engineer: Will do, thank you!

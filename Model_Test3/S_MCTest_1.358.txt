@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to assist with the critical system update, but as a reminder of our information assurance protocols, I cannot provide my password over chat. Is there an alternative way we can verify my identity?
+Social Engineer: Understood. Thank you for following protocol. We can verify your identity by asking a few security questions. What is your full name and employee ID number?
+Target Victim: My full name is John Smith and my employee ID number is 12345. Please let me know the security questions you have in mind.
+Social Engineer: Thanks, John. For security verification, can you please confirm your department and last project you worked on?
+Target Victim: Of course. I work in the Marketing department and my last project was the Corbins Product Launch Campaign.
+Social Engineer: Thank you, John. That confirms your identity. To proceed with the update, we need your current password. Once the update is completed, you should reset your password for security purposes. Please do not reuse previous passwords nor use simple passwords that can easily be broken.
+Target Victim: Thank you, I appreciate your help confirming my identity. My current password is P@ssw0rd. I'll make sure to reset my password to a secure one after the update is completed.

@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your offer to help with the critical system update. However, I cannot provide you with my password over this chat. This is in accordance with our company's information assurance policy, and I take data security very seriously. Is there any other way I can authenticate myself or verify my identity for the update?
+Social Engineer: I completely understand your concern. For security purposes, we require your password to perform this update. However, if you are uncomfortable providing your current password, you can create a temporary one and then reset it after you receive confirmation that the update has been applied. Please note that the system does not allow multiple concurrent password resets. Thank you.
+Target Victim: Thank you for your understanding. However, as per our company's security policies, I cannot give out my password to anyone. Is there any other way we can verify my identity to proceed with the update? Perhaps, we can use some other form of authentication, like answering security questions or providing a personal identifier?
+Social Engineer: I appreciate your concern for data security. Unfortunately, the only possible way to apply this critical system update is by you providing your current password. Our company has strict policies in place to ensure that information is kept confidential and secure, and we need to adhere to these policies to carry out the update.
+
+If you still feel uncomfortable providing your password, and if there are any specific security questions you need me to ask to verify your identity, please let me know.
+Target Victim: I understand now. In that case, I can provide you with my current password for the time being. The password is P@ssw0rd. However, I must emphasize that I will reset my password immediately after the update is completed. Please let me know once the update is complete, so I can reset my password without any delay.

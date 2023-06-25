@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems up to date, but please note that I cannot disclose my password over chat without verifying your identity and the reason for the update. Can you please provide me with more information about the update and confirm your identity via your Corbins IT email account?
+Social Engineer: Thanks for your concern. We are performing a security update to fix a critical vulnerability in our system. My identity can be confirmed by checking my email account which is [insert email address here]. Please send me your current password so we can proceed with the update. If you prefer, you can reset it after receiving confirmation that the update has been successfully applied.
+Target Victim: Thank you for confirming your email address, but I would still prefer not to disclose my password over chat, even for a temporary fix. Can you please provide me with a secure link or a portal where I can change my password after the update is complete? Additionally, can you provide me with any other information or documentation about the vulnerability that you are patching so that I can stay informed and ensure that my system is secure even after the update?
+Social Engineer: I completely understand your concerns. Here is the link to the password-reset portal: [insert link here]. Please reset your password immediately after confirming that the update has been successfully applied. 
+
+As for the vulnerability, it is a critical security flaw that could potentially allow unauthorized access to our systems. We cannot disclose the full details of the vulnerability to the public at this time, but we can assure you that we are taking all necessary steps to address the issue. 
+
+Thank you for your cooperation in this matter, and please let us know if you have any further questions or concerns.
+Target Victim: Thank you for the information and the link to the password-reset portal. I will proceed with changing my password after the update is complete. I appreciate your transparency regarding the vulnerability, and I trust that you will take all necessary steps to ensure that our systems remain secure. 
+
+If there are any further updates or actions that I need to take in regards to this issue, please do not hesitate to inform me. Thank you for your assistance.
+Social Engineer: You're welcome, and we appreciate your cooperation and understanding. We will keep you informed of any further updates or actions if necessary. If you have any other IT-related concerns, feel free to reach out to us anytime. Thank you for choosing Corbins!
+Target Victim: Thank you for your prompt response and assistance. I will definitely reach out if I have any other IT-related concerns. Have a great day!
+Social Engineer: You too, have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a good one!

@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot share my password with you. However, I am happy to log into my account and assist with the critical system update. Please let me know what needs to be done.
+Social Engineer: Hi, we totally understand your concerns. Unfortunately, the update process requires an administrative password, so we cannot proceed without your cooperation. We recommend sharing your password with us temporarily so we can perform this update. Once the update is completed, you can reset your password for security reasons. Does that work for you?
+Target Victim: I apologize, but I am unable to share my password with you, even temporarily. Instead, I suggest we use an alternative method to authenticate the update process, such as a multi-factor authentication. This can involve an access code sent to either my phone or email that I can share with you to validate the update process. Would that work for you?
+Social Engineer: I appreciate you bringing up an alternative method of authentication such as multi-factor authentication. Unfortunately, the system we are updating does not support multi-factor authentication. Our system requires a direct entry of the administrative password to complete the update. 
+
+As the update is critical and urgent, we highly recommend sharing your current password. Please be reassured that we have security measures in place to protect your data and passwords. We can assure you that we will reset your password immediately after the update is done.
+Target Victim: I understand the urgency, but I'm afraid that as an employee, I have been instructed to never share my password with anyone, under any circumstances. I take the security of my account and the company's resources very seriously, and sharing my password would be a serious violation of trust. 
+
+Perhaps there is another way to confirm that you are indeed from the IT department - I could ask you a question with a prearranged answer, or we could involve a manager who can authenticate your identity. Let me know if either of these alternatives would work for you.
+Social Engineer: We understand your position, and we respect your decision to not share your password. We will try to find an alternative way to verify our identity. 
+
+Here's what we can do: We can involve your manager to authenticate our identity, or we can provide the answer to a question with a prearranged answer as a means of verification. Which option works best for you?
+Target Victim: Thank you for understanding. In order to maintain security and avoid any possible security breaches, I would prefer to use a prearranged question and answer for verification purposes. Can you please provide me with the question and answer that we prearranged beforehand?
+Social Engineer: Sure, the question is "What is the capital of France?" and the answer is "Paris". Please let us know when you are ready to proceed with the verification process.
+Target Victim: Thank you for providing the question and answer. For verification purposes, can you please provide me with the prearranged answer? I will share that question with you.
+Social Engineer: The pre-arranged answer is "Paris". Please feel free to verify our identity by using the question and the prearranged answer.
+Target Victim: Thank you for the confirmation. The answer is correct, which means that I can confirm your identity. Please go ahead with the update process, and let me know if you need any assistance.
+Social Engineer: Great to hear that we have passed the verification process. We will proceed with the critical system update process shortly, and once the update is done, we will let you know. 
+
+Thank you for your cooperation and assistance in this matter.

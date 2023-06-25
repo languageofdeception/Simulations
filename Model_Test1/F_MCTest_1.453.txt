@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can verify my identity but I cannot provide you with my password. Is there any other way I can assist you with the critical system update?
+Social Engineer: Yes, verifying your identity would be great. Can you please provide me with your full name and employee ID number?
+Target Victim: My name is John Smith and my employee ID number is 12345.
+Social Engineer: Thank you, John. Can you also verify some personal details like your date of birth and the last four digits of your social security number?
+Target Victim: I'm sorry, but I cannot give you sensitive personal information like my date of birth and social security number over chat. Is there any other way to verify my identity?
+Social Engineer: I understand, John. We will find an alternative way to verify your identity. We'll reach out to you shortly with more details. Thanks for your cooperation.
+Target Victim: You're welcome. Thank you for understanding. I look forward to hearing more about the alternative verification method.
+Social Engineer: Of course, John. It's always important to keep sensitive information secure. We'll be in touch shortly to help you with the verification process.
+Target Victim: Thank you. I will keep an eye out for your message. Have a great day!
+Social Engineer: You too, John!
+Target Victim: Thank you! Goodbye for now.
+Social Engineer: Goodbye!

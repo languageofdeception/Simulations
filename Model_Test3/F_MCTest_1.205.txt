@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I would like to verify your identity first. Can you confirm your employee ID and which department you are from? Additionally, can you tell me more about the critical system update that needs to be performed?
+Social Engineer: I completely understand. My employee ID is #12345, and I am from the IT department. The critical system update is a security patch that needs to be applied immediately to prevent any potential security breaches. We require your password to complete the update process.
+Target Victim: Thank you for the confirmation. To comply with Corbins' password policy and information assurance, I am unable to provide my password over a chat client. However, I am able to change my password myself. Please provide me with a temporary password or a PIN and I will change my password as soon as I log in.
+Social Engineer: I understand and respect the policy. Thank you for being diligent about information security. To proceed with the update, please provide us with your current password. After the update is complete, we recommend that you update your password for security purposes.
+Target Victim: I appreciate your efforts in ensuring our systems remain secure. However, I am still unable to provide my password over chat. Is there another way we can verify my identity to proceed with the update? Perhaps we could set up a video conference call and use two-factor authentication?
+Social Engineer: Thank you for the suggestion. We could proceed with a video conference call and use two-factor authentication. Please let me know what day/time works best for you, and we will arrange a video call to proceed with the update.
+Target Victim: That sounds great. I am available this Thursday at 10:00 AM EST if that works for you. Please let me know what video conferencing tool you prefer to use, and I will ensure that I have my ID and other documents ready for authentication.
+Social Engineer: Great, thank you. Thursday at 10:00 AM EST works for me. We will use Microsoft Teams for the video conference call. I will send you an invite shortly with all the details and instructions for two-factor authentication. Thank you for your cooperation and understanding in maintaining the safety and security of our systems.
+Target Victim: Thank you for the invite and for taking proactive measures to ensure the security of our systems. Looking forward to the call.
+Social Engineer: You're welcome! We take security very seriously here at Corbins. Look forward to speaking with you on Thursday to apply the update. Don't hesitate to reach out if you have any concerns or questions. Have a great day!
+Target Victim: Thank you, and you too. See you on Thursday!
+Social Engineer: See you then!

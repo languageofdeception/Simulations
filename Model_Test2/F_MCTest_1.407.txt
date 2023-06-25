@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our company's security policies, I am unable to share my password with anyone, even if it is for a critical system update. Can you please provide more details on the update and how I can verify the legitimacy of the request?
+Social Engineer: Hi, I understand your concern. The update is a security patch that needs to be applied on the system urgently to avoid any potential data breach. We need your password to initiate the update as it needs to be done by an authorized user. You can verify the legitimacy of the request by contacting your supervisor or IT department. Alternatively, I can connect you with one of our security experts who can confirm the authenticity of the request.
+Target Victim: Thank you for providing more details about the update. I will need to verify the legitimacy of the request before sharing my password. Can you please connect me with one of your security experts who can confirm the authenticity of the request? This will help me ensure that the request is genuine and authorized.
+Social Engineer: Absolutely, please hold on while I transfer you to a security expert who can further assist you with verifying the authenticity of the request.
+Target Victim: Thank you, I appreciate your assistance.
+Social Engineer: You're welcome. I have now transferred you to our security expert who will assist you further with verifying the authenticity of the request. Thank you.
+Target Victim: Okay, thank you for your help. I will wait for the security expert to assist me further and help me verify the authenticity of the request.
+Social Engineer: You're welcome. Please let us know if you require any further assistance.
+Target Victim: Sure, thank you.
+Social Engineer: No problem, have a great day!
+Target Victim: You too, thank you!
+Social Engineer: You're welcome, bye.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but for security reasons, I cannot just provide my password to anyone who asks for it. Can you please verify your identity and provide me with more details about the nature of the update?
+Social Engineer: Understood. I am with Corbins IT helpdesk and we require your password to perform an update that will resolve a security issue affecting our systems. I can verify my identity by providing you with my full name and employee number. Can you please confirm if you're comfortable sharing your password with me?
+Target Victim: Thank you for verifying your identity. I appreciate your concern for security, however, I cannot share my password with anyone, even with the IT helpdesk. Can you please provide me with an alternative solution for performing this update while keeping my account secure?
+Social Engineer: Sure, I completely understand your reservations about sharing your password. We can instead remotely gain access to your system, and then perform the necessary update on our end. I will send you an email with instructions on how to establish a remote connection to our system. Please follow the instructions to allow us to perform the update. Thank you.
+Target Victim: Thank you for the alternative solution. I appreciate your help. I will check my email now and follow the instructions to establish the remote connection so that you can perform the update.
+Social Engineer: You're welcome! Thank you for cooperating with us. Let me know if you need further assistance.
+Target Victim: Thank you for your assistance! I will definitely let you know if I have any questions or concerns. Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome. Take care!
+Target Victim: You too!
+Social Engineer: Thank you. Goodbye!

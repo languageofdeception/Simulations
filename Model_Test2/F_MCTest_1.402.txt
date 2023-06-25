@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee of Corbins, I understand the importance of maintaining data security. Before I provide my password, can you please verify your identity and provide me with your official IT support credentials?
+Social Engineer: Of course, I completely understand your concern. Here is my official IT support credential: [Insert credential]. Can you please provide me with your password so we can proceed with the critical system update? Thank you.
+Target Victim: Thank you for providing your official IT support credential, I appreciate it. However, I cannot provide my password over this chat client as it is not a secure method of communication. Is there another way we can authenticate my identity and proceed with the critical system update?
+Social Engineer: You're absolutely right, it's always better to be safe when it comes to protecting sensitive data. To authenticate your identity, we can perform a verification process by asking you several security questions that only you would know the answer to. Once the verification process is complete, we can proceed with the critical system update. Are you okay with this process?
+Target Victim: Yes, I am okay with this process. Please proceed with the verification process to confirm my identity.
+Social Engineer: Great, thank you for your cooperation. Please answer the following security questions:
+1. What is your job title?
+2. In which city were you born?
+3. What is the name of your first pet?
+
+Thank you for answering these questions. These answers match our records and we can proceed with the critical system update. We understand you want to protect your password, so once the update is complete, please reset your password.
+Target Victim: Thank you for verifying my identity through a secure process. I am glad we can proceed with the critical system update. I will make sure to reset my password once the update is complete.
+Social Engineer: Thank you for understanding, and for your cooperation in confirming your identity. We appreciate your efforts to maintain the security of your password. We will now proceed with the critical system update.
+Target Victim: Thank you for your assistance with the critical system update. I appreciate your prompt service and for helping to ensure the security of our systems.
+Social Engineer: You're welcome! As a member of the IT support team at Corbins, it's always our goal to provide excellent service and ensure the security of our systems. If you have any further questions or concerns, please don't hesitate to reach out to us again.
+Target Victim: Thank you for your support and dedication towards maintaining the security of our systems. If I have any further questions or concerns, I will not hesitate to reach out to you again. Have a great day!
+Social Engineer: Thank you, and you too! It was a pleasure assisting you.

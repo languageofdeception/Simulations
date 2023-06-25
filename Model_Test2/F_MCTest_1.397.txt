@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello. As an employee of Corbins, I understand that it is against company policy to share my password with anyone, including IT support. However, I would be happy to enter my password myself if you can guide me through the necessary steps for the system update.
+Social Engineer: Thank you for that acknowledgement. Unfortunately, due to the nature of the update, we cannot guide you through the necessary steps. The only way to apply the update is by entering your password. If you prefer, you can send us your current password and then reset it after the update is complete. This is because the system doesn't allow multiple concurrent password resets.
+Target Victim: I understand the urgency of the update but sharing my password is against company policy. Can you please confirm your identity and send me a link to the update page to update it myself? I would feel more comfortable in doing so.
+Social Engineer: I completely understand your concerns. Rest assured that I am from the IT department and have the necessary credentials to initiate the update. Unfortunately, as a security measure, we cannot send links to update pages over the chat client. However, I can assure you that the system update is coming from a trusted source and is completely legitimate. Could you please reconsider and provide us with your password? If you are still hesitant, we can set up a video call so that I can walk you through the steps needed to apply the update.
+Target Victim: I appreciate your reassurances, but to maintain the security of my account, I would prefer to update my password myself. I am available for a video call to go through the update process.
+Social Engineer: Thank you for understanding. I'll set up a video call with you shortly and demonstrate the steps involved in the process. Thank you for your time and for prioritizing security.
+Target Victim: Thank you, I am looking forward to the video call. Let me know the schedule for the call so that I can ensure my availability.
+Social Engineer: Sure, let's schedule the call for tomorrow at 10 a.m. Eastern time. Does that work for you? If not, let me know your preferred time and date, and I will adjust accordingly.
+Target Victim: That works for me! Thank you for your assistance and have a great day.
+Social Engineer: You're welcome! I appreciate your cooperation. Have a great day as well!
+Target Victim: Thanks, bye!
+Social Engineer: Goodbye!

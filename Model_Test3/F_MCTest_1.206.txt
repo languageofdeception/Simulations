@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am aware that providing my password over chat is not secure. Can you please inform me of the specific update that you are performing? Additionally, I would like to verify your identity, can you please provide me with your name and employee number?
+Social Engineer: The update that we are performing is critical and needs to be done urgently. As for my identity, my name is John and my employee number is 12345. Can you please provide me with your password so we can complete the update? We assure you that your password will be kept confidential.
+Target Victim: Thank you for providing your name and employee number, John. However, I still cannot provide my password over chat as it is not a secure method of communication. Instead, can you please guide me through an alternate verification process and provide me with a secure link to where I can change my password? This will ensure that I maintain control over my password for assurance purposes.
+Social Engineer: Certainly! To help you verify your identity, can you please tell me your username and the name of your manager? We'll do our best to assist you with a secure link to change your password.
+Target Victim: My username is jdoe and my manager's name is Jane Smith. Thank you for helping me verify my identity, I appreciate it.
+Social Engineer: Thank you, jdoe. Based on that information, we have verified your identity. Here's a secure link where you can change your password: [insert link]. Once you've reset your password, please send me the new password so that we can proceed with the critical system update. If you wish to change it again after the update, that would be great.
+Target Victim: Thank you for providing me with the secure link to change my password. I have now reset my password to a new strong password and will send it to you in the chat. Please ensure you keep it confidential and let me know what the critical system update is about.
+Social Engineer: Thank you for resetting your password, I appreciate your cooperation. Please send me your new password via chat. The critical system update is related to fixing a vulnerability that could cause data leaks. It's vital to secure our system, so we need your help to accomplish the update.
+Target Victim: Thank you for the update, John. I have sent you my new password via chat now. Please let me know if there is anything else I can assist you with.
+Social Engineer: Thanks, jdoe. We have successfully applied the critical system update. Everything looks good now. Please change your password to a new secure password as soon as possible. Please let me know if you need any further assistance.
+Target Victim: Great, thank you for letting me know that the update was successful. I will change my password again as soon as possible. If I require any further assistance, I will let you know. Thank you for your help, John.
+Social Engineer: You're welcome, jdoe. Thank you for your cooperation and assistance in applying the critical system update. Have a great day!

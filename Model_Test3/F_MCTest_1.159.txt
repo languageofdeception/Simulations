@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates are important, however, I cannot disclose my password over an unsecured chat client. Can you please provide me with your name and employee number so I can confirm your identity?
+Social Engineer: Of course, my name is John Smith, and my employee number is 1234. I completely understand your concern about security. If it makes you more comfortable, we can schedule a time for me to call you and confirm your identity before proceeding with the update.
+Target Victim: Thank you, John. I appreciate your understanding. A call to confirm identity would be great. Please let me know what date and time would work best for you, and I will make myself available. In the meantime, I will change my password as an added security measure.
+Social Engineer: Thank you for your cooperation. We can schedule the call for tomorrow at 10:00 AM if that works for you. And please note that if you prefer to provide a temporary password for the update, you can send me your current password temporarily and reset it afterward. This is because the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for the offer, but I would prefer to reset my password myself after the system update. I will be available for the call tomorrow at 10:00 AM and look forward to discussing the update in more detail.
+Social Engineer: I completely understand. We will call you tomorrow at 10:00 AM to confirm your identity and proceed with the update. If you have any questions or concerns, please feel free to let us know. Thank you, and have a great day!
+Target Victim: Thank you, John. I appreciate your assistance and look forward to hearing from you tomorrow. Have a great day!
+Social Engineer: You're very welcome. I'll speak to you tomorrow. Have a great day too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Goodbye for now!
+Social Engineer: Goodbye!

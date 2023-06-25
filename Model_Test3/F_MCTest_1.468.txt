@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your concern for our system's security. However, I am not authorized to share my password with anyone, even IT support. Is it possible for you to authenticate my identity through another method?
+Social Engineer: Thank you for being cautious with your password. However, at this moment, we require your password to apply a critical system update. If you can't provide your current password, we recommend that you change your password before and after updating the system. This will be the only way to make this process work as we cannot perform a system update without a valid password.
+Target Victim: Thank you for your response. I understand your request, but I also understand that sharing passwords is against our company's information assurance policy. Is there any other way we can verify my identity or perform the system update without sharing my password?
+Social Engineer: I appreciate your concern with password security. Unfortunately, for this particular system update, we require the user's password to proceed. If you'd like, we can connect and conduct the update via remote access. We can still assist you in changing your password before and after the update as an extra precautionary measure. Let me know what you'd prefer.
+Target Victim: Thank you for understanding. I would be more comfortable with the remote access method, and I appreciate your offer to assist me in changing my password before and after the update. Please let me know how we can proceed with the remote access.
+Social Engineer: Thanks for getting back to me. We'll need you to download and install our remote access software. Here's a link to download the software: [insert link here]. Once you've downloaded the software, please let me know your computer's unique ID number, and I'll be able to remotely connect to your computer for the update. Additionally, I'll guide you through how to change your password before and after the update. Let me know if you require further assistance.
+Target Victim: Thank you for providing me with the link. I will download the software and get back to you with my computer's unique ID number. Thank you for your help in ensuring the security of our system.
+Social Engineer: You're welcome. Please take your time, and if you need any help with the installation process or have any questions, feel free to reach out to me. I'm always glad to help.
+Target Victim: Thank you again, I'll be sure to reach out if I have any questions or issues during the installation process.
+Social Engineer: You're welcome. Have a great day, and don't hesitate to contact me if you need assistance with anything else.
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

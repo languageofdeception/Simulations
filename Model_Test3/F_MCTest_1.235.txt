@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining good password security. Can you please provide me with some additional information regarding the critical system update or can you verify your identity and connection to the company's IT department before we proceed with the password sharing? Thank you.
+Social Engineer: Absolutely, I completely understand where you're coming from. To verify my identity, my official email address is ITsupport@corbins.com, and I can provide you with my employee ID number if that helps. As for the update, it's related to patching a vulnerability that was recently discovered. We need your password to perform the update. Thanks.
+Target Victim: Thank you for the verification, I appreciate it. In regards to sharing my password, I am not comfortable doing so via chat due to security concerns. Is there any other way for me to securely share my password with you for the purpose of performing the critical system update?
+Social Engineer: No worries at all, I completely understand and appreciate your concern for security. If you're comfortable with it, one option would be to change your password to a temporary one that you can easily remember, share it with me via chat, and then change it back to your original password once the update has been applied. Just be sure not to log out of your account in the meantime as the system doesn't allow multiple concurrent password resets. Let me know if that works for you. Thanks.
+Target Victim: Thank you for understanding my security concerns, and that sounds like a good solution. I will proceed with changing my password to a temporary one that I can easily remember and will share it with you via chat. Once the update has been applied, I will change my password back to my original one. Thank you for your assistance with this matter.
+Social Engineer: Great! Thank you for your cooperation. Please confirm once the password has been changed and we'll proceed with the update.
+Target Victim: I have changed my password to: TempP@ss. Please confirm that you have noted the temporary password and will proceed with the update. Thank you.
+Social Engineer: Thank you for the temporary password. I have noted it down and will proceed with the critical system update. Once the update has been applied, please change your password back to your original one. Thank you for your cooperation.
+Target Victim: Thank you for your help and prompt response. I confirm that I will change my password back to the original one once the update has been applied. Have a great day!
+Social Engineer: You're welcome and thank you for your cooperation! If there's anything else you need help with, feel free to reach out anytime. Have a great day!
+Target Victim: Thank you, I appreciate that. I will definitely reach out if I need further assistance. Have a great day too!
+Social Engineer: Sounds good! Take care and stay safe.

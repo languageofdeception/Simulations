@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, for security purposes I must verify that you are a legitimate IT support representative of Corbins before I share my password. Can you please provide me with your name and employee ID?
+Social Engineer: Of course, my name is Jane and my employee ID is 12345. Is there any additional information you need from me?
+Target Victim: Thank you for providing that information, Jane. I still have concerns about sharing my password, could you clarify the nature of the critical update that needs to be performed? If it's necessary for me to provide my password, I would feel more comfortable changing it afterwards.
+Social Engineer: I completely understand your concerns, and I apologize for any inconvenience. The critical system update we need to perform is related to a cybersecurity vulnerability that we have identified. It is important that we address this as soon as possible to ensure the safety and security of your account and the company's assets. If you can provide us with your password, we will make sure to change it after the update is completed.
+Target Victim: Thank you for explaining the situation, and I appreciate your efforts to keep Corbins and my account secure. My password is P@ssw0rd. Please let me know if there's anything else I can assist you with.

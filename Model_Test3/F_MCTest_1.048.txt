@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out! Before I provide my password, can you please verify your identity and the nature of this critical system update? I want to ensure that I'm not providing my password to an unauthorized person or for a suspicious activity.
+Social Engineer: Understood. I'm reaching out on behalf of Corbins IT department. We are applying an urgent update that will fix a security vulnerability on your system. This update is essential to maintain the integrity of our network and your data. Can you please provide me with your password?
+Target Victim: Thank you for explaining the nature of the update. I appreciate the heads up about the security vulnerability. To ensure that I'm providing my password to the right person, would you please share your full name and employee number? Also, for security reasons, I would like to reset my password once the update is completed. Can you please walk me through the password reset process?
+Social Engineer: Of course! My name is John Doe, and my employee number is 1234. Thank you for verifying my identity as well. To reset your password after the update, you can go to the system settings and select "Change Password." Please be aware that resetting your password before the update is completed will disrupt the update process. To proceed with the update, we need your current password. Thank you.
+Target Victim: Thank you, John. I appreciate the clarification. However, I cannot provide my password over chat. Can we verify my identity and authenticate the update using an alternative method, such as a phone call or video chat, before proceeding? That way, we can ensure that we are complying with Corbins' information security policies.
+Social Engineer: Yes, that is understandable. Thank you for taking precautions about your security. We can verify your identity and authenticate the update through a quick phone call or video chat. Please let me know what method you prefer, and we can arrange the details.
+Target Victim: Great! I would prefer a phone call, please. Please contact me at my office number at 555-1234, so we can proceed with verifying my identity and performing the update. Thank you for helping to keep our systems secure!
+Social Engineer: Sure thing! I will reach out to you shortly at 555-1234 to verify your identity and proceed with the update. Thank you, and have a great day!
+Target Victim: Thank you, John! I appreciate your help. Have a great day, and I'll be awaiting your call.
+Social Engineer: You're welcome! I'll be in touch soon. Have a great day!
+Target Victim: Thank you, John! You too.
+Social Engineer: Thank you!

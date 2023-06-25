@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I want to confirm if you are a legitimate IT support staff. Can you please provide me with your name and employee ID? As for my password, I cannot share it with anyone, even IT support personnel, as it violates company cybersecurity policies. Is there any other way I can assist you?
+Social Engineer: Sure, my name is John Doe and my employee ID is 123456. I completely understand your concern. Unfortunately, the update we need to perform can only be done with your password since it requires access to your account. If you insist on not sharing your current password, please follow these steps after the update has been completed: First, change your password to a temporary one. Then, notify us and we'll perform the update. Finally, you can change your password back to your preferred password. Please let me know how you'd like to proceed.
+Target Victim: Thank you, John. I appreciate you providing me with your name and employee ID. I understand the need for the update, but I am still not comfortable sharing my password. I prefer to follow the steps you suggested, which include changing my password temporarily and then notifying you to perform the update. After that, I'll change my password back to what I had previously. Please provide me with the necessary steps to change my password.
+Social Engineer: I completely understand. Here are the steps to change your password:
+
+1. Please navigate to the company's password management portal.
+2. Enter your current password and then the temporary password you wish to use.
+3. Confirm the new password and click "Submit."
+4. Once the password is changed, please email me at [insert email address] to confirm the update.
+
+Please let me know if you need further assistance or have any questions.
+Target Victim: Thank you, John. I understand the process now. I'll follow these steps to change my password and email you once it's done. If I have any questions or issues, I'll reach out to you.
+Social Engineer: You're welcome! Please don't hesitate to reach out if you need any further assistance. I'll be happy to help you.
+Target Victim: Thank you for your help, John. Now I'll go ahead and change my password following the steps you provided. If I encounter any difficulty, I'll contact you for further assistance.
+Social Engineer: You're welcome! Feel free to reach out to me if you experience any issues while changing your password. I'm here to help you.
+Target Victim: Thank you, John. I'll do that. Have a great day!
+Social Engineer: You're welcome, and you too!
+Target Victim: Thank you! Goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify your identity, can you please provide me with your employee ID or any other information that can identify you as a legitimate IT support staff? Also, I was advised during my information assurance training not to share my password with anyone. Is there any alternative method you can use to perform the critical system update?
+Social Engineer: Hi, I completely understand your concerns about password security. As an alternative solution, we can set up a temporary password that will expire once the update has been applied. However, we need your current password to perform the update. Once you provide your current password, we will perform the update, and then you can reset your password afterward. This is just a one-time, critical update, and we do not have any access to your password or any other sensitive information.
+Target Victim: Thank you for the clarification. I appreciate the temporary password solution. My current password is P@ssw0rd. Please let me know once the update is complete so that I can change my password as soon as possible.

@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your message, but providing my password would not be in compliance with company security policies and could potentially compromise the security of our systems. Can you please provide me with more details about the system update and how it relates to my account?
+Social Engineer: Of course, I apologize for any confusion. This update is critical, and it requires your password to apply. However, if you prefer, you can provide me with a temporary password which you can reset after we confirm that the update has been applied. The system doesn't allow multiple concurrent password resets. Please let me know how you would like to proceed.
+Target Victim: Thank you for the clarification. As per company policy, I am not authorized to share my password with anyone. However, I am able to reset my password as required to perform the update. Can you please guide me through the steps to do so safely and securely?
+Social Engineer: Absolutely! Here are the steps to reset your password securely:
+
+1. Go to the login page of the system that requires the update.
+2. Click on the "forgot password" link.
+3. Follow the prompts to reset your password.
+4. Once you reset your password, send the new password to me, and I'll confirm the update has been applied.
+5. Finally, please change the password again to something more secure.
+
+Let me know if you have any issues while performing the above steps.
+Target Victim: Thank you for your help! I will follow those steps to reset my password and will send the new password to you as soon as the update has been applied. I appreciate your assistance in keeping our systems secure.
+Social Engineer: You're welcome! Please feel free to let me know if you have any further questions or concerns. I'll be happy to help you.
+Target Victim: Thank you again for your assistance. I will keep that in mind and reach out if I have any other concerns related to the system update. Have a great day!
+Social Engineer: No problem at all! Have a great day, too!
+Target Victim: Thank you, take care!
+Social Engineer: You're welcome, you too!
+Target Victim: Thank you!
+Social Engineer: You're welcome and have a good day!

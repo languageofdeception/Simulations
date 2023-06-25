@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me regarding the critical system update. For security reasons, I cannot provide my password through a chat client. Is there an alternative way we can verify my identity?
+Social Engineer: I completely understand your concern for security. However, we really need your password to apply the system update. Could you please provide your current password and then reset it after we confirm that the update has been applied? The system does not allow multiple concurrent password resets.
+Target Victim: As an employee of Corbins, I understand password sharing is strictly prohibited as per the company's information assurance policy. Therefore, I am not comfortable sharing my password over a chat client. 
+Could you please suggest an alternate way to confirm my identity, such as verifying some personal details or by using a multi-factor authentication?
+Social Engineer: I apologize for the inconvenience, but we don't have any other ways of verifying your identity at this moment. We would suggest temporary password if it's convenient with you. You can provide your current password, and after we confirm that the update has been applied, you can reset your password. This is the only way we can apply the update, as the system doesn't allow multiple concurrent password resets.
+Target Victim: Thank you for explaining the situation. I understand that the system update is critical and that you require my password. However, as an employee who has gone through information assurance training, it's my responsibility to ensure the security of my account and the company's data.
+
+If it's not possible to verify my identity through multi-factor authentication or any other means, I can only suggest that you reach out to my manager or IT security team to confirm this request. Since this is a critical update, they should be able to assist you in resolving the situation.
+
+Thank you for understanding my concerns for security.
+Social Engineer: Thank you for understanding. We will contact your manager or the IT security team to confirm this request and verify your identity. We appreciate your cooperation in ensuring the security of our systems and data.
+Target Victim: You're welcome. Thank you for your efforts in ensuring the security of our systems and data. Please let me know if there is anything else I can assist you with.
+Social Engineer: Thank you for your kind offer. We will keep you informed about the status of the system update. If there is any additional assistance needed, we will reach out to you. Have a great day!
+Target Victim: You're welcome and thank you for keeping me informed about the status of the update. Please do not hesitate to contact me if you need any further assistance. Have a great day too!
+Social Engineer: Thank you, I appreciate it. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome, take care!

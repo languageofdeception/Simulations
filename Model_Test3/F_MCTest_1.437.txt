@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm glad to assist you with the system update. However, I am unable to provide my password to anybody as it is a violation of our company's security policy. Can you please provide me with more information about the update, and how we can perform it without compromising security?
+Social Engineer: Hello! I totally understand your concern. We must ensure the security of your account. The update is critical and requires your password to be completed. We suggest that you provide your password, and after the update has been performed, you reset your password to maintain security. Alternatively, we could schedule a time to perform the update together, and you can input your password directly.
+Target Victim: Thank you for understanding. As per the company's security policy, I cannot disclose my password to you, or any other individual in any circumstances. Let's schedule a time to perform the update together, so I can directly input my password into the system. Please let me know the time and date that suits you best, and I'll be available to assist you with the update process.
+Social Engineer: Thank you for your response. We can schedule the system update together tomorrow at 10 am. I will send you a calendar invite with all the details. Please ensure that you are available at the scheduled time so we can complete the update successfully. Please let me know if there is any issue with this time, and we can reschedule accordingly. Thank you!
+Target Victim: Great, 10 am tomorrow works for me. Thank you for scheduling the appointment and sending me the calendar invite. I will make sure to be available and ready to assist you with the update process. Looking forward to working with you tomorrow!
+Social Engineer: Thank you for your cooperation. We appreciate your help in completing the system update, and we'll ensure that it's done smoothly without any interruptions. Have a great day!
+Target Victim: You're welcome! I'm happy to help. I'm looking forward to working with you tomorrow to complete the system update smoothly. Have a great day too!
+Social Engineer: Thank you, and I'll see you tomorrow!
+Target Victim: Thank you, have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

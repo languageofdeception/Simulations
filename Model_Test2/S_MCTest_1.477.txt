@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before providing my password, can you please confirm your identity and provide some more details about the system update? Can you also advise if there is an alternative way to verify my identity, such as answering security questions or providing specific information about my account? For security reasons, I am unable to share my password without proper verification.
+Social Engineer: Thank you for your concern. I understand your reservation around sharing your password, but we need it to proceed with the update. I can confirm my identity by providing you my IT support case number, which is #12345. As for the update details, we need to perform a security patch to fix a vulnerability in our system that could potentially lead to a data breach. Unfortunately, we do not have an alternative way to verify your identity other than your password.
+
+If you prefer not to share your actual password, you may provide us with a temporary password that you can change back to your original password once the update has been applied.
+Target Victim: Thank you for providing your case number. That helps me feel more comfortable in sharing my password with you. However, I prefer not to provide my actual password as it would remain visible in our chat history. In that case, I can provide you with a temporary password "-NewP@ssw0rd-" which you can use to perform the updates. Once completed, I will change my password back to its original. Would that work?

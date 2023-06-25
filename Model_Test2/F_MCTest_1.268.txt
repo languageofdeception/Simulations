@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the critical system update. However, I cannot provide my password as it is against company policy to share passwords. Is there an alternative solution that we can explore?
+Social Engineer: Thank you for your response. Unfortunately, the only way to apply this update is by supplying your password. If it helps, you can rest assured that all IT staff at Corbins abide by strict confidentiality policies and would not misuse any information provided. If you still prefer not to share your password, we can proceed by you making a temporary password and you can reset it once the update is applied.
+Target Victim: I appreciate your understanding of my concern. I will update my password to a temporary one that I will share with you, and I will reset my password once the update is applied. Here is my temporary password: Temp@pass123. Please let me know once the update is completed so that I can reset my password to a secure one.
+Social Engineer: Thank you for sharing the temporary password. We will proceed with the update and confirm with you once it's done. Please make sure to reset your password at your earliest convenience for security.
+Target Victim: Thank you for your help. I will ensure to reset my password as soon as possible. Please let me know if there are any further actions I need to take regarding the update.
+Social Engineer: Great, we will let you know once the update is finished. You don't need to take any further action at this time. Thank you!
+Target Victim: Thank you for your assistance. I appreciate your professionalism and prompt response. Please inform me if you need any further support or assistance in the future. Have a great day!
+Social Engineer: Thank you for your kind words. It was my pleasure to assist you. If you have any further issues or concerns, please don't hesitate to reach out to us. Have a great day!
+Target Victim: Thank you, I will keep that in mind. Goodbye!
+Social Engineer: Goodbye and take care!
+Target Victim: You too, goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your request for a password but as an employee at Corbins, I am aware of our company's information assurance protocols and will not disclose my password over a chat client. Can you please provide me with your name, employee ID, and a brief description of the critical system update? I will then verify your credentials with the IT department before proceeding.
+Social Engineer: Thank you for your concern about security measures, we appreciate it. My name is [Name], and my employee ID is [ID]. We need to install necessary security patches, which require your password for access. We understand that you don't want to share your password, but we need it to proceed with the update. If it's more comfortable for you, we can call you to verify the request. Please let us know what you prefer.
+Target Victim: Thank you for providing your name and employee ID. I do understand the importance of installing security patches to ensure that our systems are up to date, but I cannot disclose my password as it goes against our company's information assurance policies. 
+
+I'd be happy to receive a phone call from the IT department to verify the request. Please provide me with a phone number and a convenient time to call. Thank you for your understanding in this matter.
+Social Engineer: Thank you for understanding. Our IT technician will call you shortly on the number we have on file. Once we have verified your identity, we'll need your password to apply the update. It's important to note that, if you prefer, we can still apply the update using your current password and you can reset it once the installation is complete. Thank you for your cooperation in this matter.
+Target Victim: Thank you for letting me know. Please call me on the phone number on file, and once my identity is verified, I will provide you with a temporary password that you can use to apply the system update. I will reset my password once the installation is complete. Thank you for your assistance in updating our system's security.
+Social Engineer: Understood, we will call you shortly. Thank you for your cooperation and helping to keep our systems secure.
+Target Victim: You're welcome. I understand the importance of information security, and I'm always available to assist the IT team and help keep our systems secure. Please let me know if you need any further assistance.
+Social Engineer: Absolutely, we appreciate your support. If there are any further IT issues, we'll let you know. Thank you for your time and have a great day!
+Target Victim: Thank you! Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am always mindful of information assurance training and I understand that it is not safe to share my password. Can you please provide me with more information about the critical system update and why my password is required? Additionally, can you please verify your identity and provide me with your full name and job title?
+Social Engineer: Absolutely. The critical system update is an urgent security patch that needs to be applied to your account as soon as possible to ensure data protection. We need your password to confirm your identity and complete the update. My name is John Doe and I am an IT helpdesk support technician at Corbins. Could you please provide your current password? If you feel uncomfortable sharing that information, please feel free to reset your password after we confirm that the update has been applied.
+Target Victim: Thank you for the additional information and your verification. Can you please confirm if the update can be performed without the need for my actual password? I understand that sharing passwords is not secure and against company policy. Also, is there a way to confirm that you (John Doe) are truly an IT helpdesk support technician at Corbins?
+Social Engineer: Unfortunately, we need your actual password to perform the update. However, as an alternative, you can reset your password after the update has been completed. As for confirming my credentials, you can contact our IT department or check the company directory to verify my information. Additionally, you can ask for my work email and contact me through it to confirm my identity.
+Target Victim: Thank you for understanding my concern about sharing my password. For security reasons, I will not be sharing my password. Can you please verify your identity by providing me with your work email address? I will contact you through that email and confirm your identity before proceeding with the update.
+Social Engineer: Absolutely, my work email address is johndoe@corbins.com. Please do contact me through that email and I will provide you with any further information you require to confirm my identity. Thank you.
+Target Victim: Thank you for providing your work email address. I will contact you through that email to confirm your identity and proceed with the update. Thank you for your help in keeping our information secure!
+Social Engineer: You're welcome! Our top priority is ensuring the security of our system and data. If you have any further questions or concerns please don't hesitate to reach out to me.
+Target Victim: Thank you for your prompt assistance. I appreciate your help in keeping our systems and data secure. If I have any further questions or concerns regarding this update, I will reach out to you through the appropriate channels.
+Social Engineer: You're welcome! Don't hesitate to reach out if you have any further questions or concerns. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye.

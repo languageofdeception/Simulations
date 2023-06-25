@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your help. However, I cannot provide you with my password due to security reasons. Are there any alternatives to verify my identity and continue with the update?
+Social Engineer: I understand and appreciate your concerns about security. Unfortunately, there is not an alternative way to perform the update without your password. However, you can reset your password after the update is applied. If you insist on providing us a temporary password, please send your current password and reset it after receiving confirmation of the update. Thank you.
+Target Victim: I understand the situation. However, I cannot send my current password as it goes against our company's security policies. Is there any way you can reset my password and provide me with a temporary one so I can continue with the update?
+Social Engineer: I apologize, but the system does not allow multiple concurrent password resets, so we cannot provide you with a temporary password. The only option is for you to provide us with your current password to perform the critical system update. May I remind you that this procedure is necessary to ensure the stability and security of your system. Once the update is complete, we recommend that you change your password for security purposes.
+Target Victim: Thank you for your understanding, however, I must decline to provide you with my password. Instead, can you please escalate the matter to your supervisor or any responsible personnel from the IT department? I am sure they will be able to find a solution that meets both the company's security policies and the need for this critical update.
+Social Engineer: Certainly, I understand your concerns, and we take the security of our systems very seriously. I will escalate your request to our IT supervisor to review alternative solutions. We will contact you as soon as possible with further information. Thank you for your patience.
+Target Victim: Thank you for understanding and for taking the necessary steps to ensure our company's security policies are upheld. I will be awaiting your update and appreciate your prompt attention to this matter.
+Social Engineer: You're welcome. It's our duty to maintain our company's security policies and compliance with the standards. Our IT supervisor will contact you as soon as possible once we have a solution. Thank you for your cooperation.
+Target Victim: I appreciate your help and prompt response. Thank you for your service and assistance in keeping our company's security policies in place.
+Social Engineer: You're welcome! My team and I are always here to support and assist you whenever you need us. Don't hesitate to reach out if you have any further issues or concerns. Have a great day!
+Target Victim: Thank you! Will do, have a great day too!
+Social Engineer: Thanks, take care!

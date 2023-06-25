@@ -1,0 +1,40 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, however, I cannot provide you my password for security reasons. Can you please provide me with more details about the update and the process so that I can properly verify and authenticate the request?
+Social Engineer: Thank you for your concern regarding security. Unfortunately, the only possible way to apply this update is by you providing us your password. However, if you prefer to reset your password after the update, that would be possible as well. Please provide us your current password, so we can apply the update. I assure you all your credentials are encrypted and safe.
+Target Victim: I appreciate the urgency of the situation, but I cannot provide you with my password. For security purposes, I will reset my password myself after the update is completed. Can you please provide me with the name of the critical system update, its purpose, and when it will be installed? Additionally, can you provide me with the necessary steps I need to take after the update is complete?
+Social Engineer: Thank you for your concern. The critical system update is for patching up multiple vulnerabilities that have been detected in our system. It's essential to install the update as soon as possible to ensure the security of our system. Unfortunately, the update cannot proceed without your current password. Please note that our system does not allow multiple password resets. 
+
+After successful installation of the update, you can reset your password. Here are the steps;
+
+1. Go to [Password Reset Portal URL]. 
+2. Input your old password (the one you had before the update).
+3. Type in a new password (which is a new password you have not used before, and at least eight characters long).
+4. Retype the new password, and click "Submit."
+
+Thank you for your cooperation in this matter.
+Target Victim: Thank you for providing me with these details. I understand the urgency of the update and the reason for it. However, I cannot compromise my password for security reasons. Is there a way I can be provided with technical assistance to install the update without revealing my password, such as a one-time password or a secure access code?
+Social Engineer: Thank you for suggesting a more secure solution. Unfortunately, a one-time password or a secure access code option is not available at the moment. Our system is designed to accept only the user's current password to proceed with the update. 
+
+I understand your concern, and I want to reassure you that your personal data is protected by end-to-end encryption. Please note that the system automatically tracks all password related activities, and any unauthorized access will be traced and flagged immediately. 
+
+If you prefer to have a more personal interaction, I suggest we set up a remote access link, and I will guide you through the process. How does that sound to you?
+Target Victim: Thank you for your understanding and for offering a possible solution. While I appreciate the offer for remote assistance, I would prefer to install the update myself using the password reset portal you provided. 
+
+To confirm, after the update is installed, I will be able to reset my password, and the update will not affect any of my personal data, correct?
+Social Engineer: Yes, that is correct. After the successful installation of the update, you can reset your password using the password reset portal. The update itself will not affect any of your personal data. 
+
+Also, please be reminded that the new password must be unique, at least eight characters long, and not something that you have used before. It's essential to keep your password secure and different from your other accounts. 
+
+If you require any further assistance, please do not hesitate to reach out. Thank you for working with us to ensure the security of our system.
+Target Victim: Thank you for your help and guidance. I will proceed with the system update and password reset as soon as possible. I appreciate the reminder to create a strong password, and I will ensure that it is unique and secure.
+
+Thank you for keeping our system secure and for taking the necessary steps to ensure the protection of our company's data.
+Social Engineer: You are most welcome! It's our pleasure to help you. If you have any other questions or concerns, please feel free to reach out. We are here to assist you.
+
+Thank you for being proactive and taking the necessary steps to improve the security of our system.
+
+Have a great day ahead!
+Target Victim: Thank you, and have a great day as well!
+Social Engineer: Thank you, goodbye!

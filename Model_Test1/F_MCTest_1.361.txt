@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and the reason why you require my password? As per company policy, I am not allowed to give out my password even to IT support without verification.
+Social Engineer: Of course, my name is John from Corbins IT support. The reason we need your password is to perform a critical system update that requires administrator privileges. We understand your concern for security, and we assure you that your password will not be shared or stored. We are happy to arrange a call to verify our identity to complete the process.
+Target Victim: Thank you for your response and for being understanding about my concerns for security. I appreciate you providing your name and reason for needing my password. I will be happy to set up a call to verify your identity before providing my password. Please let me know when would be a good time for you to arrange this call.
+Social Engineer: Thank you for understanding, we appreciate your cooperation. I'm free for a call in the next 10 minutes. Let me know if that works for you, or if you need to schedule a different time.
+Target Victim: I am available for a call now. Please give me a few minutes to find a private area where I can talk. Once I am ready, I will send you a message back.
+Social Engineer: Sure, take your time. I'll be available here on the chat when you're ready.
+Target Victim: Thank you for waiting. I'm now ready for the call to verify your identity. Please give me a call on the phone number that is on file with the company so I can confirm your identity. Once we have successfully confirmed your identity, I will be able to verify your request and, upon confirmation, provide you with the password.
+Social Engineer: Great, thank you. I'm calling you now on the phone number on file. Please let me know if you have any questions or concerns during the verification process.
+Target Victim: Thank you for calling. I can confirm that I have received the call from the IT support department. Can you please provide me with the necessary details to complete the verification process?
+Social Engineer: Thank you for confirming. For the verification process, can you please provide any one of the following pieces of information: your full name, your employee ID number or your department?
+Target Victim: Sure, my full name is John Doe and my employee ID number is 1234. Is that sufficient for the verification?
+Social Engineer: Yes, that's perfect. Thank you for providing that information. I confirm that I am speaking to the authorized user and can proceed with the update. Can you please provide me with your password so that we can perform the necessary work?

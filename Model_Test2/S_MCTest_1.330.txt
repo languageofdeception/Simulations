@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'm happy to help with the update, but I cannot provide my password for security reasons. Is there any other way I can assist you with this update?
+Social Engineer: We understand your concern for security. However, the only possible way to perform the update requires the user's password. If you insist on providing a temporary password, we suggest sending us your current password and reset it as soon as we confirm the update is successful.
+Target Victim: I appreciate your explanation, but I cannot disclose my current password. Can you please provide me with more information about the update and why it requires my password? Perhaps we can find another way to perform the update without compromising security.
+Social Engineer: We apologize for any inconvenience, but the system update requires your password to validate your account and ensure the update is applied to the correct user account. We would be happy to discuss the update in more detail and address any concerns you may have about the process. However, we cannot proceed with the update without the password. Please let us know if you have any other questions or concerns.
+Target Victim: I understand your explanation, but I still cannot provide my password. Perhaps we can proceed with the update when I am available to enter the password myself. Alternatively, can we use a multi-factor authentication method to validate my account instead of the password?
+Social Engineer: We appreciate your suggestion. Unfortunately, this update requires a password as the only form of authentication. The update needs to be implemented as soon as possible as it is critical for the company's systems. We can assure you that all your data and login credentials will be kept secure during the update process. 
+
+If you are unable to provide your password at this time, we can schedule a time that works for you to perform the update and you can enter your password yourself. Please let us know if the scheduling option works for you.
+Target Victim: If the update is critical and cannot wait until I am available to enter my password myself, I understand that it might be necessary to provide my password for this one time. I will temporarily change it to P@sstemp0rary1 and revert it back to my original password (P@ssw0rd) as soon as the update is complete. Please confirm that the update is legitimate and not a phishing attempt before proceeding.

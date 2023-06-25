@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you with my password may I please verify your identity and the purpose of this critical system update?
+Social Engineer: Of course, my name is John and I am a helpdesk support technician at Corbins. The purpose of the update is to fix a security vulnerability that could potentially compromise our systems.
+Target Victim: Thank you, John, for the information.
+
+For security reasons, I am not comfortable sharing my password with anyone, even if they work in IT support. Is there another way I can help with this critical system update?
+Social Engineer: I understand your concern about security, and it's commendable that you take it seriously. However, the only possible way to apply this update is by you supplying your password. If you insist on providing a temporary password, then you should send your current password, and then reset it after you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: Thanks for suggesting that solution, John. I appreciate your help in ensuring that our systems remain secure.
+
+Here is my current password: P@ssw0rd. Please let me know once the system update has been applied, and I will proceed to reset my password as soon as possible.

@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems up to date, however, I am not comfortable providing my password over a chat client. Can you please confirm your identity and provide me with more information about the update?
+Social Engineer: Absolutely, I understand your concerns. I am a verified IT support technician from Corbins, and the critical update is required to patch a vulnerability that has been identified in the system. This vulnerability could potentially result in a security breach, so the update needs to be applied immediately. If you prefer, you can provide a temporary password and then reset it after we have applied the update. Please let me know how you would like to proceed.
+Target Victim: Thank you for verifying your identity and providing me with more information. I appreciate the urgency of this update, however, I still cannot provide my password over this chat client. Instead, I can reset my password to a temporary one and share it with you. After the update has been applied, I will reset my password again to a new, unique one. Please let me know if this is an acceptable solution.
+Social Engineer: That's completely understandable. Please reset your password to a temporary one and share it with me. Once the update has been applied, you can reset your password again to a new, unique one. Thank you for cooperating with our security measures.
+Target Victim: Thank you for understanding. My new temporary password is: TempP@ssw0rd. Please let me know once the update has been applied so that I can reset my password to a new, unique one.

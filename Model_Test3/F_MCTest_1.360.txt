@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to confirm, I understand that passwords should not be shared and that critical updates should not require passwords to be given out. Can you please provide more information about the update and the process for applying it?
+Social Engineer: Hi, I understand your concern about password security. However, for this specific update, your password is required to complete the process. We recommend that you provide your current password and then reset it afterwards. This is because the system does not allow multiple concurrent password resets. Can you please provide your password so we can proceed?
+Target Victim: I appreciate your explanation, but I am hesitant to give out my password. To ensure the security of my account, and in accordance with information assurance policies, I will log in and apply the update myself. Can you please provide detailed instructions for the update process so I can apply it myself?
+Social Engineer: I completely understand your concern and will provide you with detailed instructions on how to perform the update. Please follow these steps:
+
+1. Log in to your account.
+2. Navigate to the system update page.
+3. Click on the "Update" button to initiate the process.
+4. Follow the on-screen prompts to complete the update.
+
+Please let me know if you have any questions or need further assistance.
+Target Victim: Thank you for the instructions. I will follow the steps carefully and proceed with the update. If I need any assistance, I will reach out to you again.
+Social Engineer: You're welcome! Please feel free to reach out to us if you have any issues or questions. We are always here to help. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Take care!
+Target Victim: You too!
+Social Engineer: Goodbye!

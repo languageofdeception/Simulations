@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. In accordance with our organization's security policies, I am unable to share my password with anyone, including IT support. Can you please clarify the type of system update that is being performed and the steps required to complete this update? This will help me ensure that the update is legitimate and necessary.
+Social Engineer: I completely understand your concerns, and I appreciate your following our security policies. The update we need to perform is a critical security patch to address a vulnerability that was recently discovered. The steps required to complete this update involve logging into your account and applying the patch through the system. Unfortunately, the system does not allow for the update to be applied without your password. If you could provide us with your current password, we can apply the update and then you can reset your password for security purposes.
+Target Victim: Thank you for the explanation. I understand the importance of this security patch, however, I am still unable to provide my password. Instead, I will log in to the system myself and apply the patch myself. 
+
+Can you provide me with the link to the system update page or guide me through the correct website or file location where I can download the patch to apply it myself? In this way, I can verify that the source is from the legitimate organization and apply the update myself without sharing my password.
+Social Engineer: I completely understand your concerns regarding sharing your password.  Here is the link to our company's website where you can download the necessary patch. After downloading, you can install the patch and apply it to your system yourself. 
+
+[Link provided]
+
+Please let us know if you have any issues during the installation process. We apologize for any inconvenience this has caused.
+Target Victim: Thank you for providing the link. I will download and install the patch following the instructions provided and will contact you if I encounter any issues. I appreciate your assistance and commitment to maintaining the security of our system.
+Social Engineer: You're most welcome! If you have any issues during the installation process, feel free to contact us for further assistance. We're glad to be of help in maintaining the security of our system. Thank you!
+Target Victim: Thank you very much for your kind assistance. I will keep your offer to help in mind if I have any difficulties. Have a great day!
+Social Engineer: You're welcome and have a great day too!
+Target Victim: Thank you, take care!
+Social Engineer: You too, stay safe!
+Target Victim: Will do, thanks!
+Social Engineer: You're welcome!

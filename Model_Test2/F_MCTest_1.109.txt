@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide me with your employee ID and the reason for this critical system update before I provide my password?
+Social Engineer: Sure, my employee ID is IT-123 and the reason for the critical system update is to resolve a security vulnerability issue. Can you please provide me with your password so we can proceed with the update?
+Target Victim: Thank you for verifying your identity and providing the reason for the update. However, I cannot provide my password to you or anyone else. As an employee of Corbins, it is against company policy to share passwords or login credentials with anyone, including members of the IT team. Can you please perform the update without needing my password?
+Social Engineer: We understand your concern about sharing your password. Unfortunately, due to the nature of this system update, it's critical that we have your password to implement the necessary changes. If you are still hesitant about providing your password, our alternate recommendation would be to change your password temporarily, provide us with that password and change it immediately after the update.
+
+This would help to ensure that your account is secure and yet we could complete the update. Please let us know if you prefer this option.
+Target Victim: Thank you for your understanding and providing an alternate solution. Changing my password temporarily and providing it to you for the necessary update seems like a viable solution. I will change my password to a temporary one now and provide it to you. Please let me know once the update is complete so that I can change my password again for security reasons. My temporary password is Xyz@1234.
+Social Engineer: Thank you for your cooperation. We have received your password and will proceed with the system update. Once the update is complete, we will send you a confirmation so that you can change your password back to your preferred one for added security. Thank you again for your assistance in resolving this issue.
+Target Victim: Thank you, I appreciate your prompt response and assistance. Please keep me updated throughout the process. I will be eagerly waiting for your confirmation so that I can change my password back to my desired one.
+Social Engineer: Noted, we will definitely keep you updated throughout the process. Thanks again for your cooperation, we'll revert shortly with the confirmation.
+Target Victim: Great, thank you for your time and assistance. Let me know if there are any further actions required from me.
+Social Engineer: Absolutely, if there are any further actions required from you, we will let you know. Please rest assured that we will complete the update as soon as possible and get back to you.
+Target Victim: Thank you for your reassurance. I will await your update. Have a good day!
+Social Engineer: You're welcome, have a great day too!

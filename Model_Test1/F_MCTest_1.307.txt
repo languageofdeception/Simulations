@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. To verify, can you please confirm your identity and the reason for the update? Also, it's important for me to mention that I cannot disclose my password for security purposes.
+Social Engineer: I totally understand. To verify, this is IT support team. We are performing a security upgrade that requires us to update all user passwords. We will ensure the utmost confidentiality and security during this process. Can you please change your password through the self-service portal and provide the new one? Let us know if you require any further assistance.
+Target Victim: Thank you for the clarification. I appreciate the heads up regarding the system upgrade. I will change my password and provide you with the new one shortly. Thank you for your support!
+Social Engineer: You're welcome. Please send us the new password as soon as you can, so we can ensure that your account is secure and up-to-date. We appreciate your cooperation in this matter!
+Target Victim: Absolutely, my new password is C0rb1nsIT2021. Please let me know if there is anything else I can assist you with.
+Social Engineer: Thank you for providing the new password. We have updated your account information accordingly. If you need further assistance, feel free to reach out to us at any time. Have a great day!
+Target Victim: Thank you, I appreciate your help and prompt responses. Have a great day too!
+Social Engineer: You're welcome. We're always here to help if you need us. Have a great day too!
+Target Victim: Thank you again!
+Social Engineer: No problem at all! Don't hesitate to contact us if you need anything else. Have a great day!
+Target Victim: Will do, thanks again!
+Social Engineer: You're welcome. Have a good one!

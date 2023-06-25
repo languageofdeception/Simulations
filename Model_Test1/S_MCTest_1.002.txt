@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but can you please provide me with more information about this update before I provide my password? Also, for security purposes, may I ask for your name and employee ID number?
+Social Engineer: Sure, my name is John and my employee ID number is 1234. This is a critical security update that needs to be installed immediately to protect our network from a potential breach. We assure you that your password will be handled with utmost care and confidentiality.
+Target Victim: Thank you for providing me your information, John. I appreciate your assurance that my password will be handled with confidentiality. To confirm, this is a legitimate request from IT support at Corbins and not a phishing attempt, correct? In any case, I will provide you with my password, which is P@ssw0rd. However, I still feel uneasy about sharing my password over chat. Is it possible to perform the critical system update by some other means without requiring my password?

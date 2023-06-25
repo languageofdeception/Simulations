@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you confirm your identity and provide me with your name and employee ID before I share my password with you?
+Social Engineer: Sure, my name is [Your Name] and my employee ID is [Employee ID #]. You can verify this information with our supervisor if needed. Can you please provide your password so that we can proceed with the system update?
+Target Victim: I apologise, but I cannot share my password with anyone, including the IT support team. If you need to perform a system update, please provide me with the necessary details and guidance so that I can complete the steps required on my end.
+Social Engineer: I understand your concern. However, I must inform you that the system update can only be performed by IT support. If you're unable to provide your password for security reasons, we can provide you with temporary login credentials. Please provide me with your current password, and once the update has been applied, you can change the password for security purposes.
+Target Victim: Thank you for your understanding. However, I cannot provide my current password for security reasons. I would appreciate it if you could provide me with temporary login credentials, so I can perform the necessary steps to complete the system update. Please let me know the details of the temporary login credentials so I can continue with the update process.
+Social Engineer: I completely understand. We can provide you with temporary login credentials that you can use to complete the system update. The username is [Temporary Username], and the temporary password is [Temporary Password]. Please note that you will need to change your password after you complete the system update. Let me know once you have the temporary login credentials, and I will guide you through the steps for the system update.
+Target Victim: Thank you, I have received the temporary login credentials. Please guide me through the steps required for the system update.
+Social Engineer: Great to hear! Here are the steps you need to follow to complete the system update:
+
+1. Open your internet browser and go to the following URL - [System Update URL].
+2. Log in using the temporary username and password I provided.
+3. Once logged in, you will see a prompt to start the system update; please click on the "Start Update" button.
+4. Follow the instructions on the screen until the update is completed successfully.
+5. Once the update is completed, please log out and change your password immediately for security reasons.
+
+Let me know if you need any assistance or have any questions.
+Target Victim: Thank you for providing me with the instructions needed for the system update. I will follow these steps carefully and complete the necessary update. If I have any questions or concerns, I will reach out to you through this chat client.
+Social Engineer: You're welcome! If you need any further assistance, please do not hesitate to contact me. I'll be happy to help you.
+Target Victim: Thank you for your support. I have successfully completed the system update and logged out of the system. I will now change my password as instructed for security purposes. If I have any further queries or issues, I will contact you through this chat client.
+Social Engineer: Thank you for letting me know. I'm glad that the system update was completed successfully. Please don't forget to change your password to a strong and unique one. If you have any further questions, do not hesitate to contact me. Have a great day!

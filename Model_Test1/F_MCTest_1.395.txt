@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates, but I cannot provide you with my password over chat. Is there any other way we can authenticate my identity or perform the update?
+Social Engineer: Thank you for your concern. We can validate your identity by sending a code to your phone or email. Is there a preferred method for you?
+Target Victim: Yes, sending a code to my phone would be great. Thank you for understanding the importance of keeping passwords secure.
+Social Engineer: Not a problem, I will send the code to your phone shortly. Thank you for your cooperation and understanding!
+Target Victim: Thank you for your assistance. I have received the code and input it on the login screen. Please let me know if there is anything else that I can do to help.
+Social Engineer: Thank you for your help. We have successfully completed the system update. Please let us know if you have any other concerns or issues that we can help with.
+Target Victim: Perfect. Thank you for letting me know about the successful update. I will reach out if I have any further concerns or issues.
+Social Engineer: You're welcome! Have a great day.
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a good one!

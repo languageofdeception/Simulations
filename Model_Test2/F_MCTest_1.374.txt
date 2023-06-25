@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thanks for reaching out. To confirm, you are a member of the IT team at Corbins, correct? I'm happy to help with the system update, but as a security measure, I cannot provide my password over an unsecured chat. Is there another way we can verify my identity and proceed with the update?
+Social Engineer: Yes, I am a member of the IT team at Corbins. Thank you for the concern about security. We can set up a phone call to verify your identity if that works for you. Alternatively, you can provide a new temporary password that you can change after the update has been applied. Please note that multiple concurrent password resets are not allowed by the system. Let me know how you would like to proceed.
+Target Victim: Thank you for understanding the importance of security. I would prefer to set up a phone call to verify my identity. Please let me know what number to call and what time is convenient for you. Thank you.
+Social Engineer: Sure. I appreciate your cooperation. Please provide me with your phone number, and I will give you a call shortly. I'm available now, so please let me know when you're ready to proceed. Thank you.
+Target Victim: Thank you. My phone number is (123) 456-7890, and I'm available to receive a call now. Please let me know your name and position at the IT helpdesk so I can confirm your identity when you call. Thanks.
+Social Engineer: Thank you for providing your number. My name is Jack, and I'm a member of the IT helpdesk team at Corbins. I will give you a call shortly to proceed with the update. Thank You.
+Target Victim: Thank you, Jack. I appreciate your help with this. I'll be waiting for your call shortly to confirm my identity and proceed with the update. Have a good day!
+Social Engineer: Thank you, and you too. I'll give you a call shortly.
+Target Victim: Great, thank you. I'll wait for your call. Have a good day!
+Social Engineer: Thank you! You too. Talk to you soon!
+Target Victim: Looking forward to it. Goodbye!
+Social Engineer: Goodbye!

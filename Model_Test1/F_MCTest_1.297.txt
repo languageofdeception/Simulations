@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but I cannot provide my password to anyone. Is there any other way we can perform the update without having to share personal login information?
+Social Engineer: Yes, I understand your concern. One option we could do is set up a temporary password for the purpose of the update and then change it back afterward. Would that work for you?
+Target Victim: Yes, that sounds like a good option. Can you guide me through the process of doing that?
+Social Engineer: Sure, I can walk you through it. Just give me a moment to prepare the steps.
+Target Victim: Okay, thank you.
+Social Engineer: Thank you for your patience. Here are the steps:
+
+1. Go to the login page for the system that needs to be updated.
+2. Click on "Forgot Password" or a similar option. 
+3. Enter your email or username, and follow the instructions to change your password.
+4. Create a temporary password that you will easily remember and share it with us. 
+5. After we have completed the system update, you can log in again and change your password to a more secure one. 
+
+Let me know if you have any questions about these steps.
+Target Victim: Thank you, that makes sense. I'm going to change my password now and share the temporary password with you. 
+
+My temporary password is: Temp@password1.
+
+Please let me know once the system update is complete so I can change my password back to my usual password.
+Social Engineer: Thank you for providing the temporary password. I will let you know as soon as the system update is complete. Once it is done, you can change your password back to your usual password for security purposes.
+Target Victim: Thank you. Just let me know once the update is done.
+Social Engineer: The system update is now complete. You can now log in to the system using your usual password. Please ensure that you change your password for security reasons. Let us know if any further assistance is needed.
+Target Victim: Great, thank you for completing the system update. I will log in and change my password now. If there are any further issues, I will contact you again. Thank you for your help!
+Social Engineer: You're welcome. Don't hesitate to reach out if you have any other questions or concerns in the future. Have a great day!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to cooperate with the system update, but I cannot provide you with my password as it is strictly confidential information. Could you please guide me through the process of updating the system without sharing my password?
+Social Engineer: Unfortunately, the only way to apply this specific update requires us to have your password. If it helps, we recommend providing us with your current password and then immediately resetting it after we have confirmed that the update has been applied. This is because the system does not allow multiple concurrent password resets. Let me know if this works for you.
+Target Victim: I appreciate your explanation, however, I cannot comply with sharing my password as it goes against our company's information assurance policies. Is there any other way we can proceed with the update process? Perhaps we can set up a temporary password that I can use which you can monitor or verify during the update process?
+Social Engineer: I understand your concern, but unfortunately, setting up a temporary password is not an option at this time. We require your actual password to apply this specific update. If you do not feel comfortable sharing your password at this time, we can wait until a later time when it is more convenient for you. Let me know if you have any concerns or questions.
+Target Victim: Thank you for understanding my concerns. I appreciate your offer to wait and I would like to confirm that I am available at a later time when it is convenient for both of us. Could you please provide me with the specific details of the update and its urgency, so that I can make arrangements accordingly?
+Social Engineer: Certainly, the update is critical to ensure the security of our system and prevent any potential vulnerabilities that may be exploited. We understand that protecting your password is a top priority, and we respect your decision to wait until a more convenient time. We will be sure to keep you updated on the urgency of the update and any upcoming deadlines. Thank you for your cooperation.
+Target Victim: Thank you for providing me with the details of the update. I understand the urgency and importance of maintaining security, so please keep me informed of any updates, deadlines, or requirements. I appreciate your help in ensuring our system remains secure.
+Social Engineer: Understood, I will keep you updated on any important developments regarding the update. Thank you for your cooperation in maintaining our system's security. Have a great day!
+Target Victim: Thank you for your assistance and updates. Have a great day too!
+Social Engineer: You're welcome, please don't hesitate to reach out if you have any further questions or concerns. Have a great day!
+Target Victim: Thank you, I appreciate your support and helpfulness. I will definitely reach out if I have any further questions or concerns. Have a great day as well!
+Social Engineer: You're welcome, happy to help. Have a great day!

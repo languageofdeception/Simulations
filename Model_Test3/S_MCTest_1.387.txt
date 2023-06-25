@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I know that sharing my password is against the security policies. May I know how can I be sure that you are a legitimate member of the IT help desk team?
+Social Engineer: Absolutely! I completely understand your concern for security. I can assure you that I am a legitimate member of the IT help desk team at Corbins. Please know that we take the security of your account and personal information very seriously. 
+
+If you prefer, we can go through an alternate verification process, such as confirming your employee ID or answering a security question on file. However, in this particular case, the only way to apply the critical system update is by entering your password in the system. If you're uncomfortable sharing your password, you may provide a temporary password that you can change later. 
+
+Please let me know how you'd like to proceed. Thanks!
+Target Victim: Thank you for understanding my concerns, and for the verification options provided. I prefer to provide a temporary password that I can change later. Please let me know how I can generate a temporary password.
+Social Engineer: Great! To generate a temporary password, please follow the steps below:
+
+1. Login to your Corbins account from a web browser (not the mobile app)
+2. Click on your profile icon on the top right-hand corner of the screen
+3. In the dropdown menu, click on "Change Password"
+4. Enter your current password, followed by your desired temporary password and then confirm the new password
+5. Click on the "Save" button to make the changes
+
+Once you have generated the temporary password, please send it to me via this chat window. As soon as the update has been successfully applied, kindly change your password again to ensure the security of your account. Thanks!
+Target Victim: Thank you for providing me the instructions. My temporary password is T3mpP@ssw0rd. Please apply the critical system update and let me know once it's done. I'll change my password immediately after.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I am aware of the critical system update but it is against company policy to provide passwords over chat. Can you please verify your identity and provide me with some additional information so we can proceed with the update?
+Social Engineer: Certainly. My name is [Your Name], and I am part of the IT support team. To verify my identity, I can provide you with my employee ID number, which is [Your ID Number]. Is there any other information that you may need?
+Target Victim: Thank you for verifying your identity, [Your Name]. I appreciate your cooperation in this matter. Is there an alternative method that we can use to perform the update without having to disclose my password?
+Social Engineer: Unfortunately, the only way to perform the update is by obtaining your password. However, if you prefer, you can provide us with a temporary password that you can reset after the update has been completed. This will ensure that your account is secure at all times. Thank you for your cooperation.
+Target Victim: Understood. Thank you for explaining the situation to me. In that case, I will provide you with a one-time temporary password that can be used for the update, which I will immediately reset once the update is completed. The temporary password is Qw3rty!. Thank you for your assistance.
+Social Engineer: Thank you for the temporary password, [User]. We will proceed with the update now and let you know once it is complete. Please make sure to reset your password as soon as possible for security purposes. Thank you for your cooperation.
+Target Victim: Thank you for letting me know, [IT Support]. I will reset my password immediately to ensure that my account remains secure. Please let me know if there are any further actions that I need to take. Thank you for your prompt support.
+Social Engineer: Updating your password is the only action you need to take at this time. If there are any further actions, we will notify you as soon as possible. Thank you for your cooperation, and please don't hesitate to contact us if you experience any further issues or concerns. Have a great day!
+Target Victim: Thank you for letting me know, [IT Support]. I appreciate your prompt support and willingness to keep our systems secure. Have a great day as well!
+Social Engineer: You're welcome, [User]. It was a pleasure assisting you. Don't hesitate to reach out to us if you have any further inquiries. Bye for now!
+Target Victim: Thank you, [IT Support]. I will keep that in mind. Have a great day!
+Social Engineer: Thanks, [User]. You too!

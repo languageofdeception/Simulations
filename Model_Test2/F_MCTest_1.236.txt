@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I'm sorry but I cannot provide my password due to the security policies of our company. Is there any other way I can assist in performing the critical system update?
+Social Engineer: I understand your concern. However, in this case, we need your password to ensure the update is applied correctly. We can assure you that your password will be treated with the utmost privacy and security. If you still cannot provide your password, we suggest sending us a temporary password. Please send us your current password first and then reset it after we have confirmed that the update is successful. Thank you.
+Target Victim: I appreciate your assurance, but I still cannot provide my current password. However, I can reset my password and provide you with a temporary password for the update. I will reset my password now and share the temporary password with you shortly. Thank you for understanding the importance of keeping our systems secure.
+Social Engineer: Thank you for your cooperation. Please send us the temporary password as soon as you have reset it. We will apply the critical system update and notify you once it is complete. Thank you for your understanding and cooperation in keeping our systems up-to-date and secure.
+Target Victim: Thank you for your patience. My temporary password is: T3mpP@ss! Please let me know once the update is complete so I can reset my password again. Thank you for your prompt assistance and ensuring the security of our systems.
+Social Engineer: Thank you for providing the temporary password. We have successfully applied the critical system update. You can now reset your password to a new one. Thank you for your prompt cooperation and support in maintaining the security of our systems at Corbins.
+Target Victim: Thank you for your confirmation. I will now reset my password to a new and strong one to ensure our systems' security. Thank you for your help and support in maintaining our system up-to-date and secure.
+Social Engineer: You're welcome. Please let us know if there's anything else we can assist you with. Have a great day!
+Target Victim: Thank you for your kind offer and your assistance. I appreciate your prompt and professional assistance. Have a great day too!
+Social Engineer: You're welcome. It was my pleasure assisting you. Don't hesitate to contact us whenever you need help in the future. Thank you for choosing Corbins IT support.
+Target Victim: Thank you very much for your support. I will not hesitate to contact you in case I require assistance in the future. Have a great day ahead!
+Social Engineer: Thank you for your feedback. Have a wonderful day!

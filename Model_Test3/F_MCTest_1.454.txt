@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, I cannot provide you with my password over chat. Can you please verify your identity and provide me with more information about the critical system update?
+Social Engineer: Of course, I completely understand. We apologize for the inconvenience. The critical system update needs to be applied urgently to fix a security vulnerability in our system. We need your password to initiate the update. If you prefer, we recommend sending your current password and resetting it after we confirm that the update has been applied as our system does not allow multiple password resets concurrently. Thank you for your cooperation.
+Target Victim: Thank you for providing me with more information regarding the critical system update. In order to authenticate your identity, could you please provide me with your full name and job title at Corbins? Also, I would prefer not to send my current password as that would violate our company's password policy. Instead, I can reset my password after the update is applied, and if necessary, I can contact you for assistance with resetting it. Thank you for understanding.
+Social Engineer: My name is [YOUR NAME], and I am a Helpdesk Support technician at Corbins. Thank you for verifying my identity. As for the password, we completely understand your concern and appreciate your compliance with the company policy. Please reset your password after the update is applied. If you face any issues, please do not hesitate to contact us. Thank you and have a great day!
+Target Victim: Thank you for your understanding. I appreciate your prompt response and help to ensure the security of our systems. I will ensure to reset my password after the update is applied. Thanks again and have a great day!
+Social Engineer: You're welcome! Don't hesitate to reach out to us if you have any questions or concerns in the future. We're always here to help. Have a great day ahead!
+Target Victim: Thank you, same to you! I will definitely keep that in mind if I have any questions or concerns. Have a great day!
+Social Engineer: Thank you, take care, and have a great day!
+Target Victim: You too, take care, and have a great day!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you, goodbye!

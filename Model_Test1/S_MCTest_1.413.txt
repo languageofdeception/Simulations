@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide me with your support ticket number? I can't provide my password without proper verification.
+Social Engineer: Absolutely, my support ticket number is 4321. As for my identity, I'm Jane from the IT support team and I'm assigned to assist with your request. Thank you for confirming.
+Target Victim: Thank you for providing your information. My password is P@ssw0rd. Please let me know if there's anything else you need from me.

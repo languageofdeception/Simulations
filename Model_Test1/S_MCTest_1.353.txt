@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot simply give you my password. Can you provide me with some more information about the critical system update you are performing? Additionally, is there another way to verify my identity?
+Social Engineer: Of course, we are performing a security patch to fix a known vulnerability. As for verifying your identity, could you please confirm your full name and employee ID?
+Target Victim: Thank you for the information. My full name is John Smith and my employee ID is 12345. Is there anything else you need to verify my identity?
+Social Engineer: Thank you, John. One more question, what is the name of your immediate supervisor?
+Target Victim: My immediate supervisor's name is Susan Lee.
+Social Engineer: Thanks, John. I have successfully verified your identity. Can you please provide me with your current password?
+Target Victim: My current password is P@ssw0rd.

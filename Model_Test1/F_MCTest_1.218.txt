@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand that system updates can be critical for the security of our company's information, however, for security reasons, I cannot provide my password over chat. Is there a different way we can verify my identity or perform the update without my password?
+Social Engineer: Yes, I understand and appreciate your concern. We can use a password reset method that involves sending a verification email to your registered email address. From there, you can reset your password to something that only you will know, and share it with us. Would that work for you?
+Target Victim: Yes, that works for me. Please send the verification email to my registered email address and I will reset my password and provide it to you after. Thank you for your help.
+Social Engineer: Great, I'm sending the email now. You can expect it within the next few minutes. Let me know once you receive it so we can continue with the password reset process. Thank you!
+Target Victim: Thank you. I have just received the email and have verified my identity. I will now proceed to reset my password and will share the new password with you once it has been updated.
+Social Engineer: Excellent, that's great news. Please let me know once you've reset your password so we can proceed with the critical system update. Thank you again for your cooperation and for following our security protocol.
+Target Victim: Thank you for your understanding. I have reset my password. My new password is "<insert new password>". Please let me know if you need any further assistance, or if there are any additional steps I need to take to complete the system update.
+Social Engineer: Thank you for your new password. I can confirm that it has been updated successfully. You don't need to take any additional steps and the system update will now proceed. Thank you for your assistance and cooperation. If you have any further concerns or questions, please feel free to contact us again.
+Target Victim: Thank you for your help. I appreciate your assistance, and I will let you know if I have any further questions or concerns. Have a great day!
+Social Engineer: You're welcome! Don't hesitate to contact us if you need further assistance. Have a great day too!
+Target Victim: Thank you, have a great day as well!
+Social Engineer: Thank you!

@@ -1,0 +1,35 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the criticality of the system update and the importance of security policies. I would like to verify your identity by asking a few questions before providing you with the password. Can you please confirm your full name, job title, and the reason why you need my password?
+Social Engineer: Thank you for your security awareness. My name is [Your Name], and I am an IT helpdesk support technician at Corbins. I need your password to apply a critical system update that requires user authentication. The update is necessary to improve system performance and security.
+Target Victim: Thank you for your response and verification of identity. As per the company's security policy, I cannot provide my password to you because it would be a violation of our password sharing policy. However, I can provide you with my employee ID, and we can reset my password via the company's password reset portal. 
+
+Can we proceed with resetting my password via the portal instead of sharing it over chat?
+Social Engineer: Thank you for your understanding. As per our systems, we cannot have multiple concurrent password resets. I understand your concern and confirm that resetting the password via the company's password reset portal is the best practice and is fully compliant with the company's password policies.
+
+However, in this particular case, we require the user's current password to apply the critical system update. If the password is not shared, we cannot proceed with the update. Therefore, I recommend that you provide me with your current password, and you can reset it as soon as the update is confirmed applied.
+Target Victim: I understand the situation, but for security reasons, I cannot share my password with anyone, even an IT support technician. However, I am willing to cooperate with you to ensure that the update is applied on time. 
+
+Can we schedule a time for the update that is convenient for both of us? During that time, I can log in with my password and apply the update. Once the update is complete, I will reset my password immediately. This will ensure that the update is applied, and my account remains secure.
+Social Engineer: Thank you for your cooperation and security awareness. I appreciate your suggestion, and it is indeed a better alternative while ensuring the safety of our systems and accounts.
+
+Let's schedule a time that is convenient for you, and we can coordinate it accordingly. Please let me know your preferred time slot, and I will ensure that the update is applied during that time.
+Target Victim: Thank you. I appreciate your understanding.
+
+I am available from 9:00 AM to 12:00 PM (UTC -4) tomorrow. Is there any specific time within that time frame that works best for you?
+Social Engineer: Great, thank you for providing your availability. May I suggest 10:00 AM (UTC-4) tomorrow, as that will work for our team to ensure that the system update is swiftly applied without any interruptions?
+
+Kindly confirm if this time works for you, and I will schedule the update accordingly.
+Target Victim: 10:00 AM (UTC-4) tomorrow works fine for me. Thank you for scheduling the update at this time. 
+
+Please provide me with the details of the update and the instructions to apply the update. I will ensure that all prerequisites are met before the scheduled time, to prevent any delays.
+Social Engineer: Perfect, thank you. I have scheduled the update, and it will take approximately 30 minutes to complete. During this time, please ensure that you are logged in to your system.
+
+The update applies some critical security patches that are necessary to minimize system vulnerabilities. Simply open the software updater program on your system, and the update should already be queued. Click on the update and follow the on-screen prompts to install the update. When the update completes successfully, please confirm that the software updater shows that the update is installed.
+
+Thank you for your cooperation and assistance in ensuring the timely and secure application of this critical system update. If you have any further questions or concerns, please do not hesitate to reach out to me.
+Target Victim: Thank you for providing me with the instructions to apply the update. I will ensure that I am logged in to my system, and the software updater program is queued as per your instructions before the scheduled time tomorrow. I will also confirm the completion of the update post its successful installation.
+
+Thank you for your help. If I have any further concerns or issues with the update process, I will contact you immediately.
+Social Engineer: You're welcome! I'm happy to be of assistance. I'll be waiting for your confirmation, and please feel free to contact me if you have further concerns. Have a great day!

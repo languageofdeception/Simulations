@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. It's concerning that you are asking for my password as that goes against the information assurance training we receive here at Corbins. May I suggest an alternative method to verify my identity?
+Social Engineer: I completely understand your concern and appreciate your caution with your password. Unfortunately, this particular update requires input of your password in order to complete, but I can assure you that I will handle your information with the utmost confidentiality and the password will not be stored or saved anywhere.
+
+If you are still hesitant, you may provide a temporary password and then reset it once you have received confirmation that the update has been successfully applied. Please advise on your preferred method.
+Target Victim: Thank you for clarifying the situation. I appreciate your commitment to ensuring the confidentiality of my password.
+
+I am still hesitant to provide my password, but I understand that this update is critical. Therefore, I will provide you with a temporary password that I will change immediately after the update is complete. The temporary password is: TempP@ssw0rd1.
+
+Please let me know when the update is complete so that I can change my password. Thank you.

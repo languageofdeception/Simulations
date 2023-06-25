@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems up to date but I cannot provide my password over chat as it is against our information assurance policies. Is there any other way I can authenticate myself?
+Social Engineer: I appreciate your concern for security. Unfortunately, in this case, providing your password is the only way we can proceed with the update, as it requires your unique access to the system. However, if you feel uncomfortable sharing your current password, you can change it to a temporary one. Once the update is confirmed, you can change your password back to the original one. Does that work for you?
+Target Victim: Thank you for your understanding. Yes, I can change my password to a temporary one. After the update, I will change the password back to the original one. Can you please guide me on how to change my password?
+Social Engineer: Thanks for your cooperation. To change your password, please do the following steps:
+
+1. Go to the login screen and click on the "Forgot Password" option.
+2. Follow the on-screen instructions to validate your identity.
+3. Create a new temporary password that meets the company's password complexity standards.
+4. Login to your account using the new temporary password.
+5. Once confirmed that the system update has been applied successfully, go to the account settings and change your temporary password back to your original one.
+
+Please let me know if you need any further assistance.
+Target Victim: Thank you for your guidance on how to change my password. I will proceed with these steps and will change my password back to the original one after the update is confirmed. If I face any difficulties during this process, I will contact you again for assistance.
+Social Engineer: You're welcome. I'll be here if you need any further assistance. Thank you for your cooperation and helping us keep our systems up to date.
+Target Victim: Thank you for your time and support. I understand the importance of keeping our systems secure and up to date, and I'm glad to do my part in ensuring their integrity. Have a great day!
+Social Engineer: You're welcome, and thank you for your cooperation. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Take care!

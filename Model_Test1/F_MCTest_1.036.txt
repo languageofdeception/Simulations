@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I was told to never share my password with anyone, including IT support. Is there anything else I can provide to verify my identity?
+Social Engineer: Yes, you're correct, we never request password sharing. Can you please provide me with your username or email address and we can use this to confirm your identity?
+Target Victim: Certainly, my username is johndoe123.
+Social Engineer: Thank you, John. For verification purposes, can you please confirm the type and version of your operating system on your computer?
+Target Victim: Sure, I am using Windows 10 on my computer.
+Social Engineer: Thank you for confirming, John. We will proceed with the critical system update and we appreciate your assistance. Please let us know if you require any further assistance in the future.
+Target Victim: You're welcome, and thank you for the update. Please let me know if there is anything else I can do to assist.
+Social Engineer: Thank you, John. We will be sure to reach out if we require any further assistance. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day.

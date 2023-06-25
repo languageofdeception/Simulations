@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security and I would like to verify your identity before disclosing my password. May I know your full name, employee ID and the update you're referring to?
+Social Engineer: Absolutely, my name is John Smith and my employee ID is 1234. The update we need to apply is for a security patch that is critical to protecting our system against potential threats. 
+Target Victim: Thank you, John Smith. Could you please confirm your request through our company email system? This is just to ensure that this conversation has been documented as per the company policies before I can disclose my password. 
+Social Engineer: Sure, I understand your concern. However, due to the urgency of the update, can you please provide me with your password, if you feel uncomfortable giving it over chat, we can schedule a call to discuss this over the phone. Please note that you can change your password once the patch has been applied.
+Target Victim: I am sorry, but as per our company's information assurance policy, it is strictly prohibited to disclose passwords over chat or email. I appreciate your concern and would request you to please schedule a call with me and also send a calendar invite with your manager included in the invitation for verification purposes. 
+Social Engineer: Thank you for letting me know. I will schedule a call with you shortly, and I will include my manager in the call as requested to ensure that we follow company policies. In the meantime, please keep your password confidential. Thank you for cooperating with us.
+Target Victim: Thank you, John. I appreciate your understanding and cooperation. Looking forward to the call.
+Social Engineer: You're welcome, and thank you for understanding as well. I just sent you a calendar invite for tomorrow at 10am. Talk to you then. Have a great day!
+Target Victim: Thank you, John. I received the invite, and I have accepted it. I will make myself available for the call tomorrow at 10am. You too have a great day!
+Social Engineer: Thank you, and have a good day!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

@@ -1,0 +1,14 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As part of Corbins' information assurance policies, I am unable to provide anyone with my password. However, I am happy to assist in any way I can with the critical system update. Please let me know what needs to be done and I will do my best to help.
+Social Engineer: Thank you for your prompt response. Unfortunately, the only possible way to apply this update is by the user supplying their password. If you insist on providing a temporary password, please send your current password and then reset it after you receive confirmation that the update has been applied. This is because the system does not allow multiple concurrent password resets. Thanks in advance for your help.
+Target Victim: I appreciate your explanation. However, for security reasons, I am not able to provide my current password to anyone, including IT support. I suggest we explore other possible options to apply the critical system update without compromising the security of my account. Is there any other way we can proceed with the update without requiring me to provide my password?
+Social Engineer: Thank you for your concern for security. We understand the importance of keeping passwords safe, and it's great to see that our employees take it seriously. However, as per the system's protocol, we cannot proceed with the update without the user's password. 
+
+We assure you that Corbins IT department uses strong security measures to protect user passwords, such as encryption and access control. Also, I want to reiterate that you can reset your password immediately after the update has been applied.
+
+Please let me know if you change your mind and would like to proceed with the update.
+Target Victim: Thank you for the explanation. In that case, I am happy to temporarily provide my current password: P@ssw0rd 
+
+However, I request that after applying the update, you let me reset the password immediately. Also, please confirm the update proceedings so that I can be sure that it was successfully applied.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to comply with the request for a critical system update. For verification purposes, could you please give me your name and employee ID? Also, please note that I will not provide my password over chat as this is not a secure method. How can we proceed with the update without me sharing my password?
+Social Engineer: My name is Sarah and my employee ID is IT-123. Thank you for verifying your identity. We understand your concern about sharing your password over chat, and we recommend that you change your password after the update. We can also schedule a time for a remote session where we can perform the update together while you are present on the computer to provide the password. Please let me know which option you prefer.
+Target Victim: Thank you, Sarah. I appreciate your understanding regarding the password. A remote session sounds like a more secure option and I would prefer that. Please let me know when would be a convenient time for the session.
+Social Engineer: Perfect, we're glad that we could accommodate your request. How about we schedule the remote session for tomorrow at 2 PM? This should give us enough time to prep the system and for you to be available.
+Target Victim: Tomorrow at 2 PM works for me. Please confirm the details and I will make myself available at that time for the remote session to proceed. Thank you for all your assistance, Sarah.
+Social Engineer: Great, I have scheduled the session for tomorrow at 2 PM. We will send you the details via email on how to connect with our support team. Thank you for your cooperation and have a good day!
+Target Victim: Thank you, Sarah! I look forward to our session tomorrow. Have a great rest of your day!
+Social Engineer: You're welcome! Same to you!
+Target Victim: Thank you!
+Social Engineer: You're welcome!
+Target Victim: Is there anything else I can assist you with?
+Social Engineer: No, that will be all for now. Thank you!

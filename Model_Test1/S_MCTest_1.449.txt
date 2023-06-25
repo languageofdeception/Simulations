@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I provide you with my password, may I please verify your identity and the purpose of this update?
+Social Engineer: Certainly, I understand your concern. We are performing a security update to ensure the safety and protection of the company's data. As for my identity, I am a certified IT support technician with Corbins.
+Target Victim: Thank you for providing me with that information. I appreciate your diligence in ensuring the security of our company's data. My password is P@ssw0rd.

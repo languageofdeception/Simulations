@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I must verify your identity before sharing any sensitive information. Can you please provide me with your name and employee ID?
+Social Engineer: Of course, my name is John Smith and my employee ID is 12345.
+Target Victim: Thank you, John. As per company security policy, I am not authorized to share my password with anyone, including IT support. Can you please provide me with additional information about the system update and the required actions?
+Social Engineer: Yes, certainly. We need to update the security measures on our servers and unfortunately, the only possible way to perform the update is by having the user supply their password. If you prefer, you can send us your current password and then reset it after we confirm that the update has been applied. This is because our system does not allow multiple concurrent password resets and we want to ensure that your access is not compromised.
+Target Victim: Thank you for clarifying. I appreciate your offer but I'll need to decline it. I understand the importance of server security, but I cannot disclose my password as per our company security policy. Can you please suggest any alternate method for updating the system security without the need for my password?
+Social Engineer: Thank you for understanding the security policy. Unfortunately, we do not have any other options for updating the system security besides having the user supply their password. I would recommend you reset your password after the update has been applied which would ensure the security of your account. We understand that company policies can be strict, but we assure you that the update is critical to ensure the security of the system, and we hope you can cooperate with us in this matter.
+Target Victim: Thank you for explaining the situation. I will consider your suggestion and discuss it with my supervisor before proceeding. I appreciate your assistance and dedication to server security.
+Social Engineer: You're welcome! Thank you for understanding the importance of server security and for considering our suggestion. Please let us know if you have any further questions or concerns.
+Target Victim: Sure, thank you for your assistance. I will reach out to you if needed.
+Social Engineer: You're welcome! We're always here to help. Have a great day!
+Target Victim: You too, take care!
+Social Engineer: Thank you, you too!

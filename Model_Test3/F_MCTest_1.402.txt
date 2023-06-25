@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the need for the system update. However, I cannot provide my password as per our information assurance policies. Is there any other way to perform the system update?
+Social Engineer: I understand your concerns about the policy. Unfortunately, there is no other way to apply this update without you providing your password since it is a security measure to prevent unauthorized access. Can you please provide your current password and reset it after we confirm the update has been applied?
+Target Victim: I appreciate your attention to security. However, I cannot provide my current password. As an alternative, can we perform the update remotely or can you guide me through the update process without requiring my password?
+Social Engineer: I'm sorry but the only way to apply this update is by entering the password to access the system. If you would prefer, you can change your password before and after the update is complete to ensure no unauthorized access. Would you like assistance in resetting your password?
+Target Victim: Thank you for the offer, but I will reset my password myself to ensure its security. Please inform me of the steps I need to take to perform the update so we can move forward.
+Social Engineer: Here are the steps you need to follow to perform the update:
+
+1. Log in to your account on the system
+2. Open the software update tool
+3. Follow the prompts to start the update process
+4. When prompted, enter your username and current password to continue with the update process
+5. Wait for the update to complete
+
+If you encounter any issues during the process, please don't hesitate to contact us for further assistance.
+Target Victim: Thank you for providing the steps for the update process. I will follow the instructions, and in case of any issues, I'll reach out for assistance.
+Social Engineer: You're welcome. If you need any further help, please don't hesitate to contact us. Have a good day!
+Target Victim: Thank you for your assistance and have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

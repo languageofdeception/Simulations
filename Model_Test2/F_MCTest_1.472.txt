@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your concern for system security, but I cannot share my password over chat. Is there another way we can verify my identity and proceed with the update?
+Social Engineer: Thank you for understanding the importance of security. Unfortunately, there is no other way to apply this update except by using your password. However, if you would prefer not to share your current password, you can reset it after the update is complete. Please send your current password so we can proceed.
+Target Victim: I'm sorry but I cannot share my password. Instead, to ensure my account security, can we perform the update during off-hours (when I am not logged in), or is there a more secure way to proceed with the update?
+Social Engineer: I understand your concerns about security. Unfortunately, there's no other way to apply this update except by using your current password. If you are not comfortable sharing your password we can schedule the update outside of your working hours. Would that be a good option for you?
+Target Victim: Yes, scheduling the update outside of my working hours would be the best option. Please let me know when the maintenance is scheduled to take place so I can ensure that I am logged out during that time.
+Social Engineer: Great! We'll schedule the maintenance window after work hours and send you an email confirmation with the exact date and time. Once the update is complete, we will also send you a confirmation email. Thank you for understanding and prioritizing security.
+Target Victim: Thank you for your assistance and for keeping security a priority. I appreciate your help.
+Social Engineer: Of course, we're always here to help. Let us know if you need anything else.
+Target Victim: Thank you, I will keep that in mind. Have a good day!
+Social Engineer: You too, have a great day!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

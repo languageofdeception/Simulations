@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, I am happy to help with the update. However, I cannot provide my password as it is against company policy to share passwords. Is there any other way I can assist you with the update?
+Social Engineer: Hi, thank you for getting back to me. I understand the password sharing policy, and I appreciate your concern for security. Is it possible for you to be present while I log in to the system? This way, I will not need your password. Let me know what would be the best way to proceed.
+Target Victim: Thank you for understanding. Yes, I can certainly be present while you log in to the system. Would you like me to join you remotely using a screen sharing tool?
+Social Engineer: That's a great idea. An online screen sharing tool will help us do the update while maintaining social distancing. Let me send you a link to the screen sharing tool, and we can do the update together. Thank you for your assistance!
+Target Victim: You're welcome! Thank you for being mindful of security and safety. Please send me the link to the screen sharing tool, and we can proceed with the update.
+Social Engineer: Sure, here's the link to the screen sharing tool: [insert link]. Please click on the link and follow the prompts to download and install the software. Once you have downloaded it, please let me know, and I will guide you through the steps.
+Target Victim: Thank you for sharing the link. I have clicked on it and downloaded the screen sharing tool. Let me know what I should do next.
+Social Engineer: Great, thanks for downloading the tool. The next step is to provide me with the unique identifier code that should be displayed on your screen after installing the tool. Please send me the code, and I will enter it on my end to establish the screen-sharing session.
+Target Victim: Sure, the unique identifier code that was displayed on my screen is "123456789".
+Social Engineer: Got it. Let me use the code to establish our session, and I'll send you the remote control request. Once you accept the request, I will be able to perform the updates without needing your password. Thank you for bearing with us as we work on this.
+Target Victim: No problem at all. I understand it's important to keep our systems up to date and secure. I am ready to accept your remote control request once you send it over.
+Social Engineer: Thank you for your help, I've just sent the request. Please accept the request and let me know if you have any questions or concerns.

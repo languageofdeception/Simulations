@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, can you please verify your identity and provide your full name and employee ID? Also, I understand the importance of system updates, however, I cannot provide my password over chat. Is there any other way we can perform the update without compromising security?
+Social Engineer: Certainly, my name is John Smith and my employee ID is 12345. Sorry for any inconvenience, but the only way to apply this critical update is for you to provide your password. However, if you are uncomfortable sharing your current password, you can reset it after you receive confirmation that the update has been applied. Note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for providing your information, John. I understand the urgency of the update and appreciate the suggestion to reset my password after the update has been applied. In that case, I will share my password with you. My current password is P@ssw0rd. Please let me know when the update has been completed successfully so that I can reset my password.

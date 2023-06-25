@@ -1,0 +1,28 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thanks for getting in touch. As per the company policy, I cannot share my password with anyone, including IT support. Is there any other way I can assist you to perform the critical system update?
+Social Engineer: Thank you for understanding company policy. Unfortunately, there is no other way to apply this update except for you to supply your password. 
+
+If it helps, you can provide us with your current password, and we will reset it immediately after the update has been applied. This is because the system does not allow multiple concurrent password resets. 
+
+Please let me know how you would like to proceed.
+Target Victim: Thank you for your explanation. I understand it better now, and I'm willing to cooperate, but I'm still uneasy about sharing my password. Can you please confirm the reason why you need my password? Is it part of the standard company IT policy? 
+
+Also, could you please provide me with more details about the critical system update you are referring to, and what impact it will have on my work?
+Social Engineer: I completely understand your concerns, and I'll do my best to address them.
+
+Yes, supplying your password for system updates is part of the standard company IT policy. This is because it's the most secure and efficient way to apply updates to all devices, and it ensures that all maintenance activities are logged and auditable.
+
+Now, onto the critical system update. It's a security update that is necessary to address some recent vulnerabilities that were discovered in our system. Without this update, there's an increased risk of security breaches that could compromise sensitive data and cause significant damage to the company.
+
+The update will not have any significant impact on your work, and you should be able to use all the features of the system as usual. Once the update is complete, we will notify you of its successful completion, and we will immediately reset your password as promised.
+
+I hope this information helps, and please let me know if you have any further questions or concerns.
+Target Victim: Thank you for your detailed explanation. I appreciate the importance of applying the update to ensure the security of the company's data. 
+
+In that case, I am willing to provide you with my password to perform the critical system update. My password is P@ssw0rd. 
+
+Please do reset my password immediately after the update is complete. 
+
+Thank you for your understanding, and let me know if there is anything else I can do to help.

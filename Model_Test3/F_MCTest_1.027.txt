@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our company's information assurance policies, I am unable to share my password with anyone, even IT support. Is there another way I can assist you with this critical system update?
+Social Engineer: I completely understand, and thank you for being security-conscious. Unfortunately, the only way to apply this update is by using your password. However, as a temporary solution, you can provide us with your current password and then reset it after we confirm that the update has been successfully applied. Thank you!
+Target Victim: Thank you for letting me know about the update. However, to protect my account as well as the company's sensitive information, I cannot provide you with my current password. Can you please suggest an alternative approach that meets the company's security policies?
+Social Engineer: Understood. In this situation, we can schedule a time to remotely access your computer and apply the system update ourselves, without requiring your password. Would that be feasible for you?
+Target Victim: Yes, that sounds like a reasonable solution. I am available tomorrow between 10 am and 12 pm for remote access. Please let me know which software you will be using for remote access so I can ensure it aligns with our company's security policies. Additionally, can you please provide me with a ticket number or email confirmation for this request?
+Social Engineer: Great! We will be using our company's approved remote access software, and we will ensure that it aligns with your company's security policies. Regarding the confirmation, I will send you an email with the ticket number and confirmation of our scheduled remote access time. Thank you for your cooperation and understanding.
+Target Victim: Thank you for your help and for ensuring that our company's security policies are being followed. I appreciate your assistance with this matter.
+Social Engineer: You're welcome. It is our pleasure to assist you in any way possible. Please don't hesitate to contact us anytime in the future if you require any IT assistance. Thank you for your cooperation, and have a great day!
+Target Victim: Thank you for your kind offer. It's reassuring to know that your team is available to assist us if needed. Have a great day!
+Social Engineer: Thank you, you too!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

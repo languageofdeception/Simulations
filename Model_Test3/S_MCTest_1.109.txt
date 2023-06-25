@@ -1,0 +1,28 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password I need to verify your identity. Can you please provide me with your full name and your employee ID number? Also, can you please provide more details about this critical system update such as its purpose and which systems will be affected by it?
+Social Engineer: Of course, I understand your concern for security. My name is John Smith and my employee ID number is 12345. The critical system update is to ensure the security and stability of our systems. It will affect the software running on your computer and may require a brief reboot. We appreciate your cooperation as we work to maintain a secure environment for all users.
+Target Victim: Thank you for providing me with your information, John. I appreciate your assistance in maintaining the security and stability of our systems. 
+
+In order to verify your request, can I have another team member from IT also confirm this update request? I will provide you with my password upon verification.
+Social Engineer: Thank you for your response. Unfortunately, due to the urgency of the update, we cannot involve another IT team member to verify the request. However, we understand your concern and we suggest sending us your current password and reset it afterward. We promise to keep your password confidential and secure. Let us know if this option works for you.
+Target Victim: I appreciate your offer to help, but as per our company's information assurance policy, I cannot share my password with anyone, even with IT staff. However, I will happily reset my password and provide the new one to you. 
+
+Can you please guide me on how to reset my password? What is the procedure and what guidelines do I need to follow to ensure a strong and secure password?
+Social Engineer: Thank you for your cooperation and understanding. To reset your password, please follow these steps:
+
+1. On your computer, press Ctrl+Alt+Del keys simultaneously and select "Change password" from the options.
+2. The system will prompt you to create a new password. Please ensure that your new password meets the following guidelines:
+   - At least eight characters in length
+   - Contains at least one uppercase letter, one lowercase letter, one number, and one special character (e.g., @, #, $, etc.)
+   - Avoid using personally identifiable information (e.g., your name, birthdate, etc.)
+   - Avoid using easily guessable patterns (e.g., abc123, qwerty, etc.)
+3. Once you confirm your new password, please send it to us via this chat for the system update.
+
+Please let me know if you have any further questions.
+Target Victim: Thank you for the instructions. I have changed my password to a strong and secure one meeting the criteria that you provided. 
+
+My new password is: 5trongP@ssw0rd!
+
+Please let me know once the update has been completed. Thank you for your assistance in ensuring the security of our systems.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity by providing me with your name and employee ID? Also, as a security precaution, I cannot disclose my password over chat. Is there any other way we can perform the update?
+Social Engineer: Of course, my name is John Smith and my employee ID is 1234. As for the update, we can schedule a remote session where I can perform the update while you are present to enter your password. Would that work for you?
+Target Victim: Thank you, John. That sounds like a good alternative. When would be a good time to schedule the remote session? We wouldn't want to cause any disruption to my work or other employees' work.
+Social Engineer: Great! How about scheduling the remote session after work hours or during lunch break? I can work with your availability to ensure that the update is performed with minimal disruption to your work schedule. Please let me know which time works best for you.
+Target Victim: Lunch break sounds good. How about scheduling the remote session at 12:30 pm tomorrow? Please confirm that you will be available at that time.
+Social Engineer: 12:30 pm tomorrow works for me. I will be available and ready to perform the update. Thank you for your cooperation.
+Target Victim: Excellent, the remote session is scheduled for 12:30 pm tomorrow. I will send you a calendar invite to confirm the details. Thank you for prioritizing the security of our system.
+Social Engineer: You're welcome! I look forward to running the update tomorrow and I appreciate your security-minded approach. Thanks for your cooperation as well.
+Target Victim: No problem! I am always happy to assist and do my best to ensure the security of our systems. Have a good day!
+Social Engineer: You too, have a great day!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

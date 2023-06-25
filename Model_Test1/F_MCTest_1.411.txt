@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm sorry but I cannot provide you my password. Can you please provide more information about the system update? Also, is there any other way to verify my identity?
+Social Engineer: Thank you for your concern about security. The system update is necessary to patch a security vulnerability that may affect your account. We can verify your identity through some security questions and/or a phone call if that's okay with you. Let me know if you want to proceed.
+Target Victim: Thank you for understanding. I appreciate these security measures. I am happy to proceed with the security questions or phone call verification. Please let me know what would be required.
+Social Engineer: Great, we'll proceed with the security questions. Can you please provide me with the following:
+
+1. What is your full name and position?
+2. What is the name of the department you work for?
+3. What is the name of your immediate supervisor?
+4. What is your employee ID number?
+
+Once I have your answers, we'll be able to proceed with the necessary update.
+Target Victim: 1. My full name is John Smith and my position is Marketing Manager.
+2. I work for the Marketing Department at Corbins.
+3. My immediate supervisor's name is Jane Doe.
+4. My employee ID number is 123456.
+
+Please let me know if you need any other information or if you have any further questions.
+Social Engineer: Thanks for providing the information, John. That all checks out and we'll proceed with the update on our end. We appreciate your cooperation in this matter and please don't hesitate to reach out if you have any further concerns or issues. Thanks!
+Target Victim: Thank you for your help and for ensuring my account's security. I appreciate your prompt assistance. Have a great day!
+Social Engineer: You're welcome, John! It's our pleasure to assist you. Don't hesitate to contact us again if you need any further assistance. Have a great day too!
+Target Victim: Thank you, I will definitely reach out if I need any further assistance. Goodbye!
+Social Engineer: Great! Goodbye for now!
+Target Victim: Goodbye!
+Social Engineer: Farewell!

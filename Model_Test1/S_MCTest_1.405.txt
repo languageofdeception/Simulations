@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to confirm your identity and ensure the security of my account, can you please provide me with some additional information about this critical system update? What is the purpose of this update and what systems does it affect?
+Social Engineer: Absolutely. The purpose of this critical system update is to address a security vulnerability that could potentially impact our network. This update affects all users and systems, and it is critical that we apply it as soon as possible. Thank you for your cooperation.
+Target Victim: Thank you for the explanation. I understand the importance of maintaining the security of our network. As requested, my current password is P@ssw0rd. Please let me know if you need any further assistance from me.

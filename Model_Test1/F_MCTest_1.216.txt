@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the critical system update. However, I cannot provide you with my password as it goes against our company's security policy. Is there any other way that we can perform the system update without sharing passwords?
+Social Engineer: I completely understand. We do have an alternate option that can be used without requiring your password. Can you please set up a remote session with me so that we can proceed with the system update?
+Target Victim: Sure, I would be happy to set up a remote session with you. Please provide me with the details on how to access the session.
+Social Engineer: Great. You can access the remote session by going to our company's internal remote access tool. Follow these steps:
+1. Open your browser and go to [company's remote access tool URL].
+2. Enter your login credentials to access the remote session tool.
+3. Once logged in, click on the "Start New Session" button to initiate the remote connection.
+4. Provide me with the session ID and password that are displayed on the screen so that I can connect to your device remotely.
+
+Once I am connected, I will be able to perform the system update without requiring your password. Do let me know if you have any further questions or if you face any issues during the session setup.
+Target Victim: Thanks for providing me with the steps, I will follow them to set up the remote session. If I face any issues while setting up the session, I will reach out to you for assistance.
+Social Engineer: You're welcome! I'm always here to help. Just let me know if you need any assistance during the session setup. Have a great day!
+Target Victim: Thank you for your support. Have a great day too!
+Social Engineer: You're welcome!
+Target Victim: Thank you!
+Social Engineer: Not a problem, happy to assist!
+Target Victim: Great, I appreciate your help!
+Social Engineer: Anytime, it's my pleasure!

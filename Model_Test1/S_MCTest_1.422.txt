@@ -1,0 +1,18 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. For security reasons, I cannot provide my password to anyone, even IT support. Is there another way we can proceed with the system update?
+Social Engineer: No problem, I completely understand. Can you log into the system yourself and give me remote access using a screen-sharing tool like TeamViewer? That way, I can perform the update on your behalf without needing your password.
+Target Victim: Sure, that sounds like a good plan. Let me confirm that this request is legitimate by checking with my supervisor first. Can you please provide me with your full name and employee ID number for verification purposes?
+Social Engineer: Absolutely. My name is John Smith and my employee ID number is #12345. Please let me know if you need any additional information to verify my request.
+Target Victim: Thank you for providing that information, John. Let me confirm your request with my supervisor and I will get back to you shortly.
+Social Engineer: Thank you for your cooperation. I'll be here when you're ready.
+Target Victim: Hi John, thanks for your patience. I've confirmed with my supervisor that your request is legitimate. 
+
+I will log into the system and provide you with remote access using a screen-sharing tool like TeamViewer. Let me know when you are ready to proceed.
+Social Engineer: Thank you for confirming and trusting our IT team, I will be ready when you are. Please send me the credentials needed to access the system through the chat and we will initiate the process using TeamViewer.
+Target Victim: Absolutely. Here are the credentials you will need to access the system:
+- Username: [insert username]
+- Password: P@ssw0rd
+
+Once you have logged in, we can proceed with the TeamViewer session. Let me know if you have any issues logging in or initiating the session.

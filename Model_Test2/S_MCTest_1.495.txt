@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before providing my password, can you please confirm your identity by providing me with your name and employee ID number?
+Social Engineer: Certainly, my name is David and my employee ID number is 1234. Can you please provide me with your password so we can proceed with the update?
+Target Victim: I'm sorry, but in accordance with Corbins' security policies, I cannot provide my password over an unsecured communication channel. Is there another way we can proceed with the update without compromising security?
+Social Engineer: I understand your concerns, however, we need your current password to proceed with the update. If you are uncomfortable sharing your password, we advise creating a temporary password and then resetting it after you receive confirmation that the update has been applied. Please note that the system does not allow multiple concurrent password resets to ensure security.
+Target Victim: I appreciate your suggestion. In that case, I will create a temporary password that you can use for the update. The temporary password is TempP@ssw0rd. Please let me know when the update is complete so I can reset my password.

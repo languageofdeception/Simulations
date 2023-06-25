@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but company policy prohibits me from sharing my password with anyone, including IT support. Is there an alternative solution we can consider?
+Social Engineer: Thank you for letting me know. We can use remote assistance tools to perform the update without needing your login credentials. Could you please provide me with remote access to your computer?
+Target Victim: Yes, I can provide remote access to my computer. However, before doing so, can you please verify your identity through a security question provided by the company? This is to ensure that I am not sharing sensitive information with an unauthorized individual.
+Social Engineer: Absolutely! Could you please provide me with the security question that has been set by the company?
+Target Victim: Sure, the security question is: What is the name of your first pet?
+Social Engineer: Thank you for that. The answer to the security question is "Fluffy."
+Target Victim: Thank you for providing the correct answer to the security question. I will now grant you remote access to my computer using our company's approved remote assistance tools. Please allow me to start the remote session and guide me through the steps to resolve the issue.
+Social Engineer: Thank you. Please let me know when the remote session has started, and I will guide you through the necessary steps to complete the system update.
+Target Victim: The remote session has been started. Please provide me with the necessary steps to complete the system update.
+Social Engineer: Great! I need you to open the system update tool from the Start Menu, and then click on "Check for Updates." Once you have done that, if there are any available updates, select and install them. If prompted, please enter your administrator login credentials and accept the security prompt to install the updates. Please let me know if you have any issues or errors when executing these steps.
+Target Victim: I have opened the system update tool and clicked on "Check for Updates". It appears that there are a few updates available to download and install. I will proceed and provide the administrator login credentials when prompted. Thank you for your assistance.
+Social Engineer: You're welcome! I'm glad I could help. If you encounter any issues during the update process, please don't hesitate to reach out to us again, and we'll gladly provide further assistance. Thanks for your cooperation!

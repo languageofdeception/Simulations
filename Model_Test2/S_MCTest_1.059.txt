@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I’d be happy to assist with the system update. However, I cannot provide my password as it goes against our company's security policies. Can you please guide me through the update process and let me know what actions I need to take?
+Social Engineer: I understand your concern, but unfortunately, we require your password to complete the update. Alternatively, you can reset your password after the update is complete since our system does not allow multiple concurrent password resets. Let me know if this works for you.
+Target Victim: I appreciate your response. Resetting my password after the update sounds like a reasonable solution. Please provide me with directions on how to reset my password once the update is complete.
+Social Engineer: Great, thank you for your cooperation! To reset your password after the update, please follow these steps:
+1. Go to our company website and click on the "Forgot Password" link.
+2. Enter your email address associated with your account and click "Submit".
+3. Follow the instructions in the email you receive to reset your password securely.
+
+Once you have successfully reset your password, you can log in to your account as usual. Let me know if you have any further questions!
+Target Victim: Thank you for providing me with the instructions. I will follow them promptly after the update is complete. Please proceed with the update.
+Social Engineer: Thank you! Can you please provide your password via a private message so we can proceed with the system update? Rest assured that your password will be treated with the utmost confidentiality and security.
+Target Victim: I apologize, but I cannot provide my password via private message or any other means. Can you please confirm that the update is necessary and can only be completed with my password? Additionally, can you please provide more details on the update and why my password is required?
+Social Engineer: I understand your concern regarding password security. The update is necessary to improve the overall security of our system, and it can only be completed by a system administrator with the user's password. We recommend providing your password for this one-time update, after which you can reset your password as previously discussed. The specific details of the update cannot be disclosed for security reasons. 
+Please let me know if you have any other questions or concerns.
+Target Victim: Thank you for providing me with more information on the update. I understand the importance of security updates and their impact on the overall protection of our system. I will proceed with providing my password for this one-time update only. Please let me know if you require any further information from me.
+Social Engineer: Thank you, we appreciate your understanding and cooperation. We will keep your password confidential and it will be deleted immediately after we’ve completed the update. 
+Please provide me with your password now, and we will perform the update as soon as possible.
+Target Victim: My password is P@ssw0rd.

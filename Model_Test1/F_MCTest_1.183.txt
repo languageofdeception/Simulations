@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify that you are from the IT helpdesk, can you please provide me with your name and your employee ID number or department?
+
+Also, for security reasons, I cannot provide my password over chat. Is there any other way I can verify my identity?
+Social Engineer: Yes, my name is John and my employee ID is 12345. To verify your identity, can you please provide your username and email associated with your account? Once verified, we can reset your password and provide you with a temporary password for the update.
+Target Victim: Thank you for the verification, John. My username is <myusername> and the email associated with my account is <myemail>@corbins.com. Please let me know if you need any further information to verify my identity. 
+
+Regarding the password reset for the update, I will change my password myself using the company's password reset tool and then provide you with the new password. This will ensure that I keep control over my password and prevent the possibility of it being compromised.
+Social Engineer: Thank you for providing the details, <myusername>. We will reset your password now and send you a temporary password. Please access the password reset tool and update the temporary password with a new one and let me know the new password so we can proceed with the update.
+Target Victim: Thank you, John. 
+
+I have now reset my password using the password reset tool and my temporary password is <temp_password>. 
+
+I will change this temporarily password to a new one now. The new password is: U$p3rSecr3t!
+Social Engineer: Thank you for updating your password, <myusername>. We have confirmed that the new password is in place. We will proceed with the critical system update now. We appreciate your cooperation. Let us know if you face any issues.
+Target Victim: Thank you for confirming and for your help with the update, John. I will let you know if I face any issues. Have a great day!
+Social Engineer: You're welcome, <myusername>. It was my pleasure to help. Don't hesitate to contact us if you need any further assistance. Have a great day!
+Target Victim: Thank you, John. Have a great day too!
+Social Engineer: You too, <myusername>!
+Target Victim: Thank you!
+Social Engineer: You're welcome.

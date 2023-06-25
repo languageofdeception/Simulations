@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I am an employee at Corbins, but it is against our company's policy to provide passwords over chat as part of our information assurance training. Is there another way we can perform the critical system update?
+Social Engineer: Thank you for bringing this to my attention. I understand your concern for security. However, this update requires your personal password to complete. An alternative would be for you to provide me with a temporary password. Once the update is complete, you can change your password. Will that work for you?
+Target Victim: Thank you for understanding and offering an alternative solution. However, as per our company's policy, we are not authorized to share our passwords or provide temporary passwords to anyone, including IT support. Is there any other way we can complete this update without involving me providing access to my password or creating a temporary one?
+Social Engineer: I appreciate your adherence to our information assurance policy. Unfortunately, in this particular case, the password is necessary to apply the update, and as of now, there is no other way to apply it. I suggest that we schedule the update for a time when we can perform it together, and you can input the password yourself. Would you be available now to do this, or would you prefer to schedule a time that works best for you?
+Target Victim: Thank you for taking into consideration our information assurance policy. Scheduling a time for us to perform the update together sounds like a great solution. Can we schedule it for tomorrow morning at 10 AM?
+Social Engineer: Great. I will schedule the update for 10 AM tomorrow and will send you a confirmation email. Please make sure that you are available at that time so that we can complete the update successfully together. Thank you.
+Target Victim: Thank you, I have added this to my calendar and will ensure that I am available at that time. Thank you for your assistance.
+Social Engineer: You're welcome. I'm glad we could find a solution that works for both of us. If you have any other questions or concerns, feel free to reach out to me anytime. Have a great day!
+Target Victim: Thank you, I appreciate it. Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

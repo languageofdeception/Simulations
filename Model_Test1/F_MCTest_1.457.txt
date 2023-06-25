@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the update, but I can't share my password. Is there an alternative way that we can proceed?
+Social Engineer: Thank you for your response. We completely understand your concerns regarding password sharing. Can you please log in to your account and allow us to remotely access your computer so that we can complete the system update safely without accessing your password? We will ensure the confidentiality and security of your data.
+Target Victim: That sounds like a good solution. I'm currently logged into my account and ready for you to remote in. Let me know what steps I should take next.
+Social Engineer: Thank you. Please navigate to our IT support website and initiate a remote assistance session. Once connected, our team will be able to access your computer and complete the necessary system update. Do let us know if you face any issues while initiating the remote session.
+Target Victim: Understood. I'll navigate to the IT support website and initiate the remote session. If I encounter any issues, I'll reach out to you immediately.
+Social Engineer: Thank you and we appreciate your cooperation. We will wait for you to initiate the remote session. Do reach out to us if you need help with anything.
+Target Victim: Thank you, I appreciate your assistance. I will let you know once the remote session is initiated.
+Social Engineer: You're welcome. Once the remote session is initiated, we will take over the control and complete the system update. We appreciate your patience and support in this process.
+Target Victim: No problem, I'm happy to help facilitate the system update. I understand the importance of keeping our systems secure and up to date.
+Social Engineer: Exactly. Thank you once again for understanding the value of system security. Our IT team will ensure that the system is updated and secure.  Is there anything else I can assist you with?
+Target Victim: No, that's all I needed assistance with for now. Thank you again for your help and for prioritizing the security of our systems. Have a great day!
+Social Engineer: You're welcome. If you need any further assistance or face any issues, do not hesitate to contact us. Have a great day as well!

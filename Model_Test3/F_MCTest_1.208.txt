@@ -1,0 +1,30 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, yes, I am happy to assist with the update. However, per company policy and information assurance training, I cannot provide my password over chat. Is there another way we could authenticate my identity?
+Social Engineer: Thank you for your security consciousness. Unfortunately, there's no other way to authenticate right now, but we need your password to apply this critical update. If you could please provide us with your current password, we'll make sure to reset it and confirm that the update has been applied before handing over control back to you.
+Target Victim: I'm sorry, but I cannot provide my password over chat. Can you please explain why my password is needed for this system update? I want to ensure that my information is protected and that I am not at risk of any security breaches. Is there another way we can authenticate my identity in order to proceed with the update?
+Social Engineer: Certainly. This critical system update requires user-level access to your account in order to properly apply the changes. Unfortunately, there is no way for us to do this without your password. However, if you prefer not to share your password with us, we can suggest changing your password before and after the update has been applied. 
+
+Please let us know which option you are comfortable with so that we can proceed with the update.
+Target Victim: I appreciate your explanation. In order to prioritize security, I would prefer to change my password before and after the update has been applied. Could you please walk me through the process of changing my password?
+Social Engineer: Sure, I would be happy to help you with that. Here are the steps to change your password:
+
+1. Go to the login page and click on "Forgot Password."
+2. Enter your current email address and follow the on-screen prompts.
+3. You will receive a password reset link in your email. Click on the link to reset your password.
+4. Enter your new password, make sure it meets the necessary requirements, and confirm your new password.
+5. Once you've completed the process, send me your new password, and we will proceed with the critical system update.
+6. After we've confirmed that the update is applied, you can change your password again.
+
+Let me know if you have any questions about the process.
+Target Victim: Thanks for letting me know. I'd now like to change my password. I am proceeding to the login page right now.
+Social Engineer: Great! Please let me know when you have reset your password so we can proceed with the critical system update.
+Target Victim: I have just reset my password, and I am now ready to provide the new password. What's the next step?
+Social Engineer: Fantastic! Please share your new password with me over the chat so that we can proceed with the critical system update. Once we have confirmed that the update is applied, please change your password again for security reasons.
+Target Victim: I appreciate your help. My new password is Astra@123. Please confirm once you have successfully applied the system update.
+Social Engineer: Thanks for the new password. I have noted it down. 
+
+We are applying the critical system update right now and will notify you once the update is successfully applied. Please be online and reachable for the next 30 minutes, so we can update you on the status. Once we're done with the update, please change your password to a unique one that you have not used before.
+
+Thank you for your cooperation and understanding.

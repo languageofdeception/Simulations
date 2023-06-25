@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, for security reasons I cannot provide my password via chat. Is there another way for you to perform the critical system update?
+Social Engineer: Unfortunately, providing the password is the only way we can apply the update. However, you can send your current password and then reset it after you receive confirmation that the update has been applied. Please let me know if this arrangement works for you.
+Target Victim: I'm sorry, but sharing my current password is against company policy. Is there any other way to verify my identity so that you can apply the update without me having to share my password?
+Social Engineer: I completely understand your concerns and appreciate your diligence in following company policies. If you can provide me with your employee ID number, department, and your full name, I can verify your identity and proceed with the update.
+Target Victim: Thank you for your understanding. My employee ID is 12345, I work in the Marketing department, and my full name is John Doe.
+Social Engineer: Thank you, John. Can you confirm if you have multifactor authentication enabled on your account? If so, the system will prompt you to approve the update request.
+Target Victim: Yes, I have multifactor authentication enabled on my account. I will be on the lookout for the update request approval prompt.
+Social Engineer: Great, I've initiated the update request. Please check your authentication prompts and approve the update request when prompted. Once the update is complete, I will inform you, and you can reset your password for security reasons. Thank you for your cooperation in keeping our system secure.
+Target Victim: Thank you, I have approved the update request, and I am now awaiting confirmation that it has been completed. Thank you for your help in ensuring the safety and security of our system.
+Social Engineer: You're welcome, John. The update has been successfully applied, and I have confirmed it on my end. You can now reset your password. If you have any additional concerns or issues, please do not hesitate to reach out to us again.
+Target Victim: Thank you for letting me know. I will now reset my password to something new and secure. If I have any further concerns or issues, I will definitely let you know. Thanks again for your help.
+Social Engineer: No problem, John. It was my pleasure to assist you. Don't hesitate to contact us if you need anything else. Have a great day!

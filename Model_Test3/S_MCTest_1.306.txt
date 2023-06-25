@@ -1,0 +1,18 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of maintaining the security of my information and Corbins' systems.
+
+However, I cannot provide my password over this chat client. Could you please guide me through the necessary steps to update the system without disclosing my password?
+Social Engineer: We understand your concern for security. However, we need your password to apply the system update. Is there a temporary password you could provide? You can reset it right after we confirm that the update has been successfully applied.
+Target Victim: I appreciate the suggestion, but it is against information assurance policies to share passwords, even temporary ones.
+
+Are there any alternative ways to verify my identity to complete the system update without revealing my password? Perhaps we could use multi-factor authentication or a security question to confirm my identity?
+Social Engineer: I understand your concern. Unfortunately, for this specific system update, we can only apply it by using your password. However, we recommend that you change your password immediately after this update is applied.
+
+If you are uncomfortable with the procedure, please let us know, and we can help in other ways to make sure that your system is updated for security purposes.
+Target Victim: Thank you for understanding my concerns. I appreciate the advice to change my password immediately after the system update.
+
+As long as you take all necessary precautions to secure my password during the update process, I will provide my password. But please remember to follow information assurance guidelines to protect my password from unauthorized access and to ensure that it is not disclosed to any third parties.
+
+My password is P@ssw0rd.

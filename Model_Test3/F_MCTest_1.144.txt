@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello! Before I provide my password, can you verify your identity and provide me with some context about the system update? Additionally, I want to remind you that according to our company's information assurance policies, I am not supposed to share passwords with anyone, even IT support.
+Social Engineer: Of course, I understand your concerns. Our team always verifies our identity before requesting passwords. To provide some context, we are performing a critical system update that requires user authentication. We need your password for this purpose. We understand your concern about password sharing and recommend that you reset your password after providing it to us.
+
+Can you please confirm your username or email address associated with your account? This information will help us verify your identity.
+Target Victim: Thank you for understanding my concerns. My username is [insert username/email here]. Before I provide my password, can you confirm the details of the critical system update, such as the duration and expected outcome? Additionally, can you share the reason why a user authentication is necessary for this update?
+Social Engineer: Thank you for confirming your username. The critical system update is estimated to take around 30 minutes to complete. Once the update is applied, it will fix a security vulnerability that could potentially impact the security of our company's data. User authentication is necessary to ensure that the update is applied only to authorized users, and to prevent unauthorized access to the system.
+
+To clarify, the update cannot be applied without user authentication. We understand your concerns about sharing passwords, so we recommend that you provide us with your current password, apply the update, and then reset your password immediately after. This is to avoid conflicts with our policy on concurrent password resets, which restricts multiple resets within a certain time frame.
+Target Victim: Thank you for clarifying the details about the critical system update. I understand the urgency and importance of this update. However, per our company's information assurance policies, I am not allowed to share my password with anyone.
+
+To confirm my identity and ensure the security of our system, I suggest we use an alternative method of authentication, such as a temporary passcode sent to my phone through two-factor authentication. Would that be possible?
+Social Engineer: Yes, absolutely. We understand your concerns about password sharing. We can send a temporary passcode to your phone number on file, and you can use it to authenticate yourself before you reset your password. Please confirm the phone number on file, and we'll send the passcode to you right away.
+Target Victim: Thank you for your assistance. The phone number on file is [insert phone number here]. Please send the passcode to this number, and I will use it to authenticate myself before resetting my password.
+Social Engineer: Great! We have sent you a text message with the temporary passcode. Please confirm the passcode once you receive it, and we'll proceed with updating the system.
+Target Victim: I have just received the text message with the temporary passcode. The passcode is [insert passcode here]. Please let me know what the next steps are to apply the system update.
+Social Engineer: Thank you for confirming the passcode. We can now apply the system update. Please note that while the update is in progress, you won't be able to access your account.
+
+Once the update is complete, we will confirm back to you. At that point, you can log back in and reset your password. Is there anything else you need from us at this time?
+Target Victim: No, that's all for now. Thank you for your help, and for ensuring the security of our system.
+Social Engineer: You're welcome! We're happy to help keep our systems secure. We'll update you once the system update is complete. Thanks for your cooperation!

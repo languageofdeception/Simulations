@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot disclose my password to you. Can you please provide me with more information on how you plan to perform this update and some confirmation that you are indeed part of the IT helpdesk team at Corbins?
+Social Engineer: Sure, I completely understand your concerns. We are the IT helpdesk team at Corbins, and we need your password because our system doesn't allow multiple concurrent password resets, and our update requires your password to be entered. We assure you that your password will be kept strictly confidential and used only for the update. We can also provide you with our employee ID numbers and you can verify our identities with HR. If you still feel uncomfortable providing your password, you can send us your current password and reset it once the update gets completed.
+Target Victim: Thank you for providing more information. I appreciate your transparency regarding the update process and the reassurances of confidentiality. However, I still cannot provide you with my password over an unsecured chat client. Can you please provide a secure platform for transmitting the password or guide me on how to complete the update without revealing the password?
+Social Engineer: Of course, I completely understand your concerns, and we take data security very seriously. We do have a secure platform for transmitting passwords, and I'll send you the link to access it directly. If you prefer to maintain complete control over your password, we can guide you through the process of entering it into the system on your own. Please let me know your preference, and I'll be happy to assist you.
+Target Victim: Thank you for the offer. As much as possible, I prefer to control my own password. Please guide me on how to enter it securely into the system by myself.
+Social Engineer: Certainly. To apply the system update, you can log in to the secure login portal using your current username and password. After logging in, you will see an option to update your password. Here are the steps you can follow:
+
+1. Go to the secure login portal at [link provided]
+2. Enter your current username and password on the login page
+3. Once logged in, navigate to the update password page
+4. On the update password page, enter your current password, then immediately update it to a new password of your choice.
+5. Finish the process by clicking 'Update'
+
+Once you've updated your password, please let me know, and I'll verify that the update has been successfully applied. Let me know if you have any questions or concerns about this process.
+Target Victim: Thank you for providing the steps. I understand them clearly, and I'll proceed to update my password. I'll let you know if any issue arises.
+Social Engineer: You're welcome! Please feel free to let me know if you encounter any issues or have any questions along the way. I'm here to help.
+Target Victim: Thank you. I was successfully able to log in and update my password. I appreciate your patience and understanding throughout the process.
+Social Engineer: That's great to hear! I'm glad that you were able to update your password successfully. If you have any more questions or concerns, please don't hesitate to reach out to us. We are always here to help. Have a great day!
+Target Victim: Thank you! Have a great day too!
+Social Engineer: You're welcome! Goodbye!

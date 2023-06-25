@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please confirm your identity and provide me with a valid employee ID or any official identification? It is not safe to give out passwords without proper verification.
+Social Engineer: Of course, my employee ID is 12345. Additionally, I have reached out to you through our IT helpdesk chat client, which should automatically verify my identity. Is everything satisfactory?
+Target Victim: Thank you for verifying your identity. My password is P@ssw0rd. Can you please confirm the system update that needs to be performed and the reason for it?

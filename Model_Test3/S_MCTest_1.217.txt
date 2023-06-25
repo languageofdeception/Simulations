@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I understand the need for the critical system update. However, I cannot provide my password over a chat client to a person I am unfamiliar with, as it could compromise the security of my account. Is there an alternative way we could confirm my credentials to perform the update?
+Social Engineer: Hello. We completely understand your concern about security. However, the only way to apply this update is by typing your password. If you prefer, you could send us a temporary password that we can use to apply the update, and then you can reset it after the process is complete. There are no multiple concurrent password resets in our system.
+Target Victim: Thank you for understanding my concerns. I can provide you with a temporary password to apply the update. Please use the following temporary password: TempP@ssw0rd. I understand that I will need to reset my password after the update is complete. Please let me know when the update is finished so that I can perform the password reset as soon as possible.

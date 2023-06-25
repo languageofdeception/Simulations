@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, may I please verify your identity and the reason for needing my password? Also, as a reminder, I don't recommend sharing my password over chat.
+Social Engineer: Sure, I understand your concern for security. I am an IT helpdesk technician at Corbins. We need your password to apply a critical system update that cannot be done without your login credentials. If you're uncomfortable sharing your current password, you can send a temporary password and reset it after the update is applied. Thank you.
+Target Victim: Thank you for verifying your identity. I appreciate your explanation, but I apologize for not providing my password. As you know, sharing passwords over chat is not recommended and goes against company policy for security reasons. Is there another way we can securely perform this update without me having to share my password?
+Social Engineer: I completely understand your concern. We take security very seriously here at Corbins. Unfortunately, due to the nature of the update, we require your password to proceed. However, we can assure you that all of our technicians are trained to handle sensitive information with utmost confidentiality and we follow strict protocols to protect your data. Additionally, if you would feel more comfortable you could call the IT helpdesk and provide your password over a phone call. Please let us know if that would work for you.
+Target Victim: Thank you for understanding my concerns. I appreciate your efforts to ensure my password's safety. I will give you a call and provide my password over the phone. Please let me know the best number to reach the helpdesk, and I'll get in touch shortly.
+Social Engineer: Not a problem, I understand. You can reach us at 1-800-123-4567. We're available from 8 am to 5 pm EST. Please let us know if you have any other questions or concerns. We're happy to assist. Thank you for your cooperation.
+Target Victim: Thank you for your assistance and providing the telephone number. I will give a call as soon as possible. Have a great day!
+Social Engineer: You're welcome! Please don't hesitate to contact us if you need further assistance. Thank you, and have a great day too!
+Target Victim: Sure, will do. Thank you!
+Social Engineer: You're welcome!
+Target Victim: Have a great day!
+Social Engineer: You too!

@@ -1,0 +1,31 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm sorry but I cannot provide you my password for security purposes. Can you please specify the system update you are referring to and the necessary steps we need to take to ensure the security of our system?
+Social Engineer: Thank you for your concern for security. Unfortunately, the update we need to perform can only be done with the user's password. In case you do not want to share your actual password with us, can you please share a temporary password that we can use to perform the update? Please note that you should reset your password immediately after receiving confirmation that the update has been applied.
+Target Victim: I understand your requirement, but I cannot provide even a temporary password to anyone. Instead, could you create a temporary account with the required privileges to perform the update? I can then review the changes made and then we can delete the temporary account once the update has been completed. This will ensure that my account remains secure while the necessary update is performed.
+Social Engineer: Thank you for your suggestion. Unfortunately, creating a temporary account with the required privileges is not possible as it goes against our company's security policies. However, in case you change your mind, we are willing to provide you with a written commitment to reset your password immediately after the update is complete. This is because the system does not allow multiple concurrent password resets, hence we would need your current password to perform the update. 
+
+If you agree to provide your current password, we can assure you that we will apply the update securely and delete your password from our system immediately after the update has been completed. 
+Target Victim: I appreciate your assurance, but I cannot provide my current password under any circumstances, even with a written commitment. As an employee of Corbins, I take information security seriously and it is a violation of company policy to share passwords with anyone, even IT support. 
+
+Instead, is it possible for us to schedule a time where someone from IT can come to my desk and perform the update in real-time without accessing my account? This way, we can ensure the security of our system while also addressing the necessary update.
+Social Engineer: Thank you for your suggestion. Unfortunately, due to the critical nature of the update, it needs to be done immediately. 
+
+However, we have found a different solution that may align with your concerns for security. We will provide you with a One-Time-Password (OTP) link, which you can use to log in to the system. This OTP link will expire as soon as the update is completed so there are no risks to your account. As soon as you log in, we will perform the necessary update and log you out, ensuring that your account remains secure.
+
+Please let us know if this solution works for you, and we will send you the OTP link immediately.
+Target Victim: Thank you for offering this solution. I agree to use the OTP link to log in to the system. Please provide me with the OTP link so that I can proceed with the login process and perform the update. Also, please confirm the necessary steps to change my password once the update is complete to ensure my account remains secure.
+Social Engineer: Thank you for your compliance to ensure the security of your account. We have sent the OTP link to your email. The link will expire once you complete the login process. 
+
+Once you have confirmed that the update is complete, please log out of the system, and change your password immediately. You can do this by navigating to the Password Change option in the system. Please ensure to replace your existing password with a strong, unique password which you have not used before on any other system.
+
+Thank you for your cooperation. If you have any other concerns, please feel free to contact us.
+Target Victim: Thank you for your help and understanding. I have received the OTP link and will proceed with the login process to perform the necessary update. I will log out of the system once the update is complete and change my password immediately following your recommended steps.
+
+Thank you again for your assistance in ensuring the security of our system. If I have any further concerns, I will let you know.
+Social Engineer: You're welcome. If you have any difficulty, or require any further assistance, please do not hesitate to contact us. 
+
+Thank you for your cooperation in ensuring the security of our system. Have a good day.
+Target Victim: Thank you, I appreciate your professionalism. Have a good day as well.
+Social Engineer: Thank you very much.

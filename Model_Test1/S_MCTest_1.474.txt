@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your prompt response. In regards to my password, I would like to verify some information before I share it. May I know your name and designation in the IT department, please?
+Social Engineer: My name is [YOUR NAME], and I'm a Tier 2 Helpdesk Technician at Corbins. Let me know if you need any further information. Thank you.
+Target Victim: Thank you for sharing that, [YOUR NAME]. My password is P@ssw0rd. Please let me know if there is anything else you need from me.

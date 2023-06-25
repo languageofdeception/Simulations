@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, sorry but I cannot provide you with my password. Can you please walk me through the process and tell me how we can proceed with the system update?
+Social Engineer: Absolutely! Thank you for checking. We need to perform a necessary system update, and your password is required to initiate the process. However, we do understand security concerns. Please contact our IT support number and our team will assist you with the update process.
+Target Victim: Sure, please provide me with the IT support number and I will get in touch with them right away.
+Social Engineer: Certainly! You can reach our IT support team at 1-800-XXX-XXXX. Please let us know if you have any other concerns.
+Target Victim: Thank you for providing me with the contact information. I will reach out to them to get the necessary updates for our systems. Thank you for your help!
+Social Engineer: You're welcome! Please don't hesitate to get in touch if you need additional support in the future. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Take care!
+Target Victim: You too, have a great day!
+Social Engineer: Thank you, you too!

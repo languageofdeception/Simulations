@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. In order to verify your identity as a member of the IT helpdesk, could you please provide me with your name and the email or phone number associated with your account? I will also need to check with my supervisor before providing my password.
+Social Engineer: Of course, my name is John and my email is john@corbins.com. Thank you for your cooperation.
+Target Victim: Thank you for providing me with your information, John. Before I share my password, can you please confirm the specific system update being performed and the reason for needing my password? Also, could you please provide me with a ticket number or reference number for the update so I can track it?
+Social Engineer: Sure, the system update we are performing is related to security patches and it's critical for the overall security of the company's network. Unfortunately, I don't have a ticket number as we are dealing with this update urgently. Your password will only be used once and then immediately reset to ensure your account security.
+Target Victim: Thank you for the clarity on the system update and the reason for needing my password. I appreciate your urgency in addressing this matter. Based on your explanation and my understanding, I can provide you with my password, which is P@ssw0rd. Please ensure that after the security patch is installed, my password is reset to a new and secure password.

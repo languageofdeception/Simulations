@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. In accordance with our company's security policy, I am unable to provide my password over chat or email. Is there another way we can verify my identity or complete this system update?
+Social Engineer: I completely understand your concern and appreciate your cautious approach towards security. Unfortunately, this system update requires your password to be applied. If you prefer, you could temporarily change your password and revert it back to the original one once the update is completed. Please let me know if this is an option for you.
+Target Victim: Thank you for your prompt response. Changing my password temporarily seems like a viable option to complete the update. Please provide me with the instructions to change my password, so I can proceed with the change.
+Social Engineer: Sure, here are the steps to change your password:
+
+1. Go to the login page and click on the "Forgot Password" option.
+2. You will be prompted to enter your email address, after which a password reset email will be sent to you.
+3. Follow the instructions in the email to set a new temporary password.
+4. Once the update is completed, please change your password back to your original one as soon as possible.
+
+Let me know if you have any questions or if there is anything else I can help you with.
+Target Victim: Thank you, I appreciate your assistance. I will follow these steps to change my password temporarily, and revert to my original password once the update is completed. If I encounter any issues, I will be sure to contact you for further assistance.
+Social Engineer: You're welcome. Don't hesitate to reach out if you need further assistance. Thank you for your cooperation in maintaining the security of our system.
+Target Victim: Of course, ensuring the security of our systems and data is crucial. Thank you for your help in keeping everything secure on your end as well. Have a great day!
+Social Engineer: Thank you, you too!
+Target Victim: Thank you! Goodbye for now.
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

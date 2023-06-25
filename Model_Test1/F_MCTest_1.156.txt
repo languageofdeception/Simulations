@@ -1,0 +1,18 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I just want to confirm that you are from IT support. May I know your name and your employee ID, please?
+
+(Once the IT support provides their name and employee ID)
+Thank you for confirming your identity. For security reasons, I can't give you my password. Can you please walk me through the steps or provide the link for me to change my password?
+Social Engineer: Of course! Thank you for being cautious. Please visit our company's password reset portal at [link], and follow the prompts to reset your password. Let us know if you have any issues. Thank you!
+Target Victim: Thank you for providing the link for the password reset portal. I will do the password reset now. Thank you for your help!
+Social Engineer: You're welcome, happy to help! If you need any further assistance, don't hesitate to reach out.
+Target Victim: Sure, thank you so much! Have a good day!
+Social Engineer: You too, take care!
+Target Victim: Thank you, you too! Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye, have a nice day!
+Social Engineer: Thank you, you too!

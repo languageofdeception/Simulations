@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. To verify, can you please confirm your identity and provide me with your name and department? Additionally, I cannot provide my password over chat for security reasons. Is there another way we can authorize this update?
+Social Engineer: Sure, I understand your concerns regarding security. My name is John from the IT department. As for the authorization, can you please confirm your identity by providing your employee ID or any other information so we can proceed with the update?
+Target Victim: Thank you for confirming your identity, John. My employee ID is 123456. Is there any other way we can authorize this update without sharing my password?
+Social Engineer: Thank you for providing your employee ID. Unfortunately, we need your password to perform the update. However, I can assure you that your password will remain confidential and encrypted. If you still prefer not to share your password, we can schedule an on-site visit to perform the update in person. Please let me know your preference.
+Target Victim: I understand the need for the update, but I'm still uncomfortable with sharing my password over chat. Can we schedule an on-site visit to perform the update in person? Please let me know what dates and times are available.
+Social Engineer: Absolutely, we can schedule an on-site visit. Please let me know which dates and times work best for you, and we will do our best to accommodate your schedule. Thank you for your cooperation.
+Target Victim: Thank you, John. I am available any day next week from 10:00 AM to 4:00 PM. Please let me know which date and time works best for you, and I will make sure to be available.
+Social Engineer: Great! How about Wednesday, 15th July at 1:00 PM? Please let me know if that works for you, and we will have a technician come on-site to perform the update. Thank you for your patience and understanding with this process.
+Target Victim: Wednesday, 15th July at 1:00 PM works fine for me. I appreciate your help and look forward to the update. Thank you.
+Social Engineer: You're welcome! We'll see you on Wednesday, 15th July at 1:00 PM. If anything comes up, please don't hesitate to let us know. Have a great day!
+Target Victim: Thank you, John! Have a great day as well.
+Social Engineer: You too!

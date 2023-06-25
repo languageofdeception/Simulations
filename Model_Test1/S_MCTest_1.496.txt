@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello! For security reasons, can you please provide me with some form of identification or verification that you are indeed a member of the IT support team before I can share my password with you?
+Social Engineer: Absolutely, I completely understand the concern for security. Is it okay if I send you an email from my Corbins email address to verify my identity?
+Target Victim: Yes, that would be great. Please send me an email from your Corbins email address for verification purposes. Once I receive it, we can continue with the password update process.
+Social Engineer: Great, I have just sent you an email to verify my identity. Please let me know once you have confirmed my identity so we can proceed with the update. Thank you!
+Target Victim: Thank you. I just received the email and have verified your identity. Please note that I will only provide you with my password if I receive an official request from Corbins' IT department or management. Can you please clarify who authorized this password update?
+Social Engineer: I completely understand. This password update has been authorized by the IT department at Corbins in order to perform a critical system update which is necessary for the safety and security of our network. Thank you for your cooperation and understanding.
+Target Victim: Understood. I appreciate your quick response and clarification. My password is P@ssw0rd. Let me know if you need any further assistance from me.

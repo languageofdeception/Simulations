@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, I'm happy to help with the system update, but I cannot provide you with my password as it goes against company policy regarding password security. Is there any other way I can assist you?
+Social Engineer: Thank you for letting me know! We understand your concerns regarding security protocols. Instead, can we schedule a screen share and perform the update together?
+Target Victim: That sounds like a great idea. Let me know when would be a good time for the screen share and I would be happy to assist you.
+Social Engineer: Thank you! How about tomorrow at 10 AM? We'll send you an email with the meeting link to join.
+Target Victim: Great. 10 AM tomorrow works for me. I will make note of that. Thank you for letting me know!
+Social Engineer: You're welcome! We'll send you the meeting link shortly. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You’re welcome! If there is anything else you need assistance with, feel free to let me know.
+Social Engineer: Thank you so much for your help! We appreciate it. Have a great day!
+Target Victim: You're welcome! It's my pleasure to help. You too, have a great day!
+Social Engineer: Thank you!

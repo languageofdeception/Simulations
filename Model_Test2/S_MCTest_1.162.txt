@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist you with the update. However, I am not authorized to disclose my password to anyone. Can you please provide me with more details about the update?
+Social Engineer: The update is critical and requires immediate attention to prevent any potential system failures. In order to apply the update, I need your password. Alternatively, you can provide a temporary password and this can be reset once the update is complete. Please let me know which option you prefer.
+Target Victim: I understand the need for urgency in this situation, but as per company policy, I cannot disclose my password to anyone, not even to IT support. Can you please provide me with instructions on how to create a temporary password that I can reset once the update is complete?
+Social Engineer: Absolutely. Here are the steps to create a temporary password:
+1. Log in to the system and change your password to the one you feel comfortable sharing with us.
+2. Let us know the temporary password.
+3. Once we confirm that the update is complete, log in to the system again and reset your password to a new secure one.
+
+Note that we highly recommend using a strong, unique password for your account to ensure maximum security. Thank you for your cooperation in this matter.
+Target Victim: Thank you for providing me with clear instructions. I have just changed my password to a temporary password which I will share with you now. My temporary password is: t3mpP@ssw0rd
+
+Please let me know once the update is complete so that I can reset my password. Thank you for your help.

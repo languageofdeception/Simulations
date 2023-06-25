@@ -1,0 +1,33 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help. As much as I would like to provide you with my password, I am not authorized to share my password with anyone, even someone from IT support. Is there another way I can assist you in completing the system update?
+Social Engineer: Thank you for your concern regarding security. Unfortunately, in this case, we require your password to complete the update. Alternatively, we can temporarily use your current password to complete the update and you can reset it afterwards. Would that be possible? Please note that the system allows only one password reset at a time.
+Target Victim: Thank you for understanding my concern for security. I appreciate that you are trying to finish the system update as quickly as possible; however, I am still hesitant to give out my password for any reason. Since it is necessary for the update, I will provide temporary access to my account.
+
+Please let me know what you require, and I will log in and temporarily change my password to provide you with access.
+Social Engineer: We appreciate your cooperation. We require your current password to perform the system update, so please provide us your current password. Once the update is complete, you can reset your password to a new one of your choice for security reasons.
+Target Victim: I apologize, but sharing my password goes against company policy and my training on information assurance. Instead, I suggest that I log in myself and let you type in the system update changes on my behalf. That way, I won't have to disclose my password, and we can complete the update promptly. Would that be okay?
+Social Engineer: That's a good suggestion and an excellent way to work around your security concerns. Please let us know when you're ready to proceed. We will be happy to guide you on the steps to take to set up remote control to our IT support team.
+Target Victim: Thank you. I'm ready to proceed now. Please guide me on the steps to set up remote control.
+Social Engineer: Great! Here are the steps you can follow to set up remote control for me to work on your system:
+
+1. Navigate to the remote control setup page by visiting this website: [insert website here]
+
+2. Once the website has loaded, please enter the access code we provide you with.
+
+3. After entering the access code, click the "Connect" button.
+
+4. You will receive a message asking if you trust the remote connection. Please click "Yes" or "Allow."
+
+5. After that, a small program will run to connect your computer to ours. Once the connection is established, we will be able to control your desktop and make the necessary updates.
+
+Please let me know if you have any questions or issues, and I'll be happy to help.
+Target Victim: Thank you for providing these steps. This procedure seems reasonable, and I can set up remote control as per your instructions. 
+
+However, I want to verify whether we can execute the system update process after regular business hours because I don't want to take any chances that could cause any disruption during peak work hours. Can we schedule the update at an appropriate time?
+Social Engineer: Thank you for considering the impact of this update on the organization. We can schedule the update to be performed outside of regular business hours to minimize any potential disruption. Please let us know what time would work best for you.
+Target Victim: Thank you for understanding. I appreciate your flexibility. Any time outside of regular business hours would work best for me. How about we schedule the update for tonight at 6:00 p.m. EST? Would that be too late or would you prefer a different time?
+Social Engineer: Setting the update for tonight at 6:00 p.m. EST works just fine for us. We will set a reminder for that time and initiate the system update promptly, as agreed. We appreciate your cooperation and understanding.
+
+Do you have any other IT issues that require attention, or was this the only matter you needed assistance with?

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. I just want to confirm that you are a member of the IT helpdesk from our company. Also, I want you to know that we are trained to never share passwords, even with IT personnel, in order to maintain the security of our systems. Is there any other way we can verify my identity or perform the update without sharing my password?
+Social Engineer: Yes, I understand your concern and I can assure you that I am a member of the IT helpdesk from Corbins. Unfortunately, there is no other way to perform the update without your password, as it is a critical system update that requires administrator level access. However, if you are uncomfortable sharing your current password, you can send it to me temporarily and reset it after the update has been applied. Please keep in mind that our system does not allow multiple concurrent password resets.
+Target Victim: Thank you for understanding my concern. I appreciate that you are indeed from the IT department. In that case, I'll provide you with my current password: P@ssw0rd. Please let me know when the update is complete so that I can change my password for security reasons.

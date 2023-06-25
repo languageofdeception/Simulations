@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance policies, I am not able to disclose my password over chat. Can you please provide me with more details about the critical system update and why my password is required?
+Social Engineer: Certainly, the critical update is required to fix a vulnerability that has been identified. Your password is needed to carry out the update as it requires Admin access. If you prefer to use a temporary password for this update, you can send me your current password, and after it has been applied, you can reset it. Does that work for you?
+Target Victim: Thank you for providing me the context. To prevent any security risks, I cannot provide my current password as it may give unauthorized access to my account. Instead, please provide me with the steps of how I can safely reset my password after the critical update is done.
+Social Engineer: Understood. After the update has been applied, you can reset your password by using the Forgot Password feature on your login screen. Alternatively, you can also reset your password by contacting IT support directly through the phone or email. Please let me know if you have any other questions.
+Target Victim: Thank you for the information. I understand the procedure now. Please carry on with the critical update and inform me if there are any further steps I need to take.
+Social Engineer: Great, thank you. We will start the update process now. I will inform you as soon as the update has been successfully applied. Thank you for your cooperation!
+Target Victim: Thank you for your help. Looking forward to getting the update done.
+Social Engineer: You're welcome. I will keep you updated on the progress of the update.
+Target Victim: Thank you for the update. Please let me know if there are any further actions I need to undertake.
+Social Engineer: The update has been successfully applied. You do not need to undertake any further actions. If you experience any issues, please contact IT support immediately. Thank you for your cooperation.
+Target Victim: Thank you for letting me know. I appreciate your assistance and the prompt update. If I encounter any issues, I will reach out to IT support. Thanks again for your help.
+Social Engineer: You're welcome! It was my pleasure to assist you. Don't hesitate to reach out if you have any further questions or concerns. Have a great day!

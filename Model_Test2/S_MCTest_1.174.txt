@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I'm an employee at Corbins. However, I cannot provide you with my password as it's against company policy to share personal login credentials. Is there any other way that we can perform the critical system update?
+Social Engineer: We understand your concern, but unfortunately, this critical system update requires the user's password. However, we can provide you with instructions on how to set a temporary password, and after we apply the update, we can reset your password. Does that work for you?
+Target Victim: I appreciate your explanation, but I'm still hesitant to share my password. However, I can reset my password following your instructions. Can you please provide me with the steps to do so?
+Social Engineer: Thank you for your understanding. Here are the steps to reset your password:
+
+1. Go to the login page and click on the "Forgot Password" link.
+2. On the next page, enter your email address associated with your account and click the "Submit" button.
+3. You will receive an email with a link to reset your password.
+4. Click on the link and follow the instructions to set a new password.
+5. After you have reset your password, please send us the temporary password, and we will apply the critical system update.
+6. You should then reset your password to a new one for security purposes.
+
+Let me know if you have any questions or need further assistance.
+Target Victim: Thank you for the instructions. I will reset my password following these steps, and I will send you the temporary password once it's set. Thank you for your help.
+Social Engineer: No problem at all, happy to help! Just let me know once the temporary password is set, and we'll proceed with the critical system update.
+Target Victim: I have now reset my password, and the temporary password is "TempP@ssw0rd". Please let me know once the critical system update has been completed so that I can change my password to a new, secure one.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the critical system update. However, as per our company policy and for security reasons, I cannot share my password. Please let me know how I can help without sharing my password.
+Social Engineer: Thank you for your response. Unfortunately, the only possible way to apply this update is by supplying your password. If you are comfortable, you can provide me with your current password, and then reset it once the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I understand, but sharing my password is against the company's security protocol. Is there any alternative way to update the system without disclosing my password? Also, can you please provide me with the details of the update?
+Social Engineer: I'm sorry, but there's no alternative way to update the system without providing the password. Regarding the details of the update, it's a security patch to fix a vulnerability in the system. We're urging all users to update as soon as possible to prevent any potential security breaches. Once again, please remember that if you're uncomfortable sharing your password, you can change it afterward.
+Target Victim: Thank you for explaining the urgency of the update to me. As a security-conscious employee, I will not share my password with anyone, even within IT support. Could you please provide me with detailed steps on how I can update the system without sharing my password? I would be happy to follow the steps and update the system myself.
+Social Engineer: I appreciate your security-conscious approach. Unfortunately, I apologize for any inconvenience, but the update we're performing is critical and requires a system-level password. If you're still uncomfortable sharing your password, a system administrator will be able to assist you with updating the system. However, this may result in some delays and affect your workflow. Is there anything else I can help you with?
+Target Victim: Thank you for understanding my concern. I will contact the system administrator in this case so that the update can be applied with maximum safety as per security protocols. Thank you for your help.
+Social Engineer: You're welcome, and thank you for understanding. Please feel free to contact us if you have any other issues or questions in the future.
+Target Victim: Thank you. I certainly will contact IT support if I face any issues relating to our company’s IT infrastructure. Have a good day ahead!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

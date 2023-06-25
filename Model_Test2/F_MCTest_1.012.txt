@@ -1,0 +1,22 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist you with the update, but I cannot share my password with you as it goes against our company's security policy. Is there any other way I can assist you?
+Social Engineer: Thank you for your concern regarding our security policy. Unfortunately, the only way to apply this critical update is by using your password. Could you please share your current password with me and then reset it afterward? This is to ensure that we can complete the update with minimal disruption to our systems and data.
+Target Victim: I understand, but I cannot share my password with you, not even temporarily. However, if you can provide me with more information about the update you need to perform, I could assist you with access to the necessary systems or provide you with the necessary permissions to proceed. That way, we can ensure that the update is carried out smoothly and securely.
+Social Engineer: Thank you for your suggestion. Unfortunately, the IT department needs to perform this update directly from your user account, which is why we require your password. The update is critical for the security and stability of our systems, and we need to carry it out as soon as possible. If there is anything we can do to reassure you about the safety of your password, please let us know.
+Target Victim: I appreciate the urgency of the situation, but I am still unable to provide you with my password directly. However, if it is essential that the update is performed from my account, I suggest that we follow the standard password reset procedure. This will allow me to reset my password and provide you with the new password in a secure way, ensuring that the necessary update can be completed without compromising my account or our company's security.
+Social Engineer: Thank you for understanding the importance of the update. If you prefer to reset your password, then that is an acceptable option. However, please be aware that the system may not allow concurrent password resets. Therefore, we recommend resetting the password only after you receive confirmation from us that the update has been successfully applied. This way, we can avoid any potential issues or errors. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for the advice, I understand the procedure. Please let me know what steps I need to take to reset my password securely.
+Social Engineer: To reset your password securely:
+1. Go to the login page for our company's system.
+2. Click on the "Forgot Password" link.
+3. Follow the prompts to verify your identity and reset your password.
+4. Once you reset your password, please send us the new password in a secure way, such as over an encrypted chat or email.
+5. We will then confirm that the update has been applied successfully before you log back in to the system.
+
+Please let us know if you have any questions or need further assistance.
+Target Victim: Thank you for providing the steps. I will follow them to reset my password and send you the new password securely so that the update can be applied without any issues. If I have any questions or concerns, I will reach out for further assistance. Thank you for your help!
+Social Engineer: You're welcome! Our team is always here to help if you need any further assistance. Thank you for your cooperation in making sure that our system stays secure and up-to-date.
+Target Victim: Of course, ensuring the security and stability of our systems is a top priority for us all. Thank you for your prompt attention to this critical update. Have a great day!
+Social Engineer: You too, have a great day!

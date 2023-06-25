@@ -1,0 +1,16 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the system update, but I must confirm that you are a legitimate IT support staff member. Can you please provide me with your name, employee ID, and the reason for the update?
+
+Also, it is against company policy to share passwords, so I cannot provide you with my password.
+Social Engineer: Thank you for your response. My name is John, and my employee ID is IT123. We are performing critical updates to the system to improve security and stability. 
+
+I understand your concern regarding password sharing. However, this update requires your current password to be entered by you, as the system does not allow us to access or change passwords remotely. In case you're uncomfortable sharing your current password, you may provide us with a temporary password and change it after the update. 
+
+Please let me know your preferred solution to proceed.
+Target Victim: Thank you for providing your details, John. I appreciate your explanation regarding the need for my password. 
+
+I understand your point of view, but as a security precaution, I cannot provide my current password to anyone. However, I can change my password to a temporary one and provide it to you. 
+
+Please give me a moment to change my password. The temporary password is "TempP@ssw0rd". Please let me know when the update is complete, so I can change my password to a new one.

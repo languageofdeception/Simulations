@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity and provide me with your name and employee ID?
+Social Engineer: Absolutely, I'm [Your name] and my employee ID is [Your employee ID]. Thank you for verifying my identity, can you please provide me with your password so we can perform the update?
+Target Victim: I apologize, but I cannot provide my password over chat as this goes against company policy and information assurance best practices. Is there any other way that I can verify my identity and assist with the update?
+Social Engineer: I understand your concern and thank you for being cautious with your password. Unfortunately, a password is the only way to perform this update. However, I suggest that you provide your current password and change it immediately after we apply the update. This way, we can ensure the update is applied correctly without violating security protocols.
+Target Victim: I appreciate your suggestion, but sharing my password is still not in line with company policy. Is there any other way we can apply the update without revealing passwords?
+Social Engineer: I understand your concern. Unfortunately, due to the security measures in place, your password is required to apply this update. However, we could schedule a remote desktop session where you can input the password yourself. This way, you'll keep control over your account and password while the update is taking place.
+Target Victim: Thank you, that is a much better solution. Can we schedule the remote desktop session for a later time today or tomorrow?
+Social Engineer: Great! I can schedule that for you. When would be the best time for you? Our team is available between 9am to 5pm.
+Target Victim: Let's schedule the remote desktop session for tomorrow at 11am, please. Also, can you provide me with a ticket number or reference number for this update?
+Social Engineer: Certainly, your reference number for this update is #123456. I have also scheduled the remote desktop session for tomorrow at 11am. Please make sure you have your computer on and are available at that time. Don't hesitate to reach out if you have any further questions.
+Target Victim: Thank you for your assistance and for keeping security in mind. I will have my computer on at the scheduled time and contact you if I have any further questions or concerns.
+Social Engineer: You're welcome! I'm glad I could help. If you have any questions or concerns, please don't hesitate to reach out to me. Have a great day!

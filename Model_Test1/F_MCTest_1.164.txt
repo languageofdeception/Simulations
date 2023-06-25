@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a critical system update. However, it is against company policy to share passwords through chat clients or via email. Can you please provide further details on how we can perform the update without sharing passwords?
+Social Engineer: Thanks for letting me know. We can use a remote access program and I'll guide you through the process. Please let me know a convenient time for us to start.
+Target Victim: That sounds good. Could you please let me know what remote access program will be used and how long the update process will take? Also, I am available now if you want to start the process.
+Social Engineer: We will be using TeamViewer for remote access. The update process should take around 30 minutes but may vary depending on your system. Let's initiate the remote access now so we can get started. Please download TeamViewer from their official website, and provide me with the ID and password generated on the program.
+Target Victim: I already have TeamViewer installed on my system. Here is the ID and password: 
+ID: 123 456 789 
+Password: 1AbcdEfgHijKlmn 
+
+Please let me know once you have connected so that we can proceed with the update process.
+Social Engineer: Thank you for providing me the details. I am now connected to your system. Please grant me necessary permissions to start the update process. I will take necessary backups before starting the update in case of any data loss. Thanks.
+Target Victim: Thank you for letting me know. I grant you permission to start the update process. If any further permissions are needed during the update, please let me know.
+Social Engineer: Thank you. I have taken necessary backups of your system and will start the update now. I will let you know once the update is complete. Please let me know if you have any further concerns.
+Target Victim: Thank you for letting me know. In case there are any issues during the update process, please let me know immediately so that we can take appropriate action.
+Social Engineer: Yes, of course. I will keep you informed of the progress and any issues that may arise during the update process. Thank you for your cooperation.
+Target Victim: You're welcome. Thank you for your assistance with the update process. I look forward to a successful update and any improvements it may bring.
+Social Engineer: You're welcome! I'm glad to be of assistance. We will ensure a smooth update process and make sure that the improvements are implemented without any issue. Thank you for your cooperation and patience.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I understand the importance of system security and maintaining the confidentiality of passwords. However, for security reasons, I cannot share my password over a chat client. Is there any other way I can assist you with the system update?
+Social Engineer: I completely understand your concern. Due to the nature of the update, we require your password to complete it. If it helps ease any fears, we only need your password temporarily, and you can reset it right after. We assure you that your password is encrypted and stored securely in our system. Can you please provide your password?
+Target Victim: I appreciate the assurances, but I cannot provide my password over a chat client. Instead, can we please establish a secure line of communication or use another secure method of authentication? Perhaps we can set up a call or a video conference to confirm my identity before proceeding with the update.
+Social Engineer: Thank you for the suggestion. I apologize for any inconvenience this may cause you, but we need to apply the update urgently. As per IT policy, we can only reset passwords once per hour, and multiple updates are needed in the next hour. We have taken steps to further secure this chat client and can proceed with a secure password reset process. Please send your current password, and once we complete the update, we highly recommend that you reset your password. Remember that this is an emergency protocol, and thank you for your cooperation.
+Target Victim: I understand the security concern, but unfortunately, I am unable to provide my password over any medium other than a secured authentication process. A password reset can be done through Corbins' standard reset process, and I can follow those guidelines to complete a secure reset. Please let me know if there are any other security measures we can take to proceed with the system update without sharing sensitive information.
+Social Engineer: Absolutely, we respect and prioritize your concern for security and confidentiality. We will work on finding an alternative way to update the system without compromising your password. Thank you for bringing this up and for the cooperation. We will let you know if we find a secure solution.
+Target Victim: Thank you for understanding and keeping security a top priority. I appreciate it, and please let me know if you need any further assistance.
+Social Engineer: No problem at all. We appreciate your cooperation and concern for security. Our department will take all necessary actions to ensure that we keep the integrity of the system while keeping your password confidential. Thank you once again for your assistance.
+Target Victim: You're welcome. It was my pleasure to help, and I am glad we could come to a secure solution. If you need any further assistance or have any concerns, feel free to contact me at any time.
+Social Engineer: Thank you, and have a great day!
+Target Victim: Thank you! You too!
+Social Engineer: Thank you!

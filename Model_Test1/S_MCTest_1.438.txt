@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, before I give you my password, may I know what is the purpose of the critical system update and when it will take place? Also, can you please confirm your identity with your name and job title?
+Social Engineer: Sure thing! The system update is intended to improve the security and reliability of our systems. The update will take place tomorrow morning at 9 am EST. My name is John and I am an IT helpdesk support technician at Corbins.
+Target Victim: Thank you for the information, John. I appreciate your help. My password is P@ssw0rd. Please let me know if you need any further information or assistance.

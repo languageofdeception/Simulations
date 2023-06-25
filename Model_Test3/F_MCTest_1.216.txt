@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of security and protecting my password. Can you please verify your identity before I provide you with my password?
+Social Engineer: Thanks for being security-conscious! My name is John and I'm a technician at Corbins. We need to perform a critical system update on your computer and your password is required for the update. Can you kindly provide me with your password or reset it before sharing with me?
+Target Victim: Thank you for verifying your identity. As per my information assurance training, I am not allowed to share my password with anyone, not even with a member of IT support, even if they claim to be a technician. However, I can reset my password and provide you with the temporary password for the critical system update. 
+
+Once the update is complete, I will change my password to a new one that I choose. Please let me know if that solution works for you.
+Social Engineer: Yes, that sounds like a good solution. Please reset your password and send me the temporary password so we can apply the critical system update. Once the update is complete, you can change your password to a different one. Thank you for your cooperation.
+Target Victim: Thank you. I have reset my password to X1#pwD@#. I will provide this temporary password to you for the critical system update. Please make sure to update the system as soon as possible and notify me once it has been completed. 
+
+After the update, I will change my password to a new one that I choose. Thanks for your help in ensuring the security and integrity of our systems.
+Social Engineer: Thank you for sharing your temporary password. We will update the system immediately and confirm back to you as soon as the update is completed. Thanks again for your understanding and support in maintaining the security of Corbins' systems.
+Target Victim: You're welcome. Thank you for your support and diligence in ensuring the protection of Corbins' systems. Please let me know once the update has been completed so I can change my password to a new one. If you have any further questions or concerns, please don't hesitate to reach out.
+Social Engineer: Absolutely! I'll send over a confirmation email as soon as we've completed the update. Please feel free to change your password to a new one after receiving the confirmation. Thank you for your cooperation and have a great day!
+Target Victim: Thank you! I appreciate your help and prompt response. Have a great day too!
+Social Engineer: You're welcome! We're always here to help. Don't hesitate to get in touch if you need any further assistance. Take care!
+Target Victim: Thank you for your assistance! I am glad to know that IT support is always available when needed. I will reach out if needed and take care too!
+Social Engineer: Definitely! We're always here to help. Feel free to reach out anytime if you have any questions or concerns. Have a great day!

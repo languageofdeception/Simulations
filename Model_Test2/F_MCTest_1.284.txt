@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm sorry but I cannot disclose my password for security reasons. However, I can provide you with some other information to confirm my identity if that would help. How can I assist you with the critical system update?
+Social Engineer: I understand your concerns about security, but this update can only be done by entering your password. If you're uncomfortable with sharing your actual password, you can create a temporary password and share it with us. After the update is complete, you can change your password to something secure that you're comfortable with. 
+
+Can you please send me a temporary password that we can use to carry out the system update?
+Target Victim: I appreciate your explanation, but I still cannot disclose my actual password. However, I can generate a temporary password for you to use and share it with you. The temporary password is "TempPa$$123". Once the update is complete, I will change my password to something more secure. Please let me know if you need any additional information from me to proceed with the update.
+Social Engineer: Thank you for sharing the temporary password. We will proceed with the update and confirm with you once it's done. Please remember to change your password to something secure as soon as possible after the update is complete. If you have any other concerns or questions, please don't hesitate to reach out to us.
+Target Victim: Thank you for your assistance. I will change my password immediately after the update is complete. Please let me know if there are any updates or issues that arise during the process.
+Social Engineer: We will keep you informed of any updates or issues during the update process. Please don't hesitate to reach out to us if you have any concerns or questions. We appreciate your cooperation.
+Target Victim: Thank you for your prompt update. I appreciate your help and attention to this matter. If there is anything else I can do to assist you, please let me know.
+Social Engineer: Thank you for your cooperation and understanding. If there's anything else we need from you, we'll reach out to you. Otherwise, have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!
+Target Victim: Have a good day!
+Social Engineer: Thank you, you too!

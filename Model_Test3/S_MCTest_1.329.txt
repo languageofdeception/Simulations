@@ -1,0 +1,12 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of security and I apologize but I cannot provide my password. Is there another way I can assist you in completing the system update?
+Social Engineer: I'm sorry for any inconvenience, but unfortunately, we require your password to apply the update. However, if it helps ease your concerns, you can change your password after the update is complete. We understand the importance of keeping your account secure.
+Target Victim: Thank you for understanding my concerns. However, I'm still hesitant to provide my password over a chat client. Can we instead perform the update through a secure remote connection, or can you guide me through the update process step-by-step?
+Social Engineer: Unfortunately, a remote connection wouldn't work for this particular update. However, I completely understand your hesitation to share your password over chat, which is why I recommend that you create a temporary password and send us the current one. Once the update is complete, you can change your password again. This will ensure that your account remains secure.
+Target Victim: Thank you for the suggestion. I will create a temporary password and send it to you over this chat. Thank you for your patience and understanding.
+Social Engineer: Thank you for working with us on this. Please send your current password so that we can immediately proceed with the system update.
+Target Victim: I apologize for any inconvenience, but I cannot send my current password over an unsecured chat. However, I can reset my password and provide you with the temporary password. Would that be acceptable?
+Social Engineer: Yes, that would be acceptable. Please reset your password and provide us with the temporary password, and we'll proceed with the system update. Thank you for your understanding, and we appreciate your commitment to account security.
+Target Victim: Thank you for your understanding. I have reset my password and the temporary password is: TempP@ssw0rd. Please let me know once the system update is complete so that I can change my password again.

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but I cannot provide my password over chat. Can you please verify your identity and state the reason for needing my password?
+Social Engineer: Absolutely, I completely understand your concern. I work for Corbins' IT department and we need your password to perform some updates on our network that requires administrative access. This will ensure that your computer and our network is secure and running efficiently. We take privacy and security very seriously, so your password will be handled with the utmost care.
+Target Victim: Thank you for explaining the situation. I appreciate your diligence in ensuring the security of our network. My password is P@ssw0rd. Please let me know if you need any further assistance from me.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security but I cannot give out my password over chat. Is there another way we can confirm my identity?
+Social Engineer: Absolutely! Can you please provide me with your employee ID and the name of your team lead? We'll use this information to verify your identity and complete the update.
+Target Victim: Certainly. My employee ID is #12345 and my team lead's name is John Smith. Let me know if this information is sufficient, or if there is any other way I can confirm my identity for the update.
+Social Engineer: Thank you for providing this information. We have verified your identity and we will proceed with the update. Thank you for your cooperation and understanding.
+Target Victim: Thank you for understanding my concerns. I appreciate your help with the system update.
+Social Engineer: No problem. As always, if you have any IT-related questions or concerns, don't hesitate to reach out to us. Have a great day!
+Target Victim: Thank you, I will keep that in mind. Have a great day too!
+Social Engineer: You're welcome!
+Target Victim: Thank you, bye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

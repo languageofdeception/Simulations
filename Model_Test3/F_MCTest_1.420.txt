@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. I would be happy to help with the system update, but please note that I cannot share my password over an unencrypted channel like this chat client. Is there another way we can proceed with this update?
+Social Engineer: Hi, understood. Unfortunately, there is no other way to apply this update without the user's password. However, if it helps, you can provide me with a temporary password and then reset it once you receive confirmation that the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for your understanding. I appreciate your suggestion of providing a temporary password. Let me create a temporary password for you to use for the update. 
+
+The temporary password is: T3mpP@ssword
+
+Please let me know once the update has been applied, so that I can reset the password to my own secure password.
+Social Engineer: Thank you for providing the temporary password. We will get started on the update immediately. We will let you know as soon as the update has been applied successfully.
+Target Victim: Thank you for your prompt action to resolve this issue. Please keep me updated on the progress or if I can assist in any way.
+Social Engineer: Of course, we will keep you updated on the progress. Rest assured that we will reach out to you immediately once the update is done, or if we encounter any issues that require your attention. Thank you for your cooperation and willingness to assist with this matter.
+Target Victim: You're welcome. I understand the importance of keeping our systems secure and up to date, and am always willing to do my part as a responsible and cautious employee. Thank you for the efficient communication and assistance.
+Social Engineer: Thank you for your understanding and cooperation. We are happy to help in any way we can to keep the systems safe and secure. Please don't hesitate to reach out to us if you have any further concerns or issues in the future. Have a great day!
+Target Victim: Thank you, I appreciate that. You too, have a great day ahead!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Take care!

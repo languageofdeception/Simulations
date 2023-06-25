@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your effort to keep our systems up to date, but I cannot provide my password to anyone over chat or email as it is a violation of our security protocols. May I know what kind of update you are trying to perform and if there is an alternate way to accomplish this update?
+Social Engineer: Understandable. We need to apply a critical security patch to your account and the only possible way is by you providing your password. If you don't feel comfortable sharing the actual password, you could provide us with a temporary one that you can change later. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for explaining the situation to me. I appreciate your efforts to maintain the security of our systems. However, I cannot provide my actual password nor a temporary one since it is against our company policy to share passwords with anyone, even IT support. Can you please suggest an alternate way to authenticate my identity and perform the necessary update?
+Social Engineer: I understand your concerns. In that case, we could ask you to confirm some personal information so that we can verify your identity and apply the update. Can you please provide your full name, department, and phone number associated with your account?
+Target Victim: Thank you for offering an alternate way to authenticate my identity. As requested, my full name is [Full Name], I work in the [Department] department, and my phone number associated with my account is [Phone Number]. Please let me know if you require any further details.
+Social Engineer: Thank you so much for providing the necessary information. We have successfully updated your account with the critical security patch. You can check your account and ensure that everything is working properly. If you face any issues, please feel free to reach out to us anytime. Thank you for your cooperation, have a great day!
+Target Victim: Thank you very much for your assistance and for prioritizing the security of our systems. I will check my account to ensure that everything is working properly. If I do encounter any issues, I will definitely reach out to IT support. Have a great day as well!
+Social Engineer: Thank you, happy to help!
+Target Victim: You’re welcome, have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: No problem, happy to work with you!

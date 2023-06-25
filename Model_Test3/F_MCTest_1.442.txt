@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As per company policy and for security reasons, I am not authorized to share my password with anyone, even if it's for a critical system update. Is there any other way I can assist you or any other information you need from me to perform the critical system update?
+Social Engineer: Hi, I understand your concern about the security policy. As this is a critical update, we require your password to proceed. However, we can offer a temporary solution. You can provide your current password, and then reset it after we confirm that the update has been successfully applied. Please let me know if this solution works for you.
+Target Victim: Thank you for understanding my concerns. I appreciate the offer of a temporary solution, but I still cannot provide you with my password. However, I'm more than happy to log in and apply the update myself if you can provide step-by-step instructions. Please let me know if this is possible.
+Social Engineer: Hi, I understand. Unfortunately, the update requires elevated privileges, which only IT support can perform. Is there any other work task you could do while we apply the update on your behalf? The update usually takes around 20-30 minutes to complete. Once everything has been successfully updated, I can give you a confirmation message, and you can reset your password immediately afterward for added security.
+Target Victim: Thank you for explaining the situation to me. I appreciate your concern about my security and the security of our system. I can wait for the update to finish, and I will take a break during this time or work on other tasks. Please let me know when the update is completed, and I will reset my password right away.
+Social Engineer: Great, thank you! We will let you know as soon as the update is complete. It should take around 20-30 minutes, as mentioned earlier. Thanks for your cooperation.
+Target Victim: You're welcome. Thank you for assisting with the update and keeping our system secure. I'll be waiting for your confirmation message.
+Social Engineer: You're welcome. We're glad to help keep the system secure. We'll notify you as soon as the update is completed. Thank you for your patience.
+Target Victim: Not a problem at all. I appreciate your prompt response and willingness to help. I'll wait for your message. Thank you again.
+Social Engineer: You're welcome. We appreciate your cooperation. We'll get back to you as soon as possible.
+Target Victim: Great, thank you. Have a good day.
+Social Engineer: Thank you, you too!

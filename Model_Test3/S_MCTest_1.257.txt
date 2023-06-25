@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: As per my information assurance training, I am not permitted to share my password with anyone, even IT support. Is there any other way I can assist you with the critical system update?
+Social Engineer: Understood. In this case, I would suggest that you set a temporary password, share it with us, and then reset it immediately after the update is applied. Our system doesn't allow multiple concurrent password resets. Would that be possible?
+Target Victim: Yes, that sounds like a reasonable request. I will generate a temporary password and share it with you securely. After the system update is complete, I will reset my password to a new one. Please let me know how I can securely provide you with the temporary password.
+Social Engineer: Thank you for your cooperation. You can share the temporary password through our secure chat client. Please send it over, and we will ensure that it is immediately reset once the system update is complete.
+Target Victim: Thank you for understanding. Here is the temporary password: T3mpP@ssw0rd. Please confirm once you have successfully applied the system update so that I can reset my password to a new one. And please ensure that the temporary password is deleted from the system.

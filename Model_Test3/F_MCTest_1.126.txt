@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: I'm sorry, but I cannot provide my password as it goes against our company's security policies and puts our sensitive information at risk. As an alternative, can you please guide me through the necessary steps to update the system without requiring my password?
+Social Engineer: We understand your concern for security policies, but unfortunately, this particular update requires user password permissions. If providing your password is not possible, can we suggest a different approach? You can send us your current password, and we will apply the critical system update. Once completed, we will confirm so you can proceed to reset your password. Is that something you're comfortable with?
+Target Victim: I appreciate the suggestion, but sending my password over a chat client is not a secure method of communication and goes against our company's security policies. As an alternative, can we schedule a time for the update to be performed remotely while I am on the phone with a member of the IT support team? This way, I can provide verbal authorization and ensure that the update is completed securely without having to provide my password.
+Social Engineer: Absolutely! We completely understand your concerns regarding security policies. A phone call is a great solution, and we are more than happy to accommodate that. We will schedule a time at your convenience where a member of our team can perform the update remotely while on the phone with you, and we will provide you with all the necessary details beforehand. Thank you for bringing up this suggestion, and we apologize for the inconvenience.
+Target Victim: Thank you, I appreciate your understanding and willingness to accommodate my request. I look forward to working with your team to ensure the update is performed securely and efficiently. Please let me know what date and time you propose for the remote update.
+Social Engineer: Sure, we can schedule the remote update for tomorrow at 3:00 PM EST. One of our team members will call you at the specified time, and you can provide verbal authorization for the update to proceed. In the meantime, please let us know if there is anything else we can assist you with.
+Target Victim: Thank you for arranging that. I will be available at that time and look forward to your call. As of now, I don't have any further queries or concerns. Thank you for your support and ensuring our company's security policies are upheld.
+Social Engineer: You're welcome! We're happy to help, and please don't hesitate to reach out if you need assistance in the future. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, goodbye!
+Social Engineer: Goodbye!

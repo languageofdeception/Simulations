@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, can you please confirm your identity with me before I provide my password? Also, can you please explain what the system update is for?
+Social Engineer: Certainly, my name is [Your Name] and I am an IT helpdesk support technician at Corbins. We need your password in order to perform a software update that will fix a critical security issue. Your cooperation would be greatly appreciated.
+Target Victim: Thanks for the information. I understand the importance of security updates. However, I am not comfortable giving out my password over a chat client. Is there any other way we can authenticate my identity and proceed with the update?
+Social Engineer: Absolutely, we completely understand your concern for security. To verify your identity, we can send you a verification code through your registered email or phone number. Once you provide us with the verification code, we can proceed with the update. How does that sound?
+Target Victim: That sounds good to me. Please send the verification code to my registered email address. Thanks for ensuring the security of my account.
+Social Engineer: Great, we just sent you the verification code through your registered email address. Please provide us with the code once you receive it so we can proceed with the update. Thank you for your cooperation.
+Target Victim: Ok, I just received the verification code. The code is 1357. Please confirm that you have received it and let me know the next steps.
+Social Engineer: Thank you for confirming the code. We have received it and can now proceed with the update. You do not need to share your password with us anymore. We will keep you updated on the progress of the update. Thanks for your timely response and cooperation.
+Target Victim: Thank you for the update. I appreciate the extra steps you’ve taken to ensure the security of my account. Please keep me posted on the update progress.
+Social Engineer: You're welcome. We take security very seriously at Corbins and we're glad to have your cooperation on this matter. We will keep you informed on the progress of the update. If you have any other concerns, don't hesitate to reach out to us.
+Target Victim: Thank you for your help and prompt response. I will definitely reach out to you if I have any other concerns. Have a great day!
+Social Engineer: You're welcome! It was my pleasure to assist you. If you have any questions or concerns in the future, don't hesitate to contact us. Have a great day!

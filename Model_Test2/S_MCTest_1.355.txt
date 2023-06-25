@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for system updates but I cannot provide my password over chat. Is there another way we can ensure the security of my account while performing the update?
+Social Engineer: We appreciate your concern about security. However, supplying your password is the only way we can perform the update. If you insist on providing a temporary password, you can send us your current password and then reset it after we confirm that the update has been applied. Please keep in mind that the system does not allow multiple concurrent password resets.
+Target Victim: Okay, I understand. I’ll provide my password this time. My current password is P@ssw0rd.

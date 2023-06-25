@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, for security reasons, I cannot share my password with anyone. Could you please provide me with more information about the critical system update you are referring to?
+Social Engineer: Of course, I completely understand. We need to update the security software on your computer as there have been several vulnerabilities identified. This update is critical to protect your computer and the company network from potential attacks. Your password is necessary to complete the update. Is there any way we could verify your identity before proceeding?
+Target Victim: Thank you for explaining the situation. I appreciate your concern for security. To verify my identity, I can provide my employee ID, full name, and job title. Please let me know if there is any other way to identify myself besides sharing my password.
+Social Engineer: Thank you for providing the information. I have confirmed your identity and we will proceed with the update shortly. Thank you for your cooperation and understanding.
+Target Victim: Thank you for verifying my identity. I am glad we could resolve the situation. Please let me know if there is anything else I can assist you with.
+Social Engineer: No, that will be all. Thank you for your time and collaboration. Please do not hesitate to contact us again if you need further assistance. Have a great day!
+Target Victim: Thank you, you too.
+Social Engineer: Thank you! Goodbye for now.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

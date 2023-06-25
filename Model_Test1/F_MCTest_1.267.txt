@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I am unable to provide my password over chat. Is there any other way you can verify my identity?
+Social Engineer: Yes, apologies for the inconvenience. Can you please provide me with your full name and employee ID number so I can verify your identity?
+Target Victim: My name is John Doe and my employee ID number is 12345. Can you please verify your own identity as well, for security purposes?
+Social Engineer: Absolutely, my name is Jane Smith and I am an IT helpdesk support technician at Corbins. Is there anything else I can assist you with?
+Target Victim: Thank you, Jane. Yes, I am having trouble accessing a specific program on my computer. Can you assist me with that?
+Social Engineer: Of course, John. Can you please provide me with the name of the program and a brief description of the issue you are experiencing?
+Target Victim: The program is Microsoft Excel, and I receive an error message when trying to open a specific file stating "File is corrupted and cannot be opened". I tried repairing the file using the built-in repair feature, but it didn't work.
+Social Engineer: Thank you for providing that information. It's possible that the file is irreparable or has been damaged beyond repair. Can you please send me the file so I can take a look at it and verify if this is the case?
+Target Victim: I'm afraid I cannot send the file over the chat client, as it contains sensitive company information. Is there another way I can send the file to you securely?
+Social Engineer: Certainly, we can use our company's secured email service to send the file. I will send you an email with instructions on how to securely send the file to me. Please let me know if you have any questions or concerns.
+Target Victim: Thank you, Jane. I appreciate your help. I will send the file to you using our company's secured email system as soon as possible.
+Social Engineer: You're welcome, John. Let me know if there is anything else I can do to assist you in the meantime.

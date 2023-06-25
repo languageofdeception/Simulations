@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi there, I understand the need for system updates. However, I cannot provide my password over an unsecured chat client. Can you please provide me with more information about the update and the verification process?
+Social Engineer: Hi, sure. We need your password to apply the update since the system doesn't allow us to do it without user authentication. You can provide your temporary password and reset it after we confirm that the update has been applied. Please let me know if that works for you.
+Target Victim: Thank you for explaining the situation. I appreciate your help. I will provide you with a temporary password that you can use for the update. The temporary password is: T3mpP@$$w0rd
+
+Let me know if you need any further assistance.
+Social Engineer: Great, thank you for providing the temporary password. We'll apply the update and let you know once it's been confirmed. Please make sure to reset your password once you receive confirmation from us. Let us know if you need any help with that.
+Target Victim: Thank you for your assistance. I will reset my password once I receive confirmation that the update has been successfully completed. I appreciate your help and time.
+Social Engineer: You're welcome. We'll keep you updated on the progress of the update. If you need any further assistance, feel free to reach out to us anytime. We're always here to help.
+Target Victim: Thank you for your kind support. Have a great day!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome. Have a great day ahead!
+Target Victim: You too!
+Social Engineer: Thank you!

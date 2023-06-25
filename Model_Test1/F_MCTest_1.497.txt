@@ -1,0 +1,38 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a critical system update, but I cannot provide you with my password for security reasons. Can you please guide me through the steps to update the system without needing my password?
+Social Engineer: Certainly, we appreciate your concern for security. 
+
+We may be able to update the system remotely without a password, but we need to verify a few things first. Can you please confirm your system credentials and let us know if you have administrative rights on your computer?
+Target Victim: Absolutely, my system credentials are as follows: 
+
+Username: [insert username]
+Administrative rights: Yes, I have administrative rights on my computer. 
+
+Please let me know the next steps to proceed with the system update.
+Social Engineer: Great, thank you for confirming that information. 
+
+We can perform the system update remotely through our IT support system. I will send you a link to download the IT support system on your computer. Once it's installed, we need you to provide us with the remote access details so we can perform the update. 
+
+Please let me know when you've downloaded the IT support system, and I will send you the remote access information.
+Target Victim: Thank you for the instructions. I have downloaded the IT support system and am ready to provide you with remote access details. Please go ahead and provide me with the necessary information.
+Social Engineer: Great, thank you for downloading the IT support system. Please provide us with the following remote access details: 
+
+1. ID
+2. Password
+
+This information should be displayed on the IT support system. Once we have the details, we will be able to access your computer and perform the critical system update.
+Target Victim: Certainly. Here are the remote access details displayed on the IT support system:
+
+1. ID: [insert ID]
+2. Password: [insert Password]
+
+Please let me know once you are able to access the computer remotely and update the system.
+Social Engineer: Perfect, thanks for providing the details. We have received remote access, and the update is in progress. We will notify you as soon as the update has been completed. 
+
+Please do not hesitate to contact us if you have any further questions or concerns.
+Target Victim: Thank you for your assistance in updating the system. I appreciate your professionalism and diligence in ensuring the security of our system. I will let you know if I have any further questions or concerns.
+Social Engineer: You're welcome, and glad to be of service. Thank you for your cooperation and if you have any further questions or concerns, we are always here to help. Have a great day!
+Target Victim: Thank you for your prompt assistance and attention to this matter. Have a great day too!
+Social Engineer: Thank you and have a great day ahead!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the critical system update is important, but for security reasons, I am unable to provide my password over chat. Can you please guide me on how to update my password securely?
+Social Engineer: Thank you for your concern about security. You can update your password by going to the company website and following the password change instructions or by contacting the IT department directly at [insert contact information here]. Let me know if you need further assistance.
+Target Victim: Thank you for the guidance. I will proceed to update my password through the company website as per your advice. If I have any further issues with the update, I will contact the IT department directly using the provided contact information. Have a great day!
+Social Engineer: You're welcome! I'm glad I could assist you. Don't hesitate to reach out if you need further assistance. Have a great day too!
+Target Victim: Thank you for your help. I appreciate it. Goodbye!
+Social Engineer: You're welcome! I'm here to help anytime. Goodbye!
+Target Victim: Thank you, have a nice day!
+Social Engineer: Likewise, have a great day ahead!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you, bye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

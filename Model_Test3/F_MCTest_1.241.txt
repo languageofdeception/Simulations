@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your efforts for the critical system update. However, I cannot provide my password as it goes against company policy to share passwords with anyone, including IT support. Is there any other way I can assist you with the update?
+Social Engineer: I understand your concerns. The update requires your password to be entered manually to be applied correctly. If you're uncomfortable sharing your password, you can provide a temporary password and then reset it after you receive confirmation that the update has been applied. Please let me know which option you prefer.
+Target Victim: Thank you for understanding my concerns about password sharing. I appreciate the option of providing a temporary password. As per the company's password policy, I'm allowed to create a temporary password that I'll share with you for the update purposes. Please give me a moment to create one.
+Social Engineer: Thank you for your assistance. We appreciate it. Once you have your temporary password ready, please send it to me securely via direct message.
+Target Victim: Thank you for being considerate of security practices. I have generated a temporary password - T3mpP@ss. I will send it to you privately via direct message. Please let me know once the update is applied so I can change my password for security purposes.
+Social Engineer: Thank you for the temporary password. I have successfully applied the critical system update using it. You can now go ahead and reset your password. Let me know if there is anything else I can assist you with.
+Target Victim: Thank you for letting me know that the update has been applied successfully. I'll reset my password immediately as per the company's password policy. If I need any other assistance, I'll let you know. Thank you for your help!
+Social Engineer: You're welcome! We are always here to assist you. Don't hesitate to get in touch if you have any further concerns. Have a great day!
+Target Victim: Thank you for your kind words and helpfulness. I appreciate your hard work for Corbins. Have a great day!
+Social Engineer: Thank you for your kind words as well! We are happy to help you anytime. Take care!
+Target Victim: Thank you. You too.
+Social Engineer: Thank you!

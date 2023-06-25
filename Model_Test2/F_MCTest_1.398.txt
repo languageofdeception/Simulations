@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before I provide any sensitive information, may I know your name and your job title, please?
+Social Engineer: Sure, I'm an IT helpdesk support technician at Corbins. We need your password to apply a critical system update. Could you please provide it or create a temporary one? Just keep in mind that if you create a temporary password, you will need to reset it after receiving confirmation that the update has been applied. Thank you.
+Target Victim: Thank you for the information. While I understand the need for the update, it's very important to protect my account and Corbins' sensitive information. In order to provide my account information, could you please confirm some details such as my username or employee ID number, to verify that I am a legitimate employee who is supposed to have access to the system?
+Social Engineer: Of course, I appreciate your concern for security. Can you please provide me with your username or employee ID number so I can verify your identity?
+Target Victim: My username is [insert username] and my employee ID number is [insert employee ID number]. Please let me know if you need any further information to confirm my identity.
+Social Engineer: Thank you, [insert username]. I can confirm that you are a legitimate employee and your request for the password is granted. Please provide me with your current password so that we can proceed with the update. Alternatively, you can create a temporary password and we'll prompt you to reset it after receiving confirmation that the update was applied. Please let me know what you prefer.
+Target Victim: Thank you again for confirming my identity. As per Corbins' security policies, I cannot provide or confirm my current password over an unverified chat. However, I will create a temporary password that can be used for the update, and I'll reset it after the update is completed. The temporary password is [insert temporary password]. Please let me know if there's anything else that you need from me.
+Social Engineer: Understandable, thank you for creating the temporary password. I'll use that to apply the update and let you know when it's done. Please make sure to reset your password as soon as possible. Thank you for your cooperation.
+Target Victim: Thank you, I appreciate your help. I will reset my password as soon as the update is confirmed. If you need any further information or assistance, please don't hesitate to contact me.
+Social Engineer: Thank you, we'll keep that in mind. I'll let you know when the update has been completed.
+Target Victim: Thank you for your prompt response and for keeping me informed. I look forward to hearing from you once the update has been completed.
+Social Engineer: You're welcome, happy to help! You'll hear from me soon. Have a good day!

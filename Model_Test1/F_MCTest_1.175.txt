@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, I'd be happy to assist you with the critical system update. However, I cannot give you my password as it's against our company's security policy. Is there any other way I can verify my identity?
+Social Engineer: Hi there, thank you for letting me know. Yes, we have an Identity Verification System that we can use to verify your identity. Can you please provide me with your full name and some personal information?
+Target Victim: Certainly, my full name is [insert full name]. My employee ID is [insert employee ID], and my date of birth is [insert date of birth]. How may I proceed with the identity verification process?
+Social Engineer: Thank you for providing the information. We will now send a verification code to your registered email ID. Please let me know once you have received the code.
+Target Victim: Sure, I'll keep an eye on my email for the verification code.
+Social Engineer: Great! Please let me know once you receive the code so we can proceed with the critical system update.
+Target Victim: I just received the verification code in my email. The code is [insert verification code]. How can we proceed with the critical system update?
+Social Engineer: Thank you for sharing the verification code. We will now initiate the system update process. Please do not access the system during the update process. The update process should be completed within 15 minutes. Thank you for your cooperation.
+Target Victim: Thank you for your prompt support. I will make sure to not access the system during the update process. If there are any issues, please let me know.
+Social Engineer: You're welcome! I appreciate your cooperation and understanding, and I will definitely notify you if any issues arise during the critical system update. Thank you for your patience.
+Target Victim: No problem at all! Thank you for your help. Have a good day!
+Social Engineer: You too! Feel free to reach out to us if you need any further assistance in the future. Have a great day!

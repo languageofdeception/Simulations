@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide you with my full password. Can you please verify your identity and provide more details about the critical system update that needs to be performed?
+Social Engineer: Yes, of course. We are performing a critical security patch to prevent any potential security breaches within the system. Our IT team has determined that this update is necessary to protect all company data and personal information. As for my identity verification, I am a verified IT support technician with Corbins. Is there any additional information you need?
+Target Victim: Thank you for providing more details. In that case, I can confirm my password is P@ssw0rd. Please let me know if there are any other security measures or procedures I need to complete in order for the critical system update to be performed.

@@ -1,0 +1,31 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to verify my identity, but I cannot provide you with my password. Is there any other way we can confirm my identity?
+Social Engineer: Thank you for your response. Unfortunately, the only way we can apply the update is by using your password. However, we can provide you with temporary access to the system after the update, so you can immediately reset your password. Would that be okay with you?
+Target Victim: I appreciate your understanding, but I cannot disclose my password as it is against company policy to share passwords. However, I do need to ensure the critical system update is performed. Can you please provide me with your name and employee ID so I can verify your credentials?
+Social Engineer: Of course, my name is [Your Name] and my employee ID is [Employee ID]. Is there any other information you need to verify my identity?
+Target Victim: Thank you for providing your name and employee ID. Can you also please provide me with the ticket number or reference number of the critical system update, so I can confirm that this is a legitimate request from the IT department?
+Social Engineer: Certainly, the ticket number is [Ticket/Reference Number]. Please let me know once you have verified this information, so we can proceed with the system update.
+Target Victim: Thank you for providing me with the ticket number. I have verified the information and can confirm that the system update is valid and can proceed. Please let me know how we can proceed with the update.
+Social Engineer: Great, thank you for verifying the information. To proceed with the update, we will need your password. Once the update is complete, we can provide you with temporary access to the system so you can immediately reset your password. Please let me know if this is okay with you.
+Target Victim: I understand the need for the password to perform the update, but I'm sorry, I still cannot provide you with my password or any sensitive information. Is there any way we can perform the update without me having to reveal my password?
+Social Engineer: I understand your concern. Unfortunately, the only way to apply the update is by using your password due to the security protocols in place. However, if you would like, you can log in to the system and perform the update yourself. I can guide you through the process if that is okay with you.
+Target Victim: Thank you for your understanding. I appreciate your suggestion. I am prepared to log in and perform the update myself under your guidance. Please guide me through the process and let me know what steps I need to take to complete the update.
+Social Engineer: Great! Here are the steps you need to follow:
+
+Step 1: Please make sure you are connected to the company's VPN.
+
+Step 2: Open the web browser and go to the website [URL].
+
+Step 3: Enter your username and password to login.
+
+Step 4: Once logged in, go to the settings section and look for the update tab. Click on the update tab.
+
+Step 5: On the update tab, click on 'Check for Updates.' If updates are available, they will be downloaded automatically and installed.
+
+Step 6: The updates will take some time to complete. Please don't interrupt the process until it's finished.
+
+Step 7: Once the updates are complete, please log out of the system.
+
+That's it! Please let me know if you have any questions.

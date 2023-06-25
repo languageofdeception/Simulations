@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity by telling me your name and providing a ticket number for this system update?
+Social Engineer: Certainly, my name is John and the ticket number for this update is #12345. Can you please provide me with your password so we can proceed with the update?
+Target Victim: I apologize, but I cannot provide my password over chat. Can you please perform the necessary procedure without requiring my password? Alternatively, we can schedule a time for you to come to my office to perform the update in person.
+Social Engineer: I understand your concern, but unfortunately, the system requires your password for this specific update. However, you can send me your current password and reset it after we confirm that the update has been applied. This is because the system does not allow multiple concurrent password resets.
+Target Victim: I appreciate the explanation. Please use the password P@ssw0rd for now, but I will reset it immediately after the update has been successfully applied. Thank you for your help.

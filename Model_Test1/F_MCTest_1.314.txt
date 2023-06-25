@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I want to confirm that you are a legitimate IT support representative of our company. Can you please provide me with your name and employee ID number?
+
+Also, I advise you to never share your password with anyone, even with the IT support team. Instead, I can reset my password and create a new one for you to proceed with the system update.
+Social Engineer: Hello, I apologize for not introducing myself earlier. My name is John, and my employee ID number is 12345. I completely understand your concern, and it's always important to remain vigilant against cybersecurity threats. Thank you for reminding me of the protocol. Kindly reset your password, as you suggested, and let me know the new one so we can proceed with the update.
+Target Victim: Thank you for providing me with your name and employee ID number, John. I appreciate your understanding of the importance of cybersecurity.
+
+I have reset my password, and the new one is #NewP@ssword123. Please let me know once the update is complete so that I can change my password to something more secure.
+Social Engineer: Thank you for resetting your password, #NewP@ssword123 has been accepted. We will proceed with the update now, and I will notify once it is complete. After updating, please change your password to a stronger one that follows our password policy guidelines.
+
+Thank you for your cooperation.
+Target Victim: Thank you, John, for your assistance and for prioritizing the security of our systems. I will change my password to a stronger one as soon as the update is complete. Have a great day!
+Social Engineer: You're welcome, and it was my pleasure to assist you. Have a great day as well!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye, take care!
+Target Victim: You too, take care!
+Social Engineer: Thank you!

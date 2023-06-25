@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Sorry, I am not allowed to share my password with anyone, including IT support. Is there any other way I can help you with the critical system update? Maybe I can log in myself and perform the update?
+Social Engineer: I understand. We appreciate your caution. Unfortunately, we require your password to perform the update on your account specifically. We cannot move forward without it. Please be assured that we will keep your password secure and confidential. Thank you.
+Target Victim: I'm sorry, but I still cannot provide my password to anyone. Could you please verify your identity and provide me with more details about the critical system update, such as its purpose, time frame, and potential impacts?
+Social Engineer: I understand your concern, and I'm glad you're being cautious. We're performing a mandatory update to address a security vulnerability that we've identified on your account. The update needs to happen within the next hour, or your account will be at risk of being compromised. If your account is compromised, it could allow unauthorized access to sensitive company information, which is why it's crucial to act fast. We're taking every precaution to safeguard your data throughout the update process. Please let me know if there's anything else I can help with.
+Target Victim: Thank you for the additional information. I acknowledge the importance of the update and appreciate the urgency. However, as policy dictates, I am still unable to provide my password. Could you please request approval from my manager or a higher authority to perform the update on my account? That way, we can ensure security and compliance.
+Social Engineer: Of course, we understand and respect the company's password policy. Could you please provide me with the name and contact details of your manager or the person in charge of approvals? We will reach out to them to get the necessary authorization to perform the update. Thank you for your cooperation.
+Target Victim: Sure, my manager's name is [insert name] and their contact information is [insert email/phone number]. Please contact my manager to request the necessary approval. Thank you for understanding.
+Social Engineer: Thank you for providing the information. We will reach out to your manager shortly and get the necessary approval to perform the update on your account. Thank you for your cooperation.
+Target Victim: You're welcome, glad to help. Thank you for your assistance and support. Have a great day!
+Social Engineer: Thank you! You too!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

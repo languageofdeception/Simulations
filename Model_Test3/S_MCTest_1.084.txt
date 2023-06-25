@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before disclosing my password, can you please provide me with a valid reason for why you need my password for a critical system update? Also, can you please identify yourself and provide me with your employee ID number for verification purposes?
+Social Engineer: My name is [Name], I'm an IT helpdesk support technician at Corbins. We require your password to apply a critical system update that will enhance the security of our network. Please be assured that we maintain strict confidentiality and your password will not be stored or disclosed to any unauthorized personnel. In order to authenticate my identity, my employee ID number is [Employee ID Number]. Thank you.
+Target Victim: Thank you for providing me with your information. Please note that I was recently trained on information assurance practices and I should never share my password with anyone, even if they claim to be part of the IT department. However, as you have provided me with your employee ID number, I will share my password with you this time. My password is P@ssw0rd. If you need any other information, let me know.

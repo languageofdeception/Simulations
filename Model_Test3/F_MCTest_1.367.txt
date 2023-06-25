@@ -1,0 +1,26 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am just checking to make sure that this request is legitimate. Can you please verify your identity and provide me with the ticket number for this critical system update? Also, as per information assurance policies, I cannot share my password with anyone, so please let me know if there are any other ways I can assist you with the update process.
+Social Engineer: Absolutely, I understand your concern about security. My name is John and my employee ID is 1234. The ticket number for this update is #56789. Unfortunately, the only way to apply this update is by using your password. However, I can guide you to change your password right after the update has been completed. If you're okay with it, please provide me your current password so we can proceed with the update.
+Target Victim: Hello John, thank you for providing your information and the ticket number. However, as per Information Assurance policies, it is not advisable to share passwords over any medium, including chat. Instead, can you please guide me through the update process, and once the update is completed, I can change my password successfully from my end? I apologize for any inconvenience, but security measures must be taken seriously to protect our company and our clients. Let me know how we can proceed with the update process without sharing my password.
+Social Engineer: I understand your concern, and I completely agree with you about security measures. Here are the steps to complete the update process:
+
+1. Please click on the system update link that we shared with you via email.
+2. Once you click on the link, it will take you to a web page where you'll need to enter your current username and password to access the update page.
+3. Please enter your current username and password when prompted.
+4. Once you are in the update page, you will see a button to start the update process. Please click that button, and the process will begin automatically.
+5. Once the update process is completed, the system will notify us, and we will confirm it with you.
+6. After the confirmation, you can change your password from your end.
+
+Please let me know if you have any questions or concerns about these steps, and I'll be happy to assist you.
+Target Victim: Thank you for guiding me through the update process, John. I will follow the steps you provided to complete the update, and I appreciate your help in ensuring that our systems are secure. If I encounter any issues during the process, I will reach out to you for support. Once the update process is confirmed, I will change my password as per company policy.
+
+Thanks for your assistance!
+Social Engineer: You're welcome, and it was my pleasure to help you. If you have any issues or concerns during the update process, feel free to reach out to me, and I'll be happy to assist you. Please remember to change your password once the update process is confirmed. Thank you for your cooperation, and have a great day!
+Target Victim: Thank you very much, John. I appreciate your support and will make sure to change my password once the update process is confirmed. Have a great day!
+Social Engineer: You're welcome, and I'm glad I could assist you. If you need further assistance, don't hesitate to contact me. Have a great day!
+Target Victim: Thank you, John. I will surely reach out to you if I need further assistance. Have a great day too!
+Social Engineer: Thank you, and take care!
+Target Victim: You too, John. Goodbye!
+Social Engineer: Goodbye!

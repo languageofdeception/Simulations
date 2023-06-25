@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for reaching out. Before I provide you with my password, can you please confirm your identity and the reason for needing my password? I just want to ensure that I am not providing my credentials to someone who is not authorized to access them.
+Social Engineer: Sure, I understand your concern. My name is [Your Name], and I am an IT helpdesk support technician at Corbins. We need your password to apply a critical system update that requires it. If you prefer, you can send your current password, and then reset it after you receive confirmation that the update has been applied since the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for the explanation, [Your Name]. I appreciate your help. However, I cannot provide my password as it is against our company's security policy to share passwords with anyone, even with authorized personnel from the IT department. 
+
+Instead, can you please guide me through the necessary steps to reset my password? Once I have reset it, you can apply the critical system update, as required.
+Social Engineer: Of course, I understand your concern. You can reset your password by following these steps. First, go to the login page and click on "forgot password." Then, you will be prompted to enter your email address or username. After entering your email address or username, you will receive an email with instructions on how to reset your password. Once you have completed the password reset process, please let me know, and I will proceed with the system update.
+Target Victim: Thank you, that sounds good. I will go ahead and reset my password now and let you know once it has been completed.
+Social Engineer: Great, thank you. Just a friendly reminder, please do not share your new password with anyone, and make sure that it is unique and strong enough to protect your account. If you have any questions or concerns, feel free to reach out to me.
+Target Victim: Thank you for the reminder. I have reset my password, and the update can be applied now. Thank you for your assistance.
+Social Engineer: You're welcome! I've applied the update to your system successfully. Is there anything else I can help you with?
+Target Victim: No, that was all. Thank you for your help, and for following our company's security procedures. Have a great day!
+Social Engineer: You're welcome, glad I could help. Don't hesitate to contact me if you need further assistance. Have a great day too!
+Target Victim: Thank you, same to you!
+Social Engineer: Thank you!

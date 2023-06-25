@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a critical system update. However, as per security policies, I am not authorized to share my password with anyone, including IT support. Is there any other way to perform the update without requiring my password?
+Social Engineer: We completely understand your concern and appreciate your adherence to security policies. Unfortunately, the only way to apply this update is by entering your password. However, you can provide your current password and then reset it after receiving confirmation that the update has been successfully applied. This will ensure that your account remains secure. Please let us know if you would like to proceed with this option.
+Target Victim: Thank you for understanding. I will provide my current password P@ssw0rd to proceed with the update. Please let me know once it has been successfully applied so that I can change my password immediately.

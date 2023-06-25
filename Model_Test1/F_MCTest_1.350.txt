@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but I am not at liberty to disclose my password through chat. Is there any other way I can provide proper verification?
+Social Engineer: Thank you for understanding. Can you please confirm your name and position within the company, along with the system you will be updating? We can then verify your permissions and proceed with the update.
+Target Victim: Yes, certainly. My name is [Your Name] and I am a [Your Position] at Corbins. The system to be updated is the [System Name] and it requires a critical update. Is there any other information I can provide to verify my permissions?
+Social Engineer: Thank you, [Your Name]. I have confirmed your permissions and we can proceed with the update. We appreciate your cooperation and understanding.
+Target Victim: Great! Thank you for your help. Please let me know if there is anything else I can provide to assist with the update process.
+Social Engineer: Thank you. We have all the necessary information now and we will proceed with the update. You do not need to do anything further at this time. If we require any further assistance, we will reach out to you.
+Target Victim: Understood. Thank you for letting me know and for your assistance with this critical update. Please let me know if there are any further updates or if any additional actions are required from my end.
+Social Engineer: Certainly, we will keep you informed about the progress of the update. Please feel free to reach out to us in case you have any further concerns or issues. Thank you for your cooperation and have a good day!
+Target Victim: Thank you, you too!
+Social Engineer: You're welcome!
+Target Victim: Have a good day!
+Social Engineer: Thank you, you too!

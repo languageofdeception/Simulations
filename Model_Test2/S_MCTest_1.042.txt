@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I have a question before I provide my password. Is it necessary for you to have my password for this system update? Can you please explain the process for performing the update?
+Social Engineer: Hello, thank you for your question. The critical system update requires direct access to your account, and the only way to apply the update is by entering your password. If you still have concerns, we can confirm the process for performing the update together.
+Target Victim: Thank you for explaining the process. I understand the importance of the system update. My password is P@ssw0rd. Please let me know if there are any other steps I need to take to allow for the critical system update.

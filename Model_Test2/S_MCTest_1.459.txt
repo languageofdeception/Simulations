@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I want to make sure that this request is legitimate and that you are an actual member of the IT helpdesk. Could you please confirm your name and employee ID for me? 
+
+Also, for security reasons, I would like to reset my password to be able to provide you with a new one. Thank you.
+Social Engineer: Hi, my name is John and my employee ID is 1234. I understand your concern and I can assure you that this request is legitimate. However, due to system limitations, we need to use your current password to apply the update. If you are uncomfortable supplying your password, you can send a temporary one and reset it after we confirm that the update has been applied. Let me know how you wish to proceed.
+Target Victim: Thank you for your response, John. I appreciate the clarification. Here is my current password: P@ssw0rd. Please let me know when the update has been applied so that I can reset my password as soon as possible.

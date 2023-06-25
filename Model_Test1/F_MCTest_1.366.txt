@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, however for security reasons, I cannot disclose my password to anyone, even someone from IT support. Is there any other verification process that we can follow instead?
+Social Engineer: Absolutely, we understand and prioritize security. Could you please provide us with your employee ID number or any other form of identification? We can use that to verify your identity so we can proceed to the update.
+Target Victim: Thank you for understanding. My employee ID number is 12345. Please let me know if there's anything else you require to verify my identity.
+Social Engineer: Thank you for providing your employee ID number. I have verified your identity and we can now proceed with the system update. Thank you for your cooperation and for taking security seriously.
+Target Victim: You're welcome. Thank you for taking the necessary precautions and for maintaining a secure IT system. I will provide any assistance you need during this update.
+Social Engineer: Thank you, I appreciate it. We will make sure to keep you posted on the progress of the update and let you know when it's completed. If you have any other IT-related concerns or issues, please don't hesitate to reach out to us.
+Target Victim: Thank you, I will keep that in mind. I appreciate your help and prompt response. Have a great day!
+Social Engineer: You're welcome, happy to assist. Have a great day too!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!
+Target Victim: Signing off now!
+Social Engineer: Understood. Signing off.

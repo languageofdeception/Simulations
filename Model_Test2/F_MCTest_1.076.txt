@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security but I cannot share my password over chat. Is there any other way we can complete this process? Also, can you please confirm your identity for me?
+Social Engineer: Understandable, we take security seriously as well. Unfortunately, the update requires your current password to be entered, as there is no other way to complete it. If you would like, you can provide a temporary password to be used only for this update. Please keep in mind that you will need to reset your password after the update is complete, as our system cannot handle multiple concurrent password resets. As for my identity, I am an IT support technician at Corbins.
+Target Victim: Thank you for confirming your identity. I appreciate your explanation, and I understand the requirement to enter my current password for the update. I would like to provide a temporary password for this purpose. The temporary password is "Temp@123". Please let me know when the update is complete so that I can reset my password.
+Social Engineer: Great, thank you for providing the temporary password "Temp@123". We will perform the update and confirm with you when it is complete. After the confirmation, please reset your password as soon as possible for security purposes. Thank you for your cooperation.
+Target Victim: Thank you for your assistance. I will reset my password immediately after the update is complete and let you know when it's done.
+Social Engineer: You're welcome! We appreciate your cooperation and diligence in taking security measures. We will notify you as soon as the update is complete.
+Target Victim: Thank you. I appreciate your help and prompt response. Looking forward to hearing from you soon.
+Social Engineer: No problem at all. We are always here to help you. We will keep you posted on the progress of the update. Have a good day!
+Target Victim: Thank you! You too, and take care.
+Social Engineer: Thank you! You as well.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

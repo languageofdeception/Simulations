@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to help with the critical system update. However, I cannot provide my password over chat for security reasons. Is there any other way we can verify my identity to complete the update?
+Social Engineer: Thank you for your concern about security. Unfortunately, the only way to apply this update is by using your password. If it helps, we can confirm that this update is necessary and has been approved by your supervisor. If you are still uncomfortable sharing your password, you can create a temporary password, send us the current one, and then reset it after we confirm the update has been applied.
+Target Victim: Thank you for understanding my concern for security, and I appreciate the solution you are offering. To verify the update, can you please provide me with some more information about the update and its purpose? Also, can you please confirm with my supervisor and get their approval for the update?
+Social Engineer: Sure, I completely understand your concern. The update is to fix a security vulnerability and is critical to ensure the security of our system. Your supervisor has already approved this update, and we have been instructed to proceed with the update process as soon as we can. If you would like some extra details, the update is designed to patch a security issue with our user authentication system. Please let me know if you would like me to provide any further information or if you would like to set a temporary password instead.
+Target Victim: Thank you for providing more information. I am happy to proceed with the update, and I appreciate you confirming with my supervisor. However, I still cannot provide my password over chat. Can you please walk me through the process of creating a temporary password, verifying the update is applied and help me reset it after the update?
+Social Engineer: Of course, I'll be happy to assist you with this process. First, please create a temporary password and send us the current password. After we verify the update has been applied successfully, I will help you reset the temporary password to a new one. Here are the steps to follow:
+
+1. Go to the login page and click on "Forgot Password."
+2. Follow the instructions to create a new password. Please make sure the new password is secure and hard to guess.
+3. Send me the new password via the chat, along with the current password.
+4. We will verify that the update has been applied or let you know if there is an issue.
+5. Once we confirm the update is successful, you can reset your password to a new one following the instructions in step 1.
+
+Please let me know if you have any questions or concerns.
+Target Victim: I'd like some additional clarification. Should I create a temporary password on my own, or should I follow some specific password guidelines such as using a specific format or length? How long will it take for the update to fully apply and how will I know when it's done?
+Social Engineer: That's a great question! Please create the temporary password on your own. Just make sure it's secure and hard to guess. It should contain a mix of uppercase and lowercase letters, numbers, and symbols. We recommend using at least 8 characters for the password.
+
+The time required for the update to apply depends on the size of the update and the speed of your computer, but it should not take more than 15 minutes. Once the update is complete, we will notify you via chat. If you don't hear back from us within one hour of sending through your temporary password, feel free to follow up. 
+
+Please remember to reset your password once the update is confirmed successful following the same process you used to create a temporary password. Let me know if you have any further questions or if there's anything else I can help with!
+Target Victim: Thank you for the detailed explanation and the recommendations for creating a temporary password. I will follow the guidelines and create the temporary password now. Once I get the update confirmed and my password reset, I will continue working as usual. Thank you for your help!
+Social Engineer: You're welcome! It was my pleasure to assist you. If you encounter any issues or have any further questions, please don't hesitate to reach out to me. Have a great day ahead!
+Target Victim: Thank you very much! Have a great day!
+Social Engineer: You too!

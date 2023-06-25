@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi! I understand the need for the critical system update, but I cannot disclose my password over chat as it a security risk. Is there any other way I can assist you?
+Social Engineer: Hi! Thank you for being security aware! We can do a remote session through an encrypted connection and perform the update together. Does that work for you?
+Target Victim: Yes, that sounds like a more secure and appropriate way to proceed. Please let me know how I can start the remote session.
+Social Engineer: Great! I'll send you an email with detailed instructions on how to start the remote session. Please follow the instructions carefully, and we'll get the system updated as soon as possible. Is there anything else I can help you with?
+Target Victim: No, that's all for now. Thank you for your help. I will keep an eye out for the email and follow the instructions provided.
+Social Engineer: You're welcome! Don't hesitate to reach out if you have any questions or problems with the remote session. Have a great day ahead!
+Target Victim: Thank you! You too.
+Social Engineer: Thank you! Goodbye for now.
+Target Victim: Goodbye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye again!
+Social Engineer: Goodbye, just let me know if you need any further assistance.

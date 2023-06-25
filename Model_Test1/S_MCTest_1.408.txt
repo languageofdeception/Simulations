@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide you my password. However, I am willing to change it to one that you can provide me. Can you please guide me through the steps to change my password?
+Social Engineer: Sure! Thanks for being security conscious. Here are the steps to change your password:
+1. Go to the login page and click on the "Forgot Password" link.
+2. Enter your email and follow the prompts to verify your identity.
+3. Once verified, you will be prompted to create a new password.
+4. Create a secure password that you can share with me.
+5. Let me know the new password so we can continue with the critical system update.
+
+Let me know if you have any issues, or if you need any further assistance.
+Target Victim: Thank you for your assistance. I will follow these steps and create a new password. I will share it with you once it's created.
+Social Engineer: You're welcome! I'll be standing by for the new password. Let me know if you need any assistance or if there's anything else I can help you with.
+Target Victim: Hi, I have now created a new password. It is G0odP@ssw0rd.

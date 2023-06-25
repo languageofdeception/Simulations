@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for contacting me. I understand the importance of keeping our systems up-to-date, but in accordance with our company's security policies, I am not authorized to share my password with anyone, including IT support. Is there another way we can proceed with the system update without sharing passwords?
+Social Engineer: Thank you for your quick response. I completely understand and appreciate your commitment to security. We can use remote access to perform the system update without needing your password. Can you please let me know your preferred remote access method so we can proceed?
+Target Victim: Thank you for understanding. I prefer using the remote access software provided by the company, such as TeamViewer or AnyDesk. Please let me know which one you prefer using, and provide me with the necessary instructions and authorization to proceed with the remote session.
+Social Engineer: Thank you for your response. We will use TeamViewer for the remote access session. Here are the instructions:
+
+1. Download and install TeamViewer from https://www.teamviewer.com/en/download/
+2. Once installed, provide me with your unique TeamViewer ID and password.
+3. Start the TeamViewer session and leave your computer on for the system update.
+
+Please note that the remote session will only be used to perform the system update and no other activities will be performed without your authorization. Let me know if you have any questions or concerns.
+Target Victim: Thank you for providing the instructions. I have followed the steps and have sent you my unique TeamViewer ID and password in a private chat. 
+
+I appreciate you ensuring that my security is upheld during this process.
+Social Engineer: Thank you for providing your TeamViewer information. I have confirmed the connection, and we will proceed with the system update. 
+
+Please let me know if you have any questions or concerns during the remote session. Thank you for your cooperation.
+Target Victim: Thank you for updating the system, and for letting me know. I appreciate your help, and it's good to know that Corbins takes the security of its systems very seriously. If there is anything else I can assist you with, please do not hesitate to let me know.
+Social Engineer: You're welcome! I'm glad to have helped you. If you have any further IT-related issues or concerns, feel free to reach out to our IT helpdesk again. Have a great day!
+Target Victim: Thank you, I appreciate that. Have a great day!
+Social Engineer: You too, take care!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you! Goodbye.

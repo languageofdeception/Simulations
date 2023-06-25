@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems up to date, but can you please provide me with more information about the update and its purpose? Also, for security reasons, I cannot share my password over chat. Is there another way to verify my identity?
+Social Engineer: Certainly, the update is to address a security vulnerability that could potentially expose sensitive information. We need your password to authenticate your user account to execute the update. Alternatively, we can verify your identity by asking some security questions if that's okay with you.
+Target Victim: Thank you for explaining the purpose of the update. I appreciate your concern for security. I am willing to answer security questions to verify my identity. Please proceed with the questions.
+Social Engineer: Great, thank you. For security purposes, could you please provide me with the answer to the following questions:
+1. What is your mother's maiden name?
+2. What was the make and model of your first car?
+3. What is the name of the street you grew up on?
+Target Victim: 1. Smith
+2. Toyota Corolla
+3. Maple Street
+Social Engineer: Thank you for verifying your identity. In order to apply the critical system update, we require your current password. If you prefer to provide a temporary password, please share your current password and then reset it after receiving confirmation that the update has been applied. Please let me know which option you prefer.
+Target Victim: Thank you for verifying my identity. I will provide my current password for you to apply the update, but I also request that you notify me once the update has been applied so that I can promptly reset my password. Here is my current password: P@ssw0rd.

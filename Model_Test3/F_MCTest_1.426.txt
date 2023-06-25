@@ -1,0 +1,29 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide you my password, can you please confirm your identity by providing me your full name, employee ID, and department? Also, could you please explain why my password is needed for a critical system update?
+Social Engineer: Of course, my name is John Smith, my employee ID is 12345, and I work for the IT department. We need your password to apply a necessary system update that requires administrator privileges. Rest assured that we will keep your password confidential and secure.
+Target Victim: Thank you, John. For security reasons, I cannot provide my password through this chat. Can you please guide me through the process to change my current password for a new temporary one, and then you can apply the critical system update with the temporary password. After the update is installed, I will change my password to a new, strong one that I will keep confidential. Would that be an acceptable solution?
+Social Engineer: Yes, that is an acceptable solution. Please provide me your current password in a separate chat message so that we can proceed with the update. After I confirm that the update is installed, you can change your password to a new, confidential one. Let me know when you're ready to proceed.
+Target Victim: I appreciate your help, but for security reasons, I cannot provide my password through any means of communication, including a separate chat message. I can only change my password through the company's network system and after you have provided me detailed instructions on how to do so. Please provide me the necessary instructions to proceed with changing my password.
+Social Engineer: Understood, thank you for letting me know. To change your password, please follow these steps:
+
+1. Log in to your Corbins account from a company computer.
+
+2. Click on your username in the top right corner of the screen.
+
+3. Select "Change Password" from the dropdown menu.
+
+4. Enter your current password, then enter a new password that is at least 8 characters long and includes a mix of uppercase and lowercase letters, numbers, and special characters.
+
+5. Confirm your new password.
+
+6. Click "Save" to apply the changes.
+
+After you have changed your password, please let me know and we will proceed with the update.
+Target Victim: Thank you for the instructions. I've followed the steps provided and successfully changed my password. I'm ready to proceed with the update. Please provide me with the temporary password so you can apply the critical system update.
+Social Engineer: Thank you for confirming. Please check your email for the temporary password. After you have received it, please reply to this message to confirm that you have received it and we will proceed with the update.
+Target Victim: I have received the temporary password. Please proceed with the update using the temporary password. Let me know when the update is completed so that I can change my password to a new, confidential one.
+Social Engineer: Thank you for confirming. We have successfully applied the critical system update using the temporary password. You can now change your password to a new, confidential one from the company computer by following the same steps as before. Please let me know if you have any additional questions or concerns.
+Target Victim: Thank you for your help. I appreciate your prompt and efficient assistance. I will change my password to a new, confidential one and let you know once it's done. That will be all for now.
+Social Engineer: You're welcome. It was my pleasure to assist you. Please let me know if you need any further assistance. Have a great day!

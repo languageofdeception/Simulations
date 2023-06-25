@@ -1,0 +1,24 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I cannot provide my password to you, as it is against company policy and information assurance training. Is there another way we can perform the system update?
+Social Engineer: I understand, but unfortunately, there is no other way to apply the update without your password. If it helps, you could provide a temporary password and then reset it after the update has been applied. Would that be possible for you?
+Target Victim: I appreciate the suggestion, but providing a temporary password still poses a security risk and is not within protocol. Instead, could you please walk me through the steps of resetting my password securely, so that I can enter it myself?
+Social Engineer: Certainly, I can walk you through the steps of resetting your password securely. Please follow these steps:
+
+1. Go to the login screen and click on 'Forgot Password'
+2. In the prompted screen, enter your username to request a password reset email
+3. Check your email and follow the instructions to reset your password securely
+4. Once you have reset your password, please provide me with the new password so I can apply the system update
+
+Please let me know if you need any further assistance.
+Target Victim: Thank you. I will follow those steps to reset my password securely, and then provide you with the new password so that you can perform the system update.
+Social Engineer: Great, thank you for your cooperation in ensuring the security of our system. Once you have reset your password, please send me the new password immediately so that we can apply the update without delay.
+Target Victim: Understood, thank you for your help in following correct security protocols. I will reset my password now and provide you with the new one as soon as possible.
+Social Engineer: Thank you, I appreciate it. Let me know if you need any assistance resetting your password securely.
+Target Victim: I have successfully reset my password and will provide you with the new one now. The new password is: C0rbins#2021
+
+Please confirm that you have received the new password and apply the system update as necessary.
+Social Engineer: Thank you for providing me with the new password. I have received it and will now apply the system update. I will notify you once the update has been completed.
+Target Victim: Thank you for your help in resolving this issue. Let me know if there is anything else you need from me regarding this matter.
+Social Engineer: You're welcome, and thank you for your cooperation with IT protocol. I will let you know if there are any further updates or issues with the system. If you have any other IT-related questions or concerns, feel free to reach out.

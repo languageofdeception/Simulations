@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot provide my password as it goes against our company's security policy. Is there another way to perform the update that does not require me to share my password?
+Social Engineer: Of course, I completely understand. We can use remote assistance to perform the update without requiring your password. Would you be available for a remote session sometime today?
+Target Victim: Yes, I am available for a remote session today. What time would work best for you?
+Social Engineer: How about we start the session at 2 pm today? I'll send you an email with the instructions on how to start the remote assistance. Thank you for your cooperation.
+Target Victim: That works for me. Thank you for your help in ensuring the security of our systems. I will keep an eye out for the email and follow the instructions to start the remote assistance session.
+Social Engineer: Great, I appreciate your cooperation as well. Let me know if you have any questions or concerns before the session. Have a good day!
+Target Victim: Thank you, I will let you know if I have any questions or concerns. Have a good day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, bye!
+Social Engineer: Bye!
+Target Victim: End of conversation.
+Social Engineer: End of conversation. Goodbye!

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I am not comfortable sharing my password over a chat client. Is there an alternative way we can perform this critical system update? Also, can you please confirm your identity and provide me with your name and employee ID number?
+Social Engineer: Hello, I completely understand your concerns regarding security. Can you please call our IT support hotline at 555-1234 and our team will assist you with performing the critical system update? My name is John and my employee ID is 9876543. Thank you.
+Target Victim: Thank you for providing your information, John. I appreciate your help and will call the IT support hotline at 555-1234 to proceed with the system update. Thank you for your prompt and professional assistance.
+Social Engineer: You're welcome! It was my pleasure to assist you. If you have any further questions or concerns, please feel free to reach out to IT support again. Have a great day!
+Target Victim: Thank you, John. I appreciate your assistance and will keep that in mind if I have any further questions or concerns. Have a great day too!
+Social Engineer: Thank you, have a great day as well!
+Target Victim: Thank you, take care!
+Social Engineer: Thank you, you too!
+Target Victim: Thank you, bye!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

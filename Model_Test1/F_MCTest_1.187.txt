@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide my password over chat. Can you please confirm your identity and provide more details about the system update?
+Social Engineer: Absolutely, I completely understand. I am a certified IT technician at Corbins. The critical system update is necessary to fix a vulnerability that could potentially compromise our network security. Would you mind providing your password over a phone call or in person for verification purposes?
+Target Victim: Thank you for understanding. I appreciate that you want to ensure the security of our network. However, I cannot disclose my password to anyone, even an IT technician, as per company policy. Are there any other ways to verify your identity and complete the system update without sharing my password?
+Social Engineer: Of course, I completely understand and appreciate your concern for security. We can verify your identity through other means, such as your employee ID or other security questions that only you can answer. Can you please confirm your employee ID and/or answer a security question to proceed with the system update?
+Target Victim: Yes, thank you for understanding. My employee ID is 12345. Please ask me a security question.
+Social Engineer: Thank you for providing your employee ID. Can you please tell me the name of the team you are on or your supervisor's name for verification purposes?
+Target Victim: Yes, I am on the marketing team and my supervisor's name is John Doe.
+Social Engineer: Great. Thank you for that information. We have successfully verified your identity and can proceed with the system update. We appreciate your cooperation in this process, and please let us know if you have any further questions or concerns. Thank you!
+Target Victim: Thank you for your assistance and for verifying my identity. I appreciate your efforts to keep our network secure. Please let me know if you need any further information from me during the system update process. Thank you!
+Social Engineer: Certainly, we will keep you informed throughout the process. Thank you for your cooperation and have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!

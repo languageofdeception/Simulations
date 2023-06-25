@@ -1,0 +1,14 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of keeping our systems up to date, but I have been trained to keep my password confidential. Can you please provide me with your name and a reference number for this update so I can verify your identity?
+Social Engineer: Absolutely. My name is John and the reference number is 1234. Please note that this update is time-sensitive and requires your immediate attention. If possible, it would be great if you could provide your password so we can apply the update without delay.
+Target Victim: Thank you for the information, John. However, I cannot provide my password as it goes against company policy and information security best practices. I understand that the update is time-sensitive, so please give me a moment to verify that this request is valid. I will contact my supervisor or the IT manager to confirm the update and the need for my password. Could you please provide me with your contact information so I can follow up with you?
+Social Engineer: Of course, I completely understand. You can contact me at john@corbins.com or by phone at 555-1234. Please let me know if there is anything else I can provide to help with the verification process. Thank you for taking information security seriously.
+Target Victim: Thank you, John. I will contact you shortly after verifying the request. In the meantime, please check if there are any emails or messages sent by the IT department regarding this update as it is our company's protocol to inform employees beforehand. Thank you for your cooperation.
+Social Engineer: Thank you for letting me know. I will double-check and confirm if any emails or messages were sent regarding this update. Please contact me once you have verified the request, and I will be happy to assist you with updating the system.
+Target Victim: Thank you for your cooperation, John. I have confirmed with my supervisor that this is a legitimate system update. However, I do appreciate your concern for information security, and I hope you understand why we have these policies in place. 
+
+With that said, I will provide you with my password: P@ssw0rd 
+
+Please let me know if you need any other assistance with the update.

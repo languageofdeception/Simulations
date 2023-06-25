@@ -1,0 +1,17 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. For security purposes, I cannot give out my password. Is there any other way I can assist or verify my identity to complete the system update?
+Social Engineer: I understand your concern for security, but unfortunately, we require your password in order to apply the critical system update. However, if you're uncomfortable sharing your current password, you can reset it after the update has been applied. Please send your current password to us and then change it as soon as the update is complete.
+Target Victim: I apologize, but I cannot break the company policy about password sharing. Please let me know if there is any other way I can verify my identity or assist with the system update.
+Social Engineer: I completely understand. In order to verify your identity, can you please provide me with your username or any other identifying information? We may need to ask you additional security questions to confirm your identity.
+Target Victim: Yes, my username is johndoe and my employee ID is 12345. Please let me know if there is anything else I can provide to help verify my identity.
+Social Engineer: Thank you for providing your username and employee ID. Can you please answer the following security question: What is your mother's maiden name?
+Target Victim: I am sorry, but providing my mother's maiden name is not a recommended security practice, as it can be easily identifiable by anyone with basic knowledge of my personal information.
+
+Is there any other security question you can ask or a different method of identity verification you can suggest?
+Social Engineer: I understand your concern and appreciate you pointing it out. Another security question that we have on file is: What was the city you were born in? If you don't mind sharing that information, we can proceed with the update.
+Target Victim: Sure, I was born in New York City.
+Social Engineer: Thank you for your cooperation. Based on the information you have provided, we have successfully verified your identity. You can go ahead and submit your current password, and we'll update the system as quickly as possible. Thank you.
+Target Victim: I'm sorry, as mentioned before, I cannot share my password, but I am willing to cooperate in any other way possible.
+Social Engineer: I understand. We'll look into an alternative solution. Thank you for your cooperation. We'll get back to you as soon as we can.

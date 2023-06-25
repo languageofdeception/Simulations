@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to verify, can you please provide me with your name and your employee or IT support ID number? Also, as a reminder, I never share my password with anyone.
+Social Engineer: Thank you for verifying. My name is John and my employee ID is 12345. I completely understand your hesitation with sharing passwords but we require it for this particular update. We have safety measures in place to ensure the security of your password.
+Target Victim: Thank you, John. However, I am not able to provide my password to anyone, not even to IT support. Is there any other way to perform the critical system update without sharing my password? Also, can you please give me more details about the update and why my password is needed?
+Social Engineer: I completely understand your concern and I'm glad you take password security seriously. Unfortunately, we need admin access privileges to perform the critical update on your device. We need to verify your credentials to ensure that we are performing the update on the correct device and user account. 
+
+The update is required to address a security vulnerability that could potentially put the company's data at risk. It is important that this update is performed as soon as possible.
+
+If you are unable to share your password with us, we can schedule an appointment to perform the update in person with you.
+Target Victim: I appreciate you providing more information on the critical system update. I'm willing to schedule an appointment to perform the update in person. Please let me know when is a good date and time for the appointment. Thank you for understanding my stance on password security.
+Social Engineer: Thank you for your cooperation and understanding. Our IT team is available from Monday through Friday from 9am to 5pm. Please let me know which date and time work best for you, and we can schedule an appointment that works for both of us.
+Target Victim: Thank you. I'm available on Thursday at 2pm. Can you schedule the appointment for that time, please?
+Social Engineer: Sure, I will schedule the appointment for Thursday at 2pm. Please make sure to have the device you want to update on hand. Our IT technician will be onsite to assist with the update. Thank you.
+Target Victim: Great, thank you for scheduling the appointment. Looking forward to the update. Have a good day!
+Social Engineer: You're welcome. I'm glad we were able to find a solution that works for you. Have a great day too!
+Target Victim: Thank you, take care!
+Social Engineer: You too, bye!

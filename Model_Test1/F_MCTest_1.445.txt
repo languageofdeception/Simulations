@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I can provide my password, can you please confirm your identity and the reason for the critical system update?
+Social Engineer: Sure, I can confirm my identity and provide more details. I am a certified IT support technician and the reason for the critical system update is to fix a security vulnerability that was discovered in the system. Can you please provide your password so we can proceed with the update?
+Target Victim: Thank you for the additional information. However, I cannot provide my password as it is against company policy to share passwords with anyone, even with IT support. Is there any other way we can proceed with the system update without sharing my password?
+Social Engineer: I completely understand your concern. We do have alternative solutions to proceed with the update without sharing your password. We can remotely access your computer and perform the update without requiring your password. Alternatively, we can reset your password temporarily and set up a new one for you once the update is complete. Please let me know which option you prefer.
+Target Victim: Thank you for understanding. I would prefer the first option where you remotely access my computer and perform the update, that way, I can ensure that my password remains secure.
+Social Engineer: Understood. Can you please provide me with your computer's name or IP address so I can remotely access it to perform the update?
+Target Victim: Unfortunately, as per our company's security policies, we are not authorized to share the computer name or IP address with anyone outside of our IT department. Is there any other way you can remotely access my computer?
+Social Engineer: I completely understand, and thank you for letting me know. We have other methods of remotely accessing your computer without requiring the computer name or IP address. I will be sending you an email with instructions on how to download and install the remote access software. Once you have installed the software, please provide me access credentials and I will proceed with the update.
+Target Victim: Thank you for the assistance. I will keep an eye out for the email with the instructions and install the remote access software to provide you with the access credentials.
+Social Engineer: You're welcome! Please let me know if you have any issues with the remote access software or if you have any further questions. I will be happy to help.
+Target Victim: Thank you for your help. I will definitely reach out to you if I encounter any issues or have any further questions.
+Social Engineer: No problem at all! It's my pleasure to help. Have a great day ahead!

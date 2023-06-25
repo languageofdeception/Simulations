@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am an employee at Corbins, and I would like to verify your identity before sharing my password. Can you please provide me with your full name and employee identification number to confirm that you are a legitimate member of the IT helpdesk?
+Social Engineer: Sure, my name is John Smith and my employee ID number is 1234. Is there anything I can provide you to establish my identity further?
+Target Victim: Thank you, John. Before I provide my password, can you please confirm that this is a legitimate request and the need for updating the system? What exactly does the update entail and what systems will be affected?
+Social Engineer: Yes, this is a legitimate request, and we need your password to perform a critical system update that will improve the security and stability of our databases. The update will only affect the database servers, and it is necessary to prevent potential security threats. The password will only be used for the specific update, and we strongly recommend that you change your password as soon as possible after the update is complete.
+Target Victim: Thank you for the information, John. I appreciate the heads up! To comply with security protocols, I will reset my password immediately after the update is complete. For the time being, my password is P@ssw0rd.

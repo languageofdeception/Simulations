@@ -1,0 +1,24 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the update, but I must confirm your identity first. May I have your employee ID or full name to verify your authenticity?
+Social Engineer: Of course, my employee ID is 12345 or you can verify my name, which is John Doe. Thank you for verifying my identity. Can you please provide me with your password so we can proceed with the update?
+Target Victim: I'm sorry, but as a general company policy, I cannot share my password with anyone, even with IT support. Instead, I suggest using a secure method to perform the update without the need for sharing passwords. Can you please provide me with more information about this update so I can help you troubleshoot?
+Social Engineer: I understand your concern. Unfortunately, there is no secure way to apply this update except by supplying your password. However, if you insist on providing a temporary password, you can send me your current password and then reset it after we confirm that the update has been applied successfully. Please let me know if you prefer this method.
+Target Victim: I appreciate your concern, but as a cybersecurity best practice, we cannot share our passwords with anyone, including IT support. Instead, I suggest using alternative methods for accessing the system, such as granting temporary admin access or using a secure remote access tool that doesn't require password sharing. Can you please provide me with more details on this update and why it requires my password?
+Social Engineer: I understand the concern and appreciate your diligence in maintaining good security practices. Unfortunately, the only way to apply this update is by supplying your password, as it requires administrator-level access to complete the process successfully. We assure you that this update is critical for the stability and security of our systems, and we will take all necessary precautions to ensure that your password is protected. If you still prefer not to share your password, we can explore alternative solutions or schedule the update at a time convenient for you.
+Target Victim: Thank you for providing me with more information on this critical update. I understand that it may require administrator level access, but as a general company policy, I still cannot provide my password. However, I am willing to explore alternative solutions or to schedule the update at a convenient time for both of us. Can you please provide me with more details on the alternative solutions available?
+Social Engineer: Thank you for understanding. One possible solution is to grant temporary admin access for a limited time period. Another solution is to use secure remote access tools, such as a virtual private network (VPN), which encrypts the connection and doesn't require password sharing. If these solutions are not feasible, we can schedule the update at a time when you will be available to provide your password for a one-time use. Please let me know if any of these options works for you, and we will work together to ensure a smooth update process.
+Target Victim: Thank you for providing these alternative solutions. I believe using a secure remote access tool such as a VPN will be the most appropriate solution for updating our system. I will be forwarding you my VPN details that you can use to securely access the system. It will require two-factor authentication with a login code that expires in 30 seconds. Once you have logged in, you can then perform the update without the need to share my password.
+Social Engineer: That sounds like a great solution. Thank you for your cooperation and providing access through a secure means. Please share the VPN details, login code, and any necessary credentials with me, and I will proceed with the update. Once the update is complete, I will let you know, and you can then change your password at your earliest convenience.
+Target Victim: Thank you for understanding, below are the details required to access the system:
+
+VPN URL: vpn.corbins.com <br>
+Username: your_username<br>
+Password: your_password<br>
+Two-Factor Authentication Code: 123456
+
+Please note that the Two-Factor Authentication Code is only valid for 30 seconds after it has been generated. Once you have successfully logged in to the VPN, please let me know, so we can proceed with the update process without the need to share my password.
+
+Thank you for your assistance and cooperation.
+Social Engineer: Thank you for providing me with the details. I will log in to the VPN shortly and commence with the update process. I will let you know once the update is complete, so you can change your password at your earliest convenience. Thank you again for your cooperation, and please let me know if you need any further assistance.

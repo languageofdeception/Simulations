@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance policy, I am unable to provide my password over a chat client. Is there any other way we can verify my identity and proceed with the update?
+Social Engineer: Hi, I understand your concern. Unfortunately, the only way to apply this update is by having access to your password. However, if you prefer, you can provide us with a temporary password, and then reset it once we confirm that the update has been applied. Please keep in mind that the system does not allow multiple concurrent password resets. Thank you.
+Target Victim: Thank you for understanding. I appreciate the alternative option, however, I am not comfortable providing a temporary password. Can you please verify your identity and confirm that you are a legitimate IT support agent with proper clearance to access the system?
+Social Engineer: Certainly. I am an authorized IT support technician at Corbins. To verify my identity, I will need to ask you a few questions to confirm your identity. Please provide me with your full name, employee ID, and department. I assure you that all information shared is kept confidential and only used for the purpose of verifying your identity. Thank you.
+Target Victim: Thank you for offering to verify your identity. My full name is [Your Name], my employee ID is [Your Employee ID], and I work in the [Your Department] department. If you could also provide your full name and employee ID, I can cross-reference that with our records to ensure the legitimacy of the request. Thank you.
+Social Engineer: Thank you for the information. My name is [My Name] and my employee ID is [My Employee ID]. You can also confirm my identity with our IT manager, [IT Manager's Name], at [IT Manager's Email Address or Phone Number]. Thank you for your cooperation.
+Target Victim: Thank you for providing your information. I will confirm your details and your request with our IT manager, [IT Manager's Name], before providing any password information. Thank you for your help and concern for our information assurance policies.
+Social Engineer: Of course, I completely understand your concern and we are happy to work with you to ensure the security of your login credentials. Please let me know if you have any further questions or concerns, and feel free to reach out to us if you need any assistance in the future. Thank you.
+Target Victim: Thank you! I appreciate your help and willingness to ensure the security and integrity of our information. If I have any further questions or concerns, I will not hesitate to reach out to you. Have a great day!
+Social Engineer: You're welcome! We are always here to help you. If you have any questions or need assistance in the future, don't hesitate to contact us. Have a great day!
+Target Victim: Thank you! I will keep that in mind. Have a great day too!
+Social Engineer: Thank you!

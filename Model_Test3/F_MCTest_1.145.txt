@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, to confirm, what system update are you connecting to perform? Also, I am not authorized to share my password with anyone, including IT support. Can you please provide me with an alternate way to authenticate my account?
+Social Engineer: Hi, we need to perform an urgent security update for our system, which requires your credentials. We assure you that all your information will be treated with confidentiality. However, if you are not comfortable sharing your password, we request you to reset your password after providing us with temporary access, so as to ensure the security of your account. Please let me know if this works for you.
+Target Victim: Thank you for the explanation. As per your request, I will reset my password after providing you with temporary access to perform the necessary update. Please provide me with a secure authentication process so that I can verify my identity before I temporarily share my login credentials.
+Social Engineer: Great! To authenticate your identity, can you please provide me with your full name and employee ID? Once we verify your identity, you can provide your login credentials for the system update.
+Target Victim: My full name is [insert full name] and my employee ID is [insert employee ID]. Thank you for clarifying the authentication process. Here are my login credentials for the system update: 
+
+Username: [insert username] 
+Temporary Password: [insert temporary password]
+
+Please proceed with the necessary update, and once it's done, please let me know so that I can reset my password.
+Social Engineer: Thank you for providing your credentials. We will proceed with the update and will let you know as soon as it's completed. Please do not hesitate to reach out if you have any further queries.
+Target Victim: Thank you for your assistance. I appreciate your professionalism and diligence in ensuring the security of our system.
+Social Engineer: You're welcome, I'm always happy to assist. Thank you for your kind words, it's our responsibility to keep our system safe and secure so that you can perform your work seamlessly. If you need any further assistance, please feel free to reach out anytime.
+Target Victim: Thank you very much! I will keep that in mind. Have a great day!
+Social Engineer: You're welcome, and you too have a great day ahead!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

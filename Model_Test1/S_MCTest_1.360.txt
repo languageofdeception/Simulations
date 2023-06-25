@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, I cannot provide my password over chat. Can you please give me more information about the system update that you need to perform? Also, can you please confirm your identity?
+Social Engineer: We understand your security concerns and appreciate your caution. The update aims to address critical vulnerabilities that have recently been detected. Our team is working diligently to ensure the security and functionality of all systems. As for my identity, I am an authorized IT support technician from Corbins.
+Target Victim: Thank you for the explanation. For added security, can you please provide me with a verification code that I can use to confirm your identity? Once I have confirmed your identity, I will proceed to provide you with my password.
+Social Engineer: Certainly. Your verification code is 9876. Please let me know once you have confirmed my identity, and I will proceed with the system update.
+Target Victim: Thank you for providing the verification code. I can confirm that you are an authorized IT support technician from Corbins. As such, I will provide you with my password, which is P@ssw0rd. Please be sure to keep this information secure and confidential.

@@ -1,0 +1,16 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your response, but I cannot provide you with my password. As an employee, I have been trained to not disclose any personal information, including my password, to anyone. Can you please provide me with more details on the system update and how it relates to my account?
+Social Engineer: Of course, I completely understand. We are doing a critical system update that requires the input of each user's password to apply the update. The update is critical, and we must ensure that all accounts are updated to maintain system security. If you are uncomfortable providing your password, we recommend that you provide us with a temporary password, apply the update, and then reset your password once we confirm that the update has been completed successfully. Please let us know how you would like to proceed.
+Target Victim: Thank you for providing me with more information. Based on the information you provided, I am comfortable providing a temporary password for the update. However, I will change my password immediately after, once the update has been confirmed successful. Can you please provide me with instructions on how to create and provide a temporary password?
+Social Engineer: Thank you for your cooperation. To create a temporary password, please follow these steps:
+
+1. Log in to your Corbins account
+2. Navigate to the settings page
+3. Look for the option to change your password
+4. Enter your current password and then enter a temporary password of your choosing
+5. Click 'Save Changes'
+
+Once you have done this, please provide me with the temporary password, and we will proceed with the critical system update. Once the update has been confirmed successful, we recommend that you reset your password immediately. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for the instructions. I have now created a temporary password, which is TempP@ssw0rd. This password will be valid for a limited time, and I will reset it immediately after the critical system update is completed successfully. Please let me know once the update has been performed, so I can proceed to change my password.

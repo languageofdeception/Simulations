@@ -1,0 +1,19 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee at Corbins, I recognize the importance of keeping our systems updated and secure. However, I cannot provide my password over chat or email for security reasons. Is there any other way I can assist you with this critical system update?
+Social Engineer: Thanks for your concern over security. One option could be to reset your password and provide me with the new one. Alternatively, we can schedule a time for me to come to your desk and conduct the update with you present. Please let me know what works best for you.
+Target Victim: Thank you for the alternatives you suggested. I think resetting my password would be the best option so that I can maintain full control over my account. I will reset it right now and provide you with the new one. 
+
+My new password will be: C0rbinsI5Gr3@t 
+
+Please let me know if there are any other steps I need to take to complete this update.
+Social Engineer: Thank you for resetting your password and sharing it with me securely. I will proceed with the system update now. If there are any further actions needed on your end, I will let you know. Otherwise, everything should continue to function as normal. Thank you for your cooperation.
+Target Victim: Thank you for your help and for keeping our systems secure. If you need any further assistance from my end, feel free to let me know. Have a great day!
+Social Engineer: Thank you, I appreciate your willingness to help. I will definitely reach out if we need any further assistance. Have a great day too!
+Target Victim: You're welcome! I'm always happy to help. Have a great day!
+Social Engineer: Thank you, you too!
+Target Victim: Thank you!
+Social Engineer: No problem, happy to help any time!
+Target Victim: It's great to work with someone who has such a positive attitude. Have a wonderful day!
+Social Engineer: Thank you for your kind words, I really appreciate it. It's great to work with someone as friendly and cooperative as you too. Have a wonderful day as well!

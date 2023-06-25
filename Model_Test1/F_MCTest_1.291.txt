@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for updates, but I cannot simply give out my password. Can you walk me through the process of changing my password so that I can ensure the security of my account?
+Social Engineer: Absolutely! Please follow these steps:
+1. Go to the company's login page.
+2. Click on "Forgot Password."
+3. Follow the instructions to reset your password.
+4. After resetting your password, please provide me with the new password so we can perform the system update.
+Let me know if you have any questions.
+Target Victim: Thank you for the instructions. I'll follow these steps to reset my password. Here's my new password: C0rbins@2021. Please let me know if this will work for the system update.
+Social Engineer: Thank you for resetting your password. I confirm that this password will work for the system update. We appreciate your cooperation. Have a great day!
+Target Victim: Thank you for your help! Have a great day too!
+Social Engineer: You're welcome! Feel free to reach out to us anytime if you need further assistance. Have a great day!
+Target Victim: Thank you, I appreciate that. Have a great day too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Have a nice day!

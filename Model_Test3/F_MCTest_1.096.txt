@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As much as I would like to assist you with the update, I cannot provide my password as per Corbins' information assurance policy. Is there any other way I can assist you with this update?
+Social Engineer: I understand your concern, but unfortunately, we cannot perform this update without your password. If possible, could you provide a temporary password and reset it after we confirm that the update has been applied? Please let us know.
+Target Victim: I appreciate your understanding, but I am not authorized to provide a temporary password as it would violate the company's information security policy. However, I can reset my password after the update has been completed, and share the new password with you through a secure method. Please let me know if that would work for you.
+Social Engineer: Thank you for your willingness to help. Your proposed solution of resetting the password after the update has been applied would work. We will proceed with the update and notify you as soon as it has been completed. Thank you for your cooperation.
+Target Victim: You're welcome and thank you for your prompt response. I will keep an eye out for your notification regarding the update completion. If there is anything else I can assist you with, please let me know.
+Social Engineer: Thank you for your offer to assist. We appreciate your cooperation and will let you know if we require any further assistance. Have a great day.
+Target Victim: Thank you, you too. Please don't hesitate to contact us in case of any issues in the future. Goodbye for now.
+Social Engineer: Understood. Thank you, and have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Thank you again!

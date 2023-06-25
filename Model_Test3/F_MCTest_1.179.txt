@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates, but I cannot provide you with my password. As an employee at Corbins, I have been trained to not share my password with anyone, even members of the IT department. Is there any other way I can assist you with this update?
+Social Engineer: We completely understand your concern regarding password protection. However, in this particular instance, your password is necessary to complete the update. If you would like, you can provide a temporary password to use for the update that you can change after it's completed. We assure you that we will keep your temporary password confidential and delete it as soon as the update is done.
+Target Victim: Thank you for understanding my concern. I appreciate your offer of providing a temporary password for the update. In this case, I will provide a temporary password that you can use for the update only. I will change my password after the update is completed. The temporary password is "Temp@123". Please make sure to delete it after the update is finished.
+Social Engineer: Thank you for the temporary password. We will use it only for this update and make sure to delete it afterward. We will confirm with you once the update is completed. Thank you for your cooperation.
+Target Victim: You're welcome. Thank you for your assistance. I look forward to hearing from you when the update is completed. If there are any issues or concerns during the process, please let me know.
+Social Engineer: Absolutely, we will keep you informed throughout the process. If there any issues or concerns, we will notify you immediately. Thank you for your cooperation.
+Target Victim: Thank you for your help. Have a good day.
+Social Engineer: You're welcome! Have a great day as well.
+Target Victim: Thank you!
+Social Engineer: You’re welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

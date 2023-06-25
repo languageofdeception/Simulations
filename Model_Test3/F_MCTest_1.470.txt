@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate you reaching out, but I cannot provide you with my password as it is against company policy to share login credentials. Can you please provide more information on the critical system update?
+Social Engineer: Thank you for taking security seriously. This is a mandatory security update that must be applied as soon as possible to ensure the safety and security of our systems. Unfortunately, due to system restrictions, we are unable to perform this update without your password. If necessary, you can send your current password and then reset it after you receive confirmation that the update has been applied.
+Target Victim: I understand the urgency of the situation and I appreciate your explanation of the situation. However, I am not comfortable sharing my password over chat and I do not want to compromise the security of our system. Is there another way to perform this update that does not require my password?
+Social Engineer: I understand and respect your concern for security. Unfortunately, there is no alternative at this time. Our system does not allow for multiple concurrent password resets, which means that we need your current password to perform this update. I assure you that your password will be handled with the utmost care and will not be shared with anyone.  If you truly are uncomfortable sharing your password, you can reset it and let me know the new one. However, please note that this will delay the update process.
+Target Victim: I appreciate your understanding, but I still cannot provide my password. Is there a way to verify that you are from the IT helpdesk and that this request is legitimate? Perhaps we could schedule a call to discuss further and I can then confirm the legitimacy of this request.
+Social Engineer: Absolutely, I completely understand your concern and respect your decision not to share your password. I will send you an email from my Corbins work address with my contact details so that we can schedule a call to verify that this request is legitimate. Please keep an eye out for an email from me, and I'll be happy to answer any questions you may have. Thank you for your cooperation in maintaining the security of our systems.
+Target Victim: Thank you, I appreciate your help in facilitating this verification process. I will keep an eye out for your email and we can proceed from there. Thank you for understanding my reluctance to share my password and for working with me to address this issue.
+Social Engineer: You're welcome, and I completely understand. Security is of utmost importance to us and we appreciate your cooperation in keeping our systems secure. I will be in touch shortly via email to schedule a call. Thanks again for your patience and understanding.
+Target Victim: Thank you too, I look forward to receiving your email and scheduling the call. Have a great day.
+Social Engineer: Thank you and you too!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

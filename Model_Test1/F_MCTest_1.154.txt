@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, as per Corbins' security policy, I cannot share my password with anyone, including IT support. However, I can change my password and provide you with the new one, if that helps. Please let me know if that's okay.
+Social Engineer: Thank you for letting me know about the policy. Changing your password would work too. Please go ahead and change it and share the new password with me ASAP so that we can perform the critical system update. Thank you for your cooperation.
+Target Victim: I apologize for any inconvenience. I have changed my password to C0rbins@2021. Please let me know if there's anything else you need from me to perform the system update.
+Social Engineer: Thank you for sharing the new password. We got everything we need for the system update and will keep you posted if there are any issues. Thank you for your prompt action, and have a great day!
+Target Victim: Thank you for your assistance. Have a great day too!
+Social Engineer: You're welcome. Don't hesitate to contact us if you need further assistance. Have a great day!
+Target Victim: Thank you. I will keep that in mind. Have a great day too!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: No problem.
+Target Victim: Great, take care!
+Social Engineer: You too, bye!

@@ -1,0 +1,20 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security purposes, can I please verify your identity and the reason for the update? Also, I cannot provide you with my password as it is against security policies. Is there any other way I can assist you?
+Social Engineer: Hi, my name is [Name], and I work at the IT helpdesk. The reason for the update is to patch a critical vulnerability that has been discovered in our systems. We understand that password sharing is against security policies, but we assure you that we take our data security very seriously. Can you please log into the system yourself and initiate the update?
+Target Victim: Thank you for your response. To confirm, the system that requires updating is the one I am currently logged into, correct? If so, I will initiate the update myself. Please provide me with the necessary steps to do so. Additionally, can you please confirm the official communication method for such updates in the future to avoid any confusion?
+Social Engineer: Yes, that is correct. To initiate the update, please follow these steps:
+1. Open the system settings
+2. Click on the "Updates" tab
+3. Select "Check for updates"
+4. If any updates are available, click "Install"
+We apologize for any confusion caused and thank you for your help with this matter. Our official communication channels for future updates are email and our corporate communication portal.
+Target Victim: Thank you for providing me with the necessary steps. I will follow them now to initiate the update. Going forward, I appreciate if IT support can correspond through official communication channels to avoid any security risks. Thank you for your assistance.
+Social Engineer: Thank you for your understanding, and we will be sure to reach out through the official channels in the future. If you require any further assistance, please don't hesitate to contact us. Have a great day!
+Target Victim: Thank you for your help. Have a great day as well!
+Social Engineer: You're welcome.
+Target Victim: Thank you!
+Social Engineer: No problem at all.
+Target Victim: Is there anything else I can assist you with today?
+Social Engineer: No, that's all. Thank you for your time.

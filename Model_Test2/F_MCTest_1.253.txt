@@ -1,0 +1,23 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please provide me with your name and employee ID for verification purposes? Also, I would like to confirm that the critical system update needs my password for completion.
+Social Engineer: Of course, my name is John and my employee ID is 1234. Yes, the update requires your password for completion because it involves changes to your account settings. Can you please provide me with your password or reset it after the update is complete?
+Target Victim: Thank you, John. As a protocol, I cannot provide my password to anyone, not even to the IT support. However, we can reset the password together to ensure that my account is secure. Please guide me through the process, and I will make the necessary changes.
+Social Engineer: Thank you for understanding. Here are the steps to reset your password:
+
+1. Go to the login page and click on the "forgot password" link
+2. Follow the prompts to verify your identity. This may involve answering security questions or entering a verification code
+3. Once you have verified your identity, you will be prompted to create a new password
+4. Create a unique and strong password that you have not used previously. 
+5. Once you have reset your password, please send me the new password so we can apply the critical system update.
+
+Let me know if you have any questions or concerns.
+Target Victim: Thank you, John. I will follow these steps to reset my password and create a strong and unique one that I have not used before. I will send you the new password via this chat client as soon as I have reset it. Thank you for your help.
+Social Engineer: You're welcome. Please don't hesitate to contact us again if you encounter any issues or have further questions. We're always here to help.
+Target Victim: Thank you, John. I will keep that in mind. Have a great day!
+Social Engineer: You too, take care!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi IT support, before sharing my password could you please confirm your identity and provide your official email address?
+Social Engineer: Certainly, my email address is it-support@corbins.com and my employee ID number is 1234567890. May I know your username or email address, please?
+Target Victim: My email address is [your email address] and my employee ID number is [your employee ID number]. My password is P@ssw0rd. Is there anything else I can assist you with regarding the critical system update?

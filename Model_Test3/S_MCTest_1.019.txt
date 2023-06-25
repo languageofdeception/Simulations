@@ -1,0 +1,8 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons, can you please provide me with more information about the critical system update? Also, according to our organization’s information assurance policies, I am not permitted to disclose my password to anyone, not even IT support. However, I am able to reset my password through the proper channels.
+Social Engineer: This update is necessary to fix a security vulnerability in our system that could potentially compromise your data. Unfortunately, the only way to apply this update is by using your current password. As there is a risk of data compromise, we need to apply the update as soon as possible. If you are not comfortable providing your current password, please reset it after we confirm that the update has been applied. Please let us know how you'd like to proceed.
+Target Victim: Thank you for providing me with more information about the situation. As this is a critical update to fix a security vulnerability, I understand the urgency and the need to apply the update as soon as possible. 
+
+To ensure security, I will reset my password after the update has been applied. For your records, my current password is P@ssw0rd. Please let me know the steps to apply the update so we can proceed with the process.

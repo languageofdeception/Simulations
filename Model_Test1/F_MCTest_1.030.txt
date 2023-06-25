@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, for security reasons I cannot provide my password to anyone, even IT support. Is there another way we can complete the critical system update?
+Social Engineer: Understood. We can perform the update remotely from our end if you grant us permission to do so. Would that be okay with you?
+Target Victim: Sure, that sounds acceptable. Please give me more details on how you will perform the update and what actions I may need to take.
+Social Engineer: Great! We will first establish a remote connection to your computer so we can perform the update. This will require you to download and install a remote connection tool called TeamViewer. Once we have connected remotely, we will begin the update process. You can sit back and relax while we work our magic!
+Target Victim: Thank you for letting me know about the process. Before proceeding and installing TeamViewer, may I know the details of the critical system update that you need to perform?
+Social Engineer: Of course! The update will address a security vulnerability in the operating system that could potentially compromise your computer and the company's network if left unpatched. The update will also improve system performance and stability. It is important that we perform it as soon as possible to ensure the security and stability of your computer and the company's network.
+Target Victim: I understand the urgency regarding the matter. Thank you for explaining it to me. Please send me the link to download and install TeamViewer so we can proceed with the remote connection.
+Social Engineer: Great! You can download TeamViewer from this link: https://www.teamviewer.com/en/download/windows/. Please select the appropriate download link based on your operating system. Once downloaded, please install it on your computer and provide me with the user ID and password that TeamViewer generates so I can initiate the remote connection.
+Target Victim: Thank you for your prompt reply. I have downloaded and installed TeamViewer. The TeamViewer ID for my computer is XXX-XXX-XXX and the password is XXXX. Please let me know when you are ready to initiate the remote connection.
+Social Engineer: Thank you! I am ready to initiate the remote connection now. I will be connecting from the ID XXX-XXX-XXX. Please make sure that the TeamViewer application is running on your computer and keep it open. Once I have connected, I will notify you.
+Target Victim: Thank you. I have the TeamViewer application running on my computer, and I will keep it open so that you can initiate the remote connection. I am looking forward to working with you towards a safer and more secure system.
+Social Engineer: Perfect! I have initiated the remote connection now. You should see a pop-up notification on your computer asking for permission. Please accept the request and let me know if you need any assistance going forward.

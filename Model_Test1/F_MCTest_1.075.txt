@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. For security reasons and company policy, I cannot disclose my password to anyone, even IT support. Is there any other way we can perform this critical system update without compromising my password?
+Social Engineer: Hi, thank you for prioritizing security. We can remotely assist you in performing the update while you remain logged in. Alternatively, we can reset your password for you to create a new one after the update is completed. Which option do you prefer?
+Target Victim: Thank you for your understanding. Resetting my password sounds like a good plan. Please proceed with resetting my password and assist me in creating a new one after the update is completed.
+Social Engineer: Sure, I will reset your password and provide you with a temporary one. Once the update is done, we'll guide you through creating a new password. Please give me a moment to reset your password.
+Target Victim: Great, I'll wait for your instructions. Thank you!
+Social Engineer: I've sent you an email with the temporary password. Please use it to log in, and then we can proceed with the update. Once you're logged in, please let me know, and we'll guide you through the process of creating a new password.
+Target Victim: Thank you. I have received the email with the temporary password. I will log in now and let you know once I am in.
+Social Engineer: Great! Once you're logged in, please go to the "Account Settings" page, select "Change Password," and follow the instructions to create a new password. Let me know if you have any trouble with the process, and I can assist you further.
+Target Victim: Thank you for the guidance. I have successfully logged in and changed my password. It was a straightforward process, and there weren't any issues. Thank you for your assistance!
+Social Engineer: You're welcome! I'm glad to hear everything went smoothly. If you have any other concerns or IT issues, don't hesitate to contact us for assistance. Have a nice day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you, take care!

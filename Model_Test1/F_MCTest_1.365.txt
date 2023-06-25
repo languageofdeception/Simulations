@@ -1,0 +1,39 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as an employee of Corbins, I understand the importance of maintaining the security of our systems and my personal data. For verification purposes, may I please have your name and employee ID number?
+
+Also, I must inform you that for security reasons, I am not authorized to provide my password to anyone, including IT support. How can I assist you with the update process without revealing my password?
+Social Engineer: My apologies for not introducing myself earlier. My name is John and my employee ID number is 123. I completely understand your concern about password security. Could you please reset your password through the system and provide me with temporary access? After the update, you can change it back to the new password of your choice.
+Target Victim: Thank you for providing your name and employee ID number. I appreciate your understanding about my password security concerns.
+
+Yes, resetting my password through the system and providing temporary access sounds like a safer and appropriate solution. Please guide me on the process of resetting my password. Also, please let me know what level of access will be granted to you, and how long the temporary access will be valid for.
+Social Engineer: Great, I appreciate your cooperation.
+
+To reset your password, please navigate to the system's login page and click on the "forgot password" option. Alternatively, you can contact the system administrator for assistance.
+
+The temporary access will only grant me the necessary permissions to perform the system updates. Once the update is complete, the temporary access will be revoked immediately. The access will be valid for a maximum of one hour.
+
+Please let me know once the temporary access is granted and the system update is complete. Thank you.
+Target Victim: Thank you for the detailed instructions on resetting my password. 
+
+I have successfully reset my password and I will provide you with the temporary access now to perform the necessary updates. Please confirm that you have received the temporary access and let me know once the system update is completed.
+Social Engineer: Thank you! I have received the temporary access, and I will perform the necessary updates now. I will let you know once the update is complete.
+
+Please be assured that the highest security standards will be followed, and your data will be safe during this process. Thank you for your cooperation.
+Target Victim: Thank you for performing the necessary updates while adhering to the highest security standards. I appreciate your dedication to keeping our systems secure.
+
+Please confirm once the system update is complete so I can change my password back to the new password of my choice.
+Social Engineer: You're welcome, and thank you for your cooperation too.
+
+The system update is complete, and you can change your password back to the new password of your choice now. Once again, thank you for your assistance in this matter, and please contact us if you have any questions or concerns in the future.
+Target Victim: Thank you for confirming that the system update is complete. I have successfully changed my password to a new secure password of my choice.
+
+I appreciate your help and dedication to ensuring the security of our systems, and I will not hesitate to contact you if I have any questions or concerns in the future.
+
+Thank you for your support, have a great day!
+Social Engineer: You're welcome, and thank you too! It was my pleasure to assist you, and please don't hesitate to reach out if you need any more help.
+
+Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: Thank you, take care!

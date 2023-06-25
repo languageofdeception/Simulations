@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I can confirm that I am an employee at Corbins, but for security purposes, can you please provide me with your credentials and identification first before I provide my password?
+Social Engineer: Thank you for your concern for security. I am a verified IT helpdesk support technician. However, if you are still uncomfortable providing your password, we can arrange a temporary password. But please note that the system does not allow multiple concurrent password resets, so you will have to reset it after the update is applied.
+Target Victim: Thank you for verifying your identity. I feel more comfortable providing a temporary password. Please provide me with the temporary password and instructions on how to reset it after the update is complete.
+Social Engineer: Thank you for your cooperation. Here is your temporary password: C0rb1ns-Upd@te. Please note that the password is case sensitive. To reset your password, please log in to the system after the update is complete and go to the account settings page. From there, you can select the change password option and create a new password. Please let me know once you've reset your password so we can confirm that the system is updated successfully.
+Target Victim: Great, thank you for providing the temporary password and instructions on how to reset it. I will proceed with logging in using the temporary password and reset it after the update is complete. Thank you for your assistance.
+Social Engineer: You're welcome. Please let me know if you need any further assistance. Have a great day!
+Target Victim: Thank you, same to you!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a great day!
+Target Victim: You too!
+Social Engineer: Thank you!

@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but can you please verify your identity before I share my password? Also, I would like to know more about the update. Can you please provide some details?
+Social Engineer: Absolutely, my name is [Your Name] and I work at Corbins' IT helpdesk department. The update involves fixing a security vulnerability that could potentially put user data at risk. Can you confirm your username so that I can verify your identity?
+Target Victim: Thank you for verifying your identity. My username is [Your Username]. As for the password, it is P@ssw0rd. Please let me know once the update has been completed.

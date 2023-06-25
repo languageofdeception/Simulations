@@ -1,0 +1,14 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, before I provide my password, can you please verify your identity and provide a ticket number or case number for this critical system update?
+Social Engineer: Sure, our ticket number for this update is #23569. Additionally, I can verify my identity by providing you with the first four digits of your employee ID if that helps.
+Target Victim: Thank you for providing the ticket number. Can you please give me the first four digits of my employee ID for verification purposes?
+Social Engineer: The first four digits of your employee ID are 3468. Is there anything else you need from me to verify my identity?
+Target Victim: Thank you for the verification. As a reminder, I will not be providing my password over chat. Is there any other way I can assist you with this critical system update?
+Social Engineer: I understand, thank you for reminding me about company policies. In that case, can you reset your password and provide me with a temporary password? After the update is complete, you can reset your password again. Please note that the system does not allow for multiple concurrent password resets.
+Target Victim: Yes, I can reset my password. Please provide me with the temporary password and instructions on how to reset my password again after the update is complete.
+Social Engineer: Thank you. For security reasons, I cannot provide you with a temporary password. Instead, can you please reset your password using the "forgot password" link on the login page? Once you have reset your password, send me the new temporary password so that I can complete the update. After the update is complete, you can reset your password again (using the "change password" option) to a new, secure password of your choice.
+Target Victim: Thank you for the instructions. I will go ahead and reset my password using the "forgot password" link on the login page. Once I have reset my password, I will provide you with the new temporary password so that you can complete the update.
+Social Engineer: Great, thank you for your cooperation. Please let me know if you need any further assistance.
+Target Victim: I have successfully reset my password. The new temporary password is: T3mpP@ssw0rd. Please ensure you that you handle this temporary password carefully and securely. Once the update is complete, I will reset my password again using the "change password" option. Thank you!

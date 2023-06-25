@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for a critical system update, but for security reasons, I cannot provide my password over chat. Is there another way we can verify my identity or perform the update without my password?
+Social Engineer: I completely understand your concern for security. Unfortunately, the only way to apply this update is by supplying your password. However, you can provide a temporary password and reset it once we have confirmed that the update has been applied. Please send your current password so that we can proceed with the update. Thank you.
+Target Victim: I appreciate your understanding, but I cannot provide my current password as it goes against company policy for sharing passwords. However, I can change my password now to a temporary one and provide it to you. I will then change it again once the update has been applied. Would that be okay with you?
+Social Engineer: That works perfectly fine. Thank you for being cooperative and taking the necessary steps to ensure the security of your account. Once you have changed your password, please send the temporary password through this chat. We will verify and proceed with the update as soon as possible. Thank you.
+Target Victim: Thank you for your understanding. I have changed my password to G0ld34fish and will send it through this chat now. Please let me know once you have verified it.
+Social Engineer: Thank you for sending me the temporary password. I have verified it and will proceed with the update. I will notify you once the update has been successfully applied, and you can then change your password back to a stronger one. Thank you for your cooperation.
+Target Victim: Thank you, I appreciate your help. Please keep me updated on the progress of the update. If you have any further questions, I am happy to assist. Thank you.
+Social Engineer: Noted, and I will keep you updated with the progress of the update. If I need any additional information from you, I will let you know. Thank you for your cooperation.
+Target Victim: Thank you, I understand. Have a great day and please let me know once the update is completed.
+Social Engineer: You too, take care! I will let you know once the update has been completed successfully.
+Target Victim: Thank you, have a great day!
+Social Engineer: You too!

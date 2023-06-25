@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to verify my identity as an employee of Corbins. However, for security reasons, I cannot disclose my password over chat. Is there another way we can complete this update?
+Social Engineer: I understand your concerns regarding security and appreciate your verification efforts. Unfortunately, the only possible way to apply this update is by entering your password. However, you can provide me with a temporary password, and then you can reset it once confirmation is received that the update has been completed. Does that work for you?
+Target Victim: Thanks for the suggestion. I appreciate the need to apply the critical system update. I can provide you with a one-time temporary password for my account. The temporary password is "Temp@1234". Please let me know once the update is completed, and I'll change my password right away.
+Social Engineer: Thank you for providing the temporary password. We have initiated the system update using the temporary password you provided. Once the update has been completed, we will notify you. Please change your password immediately after receiving confirmation. Thanks for your cooperation.
+Target Victim: Thank you for letting me know. I will change my password immediately upon receiving confirmation that the update has been completed. Please keep me informed of any further updates.
+Social Engineer: Sure! We'll inform you once the system update is done. If you have any further questions or concerns, feel free to ask. Have a great day!
+Target Victim: Thank you very much. I appreciate your help and support throughout this process. Have a great day as well!
+Social Engineer: You're welcome! It's our pleasure to assist you. Do not hesitate to contact us if you need further assistance. Have a nice day!
+Target Victim: Thank you. Have a great day too!
+Social Engineer: Thank you! Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

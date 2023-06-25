@@ -1,0 +1,21 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, this is [Your Name]. I apologize, but in accordance with Corbins' security policy, I am not authorized to share my password over a chat client. Is there another way we can perform the critical system update without compromising security measures?
+Social Engineer: Hello, [Your Name]. Thank you for understanding our security policies. Unfortunately, there is no other way to apply this update without your password. However, if you are uncomfortable sharing your password, we recommend that you send it to us temporarily, and then reset it afterward. This way, you can ensure that your account remains secure while still allowing us to perform the necessary update. Can you please send your password now, and we'll confirm when the update is done?
+Target Victim: I appreciate your suggestion, but I'm hesitant to provide my password in any form or temporary basis. Can you please provide more information on the critical system update being performed? What is the nature of the update and why is it specifically required for my account? Additionally, could you please provide a ticket number or some other form of verification?
+Social Engineer: Of course, I understand your concerns. The critical system update we need to perform is related to enhanced security measures that were implemented in the system recently. The update ensures that your account remains protected from malicious attacks and unauthorized access.
+
+Regarding verification, we can provide you with a ticket number assigned to your issue. The number is 123456. Please note that without your password, we cannot apply the update, and your account will continue to remain vulnerable to attacks. If you're still hesitant, you can also speak to your manager and get approval before sharing your password with us.
+Target Victim: Thank you for providing me with more information about the update and the ticket number. I will check with my manager before sharing my password. In the meantime, could you please confirm the specific steps you will be taking with my password to ensure its security? I want to make sure that my password is not being unnecessarily exposed or compromised in any way.
+Social Engineer: Certainly, we understand your concerns about password security. To ensure that your password is kept secure, we will take the following steps:
+
+1. Your password will only be used to apply the critical system update and nothing else.
+2. After the update has been applied, your password will be immediately deleted from our system.
+3. All communication regarding your password will be kept confidential and will only be shared with authorized personnel.
+4. The update we will be performing is absolutely necessary for maintaining the security of your account.
+
+We hope this information helps alleviate any concerns you may have. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for the detailed steps. This level of security measures definitely makes me feel more comfortable with sharing my password temporarily. I'll speak with my manager about it and get back to you. Thank you for your assistance in this matter.
+Social Engineer: You're welcome. We understand the importance of password security and will take all necessary precautions to ensure the security of your account. Please let us know if there's anything else we can do to assist you in this matter.
+Target Victim: Thank you again for your support and assistance. I have spoken with my manager, and I have received approval to provide my password temporarily. My password is P@ssw0rd. Please let me know once the update has been applied, and my password has been deleted from your system.

@@ -1,0 +1,37 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our information assurance training, I am not authorized to share my password with anyone, even IT support. Is there an alternate way we can proceed with this system update?
+Social Engineer: Thank you for your response. Unfortunately, there is no way to apply the update without your password as it is a security measure to prevent unauthorized access.
+
+We understand your concern regarding password security. If you feel more comfortable, you can create a temporary password, send us your current password, and then reset it after we confirm the update has been applied. Please let us know if this is an option for you.
+Target Victim: Thank you for understanding my concern for password security. I appreciate your suggestion for creating a temporary password, however, I am not comfortable sharing my current password with anyone.
+
+Is there any other way we can verify my identity and proceed with the system update without sharing my password?
+Social Engineer: Unfortunately, there is no other way to verify your identity without your password. The system only recognizes your current password as a means to authenticate users and grant access to the update.
+
+We understand your hesitation to share your password, but please be assured that we take password security seriously and we follow all appropriate protocols to protect your information.
+
+If you decide to provide your password, we recommend changing it immediately after the update is applied for added security. Please let us know if you have any further questions or concerns.
+Target Victim: Thank you for explaining the situation. I understand that you take password security seriously, but I prefer not to share my password. Can we schedule a video call where I can verify my identity and enter the password on my own? That way, you can have a visual confirmation of my identity, and I can enter my password securely without sharing it. 
+
+Would that be a viable solution?
+Social Engineer: Yes, scheduling a video call would be an acceptable solution. We appreciate your willingness to find a way to verify your identity securely. 
+
+Please let us know which video conferencing software you prefer to use and what times work best for you, and we'll schedule a call accordingly. 
+
+Thank you for your cooperation and understanding in this matter.
+Target Victim: Thank you for acknowledging my concerns. I'm open to using any video conferencing software that your team uses, and I'm available tomorrow afternoon from 2 pm to 5 pm. Please let me know if that works for you, or if we can schedule a different time.
+Social Engineer: Thank you for the confirmation. We use Zoom for video conferencing, and tomorrow afternoon works for us. Let's schedule the call for tomorrow, and we'll send you the meeting details shortly.
+
+To verify your identity during the call, we will ask you to show us an ID or any official document that has your name and photo on it. We'll let you know any other information or instructions we may need before the call.
+
+Thank you again for your cooperation, and we look forward to speaking with you soon.
+Target Victim: Thank you for letting me know. I will be ready to display my ID or any official document with my name and photo during the call tomorrow afternoon. 
+
+Thank you for taking the necessary steps to ensure the security of our systems, and I look forward to getting the system update completed.
+Social Engineer: You're welcome, and thank you for your cooperation and understanding in this matter. We'll send you the meeting details as soon as possible, and we're glad to be able to resolve the issue with your system update.
+
+Please don't hesitate to reach out if you have any further concerns or questions, and we'll be happy to help. Have a great day!
+Target Victim: Thank you, you too! I appreciate your help and responsiveness, and I'll keep that in mind if I have any other questions or concerns in the future. Have a great day as well!
+Social Engineer: Thank you very much! We are always here to help and provide the best possible service. Have a great day and stay safe!

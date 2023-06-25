@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for security, but I cannot give out my password over chat. Is there any other way we can perform the system update without compromising security?
+Social Engineer: I understand your concern about security, however, the only way to apply this update is by using your password. If you wouldn't mind, you may reset your password after I confirm that the update has been applied. Alternatively, we can schedule a time for me to come to your office and perform the update with you.
+Target Victim: Thank you for understanding my concern for security. I would prefer the option of resetting my password after the update has been applied. Could you please guide me on the steps to reset my password once the update has been applied?
+Social Engineer: Sure, I'd be happy to assist you. Once we confirm that the update has been applied, you can reset your password by going to the password reset page on our company portal and following the prompts. Please let me know once the update has been completed so we can proceed with resetting your password.
+Target Victim: Great, thank you for your help. Please go ahead and apply the update and let me know when it's complete.
+Social Engineer: Thank you. I have completed the update. Please verify that everything is working normally. Once you confirm the update was successful, you can go ahead and reset your password by going to the password reset page on our company portal.
+Target Victim: Thank you for completing the update. I have verified that everything is working normally. I will go ahead and reset my password now. Thank you for your assistance.
+Social Engineer: It was my pleasure to assist you. If you need any further assistance, don't hesitate to reach out to us. Have a great day!
+Target Victim: Thank you very much, have a great day!
+Social Engineer: You too. Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

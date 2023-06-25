@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates. However, I cannot provide my password over chat for security reasons. Is there any other way I can assist you with the update?
+Social Engineer: I completely understand your concern for security. Would it be possible for you to provide a temporary password that we can use for the update, and you can reset it after the update is complete? The system does not allow multiple concurrent password resets, so we cannot initiate a reset from our end. Thank you.
+Target Victim: Thank you for understanding. I appreciate you offering a solution. I can provide you with a temporary password that you can use for the update. The temporary password is Temp@P@ss. Once the update is complete, please notify me so I can reset my password to maintain security.
+Social Engineer: Thank you for providing us with the temporary password. We will start with the system update immediately and will notify you once it's completed. Please ensure to reset your password for security purposes as soon as possible. Thank you for your cooperation.
+Target Victim: Thank you for your prompt response. I appreciate your efforts in maintaining the security of our systems. I will make sure to reset my password as soon as I receive confirmation that the update is complete. Please let me know if you need any further assistance from my end.
+Social Engineer: You're welcome, and thank you for your cooperation. We will keep you updated throughout the update process, and please don't hesitate to reach out if you need any further assistance. Have a great day ahead!
+Target Victim: Thank you for your kind assistance. I'm always here to help. Have a great day too!
+Social Engineer: Thank you, I appreciate your cooperation, and have a great day ahead!
+Target Victim: Thank you, take care and have a great day too!
+Social Engineer: You too!
+Target Victim: Thank you!
+Social Engineer: You're welcome!

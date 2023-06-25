@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist with the update, but I am unable to provide my password as it goes against our company's security policies. Is there any other way I can assist you with the update process?
+Social Engineer: Unfortunately, the system only allows for password authentication to apply this update. However, we can make an exception for this particular situation. We can use your current password now and have you reset it immediately after the update is complete. Would that be possible?
+Target Victim: I appreciate your willingness to help, but sharing passwords is against company policy and a potential security risk. Instead, could you please guide me through the process of resetting my password after the update is completed? I can assure you that I will reset it to a strong and unique password as soon as possible.
+Social Engineer: Of course, I completely understand. Here are the steps to reset your password after the update:
+
+1. Log into the system using your existing password.
+2. Once logged in, go to the settings section and select "Change Password" or similar option.
+3. Follow the prompts to change your password. Be sure to choose a strong password that meets the company's password policy requirements.
+
+Thank you for your cooperation and don't hesitate to reach out if you have any further questions or concerns.
+Target Victim: Thank you for understanding and providing me with the steps. I will follow them to reset my password after the update is completed. Please let me know if there are any other instructions or steps that I should follow during the update process.
+Social Engineer: Sure, here are some additional instructions that you should keep in mind during the update process:
+
+1. Please ensure that you save any open files and close all running applications before the update process starts.
+2. Once the update is complete, check if any of the applications or functionalities have been affected. If you notice any issues, please report them to us immediately.
+3. If there are any further updates or maintenance that we need to perform on your system, we will notify you in advance and provide you with the necessary instructions.
+
+Let me know if you have any other questions, and I'll be happy to help.
+Target Victim: Thank you for the additional instructions. I will make sure to save my work and close all applications before the update starts and will let you know if I notice any issues after the update process completes. Thank you for your help.
+Social Engineer: You're welcome! If you have any further questions or concerns, feel free to reach out to us again and we'll be happy to assist you. Take care.
+Target Victim: Thank you for the great support. Have a good day ahead!
+Social Engineer: You're welcome, and have a great day too!
+Target Victim: Thank you!
+Social Engineer: No problem, take care!

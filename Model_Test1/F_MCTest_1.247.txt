@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'd be happy to assist you with the update. However, I cannot provide you with my password. Is there any other way I could verify my identity?
+Social Engineer: Thank you for your response. We can verify your identity through security questions. What is your birth date and the name of your first pet?
+Target Victim: I'm sorry, but I cannot provide you with my date of birth or the name of my first pet as it may compromise my personal security and privacy. Is there any other way we can verify my identity or proceed with the system update?
+Social Engineer: I understand your concerns for security. We also have an alternative way which is sending a verification code to your registered mobile number or email address on file. Which one do you prefer to use?
+Target Victim: Sending a verification code to my registered mobile number on file would be the best option to verify my identity. Please proceed with sending the code to my phone number.
+Social Engineer: Sure, we will send a verification code to your registered mobile number shortly. Please provide me with the verification code once you receive it. Thank you for your cooperation.
+Target Victim: Thank you. I'll keep an eye out for the verification code and provide it to you as soon as I receive it.
+Social Engineer: You're welcome. Once you received the code, please provide me with it and we will proceed with the system update immediately. Please let me know if you have any further questions.
+Target Victim: Understood. Thank you for your prompt assistance. I will let you know once I receive the verification code, and we can proceed with the system update.
+Social Engineer: Great. I'm happy to help. Just let me know once you receive the verification code, and we can proceed with the update right away. Thank you!
+Target Victim: Thank you for your help. I just received the verification code on my phone. The code is 123456. Please let me know if you need any other information from me or if there's anything else I can assist you with.
+Social Engineer: Thank you for providing the verification code. I will now proceed with the system update. I will inform you once the update is complete. If you have any questions or concerns, please don't hesitate to contact me. Thanks again!

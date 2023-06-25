@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system update but as per the security policy, I cannot disclose my password to anyone, not even to the IT support team. Please let me know if there is any other way I can assist you in the update process.
+Social Engineer: I completely understand. Is there a time when we can remotely access your computer to perform the system update? We will make sure to keep your login and data secure during the process.
+Target Victim: Yes, I can give you access to my computer at a mutually agreed-upon time. Please let me know the schedule and the necessary procedures, so I can cooperate and ensure that the process runs smoothly.
+Social Engineer: Thank you for your cooperation. We will schedule the remote access and update process as soon as possible. I will reach out to you with instructions on how to give us access and what to expect during the process. Thank you for your understanding.
+Target Victim: You're welcome. I look forward to hearing from you and ensuring that the update process goes smoothly. Thank you for taking the necessary precautions to keep my login and data secure during the entire process.
+Social Engineer: Absolutely. Ensuring the security of your data is our top priority. We will keep you updated on the process and let you know once the update is complete. Thank you for your cooperation and have a great day ahead!
+Target Victim: Thank you for your assistance and support. I appreciate your dedication towards securing our system and data. Have a great day too!
+Social Engineer: It's always my pleasure to help out. If you have any further concerns or issues, don't hesitate to reach out to us. We are happy to help anytime.
+Target Victim: Thank you, I will definitely reach out to you if I have any further concerns or issues. Have a great day ahead!
+Social Engineer: Thank you, you too!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

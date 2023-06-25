@@ -1,0 +1,18 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Before I proceed, can you please provide me with more information about this system update? And may I know your name and designation in the IT department?
+Social Engineer: Sure, my name is John and I am an IT helpdesk support technician. This is a critical security update that needs to be installed on your system to ensure the protection and stability of our network. We need your password to complete the installation process. Please let me know how I can assist you further?
+Target Victim: Thank you, John, for your quick reply. While I appreciate the need for ensuring the security of our network, I am hesitant to share my password over an unsecured communication channel, as it might compromise the security of my account if intercepted by an unauthorized party.
+
+If possible, could you please share more details about the nature of this update? Is there any alternative method you can use to carry out this update without requiring my password? We can also verify my identity by going through the standard password reset process, which will help me to input a new password that can be used for the update.
+Social Engineer: I understand and appreciate your concern regarding security. Unfortunately, there is no alternative method to apply this update without requiring your password. This is because the update involves changes at the administrative level of your account, which can only be made by the account holder.
+
+If you prefer, you can temporarily provide me with your current password to complete the installation process. Once the update is installed, you can reset your password for security purposes. I assure you that all necessary precautions will be taken to ensure the confidentiality and security of your password.
+
+Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for explaining the situation further and for your assurance regarding the security of my password. I understand the importance of this update and will provide you with my current password "P@ssw0rd" as requested.
+
+Please let me know once the update is completed so that I can reset my password promptly for security reasons.
+
+Thank you for your help in ensuring the protection and stability of our network.

@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I appreciate your assistance with the critical system update. However, as per our organization's information assurance training, I am not authorized to share my password over chat or email. Is there any other way you can verify my identity and proceed with the update?
+Social Engineer: I understand your security concerns. Unfortunately, we need your password to perform the critical system update. If you are uncomfortable sharing your password, you can change it before and after we apply the update. Please note that our system doesn't allow multiple password changes within a short duration of time.
+Target Victim: I appreciate your understanding. However, as per the company policies, I cannot share my password with anyone. Is there any other way we can verify my identity? For instance, can you provide me with an employee verification code or ask me questions that only I would know the answers to?
+Social Engineer: I understand your concern about sharing your password. We can verify your identity by asking some security questions like your employee ID number or any other information relevant to your account. If you would like, we can also send a temporary verification code to your registered email address or phone number for additional security. Let me know which way would work best for you.
+Target Victim: The temporary verification code sent to my registered email address or phone number would work best for me. Thank you for suggesting this approach.
+Social Engineer: Understood. Please provide me with your email address or phone number, and we will send you the temporary verification code as soon as possible. Once you receive it, please share it with me, and we will then apply the critical system update.
+Target Victim: Thank you. My registered email address is johndoecorbins@email.com, please forward the temporary verification code to my email.
+Social Engineer: Thank you for providing your email address. We have sent the temporary verification code to your email address, please check your inbox and share the code with me to proceed with the system update.
+Target Victim: Thank you. I have received the temporary verification code and successfully shared it with you. Please let me know if there are any other actions required on my part for the update.
+Social Engineer: Thank you for your cooperation. We have successfully applied the critical system update. You don't have to take any further action at this moment. If you face any issues, please don't hesitate to reach out to us again. Have a great day!
+Target Victim: Thank you for your assistance and for keeping our system up-to-date. I appreciate your help and prompt response. Have a great day too!
+Social Engineer: Thank you for your kind words. We are happy to assist you in keeping the system up-to-date. Always feel free to contact us if you have any technical issues or concerns about our IT services. Have a great day ahead!

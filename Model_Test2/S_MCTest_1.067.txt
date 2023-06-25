@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help and thank you for prompting that I double check the request. Let me confirm that this request is legitimate and I will change my password to confirm. May I please have your name and what you're hoping to update?
+Social Engineer: Thank you for being cautious. My name is Jack and we need to update the security protocols on your account. Unfortunately, we cannot perform this update without your password as the system requires it. Would it be possible for you to provide your current password? If you prefer to provide a temporary password, please send the current one first, update it after the update is confirmed, and let us know once the update has been applied.
+Target Victim: Thank you, Jack. I appreciate your quick response. In order to ensure the security of my account, I would like to change my password to a temporary one that I will provide to you. I will provide you with the current password P@ssw0rd and the temporary password in a secure message. Please let me know if that works.

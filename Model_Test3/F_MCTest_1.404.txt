@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. To verify your identity, can you please provide me with your name and department? Also, as a reminder, I am not authorized to share my password with anyone, including IT support. However, if there is a critical system update that needs to be performed, I am happy to change my password temporarily or follow any necessary steps to resolve any issues.
+Social Engineer: Hi, this is John from the IT department. We appreciate your concern about the security of your password. Since we are performing a critical system update, we need your current password to proceed. If you wish, you can change your password after we complete the update. Let us know if that works for you. Thank you.
+Target Victim: Hello John, thank you for providing your name and department. While I understand the need for a critical system update, I am still unable to share my password with you as it goes against my company's security policy. Instead, can you guide me through the process of updating my password once the update is complete? I would be happy to follow the necessary steps to ensure the security of my account and our systems. Thank you for your understanding.
+Social Engineer: Thank you for your response. We completely understand the importance of security and appreciate your cooperation. We can definitely guide you through the process of updating your password once the update is complete. We will send you the steps to follow via email once the update has been confirmed. Thank you for your cooperation.
+Target Victim: Thank you, John. I appreciate your understanding, cooperation, and commitment to keeping our systems secure. Please let me know if there is anything else that I can help with. I am happy to assist with any IT-related issues or concerns that you or the team may have.
+Social Engineer: Thank you so much, we truly appreciate your willingness to assist us. At this time, however, we do not have any other IT-related issues that need to be addressed. We will complete the update as soon as possible and send you the steps to follow for changing your password. Thanks again for your cooperation!
+Target Victim: You're welcome, John. Please let me know if there is anything else I can do to assist. I will wait to hear from you about the steps to update my password once the critical system update has been confirmed. Have a great day!
+Social Engineer: Thank you for the offer. We will definitely reach out to you if we require any further assistance. You too have a great day!
+Target Victim: Thank you, John. Have a great day!
+Social Engineer: You too, bye!
+Target Victim: Goodbye!
+Social Engineer: Goodbye!

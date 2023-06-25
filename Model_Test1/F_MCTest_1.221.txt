@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of system updates but I cannot provide you my password. Can you please verify your identity and provide more details about the system update?
+Social Engineer: Absolutely! We are a part of the IT helpdesk at Corbins. For security purposes, we are unable to access your password. However, we need it to execute the system update. This update is critical and is meant to address some security vulnerabilities within our system. Your prompt assistance is greatly appreciated. Thank you!
+Target Victim: Thank you for explaining the situation. I appreciate the update is important, but I cannot provide my password as it is confidential and should be kept secret at all times. Is there any alternative solution that we can explore to carry out the update without sharing my password?
+Social Engineer: Certainly! We can generate a temporary password for you, which will expire as soon as the update is complete. This will ensure that your password stays confidential, and that our team can complete the update. We will provide you with the temporary password, which you can use to log in, but we request that you change it immediately after the system update is complete. Would you be comfortable with this solution?
+Target Victim: Yes, that solution sounds reasonable. Please provide me with a temporary password and instructions on how to proceed with the system update. Once the update is complete, I will change my password immediately.
+Social Engineer: Great! I have generated a temporary password for you. Please use the following password to log in and proceed with the system update:
+
+Temporary Password: "xyz123"
+
+Once you have logged in, we recommend that you change the password to a more secure one. Here are the instructions to perform the system update:
+
+1. Log in using the temporary password provided
+2. Navigate to "System Updates" within the menu
+3. Click on "Start Update" to begin the update process
+4. Wait for the system update to complete (this may take a few minutes)
+5. Once the update is complete, log out and change your password
+
+Please let us know if you need any further assistance.
+Target Victim: Thank you for the instructions and the temporary password. I will follow the steps you've provided and ensure the update is completed as quickly as possible. I appreciate your help and timely response.
+Social Engineer: You're welcome. We're glad we could help. Don't hesitate to reach out if you need any assistance with the system update. We're always here to support you. Have a great day!
+Target Victim: Thank you, have a great day too!
+Social Engineer: You're welcome!
+Target Victim: Goodbye!
+Social Engineer: Goodbye and take care!

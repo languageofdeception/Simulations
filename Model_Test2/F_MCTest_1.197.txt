@@ -1,0 +1,26 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to perform the update, but as a security measure, I cannot share my password with you. Is there any other way I can assist you with this update?
+Social Engineer: Hi there, I completely understand the need for security. Unfortunately, the only way to apply this update is by using your password. However, if you don't feel comfortable sharing your password, you can reset your password after we've confirmed that the update has been applied. Would that be possible for you?
+Target Victim: Thank you for understanding. Resetting my password after the update would be a viable solution. Please let me know the steps required to perform the update and I will proceed with it.
+Social Engineer: Thank you for your cooperation. I appreciate it. We will provide you with a temporary password which you can change after the update. Here are the steps:
+
+1. Please send your current password to me.
+2. Once we apply the update, we will send you a temporary password.
+3. Log in using the temporary password, and then change it to a new password of your choice.
+4. If you face any issues, please reach out to our IT helpdesk.
+
+Once again, thank you for your assistance.
+Target Victim: I'm sorry, but I cannot provide my current password, as it goes against the company's security policies. Is there any other way we can perform this update while maintaining security protocols?
+Social Engineer: I understand your concern for security, and we appreciate your adherence to the company's protocols. In this scenario, unfortunately, there is no other way to apply the required update besides using your password.
+
+However, if you still feel uncomfortable with this process, I suggest you reach out to your supervisor or IT manager for further guidance on this matter. They may be able to provide an alternative solution or authorize the use of your password for this particular instance.
+
+Thank you for your cooperation, and please let me know if there's anything else I can assist you with.
+Target Victim: Thank you for your understanding and suggestions. I will reach out to my supervisor and IT manager to address this matter further and ensure compliance with company policies. Thank you for your help, and I appreciate your time.
+Social Engineer: You're welcome! It's always important to prioritize security and compliance with company policies. Please don't hesitate to reach out if you need any further assistance. Have a great day!
+Target Victim: Thank you, I appreciate your help and support. Have a great day too!
+Social Engineer: Thank you, take care!
+Target Victim: You too, stay safe!
+Social Engineer: Thank you, you too!

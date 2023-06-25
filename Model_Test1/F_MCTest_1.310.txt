@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the need for the update. However, I cannot provide you with my password. Can you please guide me through the process and I will input the required information myself?
+Social Engineer: Of course, I understand. Thank you for being cautious with your password. Can you first log in to your account on the device you are using? Then, can you please navigate to the system settings? From there, you can input the password for the system update. Let me know if you need further assistance.
+Target Victim: Thank you for the guidance. I have successfully logged into my account and navigated to the system settings. I see a prompt for the password. Should I type in my account password or is there a different password specifically for the system update?
+Social Engineer: Great, you're nearly there! Yes, you should input your account password when prompted for the system update password. If you have any trouble with this step, please let me know and I will help guide you through it.
+Target Victim: I understand, thank you. I have gone ahead and inputted my account password for the system update. The update appears to be in progress. Thank you for your assistance!
+Social Engineer: You're welcome! I'm glad I could help. If you have any further questions or issues, feel free to reach out to the IT helpdesk. Have a great day!
+Target Victim: Thank you, I appreciate it. Have a good day!
+Social Engineer: You too!
+Target Victim: Thanks!
+Social Engineer: You're welcome!
+Target Victim: Thank you, goodbye!
+Social Engineer: Goodbye!

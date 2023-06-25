@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, as per information assurance training, it's not a good practice to share credentials over chat. However, I can reset my password and provide you with a temporary one if that helps. Please let me know what the process is for resetting my password.
+Social Engineer: Understandable. In this case, please reset your password and send me the temporary password once it's set. To reset your password, please follow these steps:
+1. Go to the login page
+2. Click on "Forgot Password"
+3. Follow the prompts to reset your password
+Please let me know if you face any issues. Thanks.
+Target Victim: Thank you for providing the instructions. I have followed them and reset my password. The temporary password is TmpP@ssw0rd. Please let me know if there's anything else that I can assist you with.

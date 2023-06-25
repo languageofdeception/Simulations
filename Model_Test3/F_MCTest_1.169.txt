@@ -1,0 +1,25 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thanks for the message. Before I provide my password, could you please confirm your identity and the reason why you require my password for the critical system update? This is in line with our information assurance training and security protocols to prevent any possible unauthorized access to our system.
+Social Engineer: Understood. This is a system-wide update that requires user input. We sent out a notification regarding this update earlier this week. To confirm my identity, my name is James and I am a member of the IT helpdesk team at Corbins. Can you please provide your password so we can proceed with the update?
+Target Victim: Thank you for the confirmation, James. However, in accordance with IT security protocols, I cannot provide my password to anyone via chat, email, or over the phone. Instead, could you please guide me through the update process so that I can input my password when required? This will help to ensure the security of our system and prevent any unauthorized access.
+Social Engineer: I understand your concerns. Unfortunately, the system update is designed to only allow user input from the login screen. The only way for us to proceed with the update is to use your password for authentication purposes. If you are uncomfortable providing your current password, we can suggest that you reset it back to your original or preferred password after we have updated the system. This will ensure that there is no unauthorized access without your knowledge.
+Target Victim: I appreciate your suggestion, but I still cannot provide my password. Can you please provide me with more information on the update? Specifically, can you provide me with the details of the notification that was sent out earlier this week? Additionally, can you confirm the specific steps that will be taken during the update and if there are any other authentication measures that can be used besides my password? This will help me to verify the authenticity of the update and understand the risks associated with providing my password.
+Social Engineer: I understand and respect your concerns over security protocols. Regarding the update, it is a critical security patch that addresses a vulnerability that was identified after a comprehensive internal security audit. This patch will prevent any potential data breaches and cyber attacks on the system. The notification that was sent out earlier this week provides detailed instructions on the update process, including the date and time of the update and the specific steps that will be taken. Unfortunately, the update process requires user input from the login screen, and the password is the only authentication measure available. 
+
+We take security very seriously at Corbins and understand that password security is crucial. We recommend that you take steps to ensure the security of your password, including keeping it confidential and changing it frequently. If you are still uncomfortable providing your password, we recommend that you reset it immediately after the update is completed.
+Target Victim: Thank you for providing me with the necessary information. Based on your explanation, I understand the importance of the system update and the potential risks associated with not performing it. As such, I am willing to provide my password to assist with the update. However, please note that this is only an exception to the standard protocol, and I appreciate your commitment to security.
+
+For authentication purposes, can you please provide me with a verification code or token that I can use during the update process? Additionally, could you please confirm that my password will be kept confidential and only used for the update process?
+Social Engineer: Thank you for your understanding. I will provide you with a verification code that you can use during the update process. Additionally, your password will be kept strictly confidential and only used for the update process. 
+
+The verification code is "Update123". Please use this code when prompted during the update process, and ensure that your password is kept confidential.
+
+Thank you for your cooperation in this matter. Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for the verification code and for confirming the confidentiality of my password. I will proceed with the system update using the verification code provided. If I have any further questions or concerns, I will not hesitate to reach out to you or the IT helpdesk team. Thank you for your prompt assistance.
+Social Engineer: You're welcome. We're always happy to help. Please feel free to reach out to us if you require any further assistance or have any questions. 
+
+Thank you for your cooperation, and have a great day!
+Target Victim: Thank you very much, James. I appreciate your help. Have a great day too!
+Social Engineer: You're welcome! Don't hesitate to contact us again if you need any further assistance. Have a great day!

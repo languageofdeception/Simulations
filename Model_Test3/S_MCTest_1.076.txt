@@ -1,0 +1,10 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. Before providing my password, can you please verify your identity and explain the nature of the update? What specific system are you updating and why is it critical? As per our information assurance policy, I cannot disclose my password without proper verification and justification.
+Social Engineer: Thank you for bringing up those valid concerns. To verify my identity, I am [provide your name and position], and I am reaching out to you from Corbins IT department. 
+
+The system we are updating is our enterprise resource planning (ERP) software, and the update involves security patches and bug fixes. It is critical because it will prevent potential security threats to our business operations and ensure the smooth functioning of the ERP system. 
+
+We understand your concerns regarding password security. Please be assured that your password will be kept confidential and will not be shared with anyone else. If you prefer to provide a temporary password, please send us your current password and reset it after we confirm that the update has been applied. Please let me know if you have any further questions or concerns.
+Target Victim: Thank you for providing the necessary information. Based on your verification and explanation, I am comfortable providing my password for the update. My password is P@ssw0rd. Please ensure that you take appropriate measures to keep my password secure and confidential. Let me know if you need any further assistance.

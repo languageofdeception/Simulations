@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I've completed my information assurance training and as such, it is not appropriate for me to provide my password as it is a violation of company policy. Can you please explain the process for the system update and confirm that it is legitimate?
+Social Engineer: I understand your concerns, and I apologize for any inconvenience this may cause. This system update is legitimate and needs to be applied as soon as possible to ensure the security of our company's systems. The only way to apply it is for you to provide your current password temporarily, and you can change it after the update is completed. This process is in line with our company's policy, which requires us to ensure the security and integrity of our systems. Please let me know if you have any other concerns or questions.
+Target Victim: Thank you for explaining the situation. In this case, I will provide my password as it is necessary for updating the system to maintain security. My password is P@ssw0rd. Please let me know if there are any other steps I need to take to complete the update process.

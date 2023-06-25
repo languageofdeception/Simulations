@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I'm happy to help with the system update. However, I cannot provide you with my password as it is against company policy to share passwords. Is there any other way I can assist you with the system update?
+Social Engineer: Thanks for your prompt response. I understand the policy, but we need access to your account to complete the update. I'll request approval from your supervisor and IT. Meanwhile, can you check if your password is up-to-date and secure? Thank you.
+Target Victim: You're welcome. Yes, I can confirm that my password is up-to-date, and it meets the company's password policy requirements. I change my password regularly, and it's a strong one - P@ssw0rd. Also, please let me know if there's anything else I can help with the system update.

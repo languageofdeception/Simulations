@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. As per our company's information assurance policies, I am not authorized to give out my password to anyone, even IT support. Can you please provide me with more details about the critical system update?
+Social Engineer: Sure, I understand your concerns. The update is a security patch that needs to be applied immediately to prevent any system vulnerabilities. Unfortunately, the only way to apply this update is through the use of your password. If you prefer, you can provide a temporary password and then reset it afterward. Please let me know how you would like to proceed.
+Target Victim: Thank you for explaining the urgency of the situation. In light of that, I would prefer to provide a temporary password that can be used for the update and then reset afterwards. Please let me know the steps I need to follow to provide the temporary password.
+Social Engineer: Great, thank you. Please send us your current password as the temporary password, and then you can reset it immediately after we confirm the update has been applied successfully.
+Target Victim: I apologize, but I cannot follow that instruction. My current password should not be shared with anyone, nor can it be reused as a temporary password. Is there another option you can recommend?
+Social Engineer: I understand your concern. In this case, I can arrange a call with you to discuss further and provide additional security measures to ensure there are no password compromises. Please let me know if this is suitable for you.
+Target Victim: That sounds like a great solution. Please let me know what date and time work best for you, and I will arrange my schedule to accommodate the call. Additionally, please provide the extension number I should call.
+Social Engineer: Great, thank you. How about tomorrow at 11:00 AM Eastern Time? I will provide you with the extension number and details once I have confirmed with our support team.
+Target Victim: That works fine for me. Thank you for taking the time to ensure the security of our system. I look forward to hearing from you with the extension number and details.
+Social Engineer: You're welcome. We take security seriously, and we appreciate your cooperation. I will send you an email with all the details shortly. Have a great rest of the day.
+Target Victim: Thank you, and you too. I will keep an eye out for the email and follow-up on the details with you as needed.
+Social Engineer: Great, thank you. I will be available to assist you with any questions. Have a good day!

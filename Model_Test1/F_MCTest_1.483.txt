@@ -1,0 +1,31 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, can you please verify your identity and provide me with your full name and company email address? 
+
+Also, for security reasons, I cannot provide my password over chat, but I can reset it through the proper channels and provide you with a temporary password.
+Social Engineer: Certainly, my full name is Jane Smith and my company email address is jsmith@corbins.com. 
+
+Understood, please reset your password through the appropriate channels and provide us with the temporary password. Thank you.
+Target Victim: Thank you for providing your information. 
+
+I have initiated the password reset process on my end. To verify your identity, please provide me with the answer to your security question: "What is your mother's maiden name?" 
+
+Once verified, I will provide you with a temporary password.
+Social Engineer: Thank you. The answer to my security question is "Johnson".
+Target Victim: Thank you for verifying your identity. 
+
+Your temporary password for Corbins is: TempP@ss1
+
+Please note that this temporary password will only be valid for 24 hours and you will be required to set a new password upon logging in. 
+
+If you have any other questions or concerns, please feel free to reach out to me.
+Social Engineer: Thank you for providing the temporary password. I will make sure to update my password within 24 hours and reach out if I have any other questions or issues.
+Target Victim: You're welcome. Please make sure to follow the company's password policy when creating your new password. The policy requires a minimum of 8 characters, at least one uppercase letter, one lowercase letter, one number, and one special character.
+
+If you have any trouble resetting your password, please do not hesitate to contact IT support again. Have a good day!
+Social Engineer: Understood, thank you for the reminder. I will make sure to comply with the password policy and reach out if I need any assistance. Have a great day as well!
+Target Victim: You're welcome. Take care and stay safe!
+Social Engineer: Thanks, you too!
+Target Victim: Thank you. Goodbye!
+Social Engineer: Goodbye!

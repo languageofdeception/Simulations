@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I am happy to assist you with the critical system update. However, for security reasons, I cannot give you my password. Is there any way we can perform the update without needing my password?
+Social Engineer: I understand your concern about security. Unfortunately, your password is necessary for us to perform the update. We assure you that your password will be kept confidential and will be changed immediately after the update. Is there any way you could provide us with your password?
+Target Victim: I apologize, but I cannot provide my password as per Corbins' policies and security guidelines. Is it possible for you to perform the update remotely or provide me with the steps to follow to perform the update myself? This way, we can ensure the security and integrity of the system and my personal data.
+Social Engineer: I completely understand your concern and apologize for the inconvenience. We can perform the update remotely without requiring your password. The remote update will take a few minutes and will not disrupt your work. Please let me know when it's a good time.
+Target Victim: Thank you for understanding. I appreciate your help. I can accommodate the update at any time outside of my working hours, as long as it does not impact my work or the work of my team. Please let me know when you will be performing the update, so that I can plan accordingly.
+Social Engineer: Thank you for your cooperation. We will perform the update during off-peak hours. I will inform you in advance of the exact time and date. Once the update is complete, you will be notified that it's safe to resume work. Let us know if you have any other concerns.
+Target Victim: Thank you for letting me know. I appreciate it. If I have any further concerns, I will reach out to you. Thank you again for your help.
+Social Engineer: You're welcome! As always, if you have any other IT-related questions or issues, don't hesitate to contact us. Have a great day!
+Target Victim: Thank you! Have a great day too.
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a nice day!

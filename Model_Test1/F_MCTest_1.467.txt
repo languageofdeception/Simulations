@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, as an employee of Corbins, I understand the importance of security and protecting sensitive information. As a best practice, I cannot share my password with anyone, even IT support. Is there any other way we can perform the critical system update without compromising security?
+Social Engineer: Thank you for your concern about security. You are correct that sharing passwords should always be avoided. We have an alternative solution, we can reset your password and then provide it to you over the phone. Is that okay with you?
+Target Victim: Yes, that sounds like a much better solution. Please reset my password and let me know the new password via phone call. Thank you for your attention to security.
+Social Engineer: Thank you for understanding and prioritizing security. We will reset your password and provide you with the new password over the phone shortly. Is there anything else I can assist you with?
+Target Victim: No, that's all for now. Thank you for your help.
+Social Engineer: You're welcome. Have a great day!
+Target Victim: Thank you, you too!
+Social Engineer: Thank you!
+Target Victim: You're welcome.
+Social Engineer: Goodbye!
+Target Victim: Goodbye!
+Social Engineer: Take care.

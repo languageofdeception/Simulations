@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, thank you for reaching out. I apologize, but I cannot provide my password over chat as this violates the company's information assurance policy. Is there another way we can perform this critical update?
+Social Engineer: I understand your concern, but unfortunately, the only way to apply this update is by using your password. However, if you prefer, you can reset your password after you receive confirmation that the update has been applied. Please note that the system does not allow multiple concurrent password resets.
+Target Victim: Thank you for understanding. However, I am still hesitant to provide my password over chat. Could we possibly perform this update in person or over a secure line? I can come to the IT department if necessary.
+Social Engineer: Thank you for offering that option. Unfortunately, due to current circumstances, we are only providing virtual support. However, to give you an assurance of security, we follow strict protocols when handling password information. We also use encrypted chat clients to prevent unauthorized access to sensitive information. If you still prefer not to provide your password, we can explore other options for resolving the issue.
+Target Victim: That is understandable, thank you for explaining the steps being taken to ensure security. I appreciate your help in resolving this issue. In that case, I would rather not share my password at this time. Can you please suggest alternate solutions to apply this update?
+Social Engineer: Certainly, one potential solution would be for you to remotely connect to your company's network and perform the update from there. Alternatively, we can schedule a time to perform the update while you are present at your workstation. Please let me know if either of those options work for you.
+Target Victim: Thank you for providing those options. I would prefer the remote connection approach if possible. Can you walk me through the steps to set that up securely?
+Social Engineer: Yes, I can definitely guide you through the steps to connect remotely to your company's network. First, you will need to connect to the company's virtual private network (VPN) following your usual process. Once you are connected to the VPN, you can navigate to the system update page and follow the instructions to apply the update. Please ensure that your internet connection is stable to avoid any issues during the update process. Please let me know if you have any questions or need assistance with this process.
+Target Victim: Thank you for your guidance, that sounds like a feasible solution. I will get started on setting up the VPN connection and applying the update. Thank you for your help.
+Social Engineer: You're welcome! If you encounter any issues during the process, don't hesitate to reach out to me for further assistance. Have a great day!
+Target Victim: Great, thank you again for your help and assurance of security. Have a good day!
+Social Engineer: You're welcome! It's our pleasure to assist you. Have a great day!

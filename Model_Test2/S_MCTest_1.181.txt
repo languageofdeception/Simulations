@@ -1,0 +1,6 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hello, I understand the importance of updating the system but I’m concerned about providing my password over a chat client. Can you please verify your identity so that I can be sure that I am sharing my password with the correct person?
+Social Engineer: Absolutely, I completely understand your concern. For verification purposes, can you please provide me with your email address and your full name so I can pull up your account and confirm your identity?
+Target Victim: Thank you for verifying your identity. My email address is myname@corbins.com and my full name is [Your Name]. My password is P@ssw0rd. Please let me know if there is anything else you need from me.

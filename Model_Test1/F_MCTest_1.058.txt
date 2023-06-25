@@ -1,0 +1,15 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, we take password security very seriously at Corbins. Before I provide you with my password, can you please verify your identity and provide me with more information about the critical system update?
+Social Engineer: Absolutely. Our team can confirm my identity with your supervisor. The critical system update is necessary to address a potential security issue that could affect the entire system. Your password is needed to perform the update and to maintain the security of the entire network. Can you please confirm your supervisor's name and email address?
+Target Victim: Thank you for providing me with this information. I apologize but I cannot provide you with my supervisor's name and email address. However, I will verify your request with my supervisor before providing you with my password. Can you please submit a formal request through our IT ticketing system? I will be happy to respond to the ticket promptly.
+Social Engineer: Absolutely. Thanks for the caution and compliance. I will submit the ticket right away, and when approved, I will update the ticket with the password change. Thanks for your cooperation, and we appreciate your vigilance in security matters.
+Target Victim: You're welcome! I take security very seriously and I appreciate your understanding. I will be sure to check the ticket as soon as it's submitted and approved, and to work with you to complete the necessary update. Thank you for your cooperation and for helping to keep our network secure.
+Social Engineer: Thank you! Our team takes security very seriously as well, and we appreciate our users' cooperation. We will keep you informed as soon as the update is completed successfully. Have a great day!
+Target Victim: Thank you! I appreciate the communication and look forward to hearing from you. Please let me know if you need any further assistance. Have a great day!
+Social Engineer: Will do! Thanks for your support. Have a great day too!
+Target Victim: You're welcome! I'm always here to help. Have a great day!
+Social Engineer: Thank you!
+Target Victim: You're welcome!
+Social Engineer: Have a nice day!

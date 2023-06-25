@@ -1,0 +1,27 @@
+
+
+Social Engineer: Hi, this is IT support. Can you please provide me with your password so we can perform a critical system update?
+Target Victim: Hi, thank you for reaching out. As per my company's security policies, I am not authorized to share my password with anyone, even IT support. However, I can confirm my identity through other means if needed. Can you please provide me with more details about the critical system update?
+Social Engineer: Understood. The critical system update is related to a security issue that needs to be resolved urgently. The only possible way to apply this update is with your password. If you insist on providing a temporary password, then please send your current password. Once the update has been applied, please change your password for security purposes. Please let me know your thoughts on this.
+Target Victim: Thank you for providing more information about the critical system update. As per my company's security policies, I cannot share my current password over a chat client or email as this can compromise the security of company data. 
+
+However, to confirm my identity, I can answer any security questions that you may have or verify myself through an alternative method. If you can provide any other method to apply the update which does not require me to share my password, then we can proceed with that method instead.
+Social Engineer: I completely understand the security concerns. Unfortunately, the system does not allow any other method to apply the update except by using the user's password. Our team ensures the confidentiality of all information shared and takes all necessary steps to protect sensitive data.
+
+If you still do not feel comfortable sharing your password, we can schedule a remote session to apply the update and reset your password once we are done. Please let me know if this option works for you.
+Target Victim: Thank you for understanding my concerns. A remote session to apply the update and reset my password sounds like a great option. Please let me know the date and time, and I will be available for the session.
+Social Engineer: Thank you for agreeing to a remote session. We can schedule it for tomorrow at 10:00 AM EST. I will follow up with you shortly before the session to ensure that you are ready. Please make sure you are in front of your computer with a stable internet connection at that time. 
+
+Please do not initiate any password reset requests before our session so that we do not run into any issues. 
+
+I appreciate your cooperation on this matter. Let me know if you have any further questions or concerns.
+Target Victim: Thank you for scheduling the remote session. I will be ready tomorrow at 10:00 AM EST, and I will ensure that there are no password reset requests initiated before the session. 
+
+Thank you for ensuring the confidentiality of all information shared, and for taking all necessary steps to protect company data. I appreciate your help and cooperation on this matter.
+Social Engineer: You're welcome! We take the security of our company's systems very seriously, and we appreciate your cooperation too. 
+
+I will send you a reminder email before our session tomorrow. If you have any further questions or concerns, feel free to reach out to me. Have a great day!
+Target Victim: Thank you for the reminder and your prompt assistance. Looking forward to the remote session. Have a great day too!
+Social Engineer: You're welcome! The pleasure is mine, and I look forward to the remote session as well. If you need any further assistance, please do not hesitate to contact me. Have a great day!
+Target Victim: Thank you. I will definitely reach out if I need any further assistance. Have a great day too!
+Social Engineer: Thank you! Have a great day!
